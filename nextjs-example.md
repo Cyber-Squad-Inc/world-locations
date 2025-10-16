@@ -4,13 +4,13 @@
 
 ```bash
 # Using pnpm (recommended)
-pnpm add @applygoal/world-locations
+pnpm add @cyber_squad_inc/world-locations
 
 # Or using npm
-npm install @applygoal/world-locations
+npm install @cyber_squad_inc/world-locations
 
 # Or using yarn
-yarn add @applygoal/world-locations
+yarn add @cyber_squad_inc/world-locations
 ```
 
 ## Usage in Next.js App Router
@@ -19,7 +19,7 @@ yarn add @applygoal/world-locations
 
 ```typescript
 // app/page.tsx
-import { getCountries, getStates, getCities } from '@applygoal/world-locations';
+import { getCountries, getStates, getCities } from '@cyber_squad_inc/world-locations';
 
 export default async function HomePage() {
   const countries = getCountries();
@@ -101,7 +101,7 @@ export default async function HomePage() {
 'use client';
 
 import { useState, useEffect } from 'react';
-import { getCountries, getStates, getCities } from '@applygoal/world-locations';
+import { getCountries, getStates, getCities } from '@cyber_squad_inc/world-locations';
 
 interface Country {
   name: string;
@@ -215,7 +215,7 @@ export default function CountrySelector() {
 ```typescript
 // app/api/countries/route.ts
 import { NextResponse } from 'next/server';
-import { getCountries, getCountry, getStates, getCities } from '@applygoal/world-locations';
+import { getCountries, getCountry, getStates, getCities } from '@cyber_squad_inc/world-locations';
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -255,7 +255,7 @@ import type {
   CountrySummary, 
   State, 
   City 
-} from '@applygoal/world-locations';
+} from '@cyber_squad_inc/world-locations';
 
 // Use the types in your components
 const country: Country = getCountry('US');
@@ -273,7 +273,7 @@ If you're using pnpm workspaces, you can link the package locally:
 pnpm link --global
 
 # In your Next.js project
-pnpm link --global @applygoal/world-locations
+pnpm link --global @cyber_squad_inc/world-locations
 ```
 
 This allows you to develop and test changes locally without publishing to npm.

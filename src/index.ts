@@ -1,13 +1,10 @@
 import * as fs from "fs";
 import * as path from "path";
+import * as zlib from "zlib";
 import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const outDir = path.resolve(__dirname, "../out");
-
-function readJSON<T>(file: string): T {
-    return JSON.parse(fs.readFileSync(file, "utf-8"));
-}
+const dataPath = path.resolve(__dirname, "../out/world-locations.full.json.gz");
 
 export interface City {
     id?: number;
@@ -72,7 +69,27 @@ export interface CountrySummary {
 }
 
 export interface WorldData {
+    dataVersion: string;
     countries: Country[];
+}
+
+let cache: WorldData | null = null;
+
+function readData(): WorldData {
+    if (!cache) {
+        const buffer = fs.readFileSync(dataPath);
+        const json = zlib.gunzipSync(buffer).toString("utf-8");
+        cache = JSON.parse(json) as WorldData;
+    }
+    return cache;
+}
+
+/**
+ * Get the data version of the world locations dataset
+ * @returns ISO date string of when the data was generated
+ */
+export function getDataVersion(): string {
+    return readData().dataVersion;
 }
 
 /**
@@ -80,27 +97,23 @@ export interface WorldData {
  * @returns Array of country objects with basic info
  */
 export function getCountries(): CountrySummary[] {
-    const dir = path.join(outDir, "countries");
-    const files = fs.readdirSync(dir).filter(f => f.endsWith(".json"));
-    return files.map(file => {
-        const data = readJSON<Country>(path.join(dir, file));
-        return {
-            name: data.name.common,
-            officialName: data.name.official,
-            iso2: data.iso2,
-            iso3: data.iso3,
-            numericCode: data.numericCode,
-            phoneCode: data.phoneCode,
-            flag: data.flagRect,
-            flagRound: data.flagRound,
-            capital: data.capital,
-            region: data.region,
-            subregion: data.subregion,
-            tld: data.tld,
-            currencies: data.currencies,
-            timezones: data.timezones
-        };
-    });
+    const world = readData();
+    return world.countries.map(data => ({
+        name: data.name.common,
+        officialName: data.name.official,
+        iso2: data.iso2,
+        iso3: data.iso3,
+        numericCode: data.numericCode,
+        phoneCode: data.phoneCode,
+        flag: data.flagRect,
+        flagRound: data.flagRound,
+        capital: data.capital,
+        region: data.region,
+        subregion: data.subregion,
+        tld: data.tld,
+        currencies: data.currencies,
+        timezones: data.timezones
+    }));
 }
 
 /**
@@ -109,11 +122,16 @@ export function getCountries(): CountrySummary[] {
  * @returns Complete country object with states and cities
  */
 export function getCountry(iso2: string): Country {
-    const file = path.join(outDir, "countries", `${iso2.toUpperCase()}.json`);
-    if (!fs.existsSync(file)) {
+    const world = readData();
+    const country = world.countries.find(
+        c => c.iso2.toUpperCase() === iso2.toUpperCase()
+    );
+    
+    if (!country) {
         throw new Error(`Country ${iso2} not found`);
     }
-    return readJSON<Country>(file);
+    
+    return country;
 }
 
 /**
@@ -182,6 +200,7 @@ export function getCountriesBySubregion(subregion: string): CountrySummary[] {
 
 // Default export with all functions
 export default {
+    getDataVersion,
     getCountries,
     getCountry,
     getStates,

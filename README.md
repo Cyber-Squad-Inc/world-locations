@@ -1,7 +1,25 @@
 
-# 🌍 @applygoal/world-locations
+<p align="center">
+  <img src="https://github.com/Cyber-Squad-Inc/assets/blob/main/logo.png" width="120" />
+</p>
 
-A complete offline world dataset (countries, states, cities) with flags, phone codes, and ISO codes.
+<h1 align="center">🌍 @cyber_squad_inc/world-locations</h1>
+
+<p align="center">
+  Complete offline world dataset with countries, states, and cities — maintained by <b>Cyber Squad Inc</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@cyber_squad_inc/world-locations">
+    <img src="https://img.shields.io/npm/v/@cyber_squad_inc/world-locations.svg?style=flat-square" alt="npm version" />
+  </a>
+  <a href="https://github.com/Cyber-Squad-Inc/world-locations">
+    <img src="https://img.shields.io/github/stars/Cyber-Squad-Inc/world-locations.svg?style=flat-square" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/Cyber-Squad-Inc/world-locations/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT License" />
+  </a>
+</p>
 
 ## ✨ Features
 
@@ -20,7 +38,7 @@ A complete offline world dataset (countries, states, cities) with flags, phone c
 ## 📦 Install
 
 ```bash
-npm install @applygoal/world-locations
+npm install @cyber_squad_inc/world-locations
 ```
 
 ## 🚀 Usage
@@ -28,7 +46,7 @@ npm install @applygoal/world-locations
 ### Basic Usage
 
 ```javascript
-import { getCountries, getCountry, getStates, getCities } from '@applygoal/world-locations';
+import { getCountries, getCountry, getStates, getCities } from '@cyber_squad_inc/world-locations';
 
 // Get all countries (lightweight list)
 const countries = getCountries();
@@ -80,7 +98,7 @@ import {
   searchCountries, 
   getCountriesByRegion, 
   getCountriesBySubregion 
-} from '@applygoal/world-locations';
+} from '@cyber_squad_inc/world-locations';
 
 // Search countries by name
 const results = searchCountries('united');
@@ -110,7 +128,7 @@ console.log(scandinavianCountries);
 ### Default Import
 
 ```javascript
-import worldLocations from '@applygoal/world-locations';
+import worldLocations from '@cyber_squad_inc/world-locations';
 
 const countries = worldLocations.getCountries();
 const usa = worldLocations.getCountry('US');
@@ -190,4 +208,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-If you have any questions or need help, please open an issue on [GitHub](https://github.com/applygoal/world-locations/issues).
+If you have any questions or need help, please open an issue on [GitHub](https://github.com/Cyber-Squad-Inc/world-locations/issues).

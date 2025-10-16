@@ -1,7 +1,7 @@
 {
-  "name": "@applygoal/world-locations",
+  "name": "@cyber_squad_inc/world-locations",
   "version": "1.0.0",
-  "description": "Offline world dataset (countries, states, cities) with flags, phone codes, and ISO codes.",
+  "description": "Offline world dataset (countries, states, cities) with flags, phone codes, and ISO codes — maintained by Cyber Squad Inc.",
   "main": "src/index.ts",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -14,7 +14,7 @@
   "files": [
     "src/",
     "dist/",
-    "out/countries/"
+    "out/world-locations.full.json.gz"
   ],
   "keywords": [
     "world",
@@ -25,25 +25,25 @@
     "typescript",
     "nextjs",
     "esm",
-    "applygoal"
+    "cyber-squad-inc"
   ],
-  "author": "Tanvir Sujan",
+  "author": "Cyber Squad Inc <contact@cybersquad.dev>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/applygoal/world-locations.git"
+    "url": "git+https://github.com/Cyber-Squad-Inc/world-locations.git"
   },
   "bugs": {
-    "url": "https://github.com/applygoal/world-locations/issues"
+    "url": "https://github.com/Cyber-Squad-Inc/world-locations/issues"
   },
-  "homepage": "https://github.com/applygoal/world-locations#readme",
+  "homepage": "https://github.com/Cyber-Squad-Inc/world-locations#readme",
   "scripts": {
     "build:full": "node src/build-world-locations.js",
     "merge": "node src/merge.js",
     "validate": "node --loader ts-node/esm src/validate.ts",
     "start": "npm run build:full && npm run merge",
     "build:types": "tsc",
-    "prepublishOnly": "npm run start && npm run build:types"
+    "prepublishOnly": "npm run start && npm run build:types && rm -rf out/countries"
   },
   "dependencies": {
     "axios": "^1.7.4",
@@ -53,8 +53,13 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.29.7",
     "@types/node": "^24.8.0",
+    "gzipper": "^8.2.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

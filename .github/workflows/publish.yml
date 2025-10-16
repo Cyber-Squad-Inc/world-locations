@@ -1,0 +1,58 @@
+name: 🚀 Publish & Release @cyber_squad_inc/world-locations
+
+on:
+  push:
+    tags:
+      - "v*" # Runs on version tags like v1.0.1, v2.3.0
+  schedule:
+    - cron: "0 0 1 * *" # Rebuild & publish monthly on the 1st at midnight UTC
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    name: 📦 Build, Publish & Release
+
+    steps:
+      - name: 🧰 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧩 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: "https://registry.npmjs.org/"
+
+      - name: 📦 Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - name: 📥 Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: 🏗️ Build dataset and TypeScript types
+        run: |
+          pnpm run start
+          pnpm run build:types
+
+      - name: 🔢 Version bump via Changesets
+        run: |
+          pnpm changeset version
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "ci: auto version bump" || echo "No version changes"
+
+      - name: 🚀 Publish to npm
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npm publish --access public
+
+      - name: 🏷️ Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
