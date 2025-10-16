@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Vatican City State (Holy See)",
+    "official": "Vatican City State (Holy See)"
+  },
+  "iso2": "VA",
+  "iso3": "VAT",
+  "numericCode": "336",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".va",
+  "phoneCode": "379",
+  "capital": "Vatican City",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Vatican",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/va.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/va.svg",
+  "states": []
+}

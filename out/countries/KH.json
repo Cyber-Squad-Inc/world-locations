@@ -1,0 +1,1387 @@
+{
+  "name": {
+    "common": "Cambodia",
+    "official": "Cambodia"
+  },
+  "iso2": "KH",
+  "iso3": "KHM",
+  "numericCode": "116",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "tld": ".kh",
+  "phoneCode": "855",
+  "capital": "Phnom Penh",
+  "currencies": {
+    "KHR": "Cambodian riel"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Phnom_Penh",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "ICT",
+      "tzName": "Indochina Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/kh.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/kh.svg",
+  "states": [
+    {
+      "id": 3984,
+      "name": "Banteay Meanchey",
+      "code": "1",
+      "shortName": "1",
+      "cities": [
+        {
+          "id": 64967,
+          "name": "Mongkol Borei",
+          "latlng": [
+            13.45531,
+            102.99186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64969,
+          "name": "Paoy Paet",
+          "latlng": [
+            13.65805,
+            102.56365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64981,
+          "name": "Sisophon",
+          "latlng": [
+            13.58588,
+            102.97369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65009,
+          "name": "Srŏk Malai",
+          "latlng": [
+            13.49902,
+            102.60164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65022,
+          "name": "Srŏk Svay Chék",
+          "latlng": [
+            13.81305,
+            102.95269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3976,
+      "name": "Battambang",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 64940,
+          "name": "Battambang",
+          "latlng": [
+            13.10271,
+            103.19822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65028,
+          "name": "Srŏk Âk Phnŭm",
+          "latlng": [
+            13.23621,
+            103.45894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64988,
+          "name": "Srŏk Banăn",
+          "latlng": [
+            12.97067,
+            103.04742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64995,
+          "name": "Srŏk Bâvĭl",
+          "latlng": [
+            13.23601,
+            102.8291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65017,
+          "name": "Srŏk Rotanak Mondol",
+          "latlng": [
+            12.84048,
+            102.887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3991,
+      "name": "Kampong Cham",
+      "code": "3",
+      "shortName": "3",
+      "cities": [
+        {
+          "id": 64941,
+          "name": "Cheung Prey",
+          "latlng": [
+            12.1,
+            105.07
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64944,
+          "name": "Kampong Cham",
+          "latlng": [
+            11.98,
+            105.445
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64990,
+          "name": "Srŏk Bathéay",
+          "latlng": [
+            12.02986,
+            104.93171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3979,
+      "name": "Kampong Chhnang",
+      "code": "4",
+      "shortName": "4",
+      "cities": [
+        {
+          "id": 64939,
+          "name": "Baribour",
+          "latlng": [
+            12.43,
+            104.47
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64945,
+          "name": "Kampong Chhnang",
+          "latlng": [
+            12.26,
+            104.67
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64974,
+          "name": "Rolea B'ier",
+          "latlng": [
+            12.21,
+            104.61
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64997,
+          "name": "Srŏk Chol Kiri",
+          "latlng": [
+            12.15861,
+            104.82287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65019,
+          "name": "Srŏk Sameakki Mean Chey",
+          "latlng": [
+            11.86788,
+            104.55549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3988,
+      "name": "Kampong Speu",
+      "code": "5",
+      "shortName": "5",
+      "cities": [
+        {
+          "id": 64946,
+          "name": "Kampong Speu",
+          "latlng": [
+            11.45332,
+            104.52085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64962,
+          "name": "Krŏng Chbar Mon",
+          "latlng": [
+            11.47091,
+            104.50655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64989,
+          "name": "Srŏk Basedth",
+          "latlng": [
+            11.18432,
+            104.53584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65008,
+          "name": "Srŏk Kông Pĭsei",
+          "latlng": [
+            11.31648,
+            104.65992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65032,
+          "name": "Srŏk Ŏdŏngk",
+          "latlng": [
+            11.66845,
+            104.61224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "name": "Kampong Thom",
+      "code": "6",
+      "shortName": "6",
+      "cities": []
+    },
+    {
+      "id": 3981,
+      "name": "Kampot",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 64935,
+          "name": "Angkor Chey",
+          "latlng": [
+            10.76667,
+            104.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64938,
+          "name": "Banteay Meas",
+          "latlng": [
+            10.61667,
+            104.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64942,
+          "name": "Chhouk District",
+          "latlng": [
+            10.81667,
+            104.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64943,
+          "name": "Kampong Bay",
+          "latlng": [
+            10.59554,
+            104.17136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64947,
+          "name": "Kampong Tranch",
+          "latlng": [
+            10.55,
+            104.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64948,
+          "name": "Kampot",
+          "latlng": [
+            10.61041,
+            104.18145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64998,
+          "name": "Srŏk Chŭm Kiri",
+          "latlng": [
+            11.0054,
+            104.44207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65001,
+          "name": "Srŏk Dângtóng",
+          "latlng": [
+            10.70733,
+            104.42229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64986,
+          "name": "Srok Tuek Chhou",
+          "latlng": [
+            10.74557,
+            104.11013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3983,
+      "name": "Kandal",
+      "code": "8",
+      "shortName": "8",
+      "cities": [
+        {
+          "id": 64965,
+          "name": "Krŏng Ta Khmau",
+          "latlng": [
+            11.45474,
+            104.9435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65003,
+          "name": "Srŏk Khsăch Kândal",
+          "latlng": [
+            11.69224,
+            105.03732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65037,
+          "name": "Ta Khmau",
+          "latlng": [
+            11.48333,
+            104.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3978,
+      "name": "Kep",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 64961,
+          "name": "Krong Kep",
+          "latlng": [
+            10.48291,
+            104.31672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65000,
+          "name": "Srŏk Dâmnăk Châng’aeur",
+          "latlng": [
+            10.53394,
+            104.34855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3982,
+      "name": "Koh Kong",
+      "code": "9",
+      "shortName": "9",
+      "cities": [
+        {
+          "id": 64957,
+          "name": "Koh Kong",
+          "latlng": [
+            11.61531,
+            102.9838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64982,
+          "name": "Smach Mean Chey",
+          "latlng": [
+            11.54665,
+            103.03569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64984,
+          "name": "Srae Ambel",
+          "latlng": [
+            11.10968,
+            103.76226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64991,
+          "name": "Srŏk Batum Sakôr",
+          "latlng": [
+            11.11465,
+            103.38993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65011,
+          "name": "Srŏk Môndôl Seima",
+          "latlng": [
+            11.81292,
+            103.01159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3986,
+      "name": "Kratie",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 64958,
+          "name": "Kracheh",
+          "latlng": [
+            12.57,
+            106.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64960,
+          "name": "Kratié",
+          "latlng": [
+            12.48811,
+            106.01879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64983,
+          "name": "Snuol",
+          "latlng": [
+            12.19373,
+            106.47361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3985,
+      "name": "Mondulkiri",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 64964,
+          "name": "Krŏng Sênmônoŭrôm",
+          "latlng": [
+            12.5048,
+            107.15525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64978,
+          "name": "Sen Monorom",
+          "latlng": [
+            12.45583,
+            107.18811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65002,
+          "name": "Srŏk Kaev Seima",
+          "latlng": [
+            12.41722,
+            106.77025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65014,
+          "name": "Srŏk Pech Chreada",
+          "latlng": [
+            12.7278,
+            107.0948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3987,
+      "name": "Oddar Meanchey",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 64976,
+          "name": "Samraong",
+          "latlng": [
+            14.18175,
+            103.51761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64994,
+          "name": "Srŏk Bântéay Âmpĭl",
+          "latlng": [
+            14.1859,
+            103.25925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65023,
+          "name": "Srŏk Sâmraông",
+          "latlng": [
+            14.25039,
+            103.62739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65026,
+          "name": "Srŏk Trâpeăng Prasat",
+          "latlng": [
+            14.25809,
+            104.30835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3980,
+      "name": "Pailin",
+      "code": "24",
+      "shortName": "24",
+      "cities": [
+        {
+          "id": 64956,
+          "name": "Khan Sala Krau",
+          "latlng": [
+            12.97984,
+            102.63957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64968,
+          "name": "Pailin",
+          "latlng": [
+            12.84895,
+            102.60928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3994,
+      "name": "Phnom Penh",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 64949,
+          "name": "Khan 7 Makara",
+          "latlng": [
+            11.56254,
+            104.91405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64950,
+          "name": "Khan Châmkar Mon",
+          "latlng": [
+            11.5439,
+            104.92175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64952,
+          "name": "Khan Dângkaô",
+          "latlng": [
+            11.52457,
+            104.83944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64951,
+          "name": "Khan Duŏn Pénh",
+          "latlng": [
+            11.57561,
+            104.92025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64953,
+          "name": "Khan Méan Chey",
+          "latlng": [
+            11.51976,
+            104.95467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64954,
+          "name": "Khan Russey Keo",
+          "latlng": [
+            11.61946,
+            104.9099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64955,
+          "name": "Khan Saen Sokh",
+          "latlng": [
+            11.61289,
+            104.86078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64970,
+          "name": "Phnom Penh",
+          "latlng": [
+            11.56245,
+            104.91601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3973,
+      "name": "Preah Vihear",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 64977,
+          "name": "Sangkom Thmei",
+          "latlng": [
+            13.47395,
+            104.77051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64999,
+          "name": "Srŏk Ch’êh Sên",
+          "latlng": [
+            13.58215,
+            105.34533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64996,
+          "name": "Srŏk Chhêb",
+          "latlng": [
+            13.91077,
+            105.4618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65005,
+          "name": "Srŏk Kulén",
+          "latlng": [
+            13.78597,
+            104.61052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65018,
+          "name": "Srŏk Rôviĕng",
+          "latlng": [
+            13.35105,
+            105.09956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65025,
+          "name": "Srŏk Tbêng Méanchey",
+          "latlng": [
+            13.78622,
+            105.01586
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65039,
+          "name": "Tbeng Meanchey",
+          "latlng": [
+            13.80731,
+            104.98046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3974,
+      "name": "Prey Veng",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 64972,
+          "name": "Prey Veng",
+          "latlng": [
+            11.48682,
+            105.32533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65006,
+          "name": "Srŏk Kâmpóng Léav",
+          "latlng": [
+            11.5097,
+            105.3011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65010,
+          "name": "Srŏk Mésang",
+          "latlng": [
+            11.35528,
+            105.57235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65016,
+          "name": "Srŏk Preăh Sdéch",
+          "latlng": [
+            11.0869,
+            105.37497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3977,
+      "name": "Pursat",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 64936,
+          "name": "Bakan",
+          "latlng": [
+            12.78,
+            103.79
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64959,
+          "name": "Krakor",
+          "latlng": [
+            12.48,
+            104.19
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64973,
+          "name": "Pursat",
+          "latlng": [
+            12.53878,
+            103.9192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64975,
+          "name": "Sampov Meas",
+          "latlng": [
+            12.47055,
+            103.91817
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65007,
+          "name": "Srŏk Kândiĕng",
+          "latlng": [
+            12.71245,
+            104.02592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65027,
+          "name": "Srŏk Véal Vêng",
+          "latlng": [
+            12.2423,
+            103.13444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3990,
+      "name": "Ratanakiri",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 64937,
+          "name": "Banlung",
+          "latlng": [
+            13.73939,
+            106.98727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64966,
+          "name": "Lumphat",
+          "latlng": [
+            13.49146,
+            106.98022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65029,
+          "name": "Srŏk Ândong Méas",
+          "latlng": [
+            13.93352,
+            107.31155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64993,
+          "name": "Srŏk Bâ Kêv",
+          "latlng": [
+            13.70749,
+            107.19442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64987,
+          "name": "Srŏk Ban Lŭng",
+          "latlng": [
+            13.682,
+            107.03025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65004,
+          "name": "Srŏk Koun Mom",
+          "latlng": [
+            13.51772,
+            106.75142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65012,
+          "name": "Srŏk Ou Chum",
+          "latlng": [
+            13.84069,
+            107.03469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65013,
+          "name": "Srŏk Ou Ya Dav",
+          "latlng": [
+            13.54328,
+            107.44636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65024,
+          "name": "Srŏk Ta Vêng",
+          "latlng": [
+            14.29192,
+            107.24031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3992,
+      "name": "Siem Reap",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 64979,
+          "name": "Siem Reap",
+          "latlng": [
+            13.36179,
+            103.86056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65031,
+          "name": "Srŏk Ângkôr Thum",
+          "latlng": [
+            13.57881,
+            103.85645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65015,
+          "name": "Srŏk Prasat Bakong",
+          "latlng": [
+            13.21031,
+            103.97689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65035,
+          "name": "Svay Leu",
+          "latlng": [
+            13.69168,
+            104.27446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65040,
+          "name": "Varin",
+          "latlng": [
+            13.83574,
+            103.89968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3989,
+      "name": "Sihanoukville",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 64980,
+          "name": "Sihanoukville",
+          "latlng": [
+            10.60932,
+            103.52958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64985,
+          "name": "Srok Stueng Hav",
+          "latlng": [
+            10.85249,
+            103.74016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3993,
+      "name": "Stung Treng",
+      "code": "19",
+      "shortName": "19",
+      "cities": [
+        {
+          "id": 65020,
+          "name": "Srŏk Srêsén",
+          "latlng": [
+            13.6053,
+            106.35819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65033,
+          "name": "Stueng Traeng",
+          "latlng": [
+            13.65,
+            106.07
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65034,
+          "name": "Stung Treng",
+          "latlng": [
+            13.52586,
+            105.9683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3972,
+      "name": "Svay Rieng",
+      "code": "20",
+      "shortName": "20",
+      "cities": [
+        {
+          "id": 65021,
+          "name": "Srŏk Svay Chrŭm",
+          "latlng": [
+            11.1116,
+            105.69814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65036,
+          "name": "Svay Rieng",
+          "latlng": [
+            11.08785,
+            105.79935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3975,
+      "name": "Takeo",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 64963,
+          "name": "Krŏng Doun Kaev",
+          "latlng": [
+            10.99459,
+            104.7955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64971,
+          "name": "Phumĭ Véal Srê",
+          "latlng": [
+            10.98081,
+            104.77828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65030,
+          "name": "Srŏk Ângkôr Borei",
+          "latlng": [
+            10.99291,
+            104.95177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 64992,
+          "name": "Srŏk Borei Cholsar",
+          "latlng": [
+            10.81414,
+            104.98994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65038,
+          "name": "Takeo",
+          "latlng": [
+            10.99081,
+            104.78498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

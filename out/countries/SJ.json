@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Svalbard and Jan Mayen Islands",
+    "official": "Svalbard and Jan Mayen Islands"
+  },
+  "iso2": "SJ",
+  "iso3": "SJM",
+  "numericCode": "744",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".sj",
+  "phoneCode": "47",
+  "capital": "Longyearbyen",
+  "currencies": {
+    "NOK": "Norwegian krone"
+  },
+  "timezones": [
+    {
+      "zoneName": "Arctic/Longyearbyen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sj.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sj.svg",
+  "states": []
+}

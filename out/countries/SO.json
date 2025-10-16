@@ -1,0 +1,663 @@
+{
+  "name": {
+    "common": "Somalia",
+    "official": "Somalia"
+  },
+  "iso2": "SO",
+  "iso3": "SOM",
+  "numericCode": "706",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".so",
+  "phoneCode": "252",
+  "capital": "Mogadishu",
+  "currencies": {
+    "SOS": "Somali shilling"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Mogadishu",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/so.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/so.svg",
+  "states": [
+    {
+      "id": 925,
+      "name": "Awdal",
+      "code": "AW",
+      "shortName": "AW",
+      "cities": []
+    },
+    {
+      "id": 917,
+      "name": "Bakool",
+      "code": "BK",
+      "shortName": "BK",
+      "cities": [
+        {
+          "id": 104815,
+          "name": "Tayeeglow",
+          "latlng": [
+            4.01897,
+            44.51111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104816,
+          "name": "Waajid",
+          "latlng": [
+            3.80958,
+            43.24627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104819,
+          "name": "Xuddur",
+          "latlng": [
+            4.12129,
+            43.88945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104820,
+          "name": "Yeed",
+          "latlng": [
+            4.55,
+            43.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 927,
+      "name": "Banaadir",
+      "code": "BN",
+      "shortName": "BN",
+      "cities": [
+        {
+          "id": 104810,
+          "name": "Mogadishu",
+          "latlng": [
+            2.03711,
+            45.34375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 930,
+      "name": "Bari",
+      "code": "BR",
+      "shortName": "BR",
+      "cities": [
+        {
+          "id": 104778,
+          "name": "Bandarbeyla",
+          "latlng": [
+            9.4942,
+            50.8122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104779,
+          "name": "Bargaal",
+          "latlng": [
+            11.28636,
+            51.0773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104781,
+          "name": "Bereeda",
+          "latlng": [
+            11.87037,
+            51.05795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104782,
+          "name": "Bosaso",
+          "latlng": [
+            11.28421,
+            49.18158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104788,
+          "name": "Caluula",
+          "latlng": [
+            11.96611,
+            50.75694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104800,
+          "name": "Iskushuban",
+          "latlng": [
+            10.2837,
+            50.23
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104812,
+          "name": "Qandala",
+          "latlng": [
+            11.47197,
+            49.87282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 926,
+      "name": "Bay",
+      "code": "BY",
+      "shortName": "BY",
+      "cities": [
+        {
+          "id": 104777,
+          "name": "Baidoa",
+          "latlng": [
+            3.11383,
+            43.6498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104786,
+          "name": "Buurhakaba",
+          "latlng": [
+            2.80257,
+            44.07805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 918,
+      "name": "Galguduud",
+      "code": "GA",
+      "shortName": "GA",
+      "cities": [
+        {
+          "id": 104790,
+          "name": "Ceelbuur",
+          "latlng": [
+            4.68501,
+            46.6176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104791,
+          "name": "Ceeldheer",
+          "latlng": [
+            3.84878,
+            47.18064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104793,
+          "name": "Dhuusamarreeb",
+          "latlng": [
+            5.53597,
+            46.38666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "name": "Gedo",
+      "code": "GE",
+      "shortName": "GE",
+      "cities": [
+        {
+          "id": 104776,
+          "name": "Baardheere",
+          "latlng": [
+            2.34464,
+            42.27644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104797,
+          "name": "Garbahaarrey",
+          "latlng": [
+            3.32892,
+            42.22091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104807,
+          "name": "Luuq",
+          "latlng": [
+            3.80315,
+            42.54417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "name": "Hiran",
+      "code": "HI",
+      "shortName": "HI",
+      "cities": [
+        {
+          "id": 104780,
+          "name": "Beledweyne",
+          "latlng": [
+            4.73583,
+            45.20361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104784,
+          "name": "Buulobarde",
+          "latlng": [
+            3.85375,
+            45.56744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104801,
+          "name": "Jalalaqsi",
+          "latlng": [
+            3.3766,
+            45.5996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 924,
+      "name": "Lower Juba",
+      "code": "JH",
+      "shortName": "JH",
+      "cities": [
+        {
+          "id": 104785,
+          "name": "Buur Gaabo",
+          "latlng": [
+            -1.21917,
+            41.83725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104802,
+          "name": "Jamaame",
+          "latlng": [
+            0.06968,
+            42.74497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104805,
+          "name": "Kismayo",
+          "latlng": [
+            -0.35817,
+            42.54536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 921,
+      "name": "Lower Shebelle",
+      "code": "SH",
+      "shortName": "SH",
+      "cities": [
+        {
+          "id": 104775,
+          "name": "Afgooye",
+          "latlng": [
+            2.1381,
+            45.1212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104809,
+          "name": "Marka",
+          "latlng": [
+            1.71594,
+            44.77166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104813,
+          "name": "Qoryooley",
+          "latlng": [
+            1.78784,
+            44.52999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104817,
+          "name": "Wanlaweyn",
+          "latlng": [
+            2.6185,
+            44.8938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 922,
+      "name": "Middle Juba",
+      "code": "JD",
+      "shortName": "JD",
+      "cities": [
+        {
+          "id": 104794,
+          "name": "Dujuuma",
+          "latlng": [
+            1.25311,
+            42.57377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104804,
+          "name": "Jilib",
+          "latlng": [
+            0.48829,
+            42.78535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104814,
+          "name": "Saacow",
+          "latlng": [
+            1.62794,
+            42.44067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 923,
+      "name": "Middle Shebelle",
+      "code": "SD",
+      "shortName": "SD",
+      "cities": [
+        {
+          "id": 104787,
+          "name": "Cadale",
+          "latlng": [
+            2.7603,
+            46.3222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104803,
+          "name": "Jawhar",
+          "latlng": [
+            2.78087,
+            45.50048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104808,
+          "name": "Mahaddayweyne",
+          "latlng": [
+            2.9726,
+            45.5347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "name": "Mudug",
+      "code": "MU",
+      "shortName": "MU",
+      "cities": [
+        {
+          "id": 104796,
+          "name": "Gaalkacyo",
+          "latlng": [
+            6.76972,
+            47.43083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104799,
+          "name": "Hobyo",
+          "latlng": [
+            5.3505,
+            48.5268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104818,
+          "name": "Xarardheere",
+          "latlng": [
+            4.6544,
+            47.8575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 920,
+      "name": "Nugal",
+      "code": "NU",
+      "shortName": "NU",
+      "cities": [
+        {
+          "id": 104795,
+          "name": "Eyl",
+          "latlng": [
+            7.9803,
+            49.8164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104798,
+          "name": "Garoowe",
+          "latlng": [
+            8.40207,
+            48.48284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "name": "Sanaag",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 104792,
+          "name": "Ceerigaabo",
+          "latlng": [
+            10.61616,
+            47.36795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104806,
+          "name": "Las Khorey",
+          "latlng": [
+            11.1595,
+            48.1967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 929,
+      "name": "Togdheer",
+      "code": "TO",
+      "shortName": "TO",
+      "cities": [
+        {
+          "id": 104783,
+          "name": "Burao",
+          "latlng": [
+            9.52213,
+            45.53363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104789,
+          "name": "Ceek",
+          "latlng": [
+            8.99907,
+            45.35824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104811,
+          "name": "Oodweyne",
+          "latlng": [
+            9.4092,
+            45.06397
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

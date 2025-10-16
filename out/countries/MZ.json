@@ -1,0 +1,536 @@
+{
+  "name": {
+    "common": "Mozambique",
+    "official": "Mozambique"
+  },
+  "iso2": "MZ",
+  "iso3": "MOZ",
+  "numericCode": "508",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".mz",
+  "phoneCode": "258",
+  "capital": "Maputo",
+  "currencies": {
+    "MZN": "Mozambican metical"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Maputo",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mz.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mz.svg",
+  "states": [
+    {
+      "id": 3327,
+      "name": "Cabo Delgado",
+      "code": "P",
+      "shortName": "P",
+      "cities": [
+        {
+          "id": 76595,
+          "name": "Chiure",
+          "latlng": [
+            -13.46665,
+            39.70317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76614,
+          "name": "Mocímboa",
+          "latlng": [
+            -11.31667,
+            40.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76615,
+          "name": "Montepuez",
+          "latlng": [
+            -13.12556,
+            38.99972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76621,
+          "name": "Pemba",
+          "latlng": [
+            -12.97395,
+            40.51775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3329,
+      "name": "Gaza",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 76592,
+          "name": "Chibuto",
+          "latlng": [
+            -24.68667,
+            33.53056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76596,
+          "name": "Chokwé",
+          "latlng": [
+            -24.53333,
+            32.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76604,
+          "name": "Macia",
+          "latlng": [
+            -25.02694,
+            33.09889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76625,
+          "name": "Xai-Xai",
+          "latlng": [
+            -25.05194,
+            33.64417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3330,
+      "name": "Inhambane",
+      "code": "I",
+      "shortName": "I",
+      "cities": [
+        {
+          "id": 76601,
+          "name": "Inhambane",
+          "latlng": [
+            -23.865,
+            35.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76612,
+          "name": "Maxixe",
+          "latlng": [
+            -23.85972,
+            35.34722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3337,
+      "name": "Manica",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 76593,
+          "name": "Chimoio",
+          "latlng": [
+            -19.11639,
+            33.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3332,
+      "name": "Maputo",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 76591,
+          "name": "Boane District",
+          "latlng": [
+            -26.029,
+            32.389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76597,
+          "name": "Concelho de Matola",
+          "latlng": [
+            -25.83472,
+            32.49516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76605,
+          "name": "Magude District",
+          "latlng": [
+            -25.02389,
+            32.6515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76607,
+          "name": "Manhica",
+          "latlng": [
+            -25.34035,
+            32.84234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76609,
+          "name": "Marracuene District",
+          "latlng": [
+            -25.73938,
+            32.67436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76610,
+          "name": "Matola",
+          "latlng": [
+            -25.96222,
+            32.45889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76611,
+          "name": "Matutiune District",
+          "latlng": [
+            -26.43418,
+            32.5882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76613,
+          "name": "Moamba District",
+          "latlng": [
+            -25.60934,
+            32.24321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76618,
+          "name": "Namaacha District",
+          "latlng": [
+            -26.109,
+            32.18
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76623,
+          "name": "Ressano Garcia",
+          "latlng": [
+            -25.44278,
+            31.99528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3335,
+      "name": "Maputo",
+      "code": "MPM",
+      "shortName": "MPM",
+      "cities": [
+        {
+          "id": 76602,
+          "name": "KaTembe",
+          "latlng": [
+            -26.02985,
+            32.53204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76608,
+          "name": "Maputo",
+          "latlng": [
+            -25.96553,
+            32.58322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3336,
+      "name": "Nampula",
+      "code": "N",
+      "shortName": "N",
+      "cities": [
+        {
+          "id": 76589,
+          "name": "António Enes",
+          "latlng": [
+            -16.2325,
+            39.90861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76600,
+          "name": "Ilha de Moçambique",
+          "latlng": [
+            -15.03417,
+            40.73583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76616,
+          "name": "Mutuáli",
+          "latlng": [
+            -14.87056,
+            37.00444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76617,
+          "name": "Nacala",
+          "latlng": [
+            -14.56257,
+            40.68538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76619,
+          "name": "Nampula",
+          "latlng": [
+            -15.11646,
+            39.2666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3333,
+      "name": "Niassa",
+      "code": "A",
+      "shortName": "A",
+      "cities": [
+        {
+          "id": 76598,
+          "name": "Cuamba",
+          "latlng": [
+            -14.80306,
+            36.53722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76603,
+          "name": "Lichinga",
+          "latlng": [
+            -13.31278,
+            35.24056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76606,
+          "name": "Mandimba",
+          "latlng": [
+            -14.3525,
+            35.65056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3331,
+      "name": "Sofala",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 76590,
+          "name": "Beira",
+          "latlng": [
+            -19.84361,
+            34.83889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76599,
+          "name": "Dondo",
+          "latlng": [
+            -19.60944,
+            34.74306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76620,
+          "name": "Nhamatanda District",
+          "latlng": [
+            -19.349,
+            34.268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3334,
+      "name": "Tete",
+      "code": "T",
+      "shortName": "T",
+      "cities": [
+        {
+          "id": 76624,
+          "name": "Tete",
+          "latlng": [
+            -16.15639,
+            33.58667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3328,
+      "name": "Zambezia",
+      "code": "Q",
+      "shortName": "Q",
+      "cities": [
+        {
+          "id": 76588,
+          "name": "Alto Molócuè",
+          "latlng": [
+            -15.64932,
+            37.66384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76594,
+          "name": "Chinde",
+          "latlng": [
+            -18.58111,
+            36.45861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76622,
+          "name": "Quelimane",
+          "latlng": [
+            -17.87861,
+            36.88833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

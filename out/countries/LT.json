@@ -1,0 +1,1942 @@
+{
+  "name": {
+    "common": "Lithuania",
+    "official": "Lithuania"
+  },
+  "iso2": "LT",
+  "iso3": "LTU",
+  "numericCode": "440",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".lt",
+  "phoneCode": "370",
+  "capital": "Vilnius",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Vilnius",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/lt.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/lt.svg",
+  "states": [
+    {
+      "id": 1561,
+      "name": "Akmenė",
+      "code": "01",
+      "shortName": "01",
+      "cities": []
+    },
+    {
+      "id": 1574,
+      "name": "Alytus",
+      "code": "AL",
+      "shortName": "AL",
+      "cities": []
+    },
+    {
+      "id": 1605,
+      "name": "Alytus",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 66581,
+          "name": "Alytus",
+          "latlng": [
+            54.39635,
+            24.04142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66592,
+          "name": "Daugai",
+          "latlng": [
+            54.36667,
+            24.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66593,
+          "name": "Druskininkai",
+          "latlng": [
+            54.01573,
+            23.98703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66630,
+          "name": "Lazdijai",
+          "latlng": [
+            54.23333,
+            23.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66678,
+          "name": "Simnas",
+          "latlng": [
+            54.382,
+            23.646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66694,
+          "name": "Varėna",
+          "latlng": [
+            54.21667,
+            24.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66695,
+          "name": "Veisiejai",
+          "latlng": [
+            54.1011,
+            23.69614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1599,
+      "name": "Alytus",
+      "code": "03",
+      "shortName": "03",
+      "cities": []
+    },
+    {
+      "id": 1603,
+      "name": "Birštonas",
+      "code": "05",
+      "shortName": "05",
+      "cities": []
+    },
+    {
+      "id": 1566,
+      "name": "Biržai",
+      "code": "06",
+      "shortName": "06",
+      "cities": []
+    },
+    {
+      "id": 1579,
+      "name": "Druskininkai",
+      "code": "07",
+      "shortName": "07",
+      "cities": []
+    },
+    {
+      "id": 1559,
+      "name": "Elektrėnai",
+      "code": "08",
+      "shortName": "08",
+      "cities": []
+    },
+    {
+      "id": 1562,
+      "name": "Ignalina",
+      "code": "09",
+      "shortName": "09",
+      "cities": []
+    },
+    {
+      "id": 1567,
+      "name": "Jonava",
+      "code": "10",
+      "shortName": "10",
+      "cities": []
+    },
+    {
+      "id": 1581,
+      "name": "Joniškis",
+      "code": "11",
+      "shortName": "11",
+      "cities": []
+    },
+    {
+      "id": 1555,
+      "name": "Jurbarkas",
+      "code": "12",
+      "shortName": "12",
+      "cities": []
+    },
+    {
+      "id": 1583,
+      "name": "Kaišiadorys",
+      "code": "13",
+      "shortName": "13",
+      "cities": []
+    },
+    {
+      "id": 1591,
+      "name": "Kalvarija",
+      "code": "14",
+      "shortName": "14",
+      "cities": []
+    },
+    {
+      "id": 1565,
+      "name": "Kaunas",
+      "code": "16",
+      "shortName": "16",
+      "cities": []
+    },
+    {
+      "id": 1580,
+      "name": "Kaunas",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 66576,
+          "name": "Akademija (Kaunas)",
+          "latlng": [
+            54.8964,
+            23.82411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66579,
+          "name": "Aleksotas",
+          "latlng": [
+            54.88037,
+            23.90842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66584,
+          "name": "Ariogala",
+          "latlng": [
+            55.262,
+            23.477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66588,
+          "name": "Birštonas",
+          "latlng": [
+            54.61667,
+            24.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66591,
+          "name": "Dainava (Kaunas)",
+          "latlng": [
+            54.91525,
+            23.96831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66595,
+          "name": "Eiguliai",
+          "latlng": [
+            54.93133,
+            23.93243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66598,
+          "name": "Ežerėlis",
+          "latlng": [
+            54.88315,
+            23.60396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66601,
+          "name": "Garliava",
+          "latlng": [
+            54.82139,
+            23.8713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66605,
+          "name": "Jieznas",
+          "latlng": [
+            54.59937,
+            24.17593
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66606,
+          "name": "Jonava",
+          "latlng": [
+            55.08333,
+            24.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66611,
+          "name": "Kaišiadorys",
+          "latlng": [
+            54.86667,
+            24.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66614,
+          "name": "Karmėlava",
+          "latlng": [
+            54.97055,
+            24.06182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66615,
+          "name": "Kaunas",
+          "latlng": [
+            54.90272,
+            23.90961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66629,
+          "name": "Kėdainiai",
+          "latlng": [
+            55.28333,
+            23.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66624,
+          "name": "Kulautuva",
+          "latlng": [
+            54.94212,
+            23.64218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66636,
+          "name": "Mastaiciai",
+          "latlng": [
+            54.81998,
+            23.84462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66661,
+          "name": "Prienai",
+          "latlng": [
+            54.63333,
+            23.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66664,
+          "name": "Ramučiai",
+          "latlng": [
+            54.9483,
+            24.0305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66666,
+          "name": "Raseiniai",
+          "latlng": [
+            55.36667,
+            23.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66674,
+          "name": "Sargėnai",
+          "latlng": [
+            54.94933,
+            23.88316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66714,
+          "name": "Šilainiai",
+          "latlng": [
+            54.92911,
+            23.88599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66701,
+          "name": "Vilkija",
+          "latlng": [
+            55.04609,
+            23.58552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66723,
+          "name": "Žiežmariai",
+          "latlng": [
+            54.80725,
+            24.44073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1556,
+      "name": "Kaunas",
+      "code": "KU",
+      "shortName": "KU",
+      "cities": []
+    },
+    {
+      "id": 1575,
+      "name": "Kazlų Rūda",
+      "code": "17",
+      "shortName": "17",
+      "cities": []
+    },
+    {
+      "id": 1584,
+      "name": "Kėdainiai",
+      "code": "18",
+      "shortName": "18",
+      "cities": []
+    },
+    {
+      "id": 1618,
+      "name": "Kelmė",
+      "code": "19",
+      "shortName": "19",
+      "cities": []
+    },
+    {
+      "id": 1604,
+      "name": "Klaipėda",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 66600,
+          "name": "Gargždai",
+          "latlng": [
+            55.70951,
+            21.39441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66620,
+          "name": "Klaipėda",
+          "latlng": [
+            55.71667,
+            21.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66622,
+          "name": "Kretinga",
+          "latlng": [
+            55.8888,
+            21.24448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66644,
+          "name": "Neringa",
+          "latlng": [
+            55.36667,
+            21.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66645,
+          "name": "Nida",
+          "latlng": [
+            55.3086,
+            20.99651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66650,
+          "name": "Palanga",
+          "latlng": [
+            55.9175,
+            21.06861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66660,
+          "name": "Priekulė",
+          "latlng": [
+            55.55427,
+            21.31903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66670,
+          "name": "Rusnė",
+          "latlng": [
+            55.2982,
+            21.3712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66673,
+          "name": "Salantai",
+          "latlng": [
+            56.0565,
+            21.5689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66677,
+          "name": "Silute",
+          "latlng": [
+            55.34889,
+            21.48306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66681,
+          "name": "Skuodas",
+          "latlng": [
+            56.26667,
+            21.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66718,
+          "name": "Šventoji",
+          "latlng": [
+            56.0261,
+            21.08411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66722,
+          "name": "Žemaičių Naumiestis",
+          "latlng": [
+            55.35941,
+            21.70364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1597,
+      "name": "Klaipeda",
+      "code": "20",
+      "shortName": "20",
+      "cities": []
+    },
+    {
+      "id": 1600,
+      "name": "Klaipėda",
+      "code": "KL",
+      "shortName": "KL",
+      "cities": []
+    },
+    {
+      "id": 1571,
+      "name": "Kretinga",
+      "code": "22",
+      "shortName": "22",
+      "cities": []
+    },
+    {
+      "id": 1585,
+      "name": "Kupiškis",
+      "code": "23",
+      "shortName": "23",
+      "cities": []
+    },
+    {
+      "id": 1611,
+      "name": "Lazdijai",
+      "code": "24",
+      "shortName": "24",
+      "cities": []
+    },
+    {
+      "id": 1570,
+      "name": "Marijampolė",
+      "code": "MR",
+      "shortName": "MR",
+      "cities": []
+    },
+    {
+      "id": 1610,
+      "name": "Marijampolė",
+      "code": "25",
+      "shortName": "25",
+      "cities": [
+        {
+          "id": 66602,
+          "name": "Gelgaudiškis",
+          "latlng": [
+            55.07688,
+            22.97699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66612,
+          "name": "Kalvarija",
+          "latlng": [
+            54.417,
+            23.223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66613,
+          "name": "Kalvarija Municipality",
+          "latlng": [
+            54.41468,
+            23.22484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66617,
+          "name": "Kazlų Rūda",
+          "latlng": [
+            54.749,
+            23.49
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66618,
+          "name": "Kazlų Rūda Municipality",
+          "latlng": [
+            54.74751,
+            23.49272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66623,
+          "name": "Kudirkos Naumiestis",
+          "latlng": [
+            54.77353,
+            22.86138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66628,
+          "name": "Kybartai",
+          "latlng": [
+            54.63858,
+            22.76316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66634,
+          "name": "Marijampolė",
+          "latlng": [
+            54.55991,
+            23.35412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66635,
+          "name": "Marijampolė Municipality",
+          "latlng": [
+            54.56667,
+            23.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66672,
+          "name": "Sakiai",
+          "latlng": [
+            54.95,
+            23.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66699,
+          "name": "Vilkaviskis",
+          "latlng": [
+            54.65167,
+            23.03222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66700,
+          "name": "Vilkaviškis District Municipality",
+          "latlng": [
+            54.65,
+            23.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66705,
+          "name": "Virbalis",
+          "latlng": [
+            54.62858,
+            22.82272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1557,
+      "name": "Mažeikiai",
+      "code": "26",
+      "shortName": "26",
+      "cities": []
+    },
+    {
+      "id": 1582,
+      "name": "Molėtai",
+      "code": "27",
+      "shortName": "27",
+      "cities": []
+    },
+    {
+      "id": 1563,
+      "name": "Neringa",
+      "code": "28",
+      "shortName": "28",
+      "cities": []
+    },
+    {
+      "id": 1612,
+      "name": "Pagėgiai",
+      "code": "29",
+      "shortName": "29",
+      "cities": []
+    },
+    {
+      "id": 1595,
+      "name": "Pakruojis",
+      "code": "30",
+      "shortName": "30",
+      "cities": []
+    },
+    {
+      "id": 1588,
+      "name": "Palanga",
+      "code": "31",
+      "shortName": "31",
+      "cities": []
+    },
+    {
+      "id": 1614,
+      "name": "Panevėžys",
+      "code": "33",
+      "shortName": "33",
+      "cities": [
+        {
+          "id": 66587,
+          "name": "Birzai",
+          "latlng": [
+            56.2,
+            24.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66608,
+          "name": "Juodupė",
+          "latlng": [
+            56.087,
+            25.607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66625,
+          "name": "Kupiskis",
+          "latlng": [
+            55.84027,
+            24.97976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66646,
+          "name": "Obeliai",
+          "latlng": [
+            55.96895,
+            25.15648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66651,
+          "name": "Panevėžys",
+          "latlng": [
+            55.73333,
+            24.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66652,
+          "name": "Panevėžys City",
+          "latlng": [
+            55.736,
+            24.34347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66653,
+          "name": "Panevėžys District Municipality",
+          "latlng": [
+            55.73301,
+            24.37609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66654,
+          "name": "Pasvalys",
+          "latlng": [
+            56.06667,
+            24.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66665,
+          "name": "Ramygala",
+          "latlng": [
+            55.514,
+            24.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66669,
+          "name": "Rokiškis",
+          "latlng": [
+            55.96667,
+            25.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66692,
+          "name": "Vabalninkas",
+          "latlng": [
+            55.98151,
+            24.74828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1558,
+      "name": "Panevėžys",
+      "code": "PN",
+      "shortName": "PN",
+      "cities": []
+    },
+    {
+      "id": 1589,
+      "name": "Panevėžys",
+      "code": "32",
+      "shortName": "32",
+      "cities": []
+    },
+    {
+      "id": 1616,
+      "name": "Pasvalys",
+      "code": "34",
+      "shortName": "34",
+      "cities": []
+    },
+    {
+      "id": 1553,
+      "name": "Plungė",
+      "code": "35",
+      "shortName": "35",
+      "cities": []
+    },
+    {
+      "id": 1578,
+      "name": "Prienai",
+      "code": "36",
+      "shortName": "36",
+      "cities": []
+    },
+    {
+      "id": 1568,
+      "name": "Radviliškis",
+      "code": "37",
+      "shortName": "37",
+      "cities": []
+    },
+    {
+      "id": 1587,
+      "name": "Raseiniai",
+      "code": "38",
+      "shortName": "38",
+      "cities": []
+    },
+    {
+      "id": 1590,
+      "name": "Rietavas",
+      "code": "39",
+      "shortName": "39",
+      "cities": []
+    },
+    {
+      "id": 1615,
+      "name": "Rokiškis",
+      "code": "40",
+      "shortName": "40",
+      "cities": []
+    },
+    {
+      "id": 1576,
+      "name": "Šakiai",
+      "code": "41",
+      "shortName": "41",
+      "cities": []
+    },
+    {
+      "id": 1577,
+      "name": "Šalčininkai",
+      "code": "42",
+      "shortName": "42",
+      "cities": []
+    },
+    {
+      "id": 1609,
+      "name": "Šiauliai",
+      "code": "43",
+      "shortName": "43",
+      "cities": [
+        {
+          "id": 66577,
+          "name": "Akmenė",
+          "latlng": [
+            56.25,
+            22.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66607,
+          "name": "Joniškis",
+          "latlng": [
+            56.23333,
+            23.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66619,
+          "name": "Kelmė",
+          "latlng": [
+            55.63333,
+            22.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66627,
+          "name": "Kuršėnai",
+          "latlng": [
+            56.00318,
+            22.93662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66633,
+          "name": "Linkuva",
+          "latlng": [
+            56.08596,
+            23.97061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66642,
+          "name": "Naujoji Akmene",
+          "latlng": [
+            56.31667,
+            22.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66649,
+          "name": "Pakruojis",
+          "latlng": [
+            55.96667,
+            23.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66662,
+          "name": "Radviliskis",
+          "latlng": [
+            55.81667,
+            23.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66710,
+          "name": "Šeduva",
+          "latlng": [
+            55.7493,
+            23.7561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66712,
+          "name": "Šiauliai",
+          "latlng": [
+            55.93333,
+            23.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66688,
+          "name": "Tytuvėnėliai",
+          "latlng": [
+            55.62345,
+            23.17162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66696,
+          "name": "Venta",
+          "latlng": [
+            56.19162,
+            22.69528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66721,
+          "name": "Žagarė",
+          "latlng": [
+            56.36149,
+            23.25094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1554,
+      "name": "Šiauliai",
+      "code": "44",
+      "shortName": "44",
+      "cities": []
+    },
+    {
+      "id": 1586,
+      "name": "Šiauliai",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": []
+    },
+    {
+      "id": 1613,
+      "name": "Šilalė",
+      "code": "45",
+      "shortName": "45",
+      "cities": []
+    },
+    {
+      "id": 1607,
+      "name": "Šilutė",
+      "code": "46",
+      "shortName": "46",
+      "cities": []
+    },
+    {
+      "id": 1594,
+      "name": "Širvintos",
+      "code": "47",
+      "shortName": "47",
+      "cities": []
+    },
+    {
+      "id": 1617,
+      "name": "Skuodas",
+      "code": "48",
+      "shortName": "48",
+      "cities": []
+    },
+    {
+      "id": 1560,
+      "name": "Švenčionys",
+      "code": "49",
+      "shortName": "49",
+      "cities": []
+    },
+    {
+      "id": 1572,
+      "name": "Tauragė",
+      "code": "50",
+      "shortName": "50",
+      "cities": []
+    },
+    {
+      "id": 1573,
+      "name": "Tauragė",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 66590,
+          "name": "Būgai",
+          "latlng": [
+            55.41387,
+            22.60894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66609,
+          "name": "Jurbarkas",
+          "latlng": [
+            55.10859,
+            22.79885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66648,
+          "name": "Pagėgiai",
+          "latlng": [
+            55.134,
+            21.90446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66715,
+          "name": "Šilalė",
+          "latlng": [
+            55.46667,
+            22.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66683,
+          "name": "Taurage",
+          "latlng": [
+            55.25222,
+            22.28972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1569,
+      "name": "Telšiai",
+      "code": "TE",
+      "shortName": "TE",
+      "cities": []
+    },
+    {
+      "id": 1608,
+      "name": "Telšiai",
+      "code": "51",
+      "shortName": "51",
+      "cities": [
+        {
+          "id": 66637,
+          "name": "Mazeikiai",
+          "latlng": [
+            56.31667,
+            22.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66657,
+          "name": "Plateliai",
+          "latlng": [
+            56.04657,
+            21.81615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66658,
+          "name": "Plunge",
+          "latlng": [
+            55.91139,
+            21.84417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66668,
+          "name": "Rietavas",
+          "latlng": [
+            55.72375,
+            21.93266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66675,
+          "name": "Seda",
+          "latlng": [
+            56.16854,
+            22.09071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66685,
+          "name": "Telsiai",
+          "latlng": [
+            55.98139,
+            22.24722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66693,
+          "name": "Varniai",
+          "latlng": [
+            55.74435,
+            22.37251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66697,
+          "name": "Viekšniai",
+          "latlng": [
+            56.23598,
+            22.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1593,
+      "name": "Trakai",
+      "code": "52",
+      "shortName": "52",
+      "cities": []
+    },
+    {
+      "id": 1596,
+      "name": "Ukmergė",
+      "code": "53",
+      "shortName": "53",
+      "cities": []
+    },
+    {
+      "id": 1621,
+      "name": "Utena",
+      "code": "UT",
+      "shortName": "UT",
+      "cities": [
+        {
+          "id": 66582,
+          "name": "Anyksciai",
+          "latlng": [
+            55.52557,
+            25.10264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66594,
+          "name": "Dūkštas",
+          "latlng": [
+            55.522,
+            26.321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66604,
+          "name": "Ignalina",
+          "latlng": [
+            55.35,
+            26.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66639,
+          "name": "Moletai",
+          "latlng": [
+            55.23333,
+            25.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66691,
+          "name": "Utena",
+          "latlng": [
+            55.49764,
+            25.59918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66706,
+          "name": "Visaginas",
+          "latlng": [
+            55.6,
+            26.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66707,
+          "name": "Zarasai",
+          "latlng": [
+            55.73333,
+            26.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1598,
+      "name": "Utena",
+      "code": "54",
+      "shortName": "54",
+      "cities": []
+    },
+    {
+      "id": 1602,
+      "name": "Varėna",
+      "code": "55",
+      "shortName": "55",
+      "cities": []
+    },
+    {
+      "id": 1620,
+      "name": "Vilkaviškis",
+      "code": "56",
+      "shortName": "56",
+      "cities": []
+    },
+    {
+      "id": 1592,
+      "name": "Vilnius",
+      "code": "58",
+      "shortName": "58",
+      "cities": []
+    },
+    {
+      "id": 1606,
+      "name": "Vilnius",
+      "code": "57",
+      "shortName": "57",
+      "cities": [
+        {
+          "id": 66585,
+          "name": "Aukstadvaris",
+          "latlng": [
+            54.57946,
+            24.52683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66586,
+          "name": "Baltoji Vokė",
+          "latlng": [
+            54.60002,
+            25.19318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66596,
+          "name": "Eišiškės",
+          "latlng": [
+            54.17414,
+            24.99917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66597,
+          "name": "Elektrėnai",
+          "latlng": [
+            54.78544,
+            24.66302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66599,
+          "name": "Fabijoniškės",
+          "latlng": [
+            54.73333,
+            25.24167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66603,
+          "name": "Grigiškės",
+          "latlng": [
+            54.68333,
+            25.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66610,
+          "name": "Justiniškės",
+          "latlng": [
+            54.71664,
+            25.2174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66631,
+          "name": "Lazdynai",
+          "latlng": [
+            54.66815,
+            25.20684
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66632,
+          "name": "Lentvaris",
+          "latlng": [
+            54.64364,
+            25.05162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66641,
+          "name": "Naujamiestis",
+          "latlng": [
+            54.67951,
+            25.26855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66643,
+          "name": "Nemenčinė",
+          "latlng": [
+            54.84776,
+            25.46992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66647,
+          "name": "Pabradė",
+          "latlng": [
+            54.981,
+            25.761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66655,
+          "name": "Pašilaičiai",
+          "latlng": [
+            54.73429,
+            25.21912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66656,
+          "name": "Pilaitė",
+          "latlng": [
+            54.69981,
+            25.18393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66667,
+          "name": "Rasos",
+          "latlng": [
+            54.67877,
+            25.31173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66671,
+          "name": "Rūdiškės",
+          "latlng": [
+            54.51609,
+            24.83084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66709,
+          "name": "Šalčininkai",
+          "latlng": [
+            54.3,
+            25.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66676,
+          "name": "Senieji Trakai",
+          "latlng": [
+            54.609,
+            24.98
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66711,
+          "name": "Šeškinė",
+          "latlng": [
+            54.70972,
+            25.25053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66679,
+          "name": "Sirvintos",
+          "latlng": [
+            55.05,
+            24.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66680,
+          "name": "Skaidiškės",
+          "latlng": [
+            54.61398,
+            25.39573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66720,
+          "name": "Švenčionėliai",
+          "latlng": [
+            55.16163,
+            26.00177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66682,
+          "name": "Svencionys",
+          "latlng": [
+            55.15,
+            26.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66687,
+          "name": "Trakai",
+          "latlng": [
+            54.63783,
+            24.93433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66689,
+          "name": "Ukmerge",
+          "latlng": [
+            55.25,
+            24.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66698,
+          "name": "Vievis",
+          "latlng": [
+            54.76667,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66702,
+          "name": "Vilkpėdė",
+          "latlng": [
+            54.66969,
+            25.2477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66703,
+          "name": "Vilnius",
+          "latlng": [
+            54.68916,
+            25.2798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66704,
+          "name": "Vilnius District Municipality",
+          "latlng": [
+            54.73333,
+            25.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1601,
+      "name": "Vilnius",
+      "code": "VL",
+      "shortName": "VL",
+      "cities": []
+    },
+    {
+      "id": 1564,
+      "name": "Visaginas",
+      "code": "59",
+      "shortName": "59",
+      "cities": []
+    },
+    {
+      "id": 1619,
+      "name": "Zarasai",
+      "code": "60",
+      "shortName": "60",
+      "cities": []
+    }
+  ]
+}

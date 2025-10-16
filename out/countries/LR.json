@@ -1,0 +1,348 @@
+{
+  "name": {
+    "common": "Liberia",
+    "official": "Liberia"
+  },
+  "iso2": "LR",
+  "iso3": "LBR",
+  "numericCode": "430",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".lr",
+  "phoneCode": "231",
+  "capital": "Monrovia",
+  "currencies": {
+    "LRD": "Liberian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Monrovia",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/lr.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/lr.svg",
+  "states": [
+    {
+      "id": 3041,
+      "name": "Bomi",
+      "code": "BM",
+      "shortName": "BM",
+      "cities": [
+        {
+          "id": 66561,
+          "name": "Tubmanburg",
+          "latlng": [
+            6.87064,
+            -10.8211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3034,
+      "name": "Bong",
+      "code": "BG",
+      "shortName": "BG",
+      "cities": [
+        {
+          "id": 66553,
+          "name": "Gbarnga",
+          "latlng": [
+            6.99543,
+            -9.47122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3044,
+      "name": "Gbarpolu",
+      "code": "GP",
+      "shortName": "GP",
+      "cities": [
+        {
+          "id": 66548,
+          "name": "Bopolu",
+          "latlng": [
+            7.06667,
+            -10.4875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3040,
+      "name": "Grand Bassa",
+      "code": "GB",
+      "shortName": "GB",
+      "cities": [
+        {
+          "id": 66549,
+          "name": "Buchanan",
+          "latlng": [
+            5.87693,
+            -10.04964
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3036,
+      "name": "Grand Cape Mount",
+      "code": "CM",
+      "shortName": "CM",
+      "cities": [
+        {
+          "id": 66559,
+          "name": "Robertsport",
+          "latlng": [
+            6.75329,
+            -11.3671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3039,
+      "name": "Grand Gedeh",
+      "code": "GG",
+      "shortName": "GG",
+      "cities": [
+        {
+          "id": 66563,
+          "name": "Zwedru",
+          "latlng": [
+            6.06846,
+            -8.13559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3045,
+      "name": "Grand Kru",
+      "code": "GK",
+      "shortName": "GK",
+      "cities": [
+        {
+          "id": 66546,
+          "name": "Barclayville",
+          "latlng": [
+            4.67443,
+            -8.23306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3037,
+      "name": "Lofa",
+      "code": "LO",
+      "shortName": "LO",
+      "cities": [
+        {
+          "id": 66562,
+          "name": "Voinjama",
+          "latlng": [
+            8.42194,
+            -9.74778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3043,
+      "name": "Margibi",
+      "code": "MG",
+      "shortName": "MG",
+      "cities": [
+        {
+          "id": 66556,
+          "name": "Kakata",
+          "latlng": [
+            6.53104,
+            -10.35368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3042,
+      "name": "Maryland",
+      "code": "MY",
+      "shortName": "MY",
+      "cities": [
+        {
+          "id": 66555,
+          "name": "Harper",
+          "latlng": [
+            4.3782,
+            -7.71081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3032,
+      "name": "Montserrado",
+      "code": "MO",
+      "shortName": "MO",
+      "cities": [
+        {
+          "id": 66547,
+          "name": "Bensonville",
+          "latlng": [
+            6.44716,
+            -10.61283
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66557,
+          "name": "Monrovia",
+          "latlng": [
+            6.30054,
+            -10.7969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3046,
+      "name": "Nimba",
+      "code": "NI",
+      "shortName": "NI",
+      "cities": [
+        {
+          "id": 66552,
+          "name": "Ganta",
+          "latlng": [
+            7.30222,
+            -8.53083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66558,
+          "name": "New Yekepa",
+          "latlng": [
+            7.57944,
+            -8.53778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66560,
+          "name": "Sanniquellie",
+          "latlng": [
+            7.36215,
+            -8.71326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3033,
+      "name": "River Cess",
+      "code": "RI",
+      "shortName": "RI",
+      "cities": [
+        {
+          "id": 66550,
+          "name": "Cestos City",
+          "latlng": [
+            5.45683,
+            -9.58167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3038,
+      "name": "River Gee",
+      "code": "RG",
+      "shortName": "RG",
+      "cities": [
+        {
+          "id": 66551,
+          "name": "Fish Town",
+          "latlng": [
+            5.19739,
+            -7.87579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3035,
+      "name": "Sinoe",
+      "code": "SI",
+      "shortName": "SI",
+      "cities": [
+        {
+          "id": 66554,
+          "name": "Greenville",
+          "latlng": [
+            5.01133,
+            -9.0388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

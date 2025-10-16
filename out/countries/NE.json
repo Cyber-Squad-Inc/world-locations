@@ -1,0 +1,856 @@
+{
+  "name": {
+    "common": "Niger",
+    "official": "Niger"
+  },
+  "iso2": "NE",
+  "iso3": "NER",
+  "numericCode": "562",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".ne",
+  "phoneCode": "227",
+  "capital": "Niamey",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Niamey",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ne.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ne.svg",
+  "states": [
+    {
+      "id": 71,
+      "name": "Agadez",
+      "code": "1",
+      "shortName": "1",
+      "cities": [
+        {
+          "id": 76675,
+          "name": "Agadez",
+          "latlng": [
+            16.97333,
+            7.99111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76677,
+          "name": "Alaghsas",
+          "latlng": [
+            17.0187,
+            8.0168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76678,
+          "name": "Arlit",
+          "latlng": [
+            18.83409,
+            7.43327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76681,
+          "name": "Bilma",
+          "latlng": [
+            18.68532,
+            12.91643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76690,
+          "name": "Département de Bilma",
+          "latlng": [
+            20.5,
+            13.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76711,
+          "name": "Département de Tchirozérine",
+          "latlng": [
+            17.43293,
+            7.89321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Diffa",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 76694,
+          "name": "Département de Diffa",
+          "latlng": [
+            13.66667,
+            12.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76705,
+          "name": "Département de Maïné-Soroa",
+          "latlng": [
+            13.31206,
+            12.08321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76706,
+          "name": "Département de Nguigmi",
+          "latlng": [
+            14.20753,
+            13.12177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76686,
+          "name": "Diffa",
+          "latlng": [
+            13.31536,
+            12.61135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76729,
+          "name": "Maïné Soroa",
+          "latlng": [
+            13.21139,
+            12.0241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76731,
+          "name": "Nguigmi",
+          "latlng": [
+            14.24953,
+            13.10921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Dosso",
+      "code": "3",
+      "shortName": "3",
+      "cities": [
+        {
+          "id": 76683,
+          "name": "Boboye Department",
+          "latlng": [
+            13.08167,
+            2.91083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76695,
+          "name": "Département de Dogondoutchi",
+          "latlng": [
+            13.5,
+            4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76696,
+          "name": "Département de Dosso",
+          "latlng": [
+            12.83333,
+            3.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76698,
+          "name": "Département de Gaya",
+          "latlng": [
+            11.9597,
+            3.46045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76702,
+          "name": "Département de Loga",
+          "latlng": [
+            13.63333,
+            3.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76687,
+          "name": "Dogondoutchi",
+          "latlng": [
+            13.6403,
+            4.02649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76688,
+          "name": "Dosso",
+          "latlng": [
+            13.049,
+            3.1937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76716,
+          "name": "Gaya",
+          "latlng": [
+            11.88435,
+            3.44919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Maradi",
+      "code": "4",
+      "shortName": "4",
+      "cities": [
+        {
+          "id": 76676,
+          "name": "Aguié",
+          "latlng": [
+            13.50601,
+            7.77863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76685,
+          "name": "Dakoro",
+          "latlng": [
+            14.51056,
+            6.765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76714,
+          "name": "Département d’Aguié",
+          "latlng": [
+            13.46976,
+            7.74219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76693,
+          "name": "Département de Dakoro",
+          "latlng": [
+            14.75,
+            7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76704,
+          "name": "Département de Mayahi",
+          "latlng": [
+            14.1,
+            7.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76712,
+          "name": "Département de Tessaoua",
+          "latlng": [
+            13.6,
+            7.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76718,
+          "name": "Guidan Roumdji Department",
+          "latlng": [
+            13.6575,
+            6.69583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76724,
+          "name": "Madarounfa",
+          "latlng": [
+            13.28253,
+            7.15495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76726,
+          "name": "Maradi",
+          "latlng": [
+            13.5,
+            7.10174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76728,
+          "name": "Mayahi",
+          "latlng": [
+            13.95532,
+            7.67122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76738,
+          "name": "Tessaoua",
+          "latlng": [
+            13.75737,
+            7.9874
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76739,
+          "name": "Tibiri",
+          "latlng": [
+            13.56271,
+            7.04848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Tahoua",
+      "code": "5",
+      "shortName": "5",
+      "cities": [
+        {
+          "id": 76674,
+          "name": "Abalak",
+          "latlng": [
+            15.41618,
+            6.16975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76682,
+          "name": "Birni N Konni",
+          "latlng": [
+            13.79599,
+            5.25026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76684,
+          "name": "Bouza",
+          "latlng": [
+            14.42293,
+            6.04278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76689,
+          "name": "Département d' Illéla",
+          "latlng": [
+            14.25,
+            5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76691,
+          "name": "Département de Birni Nkonni",
+          "latlng": [
+            13.9,
+            5.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76692,
+          "name": "Département de Bouza",
+          "latlng": [
+            14.43333,
+            6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76701,
+          "name": "Département de Keïta",
+          "latlng": [
+            14.8,
+            6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76703,
+          "name": "Département de Madaoua",
+          "latlng": [
+            13.99988,
+            6.10012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76709,
+          "name": "Département de Tahoua",
+          "latlng": [
+            14.8,
+            4.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76710,
+          "name": "Département de Tchin-Tabaraden",
+          "latlng": [
+            15.86694,
+            5.71042
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76719,
+          "name": "Illéla",
+          "latlng": [
+            14.4605,
+            5.2437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76720,
+          "name": "Keïta",
+          "latlng": [
+            14.7551,
+            5.7749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76723,
+          "name": "Madaoua",
+          "latlng": [
+            14.073,
+            5.96
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76734,
+          "name": "Tahoua",
+          "latlng": [
+            14.8888,
+            5.2692
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76736,
+          "name": "Tchintabaraden",
+          "latlng": [
+            15.8969,
+            5.7985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Tillabéri",
+      "code": "6",
+      "shortName": "6",
+      "cities": [
+        {
+          "id": 76679,
+          "name": "Ayorou",
+          "latlng": [
+            14.73075,
+            0.91739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76680,
+          "name": "Balleyara",
+          "latlng": [
+            13.72848,
+            2.87503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76697,
+          "name": "Département de Filingué",
+          "latlng": [
+            14.31645,
+            3.23611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76707,
+          "name": "Département de Ouallam",
+          "latlng": [
+            14.63333,
+            2.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76708,
+          "name": "Département de Say",
+          "latlng": [
+            13.03579,
+            2.22112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76715,
+          "name": "Filingué",
+          "latlng": [
+            14.3521,
+            3.3168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76721,
+          "name": "Kollo",
+          "latlng": [
+            13.3043,
+            2.339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76722,
+          "name": "Kollo Department",
+          "latlng": [
+            13.576,
+            2.452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76732,
+          "name": "Ouallam",
+          "latlng": [
+            14.31641,
+            2.08597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76733,
+          "name": "Say",
+          "latlng": [
+            13.1007,
+            2.3689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76742,
+          "name": "Téra",
+          "latlng": [
+            14.00776,
+            0.75306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76737,
+          "name": "Tera Department",
+          "latlng": [
+            14.186,
+            0.843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76741,
+          "name": "Tillabéri",
+          "latlng": [
+            14.20711,
+            1.45418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76740,
+          "name": "Tillaberi Department",
+          "latlng": [
+            14.516,
+            1.443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Zinder",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 76699,
+          "name": "Département de Gouré",
+          "latlng": [
+            14.01618,
+            10.14722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76700,
+          "name": "Département de Kantché",
+          "latlng": [
+            13.4,
+            8.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76713,
+          "name": "Département de Tânout",
+          "latlng": [
+            14.75,
+            8.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76717,
+          "name": "Gouré",
+          "latlng": [
+            13.9835,
+            10.27035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76725,
+          "name": "Magaria",
+          "latlng": [
+            12.99826,
+            8.90991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76727,
+          "name": "Matamey",
+          "latlng": [
+            13.42309,
+            8.47485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76730,
+          "name": "Mirriah",
+          "latlng": [
+            13.70727,
+            9.15013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76735,
+          "name": "Tanout",
+          "latlng": [
+            14.97089,
+            8.88786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76743,
+          "name": "Zinder",
+          "latlng": [
+            13.80716,
+            8.9881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

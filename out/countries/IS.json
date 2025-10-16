@@ -1,0 +1,908 @@
+{
+  "name": {
+    "common": "Iceland",
+    "official": "Iceland"
+  },
+  "iso2": "IS",
+  "iso3": "ISL",
+  "numericCode": "352",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".is",
+  "phoneCode": "354",
+  "capital": "Reykjavik",
+  "currencies": {
+    "ISK": "Icelandic króna"
+  },
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Reykjavik",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/is.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/is.svg",
+  "states": [
+    {
+      "id": 3431,
+      "name": "Capital",
+      "code": "1",
+      "shortName": "1",
+      "cities": [
+        {
+          "id": 135228,
+          "name": "Álftanes",
+          "latlng": [
+            64.1,
+            -22.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135181,
+          "name": "Garðabær",
+          "latlng": [
+            64.08865,
+            -21.92298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135186,
+          "name": "Hafnarfjörður",
+          "latlng": [
+            64.0671,
+            -21.93774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135196,
+          "name": "Kjósarhreppur",
+          "latlng": [
+            64.30644,
+            -21.49919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135197,
+          "name": "Kópavogur",
+          "latlng": [
+            64.11234,
+            -21.91298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135200,
+          "name": "Mosfellsbaer",
+          "latlng": [
+            64.15,
+            -21.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135201,
+          "name": "Mosfellsbær",
+          "latlng": [
+            64.16667,
+            -21.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135206,
+          "name": "Reykjavík",
+          "latlng": [
+            64.13548,
+            -21.89541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135211,
+          "name": "Seltjarnarnes",
+          "latlng": [
+            64.15309,
+            -21.99499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3433,
+      "name": "Eastern",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 135166,
+          "name": "Borgarfjarðarhreppur",
+          "latlng": [
+            65.43401,
+            -13.82933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135168,
+          "name": "Breiðdalshreppur",
+          "latlng": [
+            64.83333,
+            -14.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135172,
+          "name": "Egilsstaðir",
+          "latlng": [
+            65.26687,
+            -14.39485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135173,
+          "name": "Eskifjörður",
+          "latlng": [
+            65.07306,
+            -14.01525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135177,
+          "name": "Fjarðabyggð",
+          "latlng": [
+            65.08333,
+            -14
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135179,
+          "name": "Fljótsdalshérað",
+          "latlng": [
+            65.2502,
+            -15.37211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135178,
+          "name": "Fljótsdalshreppur",
+          "latlng": [
+            64.85275,
+            -15.2568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135191,
+          "name": "Höfn",
+          "latlng": [
+            64.25388,
+            -15.21212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135203,
+          "name": "Neskaupstaður",
+          "latlng": [
+            65.14819,
+            -13.68368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135207,
+          "name": "Reyðarfjörður",
+          "latlng": [
+            65.03164,
+            -14.21832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3437,
+      "name": "Northeastern",
+      "code": "6",
+      "shortName": "6",
+      "cities": [
+        {
+          "id": 135163,
+          "name": "Akureyri",
+          "latlng": [
+            65.68353,
+            -18.0878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135170,
+          "name": "Dalvík",
+          "latlng": [
+            65.97018,
+            -18.52861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135171,
+          "name": "Dalvíkurbyggð",
+          "latlng": [
+            65.87318,
+            -18.60844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135175,
+          "name": "Eyjafjarðarsveit",
+          "latlng": [
+            65.33333,
+            -18.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135176,
+          "name": "Fjallabyggð",
+          "latlng": [
+            66.05962,
+            -18.7822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135185,
+          "name": "Grýtubakkahreppur",
+          "latlng": [
+            65.98333,
+            -18.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135192,
+          "name": "Hörgársveit",
+          "latlng": [
+            65.64828,
+            -18.49599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135194,
+          "name": "Húsavík",
+          "latlng": [
+            66.04148,
+            -17.33834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135198,
+          "name": "Langanesbyggð",
+          "latlng": [
+            66.05186,
+            -15.18969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135199,
+          "name": "Laugar",
+          "latlng": [
+            65.72159,
+            -17.37352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135212,
+          "name": "Siglufjörður",
+          "latlng": [
+            66.15198,
+            -18.90815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135217,
+          "name": "Skútustaðahreppur",
+          "latlng": [
+            65.17177,
+            -16.7789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135221,
+          "name": "Svalbarðsstrandarhreppur",
+          "latlng": [
+            65.74138,
+            -18.03513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135223,
+          "name": "Tjörneshreppur",
+          "latlng": [
+            66.11667,
+            -17.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135233,
+          "name": "Þingeyjarsveit",
+          "latlng": [
+            65.37229,
+            -17.59927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3435,
+      "name": "Northwestern",
+      "code": "5",
+      "shortName": "5",
+      "cities": [
+        {
+          "id": 135161,
+          "name": "Akrahreppur",
+          "latlng": [
+            65.35505,
+            -18.79572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135193,
+          "name": "Húnaþing Vestra",
+          "latlng": [
+            65.25,
+            -20.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135209,
+          "name": "Sauðárkrókur",
+          "latlng": [
+            65.74611,
+            -19.63944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135214,
+          "name": "Skagabyggð",
+          "latlng": [
+            65.95,
+            -20.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135222,
+          "name": "Sveitarfélagið Skagafjörður",
+          "latlng": [
+            65.50018,
+            -19.44566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3434,
+      "name": "Southern",
+      "code": "8",
+      "shortName": "8",
+      "cities": [
+        {
+          "id": 135229,
+          "name": "Ásahreppur",
+          "latlng": [
+            63.87589,
+            -20.59484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135164,
+          "name": "Bláskógabyggð",
+          "latlng": [
+            64.41667,
+            -20.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135180,
+          "name": "Flóahreppur",
+          "latlng": [
+            63.89569,
+            -20.80159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135184,
+          "name": "Grímsnes- og Grafningshreppur",
+          "latlng": [
+            64.08533,
+            -20.9671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135188,
+          "name": "Hrunamannahreppur",
+          "latlng": [
+            64.40944,
+            -19.72237
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135190,
+          "name": "Hveragerði",
+          "latlng": [
+            64.00039,
+            -21.18602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135202,
+          "name": "Mýrdalshreppur",
+          "latlng": [
+            63.5,
+            -19
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135210,
+          "name": "Selfoss",
+          "latlng": [
+            63.93311,
+            -20.99712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135213,
+          "name": "Skaftárhreppur",
+          "latlng": [
+            63.95948,
+            -18.14491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135215,
+          "name": "Skeiða- og Gnúpverjahreppur",
+          "latlng": [
+            64.34738,
+            -19.37757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135225,
+          "name": "Vestmannaeyjabær",
+          "latlng": [
+            63.43877,
+            -20.269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135226,
+          "name": "Vestmannaeyjar",
+          "latlng": [
+            63.44273,
+            -20.27339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135234,
+          "name": "Þorlákshöfn",
+          "latlng": [
+            63.85591,
+            -21.38337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3430,
+      "name": "Southern Peninsula",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 135182,
+          "name": "Garður",
+          "latlng": [
+            64.06558,
+            -22.64656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135183,
+          "name": "Grindavík",
+          "latlng": [
+            63.83849,
+            -22.43931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135195,
+          "name": "Keflavík",
+          "latlng": [
+            64.00492,
+            -22.56242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135205,
+          "name": "Reykjanesbær",
+          "latlng": [
+            63.99813,
+            -22.56111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135208,
+          "name": "Sandgerði",
+          "latlng": [
+            64.03762,
+            -22.70799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135227,
+          "name": "Vogar",
+          "latlng": [
+            63.9816,
+            -22.38473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3436,
+      "name": "Western",
+      "code": "3",
+      "shortName": "3",
+      "cities": [
+        {
+          "id": 135162,
+          "name": "Akranes",
+          "latlng": [
+            64.32179,
+            -22.0749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135165,
+          "name": "Borgarbyggð",
+          "latlng": [
+            64.71446,
+            -21.23788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135167,
+          "name": "Borgarnes",
+          "latlng": [
+            64.53834,
+            -21.92064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135169,
+          "name": "Dalabyggð",
+          "latlng": [
+            65.10121,
+            -21.72871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135174,
+          "name": "Eyja- og Miklaholtshreppur",
+          "latlng": [
+            64.85846,
+            -22.54557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135187,
+          "name": "Helgafellssveit",
+          "latlng": [
+            64.99069,
+            -22.78948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135189,
+          "name": "Hvalfjarðarsveit",
+          "latlng": [
+            64.44265,
+            -21.61086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135232,
+          "name": "Ólafsvík",
+          "latlng": [
+            64.89429,
+            -23.70918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135216,
+          "name": "Skorradalshreppur",
+          "latlng": [
+            64.51667,
+            -21.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135218,
+          "name": "Snæfellsbær",
+          "latlng": [
+            64.86667,
+            -23.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135220,
+          "name": "Stykkishólmur",
+          "latlng": [
+            65.07537,
+            -22.72977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3432,
+      "name": "Westfjords",
+      "code": "4",
+      "shortName": "4",
+      "cities": [
+        {
+          "id": 135230,
+          "name": "Ísafjarðarbær",
+          "latlng": [
+            66.07586,
+            -23.12794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135231,
+          "name": "Ísafjörður",
+          "latlng": [
+            66.07475,
+            -23.13498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135204,
+          "name": "Reykhólahreppur",
+          "latlng": [
+            65.6099,
+            -22.33324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135219,
+          "name": "Strandabyggð",
+          "latlng": [
+            65.77455,
+            -21.95725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135224,
+          "name": "Tálknafjarðarhreppur",
+          "latlng": [
+            65.61667,
+            -23.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

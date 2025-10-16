@@ -1,0 +1,254 @@
+{
+  "name": {
+    "common": "Man (Isle of)",
+    "official": "Man (Isle of)"
+  },
+  "iso2": "IM",
+  "iso3": "IMN",
+  "numericCode": "833",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".im",
+  "phoneCode": "44",
+  "capital": "Douglas, Isle of Man",
+  "currencies": {
+    "GBP": "British pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Isle_of_Man",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/im.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/im.svg",
+  "states": [
+    {
+      "id": 5303,
+      "name": "Ayre",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 154082,
+          "name": "Andreas",
+          "latlng": [
+            54.368414,
+            -4.5211463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154083,
+          "name": "Bride",
+          "latlng": [
+            54.3831657,
+            -4.4080356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154084,
+          "name": "Lezayre",
+          "latlng": [
+            54.2962193,
+            -4.5311015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "name": "Garff",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 154085,
+          "name": "Lonan",
+          "latlng": [
+            54.2210452,
+            -4.5010306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154086,
+          "name": "Maughold",
+          "latlng": [
+            54.2549454,
+            -4.5122349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154087,
+          "name": "Onchan",
+          "latlng": [
+            54.1981508,
+            -4.5490898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "name": "Glenfaba",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 154088,
+          "name": "German",
+          "latlng": [
+            54.2187145,
+            -4.7065273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "name": "Michael",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 154089,
+          "name": "Ballaugh",
+          "latlng": [
+            54.3048121,
+            -4.6207526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154090,
+          "name": "Jurby",
+          "latlng": [
+            54.3590528,
+            -4.5406586
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154091,
+          "name": "Michael",
+          "latlng": [
+            54.2742778,
+            -4.6427325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5307,
+      "name": "Middle",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 154092,
+          "name": "Braddan",
+          "latlng": [
+            54.1632828,
+            -4.5258506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154093,
+          "name": "Marown",
+          "latlng": [
+            54.1846242,
+            -4.6495218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154094,
+          "name": "Santon",
+          "latlng": [
+            54.1205489,
+            -4.6493775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "name": "Rushen",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 154095,
+          "name": "Arbory",
+          "latlng": [
+            54.1087807,
+            -4.8356454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154097,
+          "name": "Malew",
+          "latlng": [
+            54.1118049,
+            -4.8013827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154096,
+          "name": "Rushen",
+          "latlng": [
+            54.0908492,
+            -4.8414982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

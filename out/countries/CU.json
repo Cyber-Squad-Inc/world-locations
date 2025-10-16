@@ -1,0 +1,2215 @@
+{
+  "name": {
+    "common": "Cuba",
+    "official": "Cuba"
+  },
+  "iso2": "CU",
+  "iso3": "CUB",
+  "numericCode": "192",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".cu",
+  "phoneCode": "53",
+  "capital": "Havana",
+  "currencies": {
+    "CUP": "Cuban peso"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Havana",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "CST",
+      "tzName": "Cuba Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cu.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cu.svg",
+  "states": [
+    {
+      "id": 283,
+      "name": "Artemisa",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 21804,
+          "name": "Alquízar",
+          "latlng": [
+            22.80517,
+            -82.58392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21807,
+          "name": "Artemisa",
+          "latlng": [
+            22.81667,
+            -82.75944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21808,
+          "name": "Bahía Honda",
+          "latlng": [
+            22.90332,
+            -83.15994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21814,
+          "name": "Bauta",
+          "latlng": [
+            22.98226,
+            -82.54719
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21820,
+          "name": "Cabañas",
+          "latlng": [
+            22.97944,
+            -82.92214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21828,
+          "name": "Candelaria",
+          "latlng": [
+            22.74057,
+            -82.95912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21858,
+          "name": "Guanajay",
+          "latlng": [
+            22.92639,
+            -82.6875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21865,
+          "name": "Güira de Melena",
+          "latlng": [
+            22.79613,
+            -82.50667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21895,
+          "name": "Mariel",
+          "latlng": [
+            22.98931,
+            -82.75376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21904,
+          "name": "Municipio de Artemisa",
+          "latlng": [
+            22.77383,
+            -82.80419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21906,
+          "name": "Municipio de Bauta",
+          "latlng": [
+            22.96957,
+            -82.49997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21914,
+          "name": "Municipio de Guanajay",
+          "latlng": [
+            22.89215,
+            -82.70873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21923,
+          "name": "Municipio de Mariel",
+          "latlng": [
+            22.96515,
+            -82.80324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21931,
+          "name": "Municipio de San Cristóbal",
+          "latlng": [
+            22.71446,
+            -83.04561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21959,
+          "name": "San Antonio de los Baños",
+          "latlng": [
+            22.89018,
+            -82.50099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21960,
+          "name": "San Cristobal",
+          "latlng": [
+            22.71658,
+            -83.05647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21976,
+          "name": "Soroa",
+          "latlng": [
+            22.8,
+            -83.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "name": "Camagüey",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 21825,
+          "name": "Camagüey",
+          "latlng": [
+            21.38083,
+            -77.91694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21848,
+          "name": "El Caney",
+          "latlng": [
+            21.3,
+            -78.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21851,
+          "name": "Esmeralda",
+          "latlng": [
+            21.85139,
+            -78.11725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21854,
+          "name": "Florida",
+          "latlng": [
+            21.52536,
+            -78.22579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21863,
+          "name": "Guáimaro",
+          "latlng": [
+            21.05222,
+            -77.3499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21876,
+          "name": "Jimaguayú",
+          "latlng": [
+            21.24224,
+            -77.82625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21899,
+          "name": "Minas",
+          "latlng": [
+            21.48802,
+            -77.61033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21913,
+          "name": "Municipio de Florida",
+          "latlng": [
+            21.46582,
+            -78.34848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21928,
+          "name": "Municipio de Nuevitas",
+          "latlng": [
+            21.55,
+            -77.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21938,
+          "name": "Nuevitas",
+          "latlng": [
+            21.54585,
+            -77.26504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21971,
+          "name": "Santa Cruz del Sur",
+          "latlng": [
+            20.71633,
+            -77.99816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21975,
+          "name": "Sibanicú",
+          "latlng": [
+            21.23631,
+            -77.52561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21982,
+          "name": "Vertientes",
+          "latlng": [
+            21.25817,
+            -78.14979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Ciego de Ávila",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 21811,
+          "name": "Baraguá",
+          "latlng": [
+            21.68216,
+            -78.62567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21832,
+          "name": "Chambas",
+          "latlng": [
+            22.19534,
+            -78.9123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21833,
+          "name": "Ciego de Ávila",
+          "latlng": [
+            21.84,
+            -78.76194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21836,
+          "name": "Ciro Redondo",
+          "latlng": [
+            22.01921,
+            -78.70365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21853,
+          "name": "Florencia",
+          "latlng": [
+            22.1461,
+            -78.97328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21902,
+          "name": "Morón",
+          "latlng": [
+            22.10774,
+            -78.62667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21909,
+          "name": "Municipio de Ciego de Ávila",
+          "latlng": [
+            21.85,
+            -78.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21926,
+          "name": "Municipio de Morón",
+          "latlng": [
+            22.2998,
+            -78.56875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21945,
+          "name": "Primero de Enero",
+          "latlng": [
+            21.94501,
+            -78.4313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21981,
+          "name": "Venezuela",
+          "latlng": [
+            21.73748,
+            -78.79336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Cienfuegos",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 21800,
+          "name": "Abreus",
+          "latlng": [
+            22.27797,
+            -80.56931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21801,
+          "name": "Aguada de Pasajeros",
+          "latlng": [
+            22.3852,
+            -80.84792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21834,
+          "name": "Cienfuegos",
+          "latlng": [
+            22.14957,
+            -80.44662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21843,
+          "name": "Cruces",
+          "latlng": [
+            22.34203,
+            -80.27021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21845,
+          "name": "Cumanayagua",
+          "latlng": [
+            22.15247,
+            -80.20354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21883,
+          "name": "Lajas",
+          "latlng": [
+            22.41479,
+            -80.2931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21903,
+          "name": "Municipio de Abreus",
+          "latlng": [
+            22.19229,
+            -80.71465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21910,
+          "name": "Municipio de Cienfuegos",
+          "latlng": [
+            22.15,
+            -80.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21940,
+          "name": "Palmira",
+          "latlng": [
+            22.24126,
+            -80.3911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21953,
+          "name": "Rodas",
+          "latlng": [
+            22.34184,
+            -80.55596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Granma",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 21812,
+          "name": "Bartolomé Masó",
+          "latlng": [
+            20.16635,
+            -76.94291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21815,
+          "name": "Bayamo",
+          "latlng": [
+            20.37417,
+            -76.64361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21827,
+          "name": "Campechuela",
+          "latlng": [
+            20.23329,
+            -77.2799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21829,
+          "name": "Cauto Cristo",
+          "latlng": [
+            20.55709,
+            -76.4727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21862,
+          "name": "Guisa",
+          "latlng": [
+            20.25494,
+            -76.5393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21875,
+          "name": "Jiguaní",
+          "latlng": [
+            20.36785,
+            -76.42741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21894,
+          "name": "Manzanillo",
+          "latlng": [
+            20.34173,
+            -77.12126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21898,
+          "name": "Media Luna",
+          "latlng": [
+            20.14298,
+            -77.43532
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21907,
+          "name": "Municipio de Bayamo",
+          "latlng": [
+            20.42511,
+            -76.68614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21922,
+          "name": "Municipio de Manzanillo",
+          "latlng": [
+            20.24732,
+            -77.10273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21927,
+          "name": "Municipio de Niquero",
+          "latlng": [
+            19.93912,
+            -77.57085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21936,
+          "name": "Niquero",
+          "latlng": [
+            20.04698,
+            -77.58089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21954,
+          "name": "Río Cauto",
+          "latlng": [
+            20.55971,
+            -76.91673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21985,
+          "name": "Yara",
+          "latlng": [
+            20.27465,
+            -76.95132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Guantánamo",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 21810,
+          "name": "Baracoa",
+          "latlng": [
+            20.34711,
+            -74.49624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21860,
+          "name": "Guantánamo",
+          "latlng": [
+            20.14444,
+            -75.20917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21889,
+          "name": "Maisí",
+          "latlng": [
+            20.24673,
+            -74.15181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21916,
+          "name": "Municipio de Guantánamo",
+          "latlng": [
+            20.26723,
+            -75.15546
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21955,
+          "name": "Río Guayabal de Yateras",
+          "latlng": [
+            20.36667,
+            -75.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21958,
+          "name": "San Antonio del Sur",
+          "latlng": [
+            20.05564,
+            -74.8075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Havana",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 21803,
+          "name": "Alamar",
+          "latlng": [
+            23.15794,
+            -82.27837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21806,
+          "name": "Arroyo Naranjo",
+          "latlng": [
+            23.03677,
+            -82.36937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21818,
+          "name": "Boyeros",
+          "latlng": [
+            23.0072,
+            -82.4017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21830,
+          "name": "Centro Habana",
+          "latlng": [
+            23.13833,
+            -82.36417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21831,
+          "name": "Cerro",
+          "latlng": [
+            23.10861,
+            -82.37778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21847,
+          "name": "Diez de Octubre",
+          "latlng": [
+            23.0881,
+            -82.3597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21857,
+          "name": "Guanabacoa",
+          "latlng": [
+            23.1236,
+            -82.30082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21866,
+          "name": "Habana del Este",
+          "latlng": [
+            23.15917,
+            -82.33056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21867,
+          "name": "Havana",
+          "latlng": [
+            23.13302,
+            -82.38304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21880,
+          "name": "La Habana Vieja",
+          "latlng": [
+            23.13028,
+            -82.35306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21952,
+          "name": "Regla",
+          "latlng": [
+            23.125,
+            -82.33194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21966,
+          "name": "San Miguel del Padrón",
+          "latlng": [
+            23.06639,
+            -82.29472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21973,
+          "name": "Santiago de las Vegas",
+          "latlng": [
+            22.97,
+            -82.38694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Holguín",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 21809,
+          "name": "Banes",
+          "latlng": [
+            20.96116,
+            -75.722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21821,
+          "name": "Cacocum",
+          "latlng": [
+            20.73775,
+            -76.32574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21844,
+          "name": "Cueto",
+          "latlng": [
+            20.64855,
+            -75.92967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21856,
+          "name": "Gibara",
+          "latlng": [
+            21.10988,
+            -76.13145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21868,
+          "name": "Holguín",
+          "latlng": [
+            20.88722,
+            -76.26306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21877,
+          "name": "Jobabo",
+          "latlng": [
+            20.96917,
+            -76.29944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21901,
+          "name": "Moa",
+          "latlng": [
+            20.65776,
+            -74.95075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21905,
+          "name": "Municipio de Banes",
+          "latlng": [
+            20.98008,
+            -75.74933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21918,
+          "name": "Municipio de Holguín",
+          "latlng": [
+            20.91192,
+            -76.27057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21956,
+          "name": "Sagua de Tánamo",
+          "latlng": [
+            20.58269,
+            -75.24116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21962,
+          "name": "San Germán",
+          "latlng": [
+            20.60009,
+            -76.13364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Isla de la Juventud",
+      "code": "99",
+      "shortName": "99",
+      "cities": [
+        {
+          "id": 21937,
+          "name": "Nueva Gerona",
+          "latlng": [
+            21.88667,
+            -82.80556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Las Tunas",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 21805,
+          "name": "Amancio",
+          "latlng": [
+            20.81914,
+            -77.57958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21837,
+          "name": "Colombia",
+          "latlng": [
+            20.98812,
+            -77.42598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21874,
+          "name": "Jesús Menéndez",
+          "latlng": [
+            21.16139,
+            -76.47919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21878,
+          "name": "Jobabo",
+          "latlng": [
+            20.90748,
+            -77.28194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21884,
+          "name": "Las Tunas",
+          "latlng": [
+            20.96167,
+            -76.95111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21890,
+          "name": "Manatí",
+          "latlng": [
+            21.3107,
+            -76.93403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21947,
+          "name": "Puerto Padre",
+          "latlng": [
+            21.19517,
+            -76.60358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Matanzas",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 21802,
+          "name": "Alacranes",
+          "latlng": [
+            22.76719,
+            -81.56803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21817,
+          "name": "Bolondrón",
+          "latlng": [
+            22.76307,
+            -81.4478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21824,
+          "name": "Calimete",
+          "latlng": [
+            22.5342,
+            -80.91105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21846,
+          "name": "Cárdenas",
+          "latlng": [
+            23.03661,
+            -81.20596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21838,
+          "name": "Colón",
+          "latlng": [
+            22.72064,
+            -80.90492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21870,
+          "name": "Jagüey Grande",
+          "latlng": [
+            22.52694,
+            -81.12861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21879,
+          "name": "Jovellanos",
+          "latlng": [
+            22.80375,
+            -81.19127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21885,
+          "name": "Limonar",
+          "latlng": [
+            22.95035,
+            -81.41059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21886,
+          "name": "Los Arabos",
+          "latlng": [
+            22.72969,
+            -80.72081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21891,
+          "name": "Manguito",
+          "latlng": [
+            22.58733,
+            -80.91451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21896,
+          "name": "Martí",
+          "latlng": [
+            22.94714,
+            -80.91902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21897,
+          "name": "Matanzas",
+          "latlng": [
+            23.04111,
+            -81.5775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21912,
+          "name": "Municipio de Cárdenas",
+          "latlng": [
+            22.98978,
+            -81.2352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21924,
+          "name": "Municipio de Matanzas",
+          "latlng": [
+            23.05,
+            -81.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21941,
+          "name": "Pedro Betancourt",
+          "latlng": [
+            22.72709,
+            -81.28963
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21942,
+          "name": "Perico",
+          "latlng": [
+            22.76987,
+            -81.0183
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21979,
+          "name": "Unión de Reyes",
+          "latlng": [
+            22.79505,
+            -81.53617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21980,
+          "name": "Varadero",
+          "latlng": [
+            23.15678,
+            -81.24441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Mayabeque",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 21813,
+          "name": "Batabanó",
+          "latlng": [
+            22.71794,
+            -82.28965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21816,
+          "name": "Bejucal",
+          "latlng": [
+            22.92861,
+            -82.38861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21864,
+          "name": "Güines",
+          "latlng": [
+            22.83727,
+            -82.02641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21871,
+          "name": "Jamaica",
+          "latlng": [
+            22.97559,
+            -82.16852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21872,
+          "name": "Jaruco",
+          "latlng": [
+            23.04419,
+            -82.00919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21881,
+          "name": "La Salud",
+          "latlng": [
+            22.87199,
+            -82.42328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21888,
+          "name": "Madruga",
+          "latlng": [
+            22.91,
+            -81.85639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21917,
+          "name": "Municipio de Güines",
+          "latlng": [
+            22.78712,
+            -82.01602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21925,
+          "name": "Municipio de Melena del Sur",
+          "latlng": [
+            22.78821,
+            -82.15113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21949,
+          "name": "Quivicán",
+          "latlng": [
+            22.82313,
+            -82.35558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21963,
+          "name": "San José de las Lajas",
+          "latlng": [
+            22.96139,
+            -82.15111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21967,
+          "name": "San Nicolás de Bari",
+          "latlng": [
+            22.78444,
+            -81.91333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21970,
+          "name": "Santa Cruz del Norte",
+          "latlng": [
+            23.15424,
+            -81.92556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Pinar del Río",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 21840,
+          "name": "Consolación del Sur",
+          "latlng": [
+            22.50419,
+            -83.51442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21859,
+          "name": "Guane",
+          "latlng": [
+            22.20179,
+            -84.08484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21887,
+          "name": "Los Palacios",
+          "latlng": [
+            22.58882,
+            -83.24671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21893,
+          "name": "Mantua",
+          "latlng": [
+            22.29058,
+            -84.28599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21900,
+          "name": "Minas de Matahambre",
+          "latlng": [
+            22.58691,
+            -83.94551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21911,
+          "name": "Municipio de Consolación del Sur",
+          "latlng": [
+            22.44095,
+            -83.41985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21915,
+          "name": "Municipio de Guane",
+          "latlng": [
+            22.24591,
+            -84.0366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21920,
+          "name": "Municipio de La Palma",
+          "latlng": [
+            22.75,
+            -83.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21921,
+          "name": "Municipio de Los Palacios",
+          "latlng": [
+            22.58333,
+            -83.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21943,
+          "name": "Pinar del Río",
+          "latlng": [
+            22.41667,
+            -83.69667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21946,
+          "name": "Puerto Esperanza",
+          "latlng": [
+            22.77041,
+            -83.73138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21961,
+          "name": "San Diego de Los Baños",
+          "latlng": [
+            22.64667,
+            -83.36972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21965,
+          "name": "San Luis",
+          "latlng": [
+            22.27898,
+            -83.75956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21983,
+          "name": "Viñales",
+          "latlng": [
+            22.61892,
+            -83.70694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Sancti Spíritus",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 21819,
+          "name": "Cabaiguán",
+          "latlng": [
+            22.07874,
+            -79.49726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21839,
+          "name": "Condado",
+          "latlng": [
+            21.8767,
+            -79.84014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21855,
+          "name": "Fomento",
+          "latlng": [
+            22.10475,
+            -79.72141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21861,
+          "name": "Guayos",
+          "latlng": [
+            22.04956,
+            -79.46106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21873,
+          "name": "Jatibonico",
+          "latlng": [
+            21.94333,
+            -79.16906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21882,
+          "name": "La Sierpe",
+          "latlng": [
+            21.77241,
+            -79.26832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21908,
+          "name": "Municipio de Cabaiguán",
+          "latlng": [
+            22.08333,
+            -79.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21919,
+          "name": "Municipio de Jatibonico",
+          "latlng": [
+            21.93333,
+            -79.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21932,
+          "name": "Municipio de Sancti Spíritus",
+          "latlng": [
+            21.82176,
+            -79.51036
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21935,
+          "name": "Municipio de Trinidad",
+          "latlng": [
+            21.83195,
+            -79.88362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21968,
+          "name": "Sancti Spíritus",
+          "latlng": [
+            21.92972,
+            -79.4425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21977,
+          "name": "Topes de Collantes",
+          "latlng": [
+            21.91524,
+            -80.01929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21978,
+          "name": "Trinidad",
+          "latlng": [
+            21.80224,
+            -79.98467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21984,
+          "name": "Yaguajay",
+          "latlng": [
+            22.32691,
+            -79.23567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21986,
+          "name": "Zaza del Medio",
+          "latlng": [
+            21.99712,
+            -79.36678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Santiago de Cuba",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 21841,
+          "name": "Contramaestre",
+          "latlng": [
+            20.29879,
+            -76.24511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21849,
+          "name": "El Cobre",
+          "latlng": [
+            20.0485,
+            -75.94579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21929,
+          "name": "Municipio de Palma Soriano",
+          "latlng": [
+            20.20897,
+            -76.05776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21934,
+          "name": "Municipio de Santiago de Cuba",
+          "latlng": [
+            20.00617,
+            -75.70816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21939,
+          "name": "Palma Soriano",
+          "latlng": [
+            20.2113,
+            -75.99362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21964,
+          "name": "San Luis",
+          "latlng": [
+            20.18809,
+            -75.85031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21972,
+          "name": "Santiago de Cuba",
+          "latlng": [
+            20.02083,
+            -75.82667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Villa Clara",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 21822,
+          "name": "Caibarién",
+          "latlng": [
+            22.51996,
+            -79.46599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21823,
+          "name": "Calabazar de Sagua",
+          "latlng": [
+            22.64515,
+            -79.8951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21826,
+          "name": "Camajuaní",
+          "latlng": [
+            22.48333,
+            -79.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21835,
+          "name": "Cifuentes",
+          "latlng": [
+            22.6493,
+            -80.04935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21842,
+          "name": "Corralillo",
+          "latlng": [
+            22.98212,
+            -80.58556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21850,
+          "name": "Encrucijada",
+          "latlng": [
+            22.61802,
+            -79.86603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21852,
+          "name": "Esperanza",
+          "latlng": [
+            22.4468,
+            -80.09711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21869,
+          "name": "Isabela de Sagua",
+          "latlng": [
+            22.93924,
+            -80.01185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21892,
+          "name": "Manicaragua",
+          "latlng": [
+            22.15021,
+            -79.97867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21930,
+          "name": "Municipio de Placetas",
+          "latlng": [
+            22.22248,
+            -79.74268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21933,
+          "name": "Municipio de Santa Clara",
+          "latlng": [
+            22.4,
+            -79.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21944,
+          "name": "Placetas",
+          "latlng": [
+            22.31184,
+            -79.6544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21948,
+          "name": "Quemado de Güines",
+          "latlng": [
+            22.78816,
+            -80.25226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21950,
+          "name": "Rancho Veloz",
+          "latlng": [
+            22.88042,
+            -80.39098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21951,
+          "name": "Ranchuelo",
+          "latlng": [
+            22.37266,
+            -80.15046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21957,
+          "name": "Sagua la Grande",
+          "latlng": [
+            22.80667,
+            -80.07556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21969,
+          "name": "Santa Clara",
+          "latlng": [
+            22.40694,
+            -79.96472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21974,
+          "name": "Santo Domingo",
+          "latlng": [
+            22.58677,
+            -80.24261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

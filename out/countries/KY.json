@@ -1,0 +1,131 @@
+{
+  "name": {
+    "common": "Cayman Islands",
+    "official": "Cayman Islands"
+  },
+  "iso2": "KY",
+  "iso3": "CYM",
+  "numericCode": "136",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".ky",
+  "phoneCode": "1",
+  "capital": "George Town",
+  "currencies": {
+    "KYD": "Cayman Islands dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Cayman",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ky.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ky.svg",
+  "states": [
+    {
+      "id": 5252,
+      "name": "Cayman Brac",
+      "code": "NULL",
+      "shortName": "NULL",
+      "cities": [
+        {
+          "id": 153943,
+          "name": "Cayman Brac",
+          "latlng": [
+            19.719997,
+            -79.8907266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5251,
+      "name": "Grand Cayman",
+      "code": "NULL",
+      "shortName": "NULL",
+      "cities": [
+        {
+          "id": 153938,
+          "name": "Bodden Town",
+          "latlng": [
+            19.2796693,
+            -81.2777999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153939,
+          "name": "East End",
+          "latlng": [
+            19.2995898,
+            -81.1196138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153940,
+          "name": "George Town",
+          "latlng": [
+            19.2902326,
+            -81.4433372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153941,
+          "name": "North Side",
+          "latlng": [
+            19.3362047,
+            -81.5139813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153942,
+          "name": "West Bay",
+          "latlng": [
+            19.3665153,
+            -81.4317026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5253,
+      "name": "Little Cayman",
+      "code": "NULL",
+      "shortName": "NULL",
+      "cities": [
+        {
+          "id": 153944,
+          "name": "Little Cayman",
+          "latlng": [
+            19.6856739,
+            -80.1183019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

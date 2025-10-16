@@ -1,0 +1,486 @@
+{
+  "name": {
+    "common": "Kiribati",
+    "official": "Kiribati"
+  },
+  "iso2": "KI",
+  "iso3": "KIR",
+  "numericCode": "296",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".ki",
+  "phoneCode": "686",
+  "capital": "Tarawa",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Enderbury",
+      "gmtOffset": 46800,
+      "gmtOffsetName": "UTC+13:00",
+      "abbreviation": "PHOT",
+      "tzName": "Phoenix Island Time"
+    },
+    {
+      "zoneName": "Pacific/Kiritimati",
+      "gmtOffset": 50400,
+      "gmtOffsetName": "UTC+14:00",
+      "abbreviation": "LINT",
+      "tzName": "Line Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Tarawa",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "GILT",
+      "tzName": "Gilbert Island Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ki.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ki.svg",
+  "states": [
+    {
+      "id": 1831,
+      "name": "Gilbert",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 65041,
+          "name": "Abaiang",
+          "latlng": [
+            1.85293,
+            172.94369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65042,
+          "name": "Abemama",
+          "latlng": [
+            0.4,
+            173.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65043,
+          "name": "Ambo Village",
+          "latlng": [
+            1.35317,
+            173.04259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65044,
+          "name": "Aranuka",
+          "latlng": [
+            0.16428,
+            173.60579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65045,
+          "name": "Arorae",
+          "latlng": [
+            -2.63493,
+            176.82229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65046,
+          "name": "Bairiki Village",
+          "latlng": [
+            1.32924,
+            172.97522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65047,
+          "name": "Banaba",
+          "latlng": [
+            -0.855,
+            169.538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65049,
+          "name": "Banraeaba Village",
+          "latlng": [
+            1.3454,
+            173.03464
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65050,
+          "name": "Beru",
+          "latlng": [
+            -1.32957,
+            175.98072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65051,
+          "name": "Betio Village",
+          "latlng": [
+            1.35797,
+            172.92105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65052,
+          "name": "Bikenibeu Village",
+          "latlng": [
+            1.3673,
+            173.12415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65053,
+          "name": "Bonriki Village",
+          "latlng": [
+            1.38081,
+            173.13887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65054,
+          "name": "Buota Village",
+          "latlng": [
+            1.39078,
+            173.13082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65055,
+          "name": "Butaritari",
+          "latlng": [
+            3.17205,
+            172.79675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65056,
+          "name": "Eita Village",
+          "latlng": [
+            1.36154,
+            173.08113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65059,
+          "name": "Kuria",
+          "latlng": [
+            0.26522,
+            173.38881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65061,
+          "name": "Maiana",
+          "latlng": [
+            0.91869,
+            172.99759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65062,
+          "name": "Makin",
+          "latlng": [
+            3.38816,
+            172.99656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65063,
+          "name": "Makin Village",
+          "latlng": [
+            3.3644,
+            172.98352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65064,
+          "name": "Marakei",
+          "latlng": [
+            2.01077,
+            173.27637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65066,
+          "name": "Nawerewere Village",
+          "latlng": [
+            1.36362,
+            173.13935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65067,
+          "name": "Nikunau",
+          "latlng": [
+            -1.36567,
+            176.46412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65068,
+          "name": "Nonouti",
+          "latlng": [
+            -0.66667,
+            174.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65069,
+          "name": "Onotoa",
+          "latlng": [
+            -1.88587,
+            175.56393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65070,
+          "name": "Rawannawi Village",
+          "latlng": [
+            2.05379,
+            173.26354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65071,
+          "name": "Tabiteuea",
+          "latlng": [
+            -1.42241,
+            174.89805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65074,
+          "name": "Tamana",
+          "latlng": [
+            -2.50113,
+            175.98621
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65075,
+          "name": "Tarawa",
+          "latlng": [
+            1.3278,
+            172.97696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65076,
+          "name": "Teaoraereke Village",
+          "latlng": [
+            1.33309,
+            173.01162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65077,
+          "name": "Temaiku Village",
+          "latlng": [
+            1.36292,
+            173.16226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1832,
+      "name": "Line",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 65048,
+          "name": "Banana Village",
+          "latlng": [
+            1.98329,
+            -157.36526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65058,
+          "name": "Kiritimati",
+          "latlng": [
+            1.94,
+            -157.475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65060,
+          "name": "London Village",
+          "latlng": [
+            1.98487,
+            -157.47502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65065,
+          "name": "Napari Village",
+          "latlng": [
+            3.90806,
+            -159.38832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65072,
+          "name": "Tabuaeran",
+          "latlng": [
+            3.86667,
+            -159.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65073,
+          "name": "Tabwakea Village",
+          "latlng": [
+            2.01643,
+            -157.48773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65078,
+          "name": "Teraina",
+          "latlng": [
+            4.68764,
+            -160.38803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1830,
+      "name": "Phoenix",
+      "code": "P",
+      "shortName": "P",
+      "cities": [
+        {
+          "id": 65057,
+          "name": "Kanton",
+          "latlng": [
+            -2.81,
+            -171.678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

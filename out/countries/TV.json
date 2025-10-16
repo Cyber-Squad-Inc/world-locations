@@ -1,0 +1,191 @@
+{
+  "name": {
+    "common": "Tuvalu",
+    "official": "Tuvalu"
+  },
+  "iso2": "TV",
+  "iso3": "TUV",
+  "numericCode": "798",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".tv",
+  "phoneCode": "688",
+  "capital": "Funafuti",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Funafuti",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "TVT",
+      "tzName": "Tuvalu Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tv.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tv.svg",
+  "states": [
+    {
+      "id": 3951,
+      "name": "Funafuti",
+      "code": "FUN",
+      "shortName": "FUN",
+      "cities": [
+        {
+          "id": 108993,
+          "name": "Alapi Village",
+          "latlng": [
+            -8.52074,
+            179.1968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108995,
+          "name": "Fakaifou Village",
+          "latlng": [
+            -8.51758,
+            179.20094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108996,
+          "name": "Funafuti",
+          "latlng": [
+            -8.52425,
+            179.19417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3947,
+      "name": "Nanumanga",
+      "code": "NMG",
+      "shortName": "NMG",
+      "cities": [
+        {
+          "id": 109001,
+          "name": "Toga Village",
+          "latlng": [
+            -6.28764,
+            176.31472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3949,
+      "name": "Nanumea",
+      "code": "NMA",
+      "shortName": "NMA",
+      "cities": []
+    },
+    {
+      "id": 3946,
+      "name": "Niutao Island Council",
+      "code": "NIT",
+      "shortName": "NIT",
+      "cities": [
+        {
+          "id": 108997,
+          "name": "Kulia Village",
+          "latlng": [
+            -6.10819,
+            177.33393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108998,
+          "name": "Niulakita",
+          "latlng": [
+            -10.788,
+            179.466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3948,
+      "name": "Nui",
+      "code": "NUI",
+      "shortName": "NUI",
+      "cities": [
+        {
+          "id": 109000,
+          "name": "Tanrake Village",
+          "latlng": [
+            -7.24562,
+            177.14511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3952,
+      "name": "Nukufetau",
+      "code": "NKF",
+      "shortName": "NKF",
+      "cities": [
+        {
+          "id": 108999,
+          "name": "Savave Village",
+          "latlng": [
+            -8.02731,
+            178.31351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3953,
+      "name": "Nukulaelae",
+      "code": "NKL",
+      "shortName": "NKL",
+      "cities": []
+    },
+    {
+      "id": 3950,
+      "name": "Vaitupu",
+      "code": "VAI",
+      "shortName": "VAI",
+      "cities": [
+        {
+          "id": 108994,
+          "name": "Asau Village",
+          "latlng": [
+            -7.49026,
+            178.68016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

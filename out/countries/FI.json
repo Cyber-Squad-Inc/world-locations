@@ -1,0 +1,5120 @@
+{
+  "name": {
+    "common": "Finland",
+    "official": "Finland"
+  },
+  "iso2": "FI",
+  "iso3": "FIN",
+  "numericCode": "246",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".fi",
+  "phoneCode": "358",
+  "capital": "Helsinki",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Helsinki",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/fi.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/fi.svg",
+  "states": [
+    {
+      "id": 1509,
+      "name": "Åland Islands",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 153539,
+          "name": "Brändö",
+          "latlng": [
+            60.4075,
+            21.0786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153536,
+          "name": "Eckerö",
+          "latlng": [
+            60.2208,
+            19.5589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153531,
+          "name": "Finström",
+          "latlng": [
+            60.2342,
+            20.1139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153537,
+          "name": "Föglö",
+          "latlng": [
+            60.0989,
+            20.3728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153538,
+          "name": "Geta",
+          "latlng": [
+            60.4183,
+            19.7167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153535,
+          "name": "Hammarland",
+          "latlng": [
+            60.2447,
+            19.6892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153530,
+          "name": "Jomala",
+          "latlng": [
+            60.1181,
+            19.8989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153540,
+          "name": "Kumlinge",
+          "latlng": [
+            60.3992,
+            20.7692
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153532,
+          "name": "Lemland",
+          "latlng": [
+            60.0925,
+            20.1544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153529,
+          "name": "Mariehamn",
+          "latlng": [
+            60.1026,
+            19.9348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153533,
+          "name": "Saltvik",
+          "latlng": [
+            60.3575,
+            20.1547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153534,
+          "name": "Sund",
+          "latlng": [
+            60.2361,
+            20.2156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1511,
+      "name": "Central Finland",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 39132,
+          "name": "Äänekoski",
+          "latlng": [
+            62.6,
+            25.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38760,
+          "name": "Hankasalmi",
+          "latlng": [
+            62.38333,
+            26.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38809,
+          "name": "Jämsä",
+          "latlng": [
+            61.8642,
+            25.19002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38810,
+          "name": "Jämsänkoski",
+          "latlng": [
+            61.919,
+            25.17011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38801,
+          "name": "Joutsa",
+          "latlng": [
+            61.73333,
+            26.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38807,
+          "name": "Jyväskylä",
+          "latlng": [
+            62.24147,
+            25.72088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38823,
+          "name": "Kannonkoski",
+          "latlng": [
+            62.96667,
+            25.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38831,
+          "name": "Karstula",
+          "latlng": [
+            62.86667,
+            24.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38849,
+          "name": "Keuruu",
+          "latlng": [
+            62.26667,
+            24.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38855,
+          "name": "Kinnula",
+          "latlng": [
+            63.38333,
+            24.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38862,
+          "name": "Kivijärvi",
+          "latlng": [
+            63.11984,
+            25.07835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38866,
+          "name": "Konnevesi",
+          "latlng": [
+            62.61667,
+            26.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38868,
+          "name": "Korpilahti",
+          "latlng": [
+            62.01667,
+            25.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38878,
+          "name": "Kuhmoinen",
+          "latlng": [
+            61.56667,
+            25.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38887,
+          "name": "Kyyjärvi",
+          "latlng": [
+            63.03333,
+            24.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38903,
+          "name": "Laukaa",
+          "latlng": [
+            62.41407,
+            25.95194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38907,
+          "name": "Leivonmäki",
+          "latlng": [
+            61.91198,
+            26.12796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38921,
+          "name": "Luhanka",
+          "latlng": [
+            61.79682,
+            25.70457
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38939,
+          "name": "Multia",
+          "latlng": [
+            62.41667,
+            24.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38942,
+          "name": "Muurame",
+          "latlng": [
+            62.13333,
+            25.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38982,
+          "name": "Petäjävesi",
+          "latlng": [
+            62.25,
+            25.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38985,
+          "name": "Pihtipudas",
+          "latlng": [
+            63.38333,
+            25.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39008,
+          "name": "Pylkönmäki",
+          "latlng": [
+            62.66667,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39035,
+          "name": "Saarijärvi",
+          "latlng": [
+            62.70486,
+            25.25396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39066,
+          "name": "Säynätsalo",
+          "latlng": [
+            62.14025,
+            25.76948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39058,
+          "name": "Sumiainen",
+          "latlng": [
+            62.65736,
+            26.04642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39059,
+          "name": "Suolahti",
+          "latlng": [
+            62.56421,
+            25.85363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39079,
+          "name": "Toivakka",
+          "latlng": [
+            62.1,
+            26.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39092,
+          "name": "Uurainen",
+          "latlng": [
+            62.5,
+            25.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39110,
+          "name": "Viitasaari",
+          "latlng": [
+            63.06667,
+            25.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1494,
+      "name": "Central Ostrobothnia",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 38758,
+          "name": "Halsua",
+          "latlng": [
+            63.46667,
+            24.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38888,
+          "name": "Kälviä",
+          "latlng": [
+            63.86067,
+            23.45289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38824,
+          "name": "Kannus",
+          "latlng": [
+            63.9,
+            23.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38838,
+          "name": "Kaustinen",
+          "latlng": [
+            63.54878,
+            23.68845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38864,
+          "name": "Kokkola",
+          "latlng": [
+            63.85414,
+            23.58562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38911,
+          "name": "Lestijärvi",
+          "latlng": [
+            63.53333,
+            24.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38918,
+          "name": "Lohtaja",
+          "latlng": [
+            64.02472,
+            23.50482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38977,
+          "name": "Perho",
+          "latlng": [
+            63.21667,
+            24.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39078,
+          "name": "Toholampi",
+          "latlng": [
+            63.76667,
+            24.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39088,
+          "name": "Ullava",
+          "latlng": [
+            63.6,
+            24.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39106,
+          "name": "Veteli",
+          "latlng": [
+            63.47839,
+            23.78285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1507,
+      "name": "Finland Proper",
+      "code": "19",
+      "shortName": "19",
+      "cities": [
+        {
+          "id": 38732,
+          "name": "Alastaro",
+          "latlng": [
+            60.95,
+            22.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38738,
+          "name": "Askainen",
+          "latlng": [
+            60.56667,
+            21.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38740,
+          "name": "Aura",
+          "latlng": [
+            60.6471,
+            22.58755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38742,
+          "name": "Dragsfjärd",
+          "latlng": [
+            60.06667,
+            22.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38757,
+          "name": "Halikko",
+          "latlng": [
+            60.4,
+            23.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38775,
+          "name": "Houtskär",
+          "latlng": [
+            60.22284,
+            21.37218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38790,
+          "name": "Iniö",
+          "latlng": [
+            60.4,
+            21.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38814,
+          "name": "Kaarina",
+          "latlng": [
+            60.40724,
+            22.36904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38827,
+          "name": "Karinainen",
+          "latlng": [
+            60.66667,
+            22.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38851,
+          "name": "Kiikala",
+          "latlng": [
+            60.46667,
+            23.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38854,
+          "name": "Kimito",
+          "latlng": [
+            60.16047,
+            22.729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38857,
+          "name": "Kisko",
+          "latlng": [
+            60.23333,
+            23.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38884,
+          "name": "Kustavi",
+          "latlng": [
+            60.54529,
+            21.3588
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38886,
+          "name": "Kuusjoki",
+          "latlng": [
+            60.51667,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38894,
+          "name": "Laitila",
+          "latlng": [
+            60.87575,
+            21.69765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38909,
+          "name": "Lemu",
+          "latlng": [
+            60.56667,
+            21.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38913,
+          "name": "Lieto",
+          "latlng": [
+            60.51032,
+            22.46176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38928,
+          "name": "Marttila",
+          "latlng": [
+            60.58333,
+            22.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38929,
+          "name": "Masku",
+          "latlng": [
+            60.57082,
+            22.09883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38930,
+          "name": "Mellilä",
+          "latlng": [
+            60.76667,
+            22.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38934,
+          "name": "Merimasku",
+          "latlng": [
+            60.48333,
+            21.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38936,
+          "name": "Mietoinen",
+          "latlng": [
+            60.63333,
+            21.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38943,
+          "name": "Muurla",
+          "latlng": [
+            60.35,
+            23.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38944,
+          "name": "Mynämäki",
+          "latlng": [
+            60.67915,
+            21.99274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38948,
+          "name": "Naantali",
+          "latlng": [
+            60.46744,
+            22.02428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38949,
+          "name": "Nagu",
+          "latlng": [
+            60.19375,
+            21.90972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38955,
+          "name": "Nousiainen",
+          "latlng": [
+            60.60416,
+            22.07926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38963,
+          "name": "Oripää",
+          "latlng": [
+            60.85,
+            22.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38970,
+          "name": "Paimio",
+          "latlng": [
+            60.45671,
+            22.68694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38972,
+          "name": "Pargas",
+          "latlng": [
+            60.30672,
+            22.30097
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38978,
+          "name": "Perniö",
+          "latlng": [
+            60.2,
+            23.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38980,
+          "name": "Pertteli",
+          "latlng": [
+            60.43333,
+            23.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38986,
+          "name": "Piikkiö",
+          "latlng": [
+            60.42481,
+            22.51601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39009,
+          "name": "Pöytyä",
+          "latlng": [
+            60.76667,
+            22.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39006,
+          "name": "Pyhäranta",
+          "latlng": [
+            60.95,
+            21.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39012,
+          "name": "Raisio",
+          "latlng": [
+            60.48592,
+            22.16895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39030,
+          "name": "Rusko",
+          "latlng": [
+            60.53333,
+            22.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39032,
+          "name": "Rymättylä",
+          "latlng": [
+            60.37658,
+            21.94184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39037,
+          "name": "Salo",
+          "latlng": [
+            60.38333,
+            23.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39065,
+          "name": "Särkisalo",
+          "latlng": [
+            60.11389,
+            22.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39039,
+          "name": "Sauvo",
+          "latlng": [
+            60.34306,
+            22.69642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39054,
+          "name": "Somero",
+          "latlng": [
+            60.61667,
+            23.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39060,
+          "name": "Suomusjärvi",
+          "latlng": [
+            60.35,
+            23.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39069,
+          "name": "Taivassalo",
+          "latlng": [
+            60.56085,
+            21.61639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39071,
+          "name": "Tarvasjoki",
+          "latlng": [
+            60.58333,
+            22.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39081,
+          "name": "Turku",
+          "latlng": [
+            60.45148,
+            22.26869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39093,
+          "name": "Uusikaupunki",
+          "latlng": [
+            60.80043,
+            21.40841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39096,
+          "name": "Vahto",
+          "latlng": [
+            60.6,
+            22.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39119,
+          "name": "Väståboland",
+          "latlng": [
+            60.29972,
+            22.3004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39118,
+          "name": "Västanfjärd",
+          "latlng": [
+            60.05,
+            22.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39102,
+          "name": "Vehmaa",
+          "latlng": [
+            60.68333,
+            21.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39104,
+          "name": "Velkua",
+          "latlng": [
+            60.46667,
+            21.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39128,
+          "name": "Yläne",
+          "latlng": [
+            60.88333,
+            22.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1496,
+      "name": "Kainuu",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 38778,
+          "name": "Hyrynsalmi",
+          "latlng": [
+            64.66667,
+            28.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38816,
+          "name": "Kajaani",
+          "latlng": [
+            64.22728,
+            27.72846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38877,
+          "name": "Kuhmo",
+          "latlng": [
+            64.13333,
+            29.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38971,
+          "name": "Paltamo",
+          "latlng": [
+            64.41667,
+            27.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38999,
+          "name": "Puolanka",
+          "latlng": [
+            64.86667,
+            27.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39025,
+          "name": "Ristijärvi",
+          "latlng": [
+            64.5,
+            28.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39056,
+          "name": "Sotkamo",
+          "latlng": [
+            64.13333,
+            28.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39061,
+          "name": "Suomussalmi",
+          "latlng": [
+            64.88685,
+            28.90778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39094,
+          "name": "Vaala",
+          "latlng": [
+            64.56667,
+            26.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39114,
+          "name": "Vuokatti",
+          "latlng": [
+            64.14466,
+            28.28196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39115,
+          "name": "Vuolijoki",
+          "latlng": [
+            64.18538,
+            26.99547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1512,
+      "name": "Kymenlaakso",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 38735,
+          "name": "Anjala",
+          "latlng": [
+            60.68333,
+            26.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38744,
+          "name": "Elimäki",
+          "latlng": [
+            60.71667,
+            26.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38759,
+          "name": "Hamina",
+          "latlng": [
+            60.56974,
+            27.19794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38784,
+          "name": "Iitti",
+          "latlng": [
+            60.89488,
+            26.33869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38794,
+          "name": "Jaala",
+          "latlng": [
+            61.05251,
+            26.48117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38825,
+          "name": "Karhula",
+          "latlng": [
+            60.52156,
+            26.93125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38872,
+          "name": "Kotka",
+          "latlng": [
+            60.4664,
+            26.94582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38874,
+          "name": "Kouvola",
+          "latlng": [
+            60.86667,
+            26.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38935,
+          "name": "Miehikkälä",
+          "latlng": [
+            60.66667,
+            27.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39001,
+          "name": "Pyhtää",
+          "latlng": [
+            60.49349,
+            26.54346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39112,
+          "name": "Virojoki",
+          "latlng": [
+            60.5794,
+            27.70354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1500,
+      "name": "Lapland",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 38747,
+          "name": "Enontekiö",
+          "latlng": [
+            68.38573,
+            23.63215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38788,
+          "name": "Inari",
+          "latlng": [
+            68.90596,
+            27.02881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38793,
+          "name": "Ivalo",
+          "latlng": [
+            68.65986,
+            27.53891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38841,
+          "name": "Kemi",
+          "latlng": [
+            65.73641,
+            24.56371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38842,
+          "name": "Kemijärvi",
+          "latlng": [
+            66.71309,
+            27.43056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38843,
+          "name": "Keminmaa",
+          "latlng": [
+            65.80158,
+            24.54483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38859,
+          "name": "Kittilä",
+          "latlng": [
+            67.66474,
+            24.89356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38865,
+          "name": "Kolari",
+          "latlng": [
+            67.33047,
+            23.77785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38941,
+          "name": "Muonio",
+          "latlng": [
+            67.95,
+            23.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38975,
+          "name": "Pelkosenniemi",
+          "latlng": [
+            67.11083,
+            27.51056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38976,
+          "name": "Pello",
+          "latlng": [
+            66.77364,
+            23.96255
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38994,
+          "name": "Posio",
+          "latlng": [
+            66.10856,
+            28.17186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39004,
+          "name": "Pyhäjärvi",
+          "latlng": [
+            67.0701,
+            27.21763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39015,
+          "name": "Ranua",
+          "latlng": [
+            65.91667,
+            26.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39027,
+          "name": "Rovaniemi",
+          "latlng": [
+            66.5,
+            25.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39036,
+          "name": "Salla",
+          "latlng": [
+            66.83333,
+            28.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39043,
+          "name": "Savukoski",
+          "latlng": [
+            67.2925,
+            28.15806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39050,
+          "name": "Simo",
+          "latlng": [
+            65.66667,
+            25.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39052,
+          "name": "Sodankylä",
+          "latlng": [
+            67.41667,
+            26.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39075,
+          "name": "Tervola",
+          "latlng": [
+            66.08333,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39080,
+          "name": "Tornio",
+          "latlng": [
+            65.84811,
+            24.14662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39091,
+          "name": "Utsjoki",
+          "latlng": [
+            69.90864,
+            27.02843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39125,
+          "name": "Ylitornio",
+          "latlng": [
+            66.30893,
+            23.67734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1504,
+      "name": "North Karelia",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 38745,
+          "name": "Eno",
+          "latlng": [
+            62.80511,
+            30.15422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38786,
+          "name": "Ilomantsi",
+          "latlng": [
+            62.67162,
+            30.93276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38798,
+          "name": "Joensuu",
+          "latlng": [
+            62.60118,
+            29.76316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38805,
+          "name": "Juuka",
+          "latlng": [
+            63.23333,
+            29.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38848,
+          "name": "Kesälahti",
+          "latlng": [
+            61.89752,
+            29.83494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38850,
+          "name": "Kiihtelysvaara",
+          "latlng": [
+            62.49525,
+            30.25081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38858,
+          "name": "Kitee",
+          "latlng": [
+            62.1,
+            30.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38867,
+          "name": "Kontiolahti",
+          "latlng": [
+            62.76023,
+            29.84711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38912,
+          "name": "Lieksa",
+          "latlng": [
+            63.31667,
+            30.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38916,
+          "name": "Liperi",
+          "latlng": [
+            62.53333,
+            29.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38957,
+          "name": "Nurmes",
+          "latlng": [
+            63.54205,
+            29.13965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38968,
+          "name": "Outokumpu",
+          "latlng": [
+            62.72685,
+            29.01592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38989,
+          "name": "Polvijärvi",
+          "latlng": [
+            62.85,
+            29.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39007,
+          "name": "Pyhäselkä",
+          "latlng": [
+            62.43333,
+            29.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39033,
+          "name": "Rääkkylä",
+          "latlng": [
+            62.31667,
+            29.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39077,
+          "name": "Tohmajärvi",
+          "latlng": [
+            62.18333,
+            30.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39083,
+          "name": "Tuupovaara",
+          "latlng": [
+            62.48372,
+            30.62731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39097,
+          "name": "Valtimo",
+          "latlng": [
+            63.66667,
+            28.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1505,
+      "name": "Northern Ostrobothnia",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 38733,
+          "name": "Alavieska",
+          "latlng": [
+            64.16667,
+            24.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38754,
+          "name": "Haapajärvi",
+          "latlng": [
+            63.75,
+            25.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38755,
+          "name": "Haapavesi",
+          "latlng": [
+            64.13333,
+            25.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38756,
+          "name": "Hailuoto",
+          "latlng": [
+            65.009,
+            24.71385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38765,
+          "name": "Haukipudas",
+          "latlng": [
+            65.17654,
+            25.35233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38772,
+          "name": "Himanka",
+          "latlng": [
+            64.06218,
+            23.65447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38782,
+          "name": "Ii",
+          "latlng": [
+            65.31735,
+            25.3731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38817,
+          "name": "Kalajoki",
+          "latlng": [
+            64.25,
+            23.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38890,
+          "name": "Kärsämäki",
+          "latlng": [
+            63.96667,
+            25.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38844,
+          "name": "Kempele",
+          "latlng": [
+            64.91314,
+            25.50339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38847,
+          "name": "Kestilä",
+          "latlng": [
+            64.35002,
+            26.27921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38852,
+          "name": "Kiiminki",
+          "latlng": [
+            65.13139,
+            25.79744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38879,
+          "name": "Kuivaniemi",
+          "latlng": [
+            65.57847,
+            25.18814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38885,
+          "name": "Kuusamo",
+          "latlng": [
+            65.96667,
+            29.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38915,
+          "name": "Liminka",
+          "latlng": [
+            64.80985,
+            25.41545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38922,
+          "name": "Lumijoki",
+          "latlng": [
+            64.83744,
+            25.18607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38932,
+          "name": "Merijärvi",
+          "latlng": [
+            64.3,
+            24.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38938,
+          "name": "Muhos",
+          "latlng": [
+            64.80798,
+            25.99314
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38953,
+          "name": "Nivala",
+          "latlng": [
+            63.91667,
+            24.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38965,
+          "name": "Oulainen",
+          "latlng": [
+            64.26667,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38966,
+          "name": "Oulu",
+          "latlng": [
+            65.01236,
+            25.46816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38967,
+          "name": "Oulunsalo",
+          "latlng": [
+            64.93456,
+            25.41121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38987,
+          "name": "Piippola",
+          "latlng": [
+            64.16667,
+            25.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38995,
+          "name": "Pudasjärvi",
+          "latlng": [
+            65.38333,
+            26.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38997,
+          "name": "Pulkkila",
+          "latlng": [
+            64.26667,
+            25.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39003,
+          "name": "Pyhäjärvi",
+          "latlng": [
+            63.66667,
+            25.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39002,
+          "name": "Pyhäjoki",
+          "latlng": [
+            64.46667,
+            24.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39005,
+          "name": "Pyhäntä",
+          "latlng": [
+            64.1,
+            26.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39010,
+          "name": "Raahe",
+          "latlng": [
+            64.68333,
+            24.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39014,
+          "name": "Rantsila",
+          "latlng": [
+            64.50613,
+            25.66449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39020,
+          "name": "Reisjärvi",
+          "latlng": [
+            63.61667,
+            24.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39031,
+          "name": "Ruukki",
+          "latlng": [
+            64.66667,
+            25.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39046,
+          "name": "Sievi",
+          "latlng": [
+            63.9,
+            24.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39048,
+          "name": "Siikajoki",
+          "latlng": [
+            64.81455,
+            24.75924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39068,
+          "name": "Taivalkoski",
+          "latlng": [
+            65.56667,
+            28.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39086,
+          "name": "Tyrnävä",
+          "latlng": [
+            64.76469,
+            25.6523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39090,
+          "name": "Utajärvi",
+          "latlng": [
+            64.75,
+            26.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39108,
+          "name": "Vihanti",
+          "latlng": [
+            64.48472,
+            24.99157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39121,
+          "name": "Yli-Ii",
+          "latlng": [
+            65.37181,
+            25.8458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39123,
+          "name": "Ylikiiminki",
+          "latlng": [
+            65.08333,
+            26.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39126,
+          "name": "Ylivieska",
+          "latlng": [
+            64.08333,
+            24.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1503,
+      "name": "Northern Savonia",
+      "code": "15",
+      "shortName": "15",
+      "cities": []
+    },
+    {
+      "id": 1508,
+      "name": "Ostrobothnia",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 38771,
+          "name": "Hietalahti",
+          "latlng": [
+            63.0848,
+            21.61716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38792,
+          "name": "Isokyrö",
+          "latlng": [
+            63.01172,
+            22.33332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38795,
+          "name": "Jakobstad",
+          "latlng": [
+            63.67486,
+            22.70256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38834,
+          "name": "Kaskinen",
+          "latlng": [
+            62.38444,
+            21.22331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38869,
+          "name": "Korsholm",
+          "latlng": [
+            63.11418,
+            21.68216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38870,
+          "name": "Korsnäs",
+          "latlng": [
+            62.78333,
+            21.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38875,
+          "name": "Kristinestad",
+          "latlng": [
+            62.27429,
+            21.37596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38876,
+          "name": "Kronoby",
+          "latlng": [
+            63.72859,
+            23.03387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38893,
+          "name": "Laihia",
+          "latlng": [
+            62.97609,
+            22.01143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38902,
+          "name": "Larsmo",
+          "latlng": [
+            63.75388,
+            22.74728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38927,
+          "name": "Malax",
+          "latlng": [
+            62.94225,
+            21.57311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38960,
+          "name": "Nykarleby",
+          "latlng": [
+            63.52277,
+            22.53073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38961,
+          "name": "Oravais",
+          "latlng": [
+            63.30135,
+            22.37821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38974,
+          "name": "Pedersöre",
+          "latlng": [
+            63.65,
+            22.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39022,
+          "name": "Replot",
+          "latlng": [
+            63.22882,
+            21.41691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39026,
+          "name": "Ristinummi",
+          "latlng": [
+            63.09192,
+            21.72297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39072,
+          "name": "Teeriniemi",
+          "latlng": [
+            63.09705,
+            21.6959
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39095,
+          "name": "Vaasa",
+          "latlng": [
+            63.096,
+            21.61577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39117,
+          "name": "Vähäkyrö",
+          "latlng": [
+            63.05635,
+            22.10584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39120,
+          "name": "Vörå",
+          "latlng": [
+            63.13607,
+            22.25223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "name": "Päijänne Tavastia",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 38736,
+          "name": "Artjärvi",
+          "latlng": [
+            60.74544,
+            26.07084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38737,
+          "name": "Asikkala",
+          "latlng": [
+            61.21667,
+            25.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38741,
+          "name": "Auttoinen",
+          "latlng": [
+            61.29901,
+            25.08887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38780,
+          "name": "Hämeenkoski",
+          "latlng": [
+            61.02222,
+            25.15417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38763,
+          "name": "Hartola",
+          "latlng": [
+            61.58333,
+            26.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38768,
+          "name": "Heinola",
+          "latlng": [
+            61.20564,
+            26.03811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38774,
+          "name": "Hollola",
+          "latlng": [
+            61.05,
+            25.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38892,
+          "name": "Lahti",
+          "latlng": [
+            60.98267,
+            25.66151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38951,
+          "name": "Nastola",
+          "latlng": [
+            60.95,
+            25.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38962,
+          "name": "Orimattila",
+          "latlng": [
+            60.80487,
+            25.72964
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38969,
+          "name": "Padasjoki",
+          "latlng": [
+            61.35,
+            25.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39063,
+          "name": "Sysmä",
+          "latlng": [
+            61.5,
+            25.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1506,
+      "name": "Pirkanmaa",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 153349,
+          "name": "Äetsä",
+          "latlng": [
+            61.28333,
+            22.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153290,
+          "name": "Aimala",
+          "latlng": [
+            61.33,
+            23.69
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153291,
+          "name": "Aitoo",
+          "latlng": [
+            61.338974,
+            24.494319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153292,
+          "name": "Akaa",
+          "latlng": [
+            61.16666667,
+            23.86805556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153293,
+          "name": "Amuri",
+          "latlng": [
+            61.5,
+            23.745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153294,
+          "name": "Haihara",
+          "latlng": [
+            61.4763,
+            23.87711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153295,
+          "name": "Hallila",
+          "latlng": [
+            61.4625,
+            23.82916667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153297,
+          "name": "Hämeenkyrö",
+          "latlng": [
+            61.63333333,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153296,
+          "name": "Hervanta",
+          "latlng": [
+            61.4481,
+            23.8521
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153298,
+          "name": "Ikaalinen",
+          "latlng": [
+            61.76944444,
+            23.06805556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153299,
+          "name": "Juupajoki",
+          "latlng": [
+            61.79666667,
+            24.37
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153300,
+          "name": "Kangasala",
+          "latlng": [
+            61.463889,
+            24.065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153301,
+          "name": "Kihniö",
+          "latlng": [
+            62.20833333,
+            23.17916667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153302,
+          "name": "Kiikka",
+          "latlng": [
+            61.32077778,
+            22.77538889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153303,
+          "name": "Kiikoinen",
+          "latlng": [
+            61.45,
+            22.575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153304,
+          "name": "Kolho",
+          "latlng": [
+            62.13333333,
+            24.51666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153305,
+          "name": "Kuhmalahti",
+          "latlng": [
+            61.505,
+            24.56666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153306,
+          "name": "Kuru",
+          "latlng": [
+            61.87558,
+            23.71948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153307,
+          "name": "Kylmäkoski",
+          "latlng": [
+            61.15,
+            23.69166667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153312,
+          "name": "Längelmäki",
+          "latlng": [
+            61.6889,
+            24.69194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153308,
+          "name": "Lempäälä",
+          "latlng": [
+            61.31388889,
+            23.75277778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153309,
+          "name": "Lentävänniemi",
+          "latlng": [
+            61.52801,
+            23.70575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153310,
+          "name": "Lielahti",
+          "latlng": [
+            61.51666667,
+            23.66666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153311,
+          "name": "Luopioinen",
+          "latlng": [
+            61.36293,
+            24.66781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153315,
+          "name": "Mänttä",
+          "latlng": [
+            62.03014,
+            24.62791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153313,
+          "name": "Messukylä",
+          "latlng": [
+            61.48527778,
+            23.84472222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153314,
+          "name": "Mouhijärvi",
+          "latlng": [
+            61.5,
+            23.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153316,
+          "name": "Naistenmatka",
+          "latlng": [
+            61.46518,
+            23.65253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153317,
+          "name": "Nekala",
+          "latlng": [
+            61.48333333,
+            23.79055556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153318,
+          "name": "Nokia",
+          "latlng": [
+            61.47666667,
+            23.50527778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153319,
+          "name": "Nurmi",
+          "latlng": [
+            61.53779,
+            23.94178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153320,
+          "name": "Nuutajärvi",
+          "latlng": [
+            61.04,
+            23.43
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153321,
+          "name": "Orivesi",
+          "latlng": [
+            61.67777778,
+            24.35694444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153322,
+          "name": "Osara",
+          "latlng": [
+            61.70866,
+            23.15871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153328,
+          "name": "Pälkäne",
+          "latlng": [
+            61.35403,
+            24.51912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153323,
+          "name": "Parkano",
+          "latlng": [
+            62.00972222,
+            23.025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153324,
+          "name": "Pirkkala",
+          "latlng": [
+            61.46666667,
+            23.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153325,
+          "name": "Pispala",
+          "latlng": [
+            61.50611111,
+            23.7025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153326,
+          "name": "Pohjaslahti",
+          "latlng": [
+            62.15631,
+            24.1319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153327,
+          "name": "Punkalaidun",
+          "latlng": [
+            61.11166667,
+            23.105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153329,
+          "name": "Ruovesi",
+          "latlng": [
+            61.983333,
+            24.083333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153334,
+          "name": "Sääksmäki",
+          "latlng": [
+            61.2,
+            24.06666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153330,
+          "name": "Sahalahti",
+          "latlng": [
+            61.46666667,
+            24.31666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153331,
+          "name": "Sastamala",
+          "latlng": [
+            61.34166667,
+            22.90833333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153332,
+          "name": "Suodenniemi",
+          "latlng": [
+            61.5581,
+            22.78526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153333,
+          "name": "Suoniemi",
+          "latlng": [
+            61.44111111,
+            23.215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153335,
+          "name": "Tampere",
+          "latlng": [
+            61.49805556,
+            23.76
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153336,
+          "name": "Teisko",
+          "latlng": [
+            61.67336111,
+            23.84766944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153337,
+          "name": "Toijala",
+          "latlng": [
+            61.1678,
+            23.83819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153338,
+          "name": "Tottijärvi",
+          "latlng": [
+            61.39777778,
+            23.34277778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153339,
+          "name": "Urjala",
+          "latlng": [
+            61.08333333,
+            23.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153340,
+          "name": "Valkeakoski",
+          "latlng": [
+            61.26666667,
+            24.03055556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153341,
+          "name": "Vammala",
+          "latlng": [
+            61.34027778,
+            22.90972222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153342,
+          "name": "Vesilahti",
+          "latlng": [
+            61.316667,
+            23.616667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153343,
+          "name": "Viiala",
+          "latlng": [
+            61.21023,
+            23.76738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153344,
+          "name": "Viljakkala",
+          "latlng": [
+            61.70601,
+            23.26688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153345,
+          "name": "Vilppula",
+          "latlng": [
+            62.02121,
+            24.50483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153346,
+          "name": "Virrat",
+          "latlng": [
+            62.24027778,
+            23.77083333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153347,
+          "name": "Vuores",
+          "latlng": [
+            61.431,
+            23.81184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153348,
+          "name": "Ylöjärvi",
+          "latlng": [
+            61.55,
+            23.58333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1501,
+      "name": "Satakunta",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 38749,
+          "name": "Eura",
+          "latlng": [
+            61.13333,
+            22.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38750,
+          "name": "Eurajoki",
+          "latlng": [
+            61.2,
+            21.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38762,
+          "name": "Harjavalta",
+          "latlng": [
+            61.31667,
+            22.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38776,
+          "name": "Huittinen",
+          "latlng": [
+            61.18333,
+            22.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38808,
+          "name": "Jämijärvi",
+          "latlng": [
+            61.81667,
+            22.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38822,
+          "name": "Kankaanpää",
+          "latlng": [
+            61.8,
+            22.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38833,
+          "name": "Karvia",
+          "latlng": [
+            62.13333,
+            22.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38860,
+          "name": "Kiukainen",
+          "latlng": [
+            61.21667,
+            22.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38863,
+          "name": "Kokemäki",
+          "latlng": [
+            61.25647,
+            22.35643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38891,
+          "name": "Köyliö",
+          "latlng": [
+            61.1191,
+            22.30976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38880,
+          "name": "Kullaa",
+          "latlng": [
+            61.46998,
+            22.16145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38925,
+          "name": "Längelmäki",
+          "latlng": [
+            61.65,
+            22.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38900,
+          "name": "Lappi",
+          "latlng": [
+            61.1,
+            21.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38905,
+          "name": "Lavia",
+          "latlng": [
+            61.6,
+            22.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38924,
+          "name": "Luvia",
+          "latlng": [
+            61.36375,
+            21.62556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38933,
+          "name": "Merikarvia",
+          "latlng": [
+            61.85839,
+            21.50035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38950,
+          "name": "Nakkila",
+          "latlng": [
+            61.36667,
+            22
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38954,
+          "name": "Noormarkku",
+          "latlng": [
+            61.59274,
+            21.86846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38990,
+          "name": "Pomarkku",
+          "latlng": [
+            61.69348,
+            22.00862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38991,
+          "name": "Pori",
+          "latlng": [
+            61.48333,
+            21.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39016,
+          "name": "Rauma",
+          "latlng": [
+            61.12724,
+            21.51127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39064,
+          "name": "Säkylä",
+          "latlng": [
+            61.03333,
+            22.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39047,
+          "name": "Siikainen",
+          "latlng": [
+            61.87703,
+            21.81945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39089,
+          "name": "Ulvila",
+          "latlng": [
+            61.42844,
+            21.87103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39098,
+          "name": "Vampula",
+          "latlng": [
+            61.01667,
+            22.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1497,
+      "name": "South Karelia",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 38787,
+          "name": "Imatra",
+          "latlng": [
+            61.17185,
+            28.75242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38802,
+          "name": "Joutseno",
+          "latlng": [
+            61.11796,
+            28.50763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38899,
+          "name": "Lappeenranta",
+          "latlng": [
+            61.05871,
+            28.18871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38908,
+          "name": "Lemi",
+          "latlng": [
+            61.06244,
+            27.80571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38923,
+          "name": "Luumäki",
+          "latlng": [
+            60.92618,
+            27.58135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38956,
+          "name": "Nuijamaa",
+          "latlng": [
+            60.96011,
+            28.55104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38973,
+          "name": "Parikkala",
+          "latlng": [
+            61.55,
+            29.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39019,
+          "name": "Rautjärvi",
+          "latlng": [
+            61.43333,
+            29.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39028,
+          "name": "Ruokolahti",
+          "latlng": [
+            61.28333,
+            28.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39034,
+          "name": "Saari",
+          "latlng": [
+            61.65,
+            29.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39040,
+          "name": "Savitaipale",
+          "latlng": [
+            61.2,
+            27.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39067,
+          "name": "Taipalsaari",
+          "latlng": [
+            61.15,
+            28.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39127,
+          "name": "Ylämaa",
+          "latlng": [
+            60.8,
+            28
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1498,
+      "name": "Southern Ostrobothnia",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 39130,
+          "name": "Ähtäri",
+          "latlng": [
+            62.55403,
+            24.06186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38730,
+          "name": "Alahärmä",
+          "latlng": [
+            63.23333,
+            22.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38731,
+          "name": "Alajärvi",
+          "latlng": [
+            63,
+            23.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38734,
+          "name": "Alavus",
+          "latlng": [
+            62.58333,
+            23.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38751,
+          "name": "Evijärvi",
+          "latlng": [
+            63.36667,
+            23.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38785,
+          "name": "Ilmajoki",
+          "latlng": [
+            62.73333,
+            22.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38791,
+          "name": "Isojoki",
+          "latlng": [
+            62.11319,
+            21.95884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38796,
+          "name": "Jalasjärvi",
+          "latlng": [
+            62.5,
+            22.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38804,
+          "name": "Jurva",
+          "latlng": [
+            62.68333,
+            21.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38826,
+          "name": "Karijoki",
+          "latlng": [
+            62.30851,
+            21.70856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38835,
+          "name": "Kauhajoki",
+          "latlng": [
+            62.43333,
+            22.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38836,
+          "name": "Kauhava",
+          "latlng": [
+            63.10299,
+            23.07129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38871,
+          "name": "Kortesjärvi",
+          "latlng": [
+            63.3,
+            23.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38882,
+          "name": "Kuortane",
+          "latlng": [
+            62.8,
+            23.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38883,
+          "name": "Kurikka",
+          "latlng": [
+            62.61667,
+            22.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38898,
+          "name": "Lappajärvi",
+          "latlng": [
+            63.2,
+            23.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38901,
+          "name": "Lapua",
+          "latlng": [
+            62.96927,
+            23.0088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38906,
+          "name": "Lehtimäki",
+          "latlng": [
+            62.78333,
+            23.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38959,
+          "name": "Nurmo",
+          "latlng": [
+            62.8287,
+            22.9099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39044,
+          "name": "Seinäjoki",
+          "latlng": [
+            62.79446,
+            22.82822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39053,
+          "name": "Soini",
+          "latlng": [
+            62.86667,
+            24.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39076,
+          "name": "Teuva",
+          "latlng": [
+            62.4819,
+            21.74156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39087,
+          "name": "Töysä",
+          "latlng": [
+            62.62803,
+            23.81828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39111,
+          "name": "Vimpeli",
+          "latlng": [
+            63.16187,
+            23.81922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39122,
+          "name": "Ylihärmä",
+          "latlng": [
+            63.15,
+            22.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39124,
+          "name": "Ylistaro",
+          "latlng": [
+            62.93958,
+            22.51306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1495,
+      "name": "Southern Savonia",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 38746,
+          "name": "Enonkoski",
+          "latlng": [
+            62.08333,
+            28.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38766,
+          "name": "Haukivuori",
+          "latlng": [
+            62.01753,
+            27.21906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38769,
+          "name": "Heinävesi",
+          "latlng": [
+            62.43333,
+            28.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38773,
+          "name": "Hirvensalmi",
+          "latlng": [
+            61.63333,
+            26.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38811,
+          "name": "Jäppilä",
+          "latlng": [
+            62.37899,
+            27.43372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38800,
+          "name": "Joroinen",
+          "latlng": [
+            62.17823,
+            27.83165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38806,
+          "name": "Juva",
+          "latlng": [
+            61.9,
+            27.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38821,
+          "name": "Kangasniemi",
+          "latlng": [
+            61.99357,
+            26.64785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38846,
+          "name": "Kerimäki",
+          "latlng": [
+            61.91069,
+            29.28228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38947,
+          "name": "Mäntyharju",
+          "latlng": [
+            61.41667,
+            26.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38937,
+          "name": "Mikkeli",
+          "latlng": [
+            61.68857,
+            27.27227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38981,
+          "name": "Pertunmaa",
+          "latlng": [
+            61.5,
+            26.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38983,
+          "name": "Pieksämäki",
+          "latlng": [
+            62.3,
+            27.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38998,
+          "name": "Punkaharju",
+          "latlng": [
+            61.75883,
+            29.38843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39000,
+          "name": "Puumala",
+          "latlng": [
+            61.52728,
+            28.17495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39013,
+          "name": "Rantasalmi",
+          "latlng": [
+            62.06667,
+            28.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39024,
+          "name": "Ristiina",
+          "latlng": [
+            61.50579,
+            27.24643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39041,
+          "name": "Savonlinna",
+          "latlng": [
+            61.8699,
+            28.87999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39042,
+          "name": "Savonranta",
+          "latlng": [
+            62.18333,
+            29.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39057,
+          "name": "Sulkava",
+          "latlng": [
+            61.78691,
+            28.37299
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39113,
+          "name": "Virtasalmi",
+          "latlng": [
+            62.12695,
+            27.46276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1493,
+      "name": "Tavastia Proper",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 38752,
+          "name": "Forssa",
+          "latlng": [
+            60.81462,
+            23.62146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38781,
+          "name": "Hämeenlinna",
+          "latlng": [
+            60.99596,
+            24.46434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38764,
+          "name": "Hauho",
+          "latlng": [
+            61.17255,
+            24.56303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38767,
+          "name": "Hausjärvi",
+          "latlng": [
+            60.78333,
+            24.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38777,
+          "name": "Humppila",
+          "latlng": [
+            60.93333,
+            23.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38797,
+          "name": "Janakkala",
+          "latlng": [
+            60.9,
+            24.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38799,
+          "name": "Jokioinen",
+          "latlng": [
+            60.80162,
+            23.48004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38819,
+          "name": "Kalvola",
+          "latlng": [
+            61.10081,
+            24.12177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38895,
+          "name": "Lammi",
+          "latlng": [
+            61.08333,
+            25.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38919,
+          "name": "Loppi",
+          "latlng": [
+            60.71667,
+            24.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39021,
+          "name": "Renko",
+          "latlng": [
+            60.89563,
+            24.28785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39023,
+          "name": "Riihimäki",
+          "latlng": [
+            60.73769,
+            24.77726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39070,
+          "name": "Tammela",
+          "latlng": [
+            60.81035,
+            23.76823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39073,
+          "name": "Tervakoski",
+          "latlng": [
+            60.81412,
+            24.62594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39082,
+          "name": "Tuulos",
+          "latlng": [
+            61.15,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39129,
+          "name": "Ypäjä",
+          "latlng": [
+            60.8,
+            23.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1510,
+      "name": "Uusimaa",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 38739,
+          "name": "Askola",
+          "latlng": [
+            60.53333,
+            25.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38743,
+          "name": "Ekenäs",
+          "latlng": [
+            59.97359,
+            23.43389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38748,
+          "name": "Espoo",
+          "latlng": [
+            60.2052,
+            24.6522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38753,
+          "name": "Gumböle",
+          "latlng": [
+            60.21948,
+            24.61684
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38761,
+          "name": "Hanko",
+          "latlng": [
+            59.83333,
+            22.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38770,
+          "name": "Helsinki",
+          "latlng": [
+            60.16952,
+            24.93545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38779,
+          "name": "Hyvinge",
+          "latlng": [
+            60.63333,
+            24.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38789,
+          "name": "Ingå",
+          "latlng": [
+            60.04587,
+            24.00459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38812,
+          "name": "Järvenpää",
+          "latlng": [
+            60.47369,
+            25.08992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38813,
+          "name": "Kaarela",
+          "latlng": [
+            60.25174,
+            24.88111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38818,
+          "name": "Kallio",
+          "latlng": [
+            60.18427,
+            24.95034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38828,
+          "name": "Karis",
+          "latlng": [
+            60.07178,
+            23.66163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38829,
+          "name": "Karjalohja",
+          "latlng": [
+            60.24015,
+            23.71789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38830,
+          "name": "Karkkila",
+          "latlng": [
+            60.53418,
+            24.20977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38889,
+          "name": "Kärkölä",
+          "latlng": [
+            60.61292,
+            23.94196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38837,
+          "name": "Kauniainen",
+          "latlng": [
+            60.21209,
+            24.72756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38840,
+          "name": "Kellokoski",
+          "latlng": [
+            60.53271,
+            25.10917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38845,
+          "name": "Kerava",
+          "latlng": [
+            60.40338,
+            25.105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38853,
+          "name": "Kilo",
+          "latlng": [
+            60.21746,
+            24.78151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38856,
+          "name": "Kirkkonummi",
+          "latlng": [
+            60.12381,
+            24.43853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38873,
+          "name": "Koukkuniemi",
+          "latlng": [
+            60.15261,
+            24.76467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38896,
+          "name": "Lapinjärvi",
+          "latlng": [
+            60.62443,
+            26.1972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38904,
+          "name": "Lauttasaari",
+          "latlng": [
+            60.15896,
+            24.86797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38914,
+          "name": "Liljendal",
+          "latlng": [
+            60.57346,
+            26.05257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38917,
+          "name": "Lohja",
+          "latlng": [
+            60.24859,
+            24.06534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38920,
+          "name": "Lovisa",
+          "latlng": [
+            60.45659,
+            26.22505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38946,
+          "name": "Mäntsälä",
+          "latlng": [
+            60.63333,
+            25.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38931,
+          "name": "Mellunkylä",
+          "latlng": [
+            60.23355,
+            25.09947
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38940,
+          "name": "Munkkiniemi",
+          "latlng": [
+            60.19861,
+            24.87772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38945,
+          "name": "Myrskylä",
+          "latlng": [
+            60.66965,
+            25.8475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38958,
+          "name": "Nurmijärvi",
+          "latlng": [
+            60.46407,
+            24.8073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38964,
+          "name": "Otaniemi",
+          "latlng": [
+            60.18395,
+            24.82786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38979,
+          "name": "Pernå",
+          "latlng": [
+            60.44869,
+            26.03187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38988,
+          "name": "Pohja",
+          "latlng": [
+            60.09626,
+            23.52757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38992,
+          "name": "Pornainen",
+          "latlng": [
+            60.47581,
+            25.3749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38993,
+          "name": "Porvoo",
+          "latlng": [
+            60.39233,
+            25.66507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38996,
+          "name": "Pukkila",
+          "latlng": [
+            60.65,
+            25.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39011,
+          "name": "Raaseporin",
+          "latlng": [
+            60.00273,
+            23.55499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39029,
+          "name": "Ruotsinpyhtää",
+          "latlng": [
+            60.5268,
+            26.46203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39038,
+          "name": "Sammatti",
+          "latlng": [
+            60.31991,
+            23.82085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39045,
+          "name": "Sibbo",
+          "latlng": [
+            60.37752,
+            25.26906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39051,
+          "name": "Siuntio",
+          "latlng": [
+            60.13862,
+            24.22715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39085,
+          "name": "Tuusula",
+          "latlng": [
+            60.40368,
+            25.02638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39099,
+          "name": "Vantaa",
+          "latlng": [
+            60.29414,
+            25.04099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39109,
+          "name": "Vihti",
+          "latlng": [
+            60.41699,
+            24.31965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39116,
+          "name": "Vuosaari",
+          "latlng": [
+            60.20963,
+            25.14195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

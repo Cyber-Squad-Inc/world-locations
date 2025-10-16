@@ -1,0 +1,2145 @@
+{
+  "name": {
+    "common": "Malaysia",
+    "official": "Malaysia"
+  },
+  "iso2": "MY",
+  "iso3": "MYS",
+  "numericCode": "458",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "tld": ".my",
+  "phoneCode": "60",
+  "capital": "Kuala Lumpur",
+  "currencies": {
+    "MYR": "Malaysian ringgit"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Kuala_Lumpur",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "MYT",
+      "tzName": "Malaysia Time"
+    },
+    {
+      "zoneName": "Asia/Kuching",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "MYT",
+      "tzName": "Malaysia Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/my.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/my.svg",
+  "states": [
+    {
+      "id": 1950,
+      "name": "Johor",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 76416,
+          "name": "Bakri",
+          "latlng": [
+            2.0441,
+            102.6527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76424,
+          "name": "Batu Pahat",
+          "latlng": [
+            1.8548,
+            102.9325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76433,
+          "name": "Buloh Kasap",
+          "latlng": [
+            2.5536,
+            102.764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76435,
+          "name": "Chaah",
+          "latlng": [
+            2.249,
+            103.048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76437,
+          "name": "Daerah Batu Pahat",
+          "latlng": [
+            1.93333,
+            103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76438,
+          "name": "Daerah Johor Baharu",
+          "latlng": [
+            1.65,
+            103.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76439,
+          "name": "Daerah Keluang",
+          "latlng": [
+            2.2,
+            103.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76440,
+          "name": "Daerah Kota Tinggi",
+          "latlng": [
+            1.81667,
+            103.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76441,
+          "name": "Daerah Mersing",
+          "latlng": [
+            2.31667,
+            103.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76442,
+          "name": "Daerah Muar",
+          "latlng": [
+            2.25,
+            102.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76443,
+          "name": "Daerah Pontian",
+          "latlng": [
+            1.5,
+            103.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76444,
+          "name": "Daerah Segamat",
+          "latlng": [
+            2.6,
+            102.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76455,
+          "name": "Johor Bahru",
+          "latlng": [
+            1.4655,
+            103.7578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76473,
+          "name": "Kampung Pasir Gudang Baru",
+          "latlng": [
+            1.4726,
+            103.878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76474,
+          "name": "Kampung Simpang Renggam",
+          "latlng": [
+            1.8278,
+            103.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76480,
+          "name": "Kelapa Sawit",
+          "latlng": [
+            1.6698,
+            103.5327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76487,
+          "name": "Kluang",
+          "latlng": [
+            2.03046,
+            103.31689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76491,
+          "name": "Kota Tinggi",
+          "latlng": [
+            1.7381,
+            103.8999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76508,
+          "name": "Kulai",
+          "latlng": [
+            1.6561,
+            103.6032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76510,
+          "name": "Labis",
+          "latlng": [
+            2.385,
+            103.021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76524,
+          "name": "Mersing",
+          "latlng": [
+            2.4312,
+            103.8405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76526,
+          "name": "Muar",
+          "latlng": [
+            2.0442,
+            102.5689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76535,
+          "name": "Parit Raja",
+          "latlng": [
+            1.8681,
+            103.1124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76538,
+          "name": "Pekan Nenas",
+          "latlng": [
+            1.51,
+            103.5141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76544,
+          "name": "Pontian Kechil",
+          "latlng": [
+            1.4866,
+            103.3896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76556,
+          "name": "Segamat",
+          "latlng": [
+            2.5148,
+            102.8158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76565,
+          "name": "Skudai",
+          "latlng": [
+            1.53741,
+            103.65779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76573,
+          "name": "Taman Senai",
+          "latlng": [
+            1.6006,
+            103.6419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76576,
+          "name": "Tangkak",
+          "latlng": [
+            2.2673,
+            102.5453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76586,
+          "name": "Ulu Tiram",
+          "latlng": [
+            1.6,
+            103.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76587,
+          "name": "Yong Peng",
+          "latlng": [
+            2.0136,
+            103.0659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1947,
+      "name": "Kedah",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 76410,
+          "name": "Alor Setar",
+          "latlng": [
+            6.12104,
+            100.36014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76412,
+          "name": "Ayer Hangat",
+          "latlng": [
+            6.42062,
+            99.82199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76426,
+          "name": "Bedong",
+          "latlng": [
+            5.72743,
+            100.50876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76449,
+          "name": "Gurun",
+          "latlng": [
+            5.81717,
+            100.47381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76454,
+          "name": "Jitra",
+          "latlng": [
+            6.26812,
+            100.42167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76470,
+          "name": "Kampung Kilim",
+          "latlng": [
+            6.4055,
+            99.8502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76471,
+          "name": "Kampung Kok",
+          "latlng": [
+            6.36759,
+            99.68252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76492,
+          "name": "Kuah",
+          "latlng": [
+            6.32649,
+            99.8432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76495,
+          "name": "Kuala Kedah",
+          "latlng": [
+            6.1,
+            100.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76503,
+          "name": "Kuala Teriang",
+          "latlng": [
+            6.36377,
+            99.71532
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76509,
+          "name": "Kulim",
+          "latlng": [
+            5.36499,
+            100.56177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76514,
+          "name": "Langkawi",
+          "latlng": [
+            6.35608,
+            99.78375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76529,
+          "name": "Padang Mat Sirat",
+          "latlng": [
+            6.35423,
+            99.73404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76569,
+          "name": "Sungai Petani",
+          "latlng": [
+            5.647,
+            100.48772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1946,
+      "name": "Kelantan",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 76448,
+          "name": "Gua Musang",
+          "latlng": [
+            4.88441,
+            101.96857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76460,
+          "name": "Kampong Kadok",
+          "latlng": [
+            6,
+            102.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76462,
+          "name": "Kampong Pangkal Kalong",
+          "latlng": [
+            5.91667,
+            102.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76489,
+          "name": "Kota Bharu",
+          "latlng": [
+            6.12361,
+            102.24333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76536,
+          "name": "Pasir Mas",
+          "latlng": [
+            6.04934,
+            102.13987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76541,
+          "name": "Peringat",
+          "latlng": [
+            6.03333,
+            102.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76585,
+          "name": "Tumpat",
+          "latlng": [
+            6.19775,
+            102.17098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1949,
+      "name": "Kuala Lumpur",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 76497,
+          "name": "Kuala Lumpur",
+          "latlng": [
+            3.1412,
+            101.68653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1935,
+      "name": "Labuan",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 76511,
+          "name": "Labuan",
+          "latlng": [
+            5.28028,
+            115.2475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1941,
+      "name": "Malacca",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 76409,
+          "name": "Alor Gajah",
+          "latlng": [
+            2.3804,
+            102.2089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76421,
+          "name": "Batu Berendam",
+          "latlng": [
+            2.2487,
+            102.246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76427,
+          "name": "Bemban",
+          "latlng": [
+            2.2684,
+            102.3746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76432,
+          "name": "Bukit Rambai",
+          "latlng": [
+            2.2594,
+            102.1838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76461,
+          "name": "Kampong Masjid Tanah",
+          "latlng": [
+            2.35,
+            102.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76463,
+          "name": "Kampung Ayer Keroh",
+          "latlng": [
+            2.2654,
+            102.2801
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76464,
+          "name": "Kampung Ayer Molek",
+          "latlng": [
+            2.2139,
+            102.3278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76468,
+          "name": "Kampung Bukit Baharu",
+          "latlng": [
+            2.2152,
+            102.2851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76486,
+          "name": "Klebang Besar",
+          "latlng": [
+            2.2186,
+            102.1995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76501,
+          "name": "Kuala Sungai Baru",
+          "latlng": [
+            2.3594,
+            102.0353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76520,
+          "name": "Malacca",
+          "latlng": [
+            2.196,
+            102.2405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76546,
+          "name": "Pulau Sebang",
+          "latlng": [
+            2.455,
+            102.2329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76570,
+          "name": "Sungai Udang",
+          "latlng": [
+            2.269,
+            102.1427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1948,
+      "name": "Negeri Sembilan",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 76415,
+          "name": "Bahau",
+          "latlng": [
+            2.8079,
+            102.4049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76465,
+          "name": "Kampung Baharu Nilai",
+          "latlng": [
+            2.8033,
+            101.7972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76499,
+          "name": "Kuala Pilah",
+          "latlng": [
+            2.7389,
+            102.2487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76545,
+          "name": "Port Dickson",
+          "latlng": [
+            2.53718,
+            101.80571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76559,
+          "name": "Seremban",
+          "latlng": [
+            2.7297,
+            101.9381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76574,
+          "name": "Tampin",
+          "latlng": [
+            2.4701,
+            102.2302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1940,
+      "name": "Pahang",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 76428,
+          "name": "Bentong Town",
+          "latlng": [
+            3.52229,
+            101.90866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76452,
+          "name": "Jerantut",
+          "latlng": [
+            3.936,
+            102.3626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76469,
+          "name": "Kampung Bukit Tinggi Bentong",
+          "latlng": [
+            3.34944,
+            101.82631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76477,
+          "name": "Kampung Tekek",
+          "latlng": [
+            2.8147,
+            104.1592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76496,
+          "name": "Kuala Lipis",
+          "latlng": [
+            4.1842,
+            102.0468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76505,
+          "name": "Kuantan",
+          "latlng": [
+            3.8077,
+            103.326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76523,
+          "name": "Mentekab",
+          "latlng": [
+            3.4854,
+            102.3484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76537,
+          "name": "Pekan",
+          "latlng": [
+            3.4836,
+            103.3996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76551,
+          "name": "Raub",
+          "latlng": [
+            3.7899,
+            101.857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76575,
+          "name": "Tanah Rata",
+          "latlng": [
+            4.46361,
+            101.3763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76584,
+          "name": "Temerluh",
+          "latlng": [
+            3.4506,
+            102.4176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1939,
+      "name": "Penang",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 76422,
+          "name": "Batu Feringgi",
+          "latlng": [
+            5.4709,
+            100.24529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76431,
+          "name": "Bukit Mertajam",
+          "latlng": [
+            5.36301,
+            100.4667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76434,
+          "name": "Butterworth",
+          "latlng": [
+            5.3991,
+            100.36382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76447,
+          "name": "George Town",
+          "latlng": [
+            5.41123,
+            100.33543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76456,
+          "name": "Juru",
+          "latlng": [
+            5.31201,
+            100.44229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76467,
+          "name": "Kampung Batu Feringgi",
+          "latlng": [
+            5.46948,
+            100.24449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76475,
+          "name": "Kampung Sungai Ara",
+          "latlng": [
+            5.32699,
+            100.27348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76482,
+          "name": "Kepala Batas",
+          "latlng": [
+            5.51707,
+            100.4265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76528,
+          "name": "Nibong Tebal",
+          "latlng": [
+            5.16586,
+            100.47793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76540,
+          "name": "Perai",
+          "latlng": [
+            5.38333,
+            100.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76542,
+          "name": "Permatang Kuching",
+          "latlng": [
+            5.46339,
+            100.38144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76555,
+          "name": "Seberang Perai",
+          "latlng": [
+            5.3877,
+            100.42603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76578,
+          "name": "Tanjung Tokong",
+          "latlng": [
+            5.46061,
+            100.30742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76580,
+          "name": "Tasek Glugor",
+          "latlng": [
+            5.48032,
+            100.49849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76582,
+          "name": "Telaga Batu",
+          "latlng": [
+            5.46667,
+            100.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1943,
+      "name": "Perak",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 76414,
+          "name": "Bagan Serai",
+          "latlng": [
+            5.0108,
+            100.54101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76423,
+          "name": "Batu Gajah",
+          "latlng": [
+            4.46916,
+            101.04107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76429,
+          "name": "Bidur",
+          "latlng": [
+            4.11667,
+            101.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76450,
+          "name": "Ipoh",
+          "latlng": [
+            4.5841,
+            101.0829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76457,
+          "name": "Kampar",
+          "latlng": [
+            4.3,
+            101.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76459,
+          "name": "Kampong Dungun",
+          "latlng": [
+            3.21667,
+            101.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76494,
+          "name": "Kuala Kangsar",
+          "latlng": [
+            4.76667,
+            100.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76519,
+          "name": "Lumut",
+          "latlng": [
+            4.2323,
+            100.6298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76532,
+          "name": "Pantai Remis",
+          "latlng": [
+            4.4557,
+            100.6288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76534,
+          "name": "Parit Buntar",
+          "latlng": [
+            5.12671,
+            100.49316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76564,
+          "name": "Simpang Empat",
+          "latlng": [
+            4.95,
+            100.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76571,
+          "name": "Taiping",
+          "latlng": [
+            4.85,
+            100.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76579,
+          "name": "Tapah Road",
+          "latlng": [
+            4.16667,
+            101.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76583,
+          "name": "Teluk Intan",
+          "latlng": [
+            4.02219,
+            101.02083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1938,
+      "name": "Perlis",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 76478,
+          "name": "Kangar",
+          "latlng": [
+            6.4414,
+            100.19862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76498,
+          "name": "Kuala Perlis",
+          "latlng": [
+            6.4,
+            100.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76531,
+          "name": "Pantai Cenang",
+          "latlng": [
+            6.29369,
+            99.72786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1945,
+      "name": "Putrajaya",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 76549,
+          "name": "Putrajaya",
+          "latlng": [
+            2.93527,
+            101.69112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1936,
+      "name": "Sabah",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 76417,
+          "name": "Bandar Labuan",
+          "latlng": [
+            5.28883,
+            115.26924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76425,
+          "name": "Beaufort",
+          "latlng": [
+            5.3473,
+            115.7455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76446,
+          "name": "Donggongon",
+          "latlng": [
+            5.90702,
+            116.10146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76481,
+          "name": "Keningau",
+          "latlng": [
+            5.3378,
+            116.1602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76484,
+          "name": "Kinarut",
+          "latlng": [
+            5.8231,
+            116.0466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76488,
+          "name": "Kota Belud",
+          "latlng": [
+            6.351,
+            116.4305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76490,
+          "name": "Kota Kinabalu",
+          "latlng": [
+            5.9749,
+            116.0724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76507,
+          "name": "Kudat",
+          "latlng": [
+            6.88732,
+            116.82364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76513,
+          "name": "Lahad Datu",
+          "latlng": [
+            5.02298,
+            118.32897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76533,
+          "name": "Papar",
+          "latlng": [
+            5.73333,
+            115.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76547,
+          "name": "Putatan",
+          "latlng": [
+            5.9258,
+            116.06094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76550,
+          "name": "Ranau",
+          "latlng": [
+            5.9538,
+            116.6641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76553,
+          "name": "Sandakan",
+          "latlng": [
+            5.8402,
+            118.1179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76558,
+          "name": "Semporna",
+          "latlng": [
+            4.48178,
+            118.61119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76572,
+          "name": "Taman Rajawali",
+          "latlng": [
+            5.89477,
+            118.04576
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76581,
+          "name": "Tawau",
+          "latlng": [
+            4.24482,
+            117.89115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1937,
+      "name": "Sarawak",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 76430,
+          "name": "Bintulu",
+          "latlng": [
+            3.16667,
+            113.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76445,
+          "name": "Data Kakus",
+          "latlng": [
+            2.65465,
+            113.62249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76479,
+          "name": "Kapit",
+          "latlng": [
+            1.99546,
+            112.93254
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76506,
+          "name": "Kuching",
+          "latlng": [
+            1.55,
+            110.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76515,
+          "name": "Lawas",
+          "latlng": [
+            4.8604,
+            115.409
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76516,
+          "name": "Lidung Jelo",
+          "latlng": [
+            2.64848,
+            114.78653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76517,
+          "name": "Limbang",
+          "latlng": [
+            4.75,
+            115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76518,
+          "name": "Long Ampan Aing or Abanang",
+          "latlng": [
+            2.65671,
+            114.73675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76522,
+          "name": "Marudi",
+          "latlng": [
+            4.18333,
+            114.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76525,
+          "name": "Miri",
+          "latlng": [
+            4.39928,
+            113.99163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76527,
+          "name": "Mukah",
+          "latlng": [
+            2.89435,
+            112.09145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76554,
+          "name": "Sarikei",
+          "latlng": [
+            2.11667,
+            111.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76562,
+          "name": "Sibu",
+          "latlng": [
+            2.3,
+            111.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76563,
+          "name": "Simanggang",
+          "latlng": [
+            1.24722,
+            111.45278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1944,
+      "name": "Selangor",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 76411,
+          "name": "Ampang",
+          "latlng": [
+            3.15,
+            101.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76413,
+          "name": "Bagan Pulau Ketam",
+          "latlng": [
+            3.01667,
+            101.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76418,
+          "name": "Banting",
+          "latlng": [
+            2.8136,
+            101.50185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76419,
+          "name": "Batang Berjuntai",
+          "latlng": [
+            3.38333,
+            101.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76420,
+          "name": "Batu Arang",
+          "latlng": [
+            3.31667,
+            101.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76451,
+          "name": "Jenjarum",
+          "latlng": [
+            2.8724,
+            101.49484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76458,
+          "name": "Kampong Baharu Balakong",
+          "latlng": [
+            3.03333,
+            101.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76466,
+          "name": "Kampung Baru Subang",
+          "latlng": [
+            3.15,
+            101.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76476,
+          "name": "Kampung Tanjung Karang",
+          "latlng": [
+            3.4242,
+            101.1849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76485,
+          "name": "Klang",
+          "latlng": [
+            3.03667,
+            101.44333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76500,
+          "name": "Kuala Selangor",
+          "latlng": [
+            3.35,
+            101.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76504,
+          "name": "Kuang",
+          "latlng": [
+            3.2594,
+            101.5541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76512,
+          "name": "Ladang Seri Kundang",
+          "latlng": [
+            3.2856,
+            101.519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76539,
+          "name": "Pelabuhan Klang",
+          "latlng": [
+            2.99959,
+            101.39287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76543,
+          "name": "Petaling Jaya",
+          "latlng": [
+            3.10726,
+            101.60671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153725,
+          "name": "Puchong",
+          "latlng": [
+            3.0327,
+            101.6188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76548,
+          "name": "Putra Heights",
+          "latlng": [
+            2.99361,
+            101.57255
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76552,
+          "name": "Rawang",
+          "latlng": [
+            3.3213,
+            101.5767
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76557,
+          "name": "Semenyih",
+          "latlng": [
+            2.9516,
+            101.843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76560,
+          "name": "Serendah",
+          "latlng": [
+            3.3646,
+            101.6041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76561,
+          "name": "Shah Alam",
+          "latlng": [
+            3.08507,
+            101.53281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76566,
+          "name": "Subang Jaya",
+          "latlng": [
+            3.04384,
+            101.58062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76567,
+          "name": "Sungai Besar",
+          "latlng": [
+            3.6746,
+            100.9867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76568,
+          "name": "Sungai Pelek New Village",
+          "latlng": [
+            2.65,
+            101.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76577,
+          "name": "Tanjung Sepat",
+          "latlng": [
+            2.6579,
+            101.5629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1942,
+      "name": "Terengganu",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 76436,
+          "name": "Cukai",
+          "latlng": [
+            4.25,
+            103.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76453,
+          "name": "Jertih",
+          "latlng": [
+            5.7336,
+            102.4897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76472,
+          "name": "Kampung Kuala Besut",
+          "latlng": [
+            5.83297,
+            102.55061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76483,
+          "name": "Kertih",
+          "latlng": [
+            4.5141,
+            103.4483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76493,
+          "name": "Kuala Besut",
+          "latlng": [
+            5.83303,
+            102.55514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76502,
+          "name": "Kuala Terengganu",
+          "latlng": [
+            5.3302,
+            103.1408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76521,
+          "name": "Marang",
+          "latlng": [
+            5.2056,
+            103.2059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76530,
+          "name": "Paka",
+          "latlng": [
+            4.6374,
+            103.4368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

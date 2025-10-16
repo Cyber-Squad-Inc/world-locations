@@ -1,0 +1,3705 @@
+{
+  "name": {
+    "common": "Belarus",
+    "official": "Belarus"
+  },
+  "iso2": "BY",
+  "iso3": "BLR",
+  "numericCode": "112",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "tld": ".by",
+  "phoneCode": "375",
+  "capital": "Minsk",
+  "currencies": {
+    "BYN": "Belarusian ruble"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Minsk",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "MSK",
+      "tzName": "Moscow Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/by.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/by.svg",
+  "states": [
+    {
+      "id": 2959,
+      "name": "Brest",
+      "code": "BR",
+      "shortName": "BR",
+      "cities": [
+        {
+          "id": 15805,
+          "name": "Antopal’",
+          "latlng": [
+            52.2038,
+            24.7863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15810,
+          "name": "Asnyezhytsy",
+          "latlng": [
+            52.1891,
+            26.1299
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15820,
+          "name": "Baranovichi",
+          "latlng": [
+            53.1327,
+            26.0139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15821,
+          "name": "Baranovichskiy Rayon",
+          "latlng": [
+            53.16667,
+            25.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15833,
+          "name": "Brest",
+          "latlng": [
+            52.09755,
+            23.68775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15834,
+          "name": "Brestski Rayon",
+          "latlng": [
+            52,
+            23.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15841,
+          "name": "Byaroza",
+          "latlng": [
+            52.5314,
+            24.9786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15843,
+          "name": "Byarozawski Rayon",
+          "latlng": [
+            52.5,
+            25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15844,
+          "name": "Byelaazyorsk",
+          "latlng": [
+            52.4731,
+            25.1784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15850,
+          "name": "Charnawchytsy",
+          "latlng": [
+            52.21948,
+            23.74043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15861,
+          "name": "Damachava",
+          "latlng": [
+            51.75,
+            23.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15863,
+          "name": "Davyd-Haradok",
+          "latlng": [
+            52.0566,
+            27.2161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15868,
+          "name": "Drahichyn",
+          "latlng": [
+            52.1874,
+            25.1597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15869,
+          "name": "Drahichynski Rayon",
+          "latlng": [
+            52.16667,
+            25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15884,
+          "name": "Hantsavichy",
+          "latlng": [
+            52.758,
+            26.43
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15885,
+          "name": "Hantsavitski Rayon",
+          "latlng": [
+            52.66667,
+            26.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15888,
+          "name": "Haradzishcha",
+          "latlng": [
+            53.3247,
+            26.0107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15897,
+          "name": "Horad Baranavichy",
+          "latlng": [
+            53.13333,
+            26.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15898,
+          "name": "Horad Brest",
+          "latlng": [
+            52.1,
+            23.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15909,
+          "name": "Ivanava",
+          "latlng": [
+            52.1451,
+            25.5365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15910,
+          "name": "Ivanawski Rayon",
+          "latlng": [
+            52.16667,
+            25.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15911,
+          "name": "Ivatsevichy",
+          "latlng": [
+            52.709,
+            25.3401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15917,
+          "name": "Kamyanyets",
+          "latlng": [
+            52.40013,
+            23.81
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15918,
+          "name": "Kamyanyetski Rayon",
+          "latlng": [
+            52.41667,
+            23.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15919,
+          "name": "Kamyanyuki",
+          "latlng": [
+            52.55757,
+            23.80525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15942,
+          "name": "Kobryn",
+          "latlng": [
+            52.2138,
+            24.3564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15946,
+          "name": "Kosava",
+          "latlng": [
+            52.7583,
+            25.1554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15957,
+          "name": "Lahishyn",
+          "latlng": [
+            52.339,
+            25.9867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15964,
+          "name": "Luninyets",
+          "latlng": [
+            52.2472,
+            26.8047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15965,
+          "name": "Lyakhavichy",
+          "latlng": [
+            53.0388,
+            26.2656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15982,
+          "name": "Malaryta",
+          "latlng": [
+            51.7905,
+            24.074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15988,
+          "name": "Mikashevichy",
+          "latlng": [
+            52.2173,
+            27.476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15993,
+          "name": "Motal’",
+          "latlng": [
+            52.3138,
+            25.6072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16010,
+          "name": "Nyakhachava",
+          "latlng": [
+            52.644,
+            25.2027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16021,
+          "name": "Pinsk",
+          "latlng": [
+            52.1229,
+            26.0951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16027,
+          "name": "Pruzhanski Rayon",
+          "latlng": [
+            52.66667,
+            24.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16028,
+          "name": "Pruzhany",
+          "latlng": [
+            52.556,
+            24.4573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16044,
+          "name": "Ruzhany",
+          "latlng": [
+            52.86322,
+            24.89357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16075,
+          "name": "Stolin",
+          "latlng": [
+            51.89115,
+            26.84597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16076,
+          "name": "Stolinski Rayon",
+          "latlng": [
+            52,
+            27
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16089,
+          "name": "Tsyelyakhany",
+          "latlng": [
+            52.5175,
+            25.8429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16114,
+          "name": "Vysokaye",
+          "latlng": [
+            52.37091,
+            23.37083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16122,
+          "name": "Zhabinka",
+          "latlng": [
+            52.1984,
+            24.0115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16123,
+          "name": "Zhabinkawski Rayon",
+          "latlng": [
+            52.16667,
+            24.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16130,
+          "name": "Znamenka",
+          "latlng": [
+            51.88168,
+            23.65545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2955,
+      "name": "Gomel",
+      "code": "HO",
+      "shortName": "HO",
+      "cities": [
+        {
+          "id": 15804,
+          "name": "Aktsyabrski",
+          "latlng": [
+            52.644,
+            28.8801
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15829,
+          "name": "Brahin",
+          "latlng": [
+            51.787,
+            30.2677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15830,
+          "name": "Brahinski Rayon",
+          "latlng": [
+            51.66667,
+            30.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15835,
+          "name": "Buda-Kashalyova",
+          "latlng": [
+            52.7179,
+            30.5701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15848,
+          "name": "Chachersk",
+          "latlng": [
+            52.9164,
+            30.9179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15849,
+          "name": "Chacherski Rayon",
+          "latlng": [
+            52.91667,
+            31.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15864,
+          "name": "Dobrush",
+          "latlng": [
+            52.4089,
+            31.3237
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15867,
+          "name": "Dowsk",
+          "latlng": [
+            53.1571,
+            30.4601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15895,
+          "name": "Homyel'",
+          "latlng": [
+            52.4345,
+            30.9754
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15896,
+          "name": "Homyel’ski Rayon",
+          "latlng": [
+            52.33333,
+            31
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15915,
+          "name": "Kalinkavichy",
+          "latlng": [
+            52.1323,
+            29.3257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15923,
+          "name": "Karanyowka",
+          "latlng": [
+            52.3506,
+            31.1121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15926,
+          "name": "Karma",
+          "latlng": [
+            53.1301,
+            30.8016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15929,
+          "name": "Kastsyukowka",
+          "latlng": [
+            52.5387,
+            30.9173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15930,
+          "name": "Khal’ch",
+          "latlng": [
+            52.5643,
+            31.1364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15936,
+          "name": "Khoyniki",
+          "latlng": [
+            51.8911,
+            29.9552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15962,
+          "name": "Loyew",
+          "latlng": [
+            51.9458,
+            30.7953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15967,
+          "name": "Lyel’chytski Rayon",
+          "latlng": [
+            51.83333,
+            28.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15968,
+          "name": "Lyel’chytsy",
+          "latlng": [
+            51.7862,
+            28.3288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15985,
+          "name": "Mazyr",
+          "latlng": [
+            52.0495,
+            29.2456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15986,
+          "name": "Mazyrski Rayon",
+          "latlng": [
+            52,
+            29
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16002,
+          "name": "Narowlya",
+          "latlng": [
+            51.7961,
+            29.5004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16005,
+          "name": "Novaya Huta",
+          "latlng": [
+            52.1032,
+            30.9837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16017,
+          "name": "Parychy",
+          "latlng": [
+            52.8042,
+            29.4176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16020,
+          "name": "Peramoga",
+          "latlng": [
+            52.3973,
+            31.071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16033,
+          "name": "Pyetrykaw",
+          "latlng": [
+            52.1289,
+            28.4921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16035,
+          "name": "Rahachow",
+          "latlng": [
+            53.0934,
+            30.0495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16036,
+          "name": "Rahachowski Rayon",
+          "latlng": [
+            53.16667,
+            30.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16041,
+          "name": "Rechytsa",
+          "latlng": [
+            52.3617,
+            30.3916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16049,
+          "name": "Sasnovy Bor",
+          "latlng": [
+            52.5194,
+            29.5988
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16081,
+          "name": "Svyetlahorsk",
+          "latlng": [
+            52.6329,
+            29.7389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16090,
+          "name": "Turaw",
+          "latlng": [
+            52.0683,
+            27.735
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16098,
+          "name": "Vasilyevichy",
+          "latlng": [
+            52.2512,
+            29.8288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16112,
+          "name": "Vyetka",
+          "latlng": [
+            52.5591,
+            31.1794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16113,
+          "name": "Vyetkawski Rayon",
+          "latlng": [
+            52.66667,
+            31.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16116,
+          "name": "Yel’sk",
+          "latlng": [
+            51.8141,
+            29.1522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16127,
+          "name": "Zhlobin",
+          "latlng": [
+            52.8926,
+            30.024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16128,
+          "name": "Zhlobinski Rayon",
+          "latlng": [
+            52.75,
+            29.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16129,
+          "name": "Zhytkavichy",
+          "latlng": [
+            52.2168,
+            27.8561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2956,
+      "name": "Grodno",
+      "code": "HR",
+      "shortName": "HR",
+      "cities": [
+        {
+          "id": 15806,
+          "name": "Ashmyanski Rayon",
+          "latlng": [
+            54.41667,
+            25.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15807,
+          "name": "Ashmyany",
+          "latlng": [
+            54.421,
+            25.936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15812,
+          "name": "Astravyets",
+          "latlng": [
+            54.61378,
+            25.95537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15813,
+          "name": "Astravyetski Rayon",
+          "latlng": [
+            54.66667,
+            26
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15823,
+          "name": "Baruny",
+          "latlng": [
+            54.3171,
+            26.1376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15842,
+          "name": "Byarozawka",
+          "latlng": [
+            53.72406,
+            25.49709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15876,
+          "name": "Dyatlovo",
+          "latlng": [
+            53.4631,
+            25.4068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15882,
+          "name": "Grodnenskiy Rayon",
+          "latlng": [
+            53.66667,
+            24
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15883,
+          "name": "Hal’shany",
+          "latlng": [
+            54.2585,
+            26.0144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15899,
+          "name": "Horad Hrodna",
+          "latlng": [
+            53.68333,
+            23.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15905,
+          "name": "Hrodna",
+          "latlng": [
+            53.6884,
+            23.8258
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15906,
+          "name": "Hyeranyony",
+          "latlng": [
+            54.1159,
+            25.5773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15908,
+          "name": "Indura",
+          "latlng": [
+            53.4605,
+            23.8823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15913,
+          "name": "Iwye",
+          "latlng": [
+            53.9299,
+            25.7727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15924,
+          "name": "Karelichy",
+          "latlng": [
+            53.5648,
+            26.1406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15925,
+          "name": "Karelitski Rayon",
+          "latlng": [
+            53.5,
+            26.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15950,
+          "name": "Krasnosel’skiy",
+          "latlng": [
+            53.2645,
+            24.4301
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15952,
+          "name": "Kreva",
+          "latlng": [
+            54.3118,
+            26.2916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15959,
+          "name": "Lida",
+          "latlng": [
+            53.88333,
+            25.29972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15960,
+          "name": "Lidski Rayon",
+          "latlng": [
+            53.66667,
+            25.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15977,
+          "name": "Lyubcha",
+          "latlng": [
+            53.7522,
+            26.0603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15990,
+          "name": "Mir",
+          "latlng": [
+            53.4544,
+            26.467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15992,
+          "name": "Mosty",
+          "latlng": [
+            53.4122,
+            24.5387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16006,
+          "name": "Novogrudok",
+          "latlng": [
+            53.5942,
+            25.8191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16042,
+          "name": "Ross’",
+          "latlng": [
+            53.28451,
+            24.40335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16047,
+          "name": "Sapotskin",
+          "latlng": [
+            53.8329,
+            23.6598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16054,
+          "name": "Shchuchyn",
+          "latlng": [
+            53.6014,
+            24.7465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16055,
+          "name": "Shchuchynski Rayon",
+          "latlng": [
+            53.58333,
+            24.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16059,
+          "name": "Skidel’",
+          "latlng": [
+            53.5904,
+            24.2478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16062,
+          "name": "Slonim",
+          "latlng": [
+            53.0869,
+            25.3163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16066,
+          "name": "Smarhon’",
+          "latlng": [
+            54.4798,
+            26.3957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16069,
+          "name": "Soly",
+          "latlng": [
+            54.51301,
+            26.19381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16079,
+          "name": "Svislach",
+          "latlng": [
+            53.03474,
+            24.09829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16103,
+          "name": "Vishnyeva",
+          "latlng": [
+            54.7102,
+            26.5228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16106,
+          "name": "Volkovysk",
+          "latlng": [
+            53.1561,
+            24.4513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16107,
+          "name": "Voranava",
+          "latlng": [
+            54.1492,
+            25.3112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16108,
+          "name": "Vyalikaya Byerastavitsa",
+          "latlng": [
+            53.196,
+            24.0166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16121,
+          "name": "Zel’va",
+          "latlng": [
+            53.1504,
+            24.8153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16124,
+          "name": "Zhaludok",
+          "latlng": [
+            53.5974,
+            24.9828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16126,
+          "name": "Zhirovichi",
+          "latlng": [
+            53.0131,
+            25.3443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2957,
+      "name": "Minsk",
+      "code": "MI",
+      "shortName": "MI",
+      "cities": [
+        {
+          "id": 15811,
+          "name": "Astrashytski Haradok",
+          "latlng": [
+            54.0651,
+            27.695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15814,
+          "name": "Atolina",
+          "latlng": [
+            53.7817,
+            27.4346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15815,
+          "name": "Azyartso",
+          "latlng": [
+            53.8397,
+            27.3917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15819,
+          "name": "Bal’shavik",
+          "latlng": [
+            54.0036,
+            27.5669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15824,
+          "name": "Barysaw",
+          "latlng": [
+            54.2279,
+            28.505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15825,
+          "name": "Barysawski Rayon",
+          "latlng": [
+            54.33333,
+            28.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15826,
+          "name": "Blon’",
+          "latlng": [
+            53.5269,
+            28.1732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15827,
+          "name": "Bobr",
+          "latlng": [
+            54.342,
+            29.2736
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15828,
+          "name": "Borovlyany",
+          "latlng": [
+            54.0022,
+            27.6754
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15840,
+          "name": "Byarezinski Rayon",
+          "latlng": [
+            53.83333,
+            29
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15845,
+          "name": "Byerazino",
+          "latlng": [
+            53.8391,
+            28.9879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15855,
+          "name": "Chervyen’",
+          "latlng": [
+            53.7059,
+            28.4313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15856,
+          "name": "Chervyen’ski Rayon",
+          "latlng": [
+            53.75,
+            28.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15859,
+          "name": "Chyrvonaya Slabada",
+          "latlng": [
+            52.8522,
+            27.1698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15860,
+          "name": "Chyst’",
+          "latlng": [
+            54.2698,
+            27.1067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15871,
+          "name": "Druzhny",
+          "latlng": [
+            53.6238,
+            27.8977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15875,
+          "name": "Dukora",
+          "latlng": [
+            53.6786,
+            27.94
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15878,
+          "name": "Dzyarzhynsk",
+          "latlng": [
+            53.6832,
+            27.138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15879,
+          "name": "Enyerhyetykaw",
+          "latlng": [
+            53.5871,
+            27.0535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15880,
+          "name": "Fanipol",
+          "latlng": [
+            53.74998,
+            27.33338
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15889,
+          "name": "Haradzyeya",
+          "latlng": [
+            53.3121,
+            26.538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15890,
+          "name": "Hatava",
+          "latlng": [
+            53.7829,
+            27.6407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15900,
+          "name": "Horad Smalyavichy",
+          "latlng": [
+            54.0249,
+            28.0894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15901,
+          "name": "Horad Zhodzina",
+          "latlng": [
+            54.0985,
+            28.3331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15904,
+          "name": "Hotsk",
+          "latlng": [
+            52.5215,
+            27.1385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15907,
+          "name": "Il’ya",
+          "latlng": [
+            54.4167,
+            27.2958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15912,
+          "name": "Ivyanyets",
+          "latlng": [
+            53.8864,
+            26.7432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15916,
+          "name": "Kalodzishchy",
+          "latlng": [
+            53.944,
+            27.7823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15921,
+          "name": "Kapyl’",
+          "latlng": [
+            53.1516,
+            27.0913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15922,
+          "name": "Kapyl’ski Rayon",
+          "latlng": [
+            53.16667,
+            27.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15931,
+          "name": "Khatsyezhyna",
+          "latlng": [
+            53.9094,
+            27.3069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15933,
+          "name": "Kholopenichi",
+          "latlng": [
+            54.51746,
+            28.95645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15940,
+          "name": "Klyetsk",
+          "latlng": [
+            53.0635,
+            26.6321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15941,
+          "name": "Klyetski Rayon",
+          "latlng": [
+            53,
+            26.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15945,
+          "name": "Korolëv Stan",
+          "latlng": [
+            53.9865,
+            27.7982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15949,
+          "name": "Krasnaye",
+          "latlng": [
+            54.2438,
+            27.0758
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15954,
+          "name": "Krupki",
+          "latlng": [
+            54.3178,
+            29.1374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15956,
+          "name": "Kryvichy",
+          "latlng": [
+            54.7132,
+            27.2886
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15958,
+          "name": "Lahoysk",
+          "latlng": [
+            54.2064,
+            27.8512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15961,
+          "name": "Loshnitsa",
+          "latlng": [
+            54.2796,
+            28.7649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15963,
+          "name": "Luhavaya Slabada",
+          "latlng": [
+            53.7823,
+            27.8434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15966,
+          "name": "Lyasny",
+          "latlng": [
+            54.0072,
+            27.6963
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15972,
+          "name": "Lyeskawka",
+          "latlng": [
+            54.0024,
+            27.7108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15976,
+          "name": "Lyuban’",
+          "latlng": [
+            52.7985,
+            28.0048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15978,
+          "name": "Machulishchy",
+          "latlng": [
+            53.7788,
+            27.5948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15981,
+          "name": "Maladzyechna",
+          "latlng": [
+            54.3167,
+            26.854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15983,
+          "name": "Mar’’ina Horka",
+          "latlng": [
+            53.509,
+            28.147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15987,
+          "name": "Michanovichi",
+          "latlng": [
+            53.73937,
+            27.69276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15995,
+          "name": "Myadzyel",
+          "latlng": [
+            54.8789,
+            26.9371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15996,
+          "name": "Myadzyel’ski Rayon",
+          "latlng": [
+            54.83333,
+            27
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16001,
+          "name": "Narach",
+          "latlng": [
+            54.9102,
+            26.708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16003,
+          "name": "Nasilava",
+          "latlng": [
+            54.30441,
+            26.78209
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16008,
+          "name": "Novosel’ye",
+          "latlng": [
+            53.9162,
+            27.2009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16009,
+          "name": "Novy Svyerzhan’",
+          "latlng": [
+            53.4542,
+            26.7301
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16011,
+          "name": "Nyasvizh",
+          "latlng": [
+            53.2189,
+            26.6779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16012,
+          "name": "Nyasvizhski Rayon",
+          "latlng": [
+            53.25,
+            26.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16022,
+          "name": "Plyeshchanitsy",
+          "latlng": [
+            54.4235,
+            27.8301
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16026,
+          "name": "Prawdzinski",
+          "latlng": [
+            53.5248,
+            27.8303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16029,
+          "name": "Pryvol’ny",
+          "latlng": [
+            53.7969,
+            27.7967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16030,
+          "name": "Pukhavichy",
+          "latlng": [
+            53.5297,
+            28.2467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16031,
+          "name": "Pukhavichy Raion",
+          "latlng": [
+            53.5,
+            28
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16032,
+          "name": "Pyatryshki",
+          "latlng": [
+            54.0686,
+            27.2179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16034,
+          "name": "Radashkovichy",
+          "latlng": [
+            54.1554,
+            27.2412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16037,
+          "name": "Rakaw",
+          "latlng": [
+            53.9674,
+            27.0562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16043,
+          "name": "Rudzyensk",
+          "latlng": [
+            53.5983,
+            27.8621
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16045,
+          "name": "Salihorsk",
+          "latlng": [
+            52.7876,
+            27.5415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16046,
+          "name": "Samakhvalavichy",
+          "latlng": [
+            53.7396,
+            27.5037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16048,
+          "name": "Sarachy",
+          "latlng": [
+            52.7867,
+            28.0186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16051,
+          "name": "Schomyslitsa",
+          "latlng": [
+            53.8211,
+            27.4522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16060,
+          "name": "Slabada",
+          "latlng": [
+            54.0087,
+            27.8866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16063,
+          "name": "Slutsk",
+          "latlng": [
+            53.0274,
+            27.5597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16064,
+          "name": "Slutski Rayon",
+          "latlng": [
+            53,
+            27.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16065,
+          "name": "Smalyavitski Rayon",
+          "latlng": [
+            54,
+            28.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16067,
+          "name": "Smilavichy",
+          "latlng": [
+            53.7496,
+            28.0115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16068,
+          "name": "Snow",
+          "latlng": [
+            53.2201,
+            26.401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16070,
+          "name": "Stan’kava",
+          "latlng": [
+            53.6292,
+            27.229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16071,
+          "name": "Staradarozhski Rayon",
+          "latlng": [
+            53,
+            28.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16072,
+          "name": "Starobin",
+          "latlng": [
+            52.7267,
+            27.4606
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16073,
+          "name": "Staryya Darohi",
+          "latlng": [
+            53.0402,
+            28.267
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16074,
+          "name": "Stawbtsowski Rayon",
+          "latlng": [
+            53.58333,
+            26.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16077,
+          "name": "Stowbtsy",
+          "latlng": [
+            53.4785,
+            26.7434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16078,
+          "name": "Svir",
+          "latlng": [
+            54.8517,
+            26.395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16080,
+          "name": "Svislach",
+          "latlng": [
+            53.6404,
+            27.9199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16083,
+          "name": "Syenitsa",
+          "latlng": [
+            53.8313,
+            27.5343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16085,
+          "name": "Syomkava",
+          "latlng": [
+            54.0101,
+            27.441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16088,
+          "name": "Tsimkavichy",
+          "latlng": [
+            53.0672,
+            26.9902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16091,
+          "name": "Turets-Bayary",
+          "latlng": [
+            54.3785,
+            26.6581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16092,
+          "name": "Urechcha",
+          "latlng": [
+            52.9479,
+            27.893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16094,
+          "name": "Usiazh",
+          "latlng": [
+            54.07598,
+            28.00698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16095,
+          "name": "Uzda",
+          "latlng": [
+            53.4627,
+            27.2137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16096,
+          "name": "Uzdzyenski Rayon",
+          "latlng": [
+            53.41667,
+            27.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16097,
+          "name": "Valozhyn",
+          "latlng": [
+            54.0892,
+            26.5266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16101,
+          "name": "Vilyeyka",
+          "latlng": [
+            54.4914,
+            26.9111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16102,
+          "name": "Vilyeyski Rayon",
+          "latlng": [
+            54.5,
+            27.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16109,
+          "name": "Vyaliki Trastsyanets",
+          "latlng": [
+            53.851,
+            27.7139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16117,
+          "name": "Yubilyeyny",
+          "latlng": [
+            53.8191,
+            27.5215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16118,
+          "name": "Zamostochye",
+          "latlng": [
+            53.8198,
+            27.8685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16119,
+          "name": "Zaslawye",
+          "latlng": [
+            54.0114,
+            27.2695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16125,
+          "name": "Zhdanovichy",
+          "latlng": [
+            53.9432,
+            27.425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16131,
+          "name": "Zyembin",
+          "latlng": [
+            54.3579,
+            28.2207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16132,
+          "name": "Октябрьский",
+          "latlng": [
+            54.04059,
+            28.19813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2958,
+      "name": "Minsk",
+      "code": "HM",
+      "shortName": "HM",
+      "cities": [
+        {
+          "id": 15881,
+          "name": "Frunzyenski Rayon",
+          "latlng": [
+            53.90056,
+            27.495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15927,
+          "name": "Kastrychnitski Rayon",
+          "latlng": [
+            53.85667,
+            27.54139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15969,
+          "name": "Lyeninski Rayon",
+          "latlng": [
+            53.85944,
+            27.58778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15984,
+          "name": "Maskowski Rayon",
+          "latlng": [
+            53.87417,
+            27.50278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15989,
+          "name": "Minsk",
+          "latlng": [
+            53.9,
+            27.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16016,
+          "name": "Partyzanski Rayon",
+          "latlng": [
+            53.88028,
+            27.67
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16050,
+          "name": "Savyetski Rayon",
+          "latlng": [
+            53.91778,
+            27.59417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16087,
+          "name": "Tsentral’ny Rayon",
+          "latlng": [
+            53.91778,
+            27.56333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16120,
+          "name": "Zavodski Rayon",
+          "latlng": [
+            53.86194,
+            27.66222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2954,
+      "name": "Mogilev",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 15808,
+          "name": "Asipovichy",
+          "latlng": [
+            53.3011,
+            28.6386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15809,
+          "name": "Asipovitski Rayon",
+          "latlng": [
+            53.33333,
+            28.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15816,
+          "name": "Babruysk",
+          "latlng": [
+            53.1384,
+            29.2214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15817,
+          "name": "Babruyski Rayon",
+          "latlng": [
+            53.08333,
+            29.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15836,
+          "name": "Buynichy",
+          "latlng": [
+            53.8536,
+            30.2671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15838,
+          "name": "Byalynichy",
+          "latlng": [
+            53.9994,
+            29.7141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15839,
+          "name": "Byalynitski Rayon",
+          "latlng": [
+            54,
+            29.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15847,
+          "name": "Bykhaw",
+          "latlng": [
+            53.521,
+            30.2454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15853,
+          "name": "Chavuski Rayon",
+          "latlng": [
+            53.83333,
+            30.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15854,
+          "name": "Chavusy",
+          "latlng": [
+            53.8098,
+            30.9717
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15857,
+          "name": "Cherykaw",
+          "latlng": [
+            53.5689,
+            31.3831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15858,
+          "name": "Cherykawski Rayon",
+          "latlng": [
+            53.66667,
+            31.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15862,
+          "name": "Dashkawka",
+          "latlng": [
+            53.7352,
+            30.2625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15872,
+          "name": "Drybin",
+          "latlng": [
+            54.1192,
+            31.0939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15873,
+          "name": "Drybinski Rayon",
+          "latlng": [
+            54.08333,
+            31
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15891,
+          "name": "Hlusha",
+          "latlng": [
+            53.0868,
+            28.8567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15892,
+          "name": "Hlusk",
+          "latlng": [
+            52.903,
+            28.6845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15902,
+          "name": "Horatski Rayon",
+          "latlng": [
+            54.33333,
+            31
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15903,
+          "name": "Horki",
+          "latlng": [
+            54.2862,
+            30.9863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15914,
+          "name": "Kadino",
+          "latlng": [
+            53.88389,
+            30.52028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15920,
+          "name": "Kamyennyya Lavy",
+          "latlng": [
+            54.0898,
+            30.2962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15928,
+          "name": "Kastsyukovichy",
+          "latlng": [
+            53.3525,
+            32.0514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15932,
+          "name": "Khodasy",
+          "latlng": [
+            53.9266,
+            31.4779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15934,
+          "name": "Khotsimsk",
+          "latlng": [
+            53.4086,
+            32.578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15935,
+          "name": "Khotsimski Rayon",
+          "latlng": [
+            53.41667,
+            32.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15937,
+          "name": "Kirawsk",
+          "latlng": [
+            53.2693,
+            29.4752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15938,
+          "name": "Klichaw",
+          "latlng": [
+            53.4923,
+            29.3356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15939,
+          "name": "Klimavichy",
+          "latlng": [
+            53.6079,
+            31.9586
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15948,
+          "name": "Krasnapol’ski Rayon",
+          "latlng": [
+            53.33333,
+            31.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15947,
+          "name": "Krasnapollye",
+          "latlng": [
+            53.3353,
+            31.3999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15951,
+          "name": "Krasnyy Bereg",
+          "latlng": [
+            53.3291,
+            30.1929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15953,
+          "name": "Kruhlaye",
+          "latlng": [
+            54.2497,
+            29.7968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15955,
+          "name": "Krychaw",
+          "latlng": [
+            53.7125,
+            31.717
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15979,
+          "name": "Mahilyow",
+          "latlng": [
+            53.9168,
+            30.3449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15980,
+          "name": "Mahilyowski Rayon",
+          "latlng": [
+            53.83333,
+            30.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15994,
+          "name": "Mstsislaw",
+          "latlng": [
+            54.0185,
+            31.7217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15997,
+          "name": "Myazhysyatki",
+          "latlng": [
+            53.7776,
+            30.1765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16000,
+          "name": "Myshkavichy",
+          "latlng": [
+            53.2172,
+            29.512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16015,
+          "name": "Palykavichy Pyershyya",
+          "latlng": [
+            53.9854,
+            30.36
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16025,
+          "name": "Posëlok Voskhod",
+          "latlng": [
+            53.7766,
+            30.3497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16038,
+          "name": "Ramanavichy",
+          "latlng": [
+            53.8653,
+            30.5597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16056,
+          "name": "Shklow",
+          "latlng": [
+            54.2131,
+            30.2877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16057,
+          "name": "Shklowski Rayon",
+          "latlng": [
+            54.16667,
+            30.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16061,
+          "name": "Slawharad",
+          "latlng": [
+            53.4429,
+            31.0014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16099,
+          "name": "Veyno",
+          "latlng": [
+            53.83333,
+            30.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16104,
+          "name": "Vishow",
+          "latlng": [
+            53.9805,
+            29.9925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16115,
+          "name": "Yalizava",
+          "latlng": [
+            53.3994,
+            29.0048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2960,
+      "name": "Vitebsk",
+      "code": "VI",
+      "shortName": "VI",
+      "cities": [
+        {
+          "id": 15818,
+          "name": "Balbasava",
+          "latlng": [
+            54.4207,
+            30.2909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15822,
+          "name": "Baran’",
+          "latlng": [
+            54.4784,
+            30.3159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15831,
+          "name": "Braslaw",
+          "latlng": [
+            55.6413,
+            27.0418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15832,
+          "name": "Braslawski Rayon",
+          "latlng": [
+            55.55972,
+            27
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15837,
+          "name": "Byahoml’",
+          "latlng": [
+            54.7316,
+            28.0577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15846,
+          "name": "Byeshankovitski Rayon",
+          "latlng": [
+            55,
+            29.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15851,
+          "name": "Chashniki",
+          "latlng": [
+            54.8584,
+            29.1608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15852,
+          "name": "Chashnitski Rayon",
+          "latlng": [
+            54.75,
+            29.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15865,
+          "name": "Dokshytski Rayon",
+          "latlng": [
+            54.83333,
+            27.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15866,
+          "name": "Dokshytsy",
+          "latlng": [
+            54.8918,
+            27.7667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15870,
+          "name": "Druya",
+          "latlng": [
+            55.7906,
+            27.4505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15874,
+          "name": "Dubrowna",
+          "latlng": [
+            54.5716,
+            30.691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15877,
+          "name": "Dzisna",
+          "latlng": [
+            55.5676,
+            28.2076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15886,
+          "name": "Haradok",
+          "latlng": [
+            55.4624,
+            29.9845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15887,
+          "name": "Haradotski Rayon",
+          "latlng": [
+            55.66667,
+            30.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15893,
+          "name": "Hlybokaye",
+          "latlng": [
+            55.1384,
+            27.6905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15894,
+          "name": "Hlybotski Rayon",
+          "latlng": [
+            55.16667,
+            27.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15943,
+          "name": "Kokhanava",
+          "latlng": [
+            54.4611,
+            30.0018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15944,
+          "name": "Konstantinovo",
+          "latlng": [
+            54.6593,
+            29.2684
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15970,
+          "name": "Lyepyel’",
+          "latlng": [
+            54.8814,
+            28.699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15971,
+          "name": "Lyepyel’ski Rayon",
+          "latlng": [
+            54.83333,
+            28.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15973,
+          "name": "Lyntupy",
+          "latlng": [
+            55.0516,
+            26.3103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15974,
+          "name": "Lyozna",
+          "latlng": [
+            55.0247,
+            30.797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15975,
+          "name": "Lyoznyenski Rayon",
+          "latlng": [
+            55,
+            30.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15991,
+          "name": "Mosar",
+          "latlng": [
+            55.2232,
+            27.4609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15998,
+          "name": "Myorski Rayon",
+          "latlng": [
+            55.58333,
+            27.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15999,
+          "name": "Myory",
+          "latlng": [
+            55.6222,
+            27.6281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16004,
+          "name": "Navapolatsk",
+          "latlng": [
+            55.5318,
+            28.5987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16007,
+          "name": "Novolukoml’",
+          "latlng": [
+            54.66192,
+            29.15016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16013,
+          "name": "Orsha",
+          "latlng": [
+            54.5081,
+            30.4172
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16014,
+          "name": "Osveya",
+          "latlng": [
+            56.0147,
+            28.11049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16018,
+          "name": "Pastavy",
+          "latlng": [
+            55.11676,
+            26.83263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16019,
+          "name": "Pastawski Rayon",
+          "latlng": [
+            55.08333,
+            26.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16023,
+          "name": "Polatsk",
+          "latlng": [
+            55.4879,
+            28.7856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16024,
+          "name": "Polatski Rayon",
+          "latlng": [
+            55.58333,
+            29
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16039,
+          "name": "Rasonski Rayon",
+          "latlng": [
+            55.83333,
+            28.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16040,
+          "name": "Rasony",
+          "latlng": [
+            55.9058,
+            28.8135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16052,
+          "name": "Sharkawshchyna",
+          "latlng": [
+            55.3689,
+            27.4686
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16053,
+          "name": "Sharkawshchynski Rayon",
+          "latlng": [
+            55.41667,
+            27.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16058,
+          "name": "Shumilinski Rayon",
+          "latlng": [
+            55.33333,
+            29.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16082,
+          "name": "Syanno",
+          "latlng": [
+            54.8108,
+            29.7086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16084,
+          "name": "Syennyenski Rayon",
+          "latlng": [
+            54.83333,
+            29.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16086,
+          "name": "Talachyn",
+          "latlng": [
+            54.4087,
+            29.6955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16093,
+          "name": "Ushachy",
+          "latlng": [
+            55.179,
+            28.6158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16100,
+          "name": "Vidzy",
+          "latlng": [
+            55.3945,
+            26.6305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16105,
+          "name": "Vitebsk",
+          "latlng": [
+            55.1904,
+            30.2049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16110,
+          "name": "Vyerkhnyadzvinsk",
+          "latlng": [
+            55.7777,
+            27.9389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16111,
+          "name": "Vyerkhnyadzvinski Rayon",
+          "latlng": [
+            55.75,
+            28.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

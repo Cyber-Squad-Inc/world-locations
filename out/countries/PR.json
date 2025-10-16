@@ -1,0 +1,1582 @@
+{
+  "name": {
+    "common": "Puerto Rico",
+    "official": "Puerto Rico"
+  },
+  "iso2": "PR",
+  "iso3": "PRI",
+  "numericCode": "630",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".pr",
+  "phoneCode": "1",
+  "capital": "San Juan",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Puerto_Rico",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pr.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pr.svg",
+  "states": [
+    {
+      "id": 5134,
+      "name": "Adjuntas",
+      "code": "001",
+      "shortName": "001",
+      "cities": [
+        {
+          "id": 153549,
+          "name": "Adjuntas",
+          "latlng": [
+            18.1634848,
+            -66.723158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5135,
+      "name": "Aguada",
+      "code": "003",
+      "shortName": "003",
+      "cities": [
+        {
+          "id": 153550,
+          "name": "Aguada",
+          "latlng": [
+            18.3801579,
+            -67.188704
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5136,
+      "name": "Aguadilla",
+      "code": "005",
+      "shortName": "005",
+      "cities": [
+        {
+          "id": 153551,
+          "name": "Aguadilla",
+          "latlng": [
+            18.4274454,
+            -67.1540698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5137,
+      "name": "Aguas Buenas",
+      "code": "007",
+      "shortName": "007",
+      "cities": [
+        {
+          "id": 153552,
+          "name": "Aguas Buenas",
+          "latlng": [
+            18.2568989,
+            -66.1029442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5138,
+      "name": "Aibonito",
+      "code": "009",
+      "shortName": "009",
+      "cities": [
+        {
+          "id": 153553,
+          "name": "Aibonito",
+          "latlng": [
+            18.1399594,
+            -66.2660016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5139,
+      "name": "Añasco",
+      "code": "011",
+      "shortName": "011",
+      "cities": [
+        {
+          "id": 153554,
+          "name": "Añasco",
+          "latlng": [
+            18.2854476,
+            -67.1402935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5140,
+      "name": "Arecibo",
+      "code": "013",
+      "shortName": "013",
+      "cities": [
+        {
+          "id": 153555,
+          "name": "Arecibo",
+          "latlng": [
+            18.4705137,
+            -66.7218472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5081,
+      "name": "Arecibo",
+      "code": "AR",
+      "shortName": "AR",
+      "cities": []
+    },
+    {
+      "id": 5141,
+      "name": "Arroyo",
+      "code": "015",
+      "shortName": "015",
+      "cities": [
+        {
+          "id": 153556,
+          "name": "Arroyo",
+          "latlng": [
+            17.996422,
+            -66.0924879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5142,
+      "name": "Barceloneta",
+      "code": "017",
+      "shortName": "017",
+      "cities": [
+        {
+          "id": 153557,
+          "name": "Barceloneta",
+          "latlng": [
+            41.3801061,
+            2.1896957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5143,
+      "name": "Barranquitas",
+      "code": "019",
+      "shortName": "019",
+      "cities": [
+        {
+          "id": 153558,
+          "name": "Barranquitas",
+          "latlng": [
+            18.1866242,
+            -66.3062802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5076,
+      "name": "Bayamon",
+      "code": "BY",
+      "shortName": "BY",
+      "cities": []
+    },
+    {
+      "id": 5144,
+      "name": "Bayamón",
+      "code": "021",
+      "shortName": "021",
+      "cities": [
+        {
+          "id": 153559,
+          "name": "Bayamón",
+          "latlng": [
+            18.389396,
+            -66.1653224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5145,
+      "name": "Cabo Rojo",
+      "code": "023",
+      "shortName": "023",
+      "cities": [
+        {
+          "id": 153560,
+          "name": "Cabo Rojo",
+          "latlng": [
+            18.0866265,
+            -67.1457347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5079,
+      "name": "Caguas",
+      "code": "CG",
+      "shortName": "CG",
+      "cities": []
+    },
+    {
+      "id": 5146,
+      "name": "Caguas",
+      "code": "025",
+      "shortName": "025",
+      "cities": [
+        {
+          "id": 153561,
+          "name": "Caguas",
+          "latlng": [
+            18.2387995,
+            -66.035249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5147,
+      "name": "Camuy",
+      "code": "027",
+      "shortName": "027",
+      "cities": [
+        {
+          "id": 153562,
+          "name": "Camuy",
+          "latlng": [
+            18.483833,
+            -66.8448994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5148,
+      "name": "Canóvanas",
+      "code": "029",
+      "shortName": "029",
+      "cities": [
+        {
+          "id": 153563,
+          "name": "Canóvanas",
+          "latlng": [
+            18.3748748,
+            -65.8997533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5077,
+      "name": "Carolina",
+      "code": "CL",
+      "shortName": "CL",
+      "cities": []
+    },
+    {
+      "id": 5149,
+      "name": "Carolina",
+      "code": "031",
+      "shortName": "031",
+      "cities": [
+        {
+          "id": 153564,
+          "name": "Carolina",
+          "latlng": [
+            18.3680877,
+            -66.0424734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5150,
+      "name": "Cataño",
+      "code": "033",
+      "shortName": "033",
+      "cities": [
+        {
+          "id": 153565,
+          "name": "Cataño",
+          "latlng": [
+            18.4465355,
+            -66.1355775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5151,
+      "name": "Cayey",
+      "code": "035",
+      "shortName": "035",
+      "cities": [
+        {
+          "id": 153566,
+          "name": "Cayey",
+          "latlng": [
+            18.1119051,
+            -66.166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5152,
+      "name": "Ceiba",
+      "code": "037",
+      "shortName": "037",
+      "cities": [
+        {
+          "id": 153567,
+          "name": "Ceiba",
+          "latlng": [
+            18.2475177,
+            -65.9084953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5153,
+      "name": "Ciales",
+      "code": "039",
+      "shortName": "039",
+      "cities": [
+        {
+          "id": 153568,
+          "name": "Ciales",
+          "latlng": [
+            18.3360622,
+            -66.4687823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5154,
+      "name": "Cidra",
+      "code": "041",
+      "shortName": "041",
+      "cities": [
+        {
+          "id": 153569,
+          "name": "Cidra",
+          "latlng": [
+            18.1757914,
+            -66.1612779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5155,
+      "name": "Coamo",
+      "code": "043",
+      "shortName": "043",
+      "cities": [
+        {
+          "id": 153570,
+          "name": "Coamo",
+          "latlng": [
+            18.0799616,
+            -66.3579473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5156,
+      "name": "Comerío",
+      "code": "045",
+      "shortName": "045",
+      "cities": [
+        {
+          "id": 153571,
+          "name": "Comerío",
+          "latlng": [
+            18.2192001,
+            -66.2256022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5157,
+      "name": "Corozal",
+      "code": "047",
+      "shortName": "047",
+      "cities": [
+        {
+          "id": 153572,
+          "name": "Corozal",
+          "latlng": [
+            18.4030802,
+            -88.3967536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5158,
+      "name": "Culebra",
+      "code": "049",
+      "shortName": "049",
+      "cities": [
+        {
+          "id": 153573,
+          "name": "Culebra",
+          "latlng": [
+            18.310394,
+            -65.3030705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5159,
+      "name": "Dorado",
+      "code": "051",
+      "shortName": "051",
+      "cities": [
+        {
+          "id": 153574,
+          "name": "Dorado",
+          "latlng": [
+            43.1480556,
+            -77.5772222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5160,
+      "name": "Fajardo",
+      "code": "053",
+      "shortName": "053",
+      "cities": [
+        {
+          "id": 153575,
+          "name": "Fajardo",
+          "latlng": [
+            18.3252148,
+            -65.6539356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5161,
+      "name": "Florida",
+      "code": "054",
+      "shortName": "054",
+      "cities": [
+        {
+          "id": 153576,
+          "name": "Florida",
+          "latlng": [
+            27.6648274,
+            -81.5157535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5162,
+      "name": "Guánica",
+      "code": "055",
+      "shortName": "055",
+      "cities": [
+        {
+          "id": 153577,
+          "name": "Guánica",
+          "latlng": [
+            17.9725145,
+            -66.9086264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5163,
+      "name": "Guayama",
+      "code": "057",
+      "shortName": "057",
+      "cities": [
+        {
+          "id": 153578,
+          "name": "Guayama",
+          "latlng": [
+            17.9841328,
+            -66.1137767
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5164,
+      "name": "Guayanilla",
+      "code": "059",
+      "shortName": "059",
+      "cities": [
+        {
+          "id": 153579,
+          "name": "Guayanilla",
+          "latlng": [
+            18.0191314,
+            -66.791842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5080,
+      "name": "Guaynabo",
+      "code": "GN",
+      "shortName": "GN",
+      "cities": []
+    },
+    {
+      "id": 5165,
+      "name": "Guaynabo",
+      "code": "061",
+      "shortName": "061",
+      "cities": [
+        {
+          "id": 153580,
+          "name": "Guaynabo",
+          "latlng": [
+            18.3612954,
+            -66.1102957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5166,
+      "name": "Gurabo",
+      "code": "063",
+      "shortName": "063",
+      "cities": [
+        {
+          "id": 153581,
+          "name": "Gurabo",
+          "latlng": [
+            18.2543987,
+            -65.9729421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5167,
+      "name": "Hatillo",
+      "code": "065",
+      "shortName": "065",
+      "cities": [
+        {
+          "id": 153582,
+          "name": "Hatillo",
+          "latlng": [
+            18.4284642,
+            -66.7875321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5168,
+      "name": "Hormigueros",
+      "code": "067",
+      "shortName": "067",
+      "cities": [
+        {
+          "id": 153583,
+          "name": "Hormigueros",
+          "latlng": [
+            18.1334638,
+            -67.1128123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5169,
+      "name": "Humacao",
+      "code": "069",
+      "shortName": "069",
+      "cities": [
+        {
+          "id": 153584,
+          "name": "Humacao",
+          "latlng": [
+            18.1515736,
+            -65.8248529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5170,
+      "name": "Isabela",
+      "code": "071",
+      "shortName": "071",
+      "cities": [
+        {
+          "id": 153585,
+          "name": "Isabela",
+          "latlng": [
+            16.9753758,
+            121.8107079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5171,
+      "name": "Jayuya",
+      "code": "073",
+      "shortName": "073",
+      "cities": [
+        {
+          "id": 153586,
+          "name": "Jayuya",
+          "latlng": [
+            18.2185674,
+            -66.5915617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5172,
+      "name": "Juana Díaz",
+      "code": "075",
+      "shortName": "075",
+      "cities": [
+        {
+          "id": 153587,
+          "name": "Juana Díaz",
+          "latlng": [
+            18.0534372,
+            -66.5075079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5173,
+      "name": "Juncos",
+      "code": "077",
+      "shortName": "077",
+      "cities": [
+        {
+          "id": 153588,
+          "name": "Juncos",
+          "latlng": [
+            18.2274558,
+            -65.920997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5174,
+      "name": "Lajas",
+      "code": "079",
+      "shortName": "079",
+      "cities": [
+        {
+          "id": 153589,
+          "name": "Lajas",
+          "latlng": [
+            18.049962,
+            -67.0593449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5175,
+      "name": "Lares",
+      "code": "081",
+      "shortName": "081",
+      "cities": [
+        {
+          "id": 153590,
+          "name": "Lares",
+          "latlng": [
+            34.0250802,
+            -118.4594593
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5176,
+      "name": "Las Marías",
+      "code": "083",
+      "shortName": "083",
+      "cities": [
+        {
+          "id": 153591,
+          "name": "Las Marías",
+          "latlng": [
+            35.8382238,
+            -78.6103566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5177,
+      "name": "Las Piedras",
+      "code": "085",
+      "shortName": "085",
+      "cities": [
+        {
+          "id": 153592,
+          "name": "Las Piedras",
+          "latlng": [
+            18.1855753,
+            -65.8736245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5178,
+      "name": "Loíza",
+      "code": "087",
+      "shortName": "087",
+      "cities": [
+        {
+          "id": 153593,
+          "name": "Loíza",
+          "latlng": [
+            18.4329904,
+            -65.87836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5179,
+      "name": "Luquillo",
+      "code": "089",
+      "shortName": "089",
+      "cities": [
+        {
+          "id": 153594,
+          "name": "Luquillo",
+          "latlng": [
+            18.3724507,
+            -65.7165511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5180,
+      "name": "Manatí",
+      "code": "091",
+      "shortName": "091",
+      "cities": [
+        {
+          "id": 153595,
+          "name": "Manatí",
+          "latlng": [
+            18.4181215,
+            -66.5262783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5181,
+      "name": "Maricao",
+      "code": "093",
+      "shortName": "093",
+      "cities": [
+        {
+          "id": 153596,
+          "name": "Maricao",
+          "latlng": [
+            18.1807902,
+            -66.9799001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5182,
+      "name": "Maunabo",
+      "code": "095",
+      "shortName": "095",
+      "cities": [
+        {
+          "id": 153597,
+          "name": "Maunabo",
+          "latlng": [
+            18.0071885,
+            -65.8993289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5083,
+      "name": "Mayagüez",
+      "code": "MG",
+      "shortName": "MG",
+      "cities": []
+    },
+    {
+      "id": 5183,
+      "name": "Mayagüez",
+      "code": "097",
+      "shortName": "097",
+      "cities": [
+        {
+          "id": 153598,
+          "name": "Mayagüez",
+          "latlng": [
+            18.2013452,
+            -67.1451549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5184,
+      "name": "Moca",
+      "code": "099",
+      "shortName": "099",
+      "cities": [
+        {
+          "id": 153599,
+          "name": "Moca",
+          "latlng": [
+            18.3967929,
+            -67.1479035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5185,
+      "name": "Morovis",
+      "code": "101",
+      "shortName": "101",
+      "cities": [
+        {
+          "id": 153600,
+          "name": "Morovis",
+          "latlng": [
+            18.325785,
+            -66.4065592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5186,
+      "name": "Naguabo",
+      "code": "103",
+      "shortName": "103",
+      "cities": [
+        {
+          "id": 153601,
+          "name": "Naguabo",
+          "latlng": [
+            18.2116247,
+            -65.7348841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5187,
+      "name": "Naranjito",
+      "code": "105",
+      "shortName": "105",
+      "cities": [
+        {
+          "id": 153602,
+          "name": "Naranjito",
+          "latlng": [
+            18.3007861,
+            -66.2448904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5188,
+      "name": "Orocovis",
+      "code": "107",
+      "shortName": "107",
+      "cities": [
+        {
+          "id": 153603,
+          "name": "Orocovis",
+          "latlng": [
+            18.2269224,
+            -66.3911686
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5189,
+      "name": "Patillas",
+      "code": "109",
+      "shortName": "109",
+      "cities": [
+        {
+          "id": 153604,
+          "name": "Patillas",
+          "latlng": [
+            18.0037381,
+            -66.0134059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5190,
+      "name": "Peñuelas",
+      "code": "111",
+      "shortName": "111",
+      "cities": [
+        {
+          "id": 153605,
+          "name": "Peñuelas",
+          "latlng": [
+            18.0633577,
+            -66.7273896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5078,
+      "name": "Ponce",
+      "code": "PO",
+      "shortName": "PO",
+      "cities": []
+    },
+    {
+      "id": 5191,
+      "name": "Ponce",
+      "code": "113",
+      "shortName": "113",
+      "cities": [
+        {
+          "id": 153606,
+          "name": "Ponce",
+          "latlng": [
+            18.0110768,
+            -66.6140616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5192,
+      "name": "Quebradillas",
+      "code": "115",
+      "shortName": "115",
+      "cities": [
+        {
+          "id": 153607,
+          "name": "Quebradillas",
+          "latlng": [
+            18.473833,
+            -66.938512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "name": "Rincón",
+      "code": "117",
+      "shortName": "117",
+      "cities": [
+        {
+          "id": 153608,
+          "name": "Rincón",
+          "latlng": [
+            18.3401514,
+            -67.2499459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5194,
+      "name": "Río Grande",
+      "code": "119",
+      "shortName": "119",
+      "cities": [
+        {
+          "id": 153609,
+          "name": "Río Grande",
+          "latlng": [
+            28.81063826,
+            -101.8353878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5195,
+      "name": "Sabana Grande",
+      "code": "121",
+      "shortName": "121",
+      "cities": [
+        {
+          "id": 153610,
+          "name": "Sabana Grande",
+          "latlng": [
+            18.0777392,
+            -66.9604549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5196,
+      "name": "Salinas",
+      "code": "123",
+      "shortName": "123",
+      "cities": [
+        {
+          "id": 153611,
+          "name": "Salinas",
+          "latlng": [
+            36.6777372,
+            -121.6555013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5197,
+      "name": "San Germán",
+      "code": "125",
+      "shortName": "125",
+      "cities": [
+        {
+          "id": 153612,
+          "name": "San Germán",
+          "latlng": [
+            18.0807082,
+            -67.0411096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5198,
+      "name": "San Juan",
+      "code": "127",
+      "shortName": "127",
+      "cities": [
+        {
+          "id": 153613,
+          "name": "San Juan",
+          "latlng": [
+            18.463203,
+            -66.1147571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5075,
+      "name": "San Juan",
+      "code": "SJ",
+      "shortName": "SJ",
+      "cities": []
+    },
+    {
+      "id": 5199,
+      "name": "San Lorenzo",
+      "code": "129",
+      "shortName": "129",
+      "cities": [
+        {
+          "id": 153614,
+          "name": "San Lorenzo",
+          "latlng": [
+            18.1886912,
+            -65.9765862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5200,
+      "name": "San Sebastián",
+      "code": "131",
+      "shortName": "131",
+      "cities": [
+        {
+          "id": 153615,
+          "name": "San Sebastián",
+          "latlng": [
+            43.318334,
+            -1.9812313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "name": "Santa Isabel",
+      "code": "133",
+      "shortName": "133",
+      "cities": [
+        {
+          "id": 153616,
+          "name": "Santa Isabel",
+          "latlng": [
+            17.9660775,
+            -66.404892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "name": "Toa Alta",
+      "code": "135",
+      "shortName": "135",
+      "cities": [
+        {
+          "id": 153617,
+          "name": "Toa Alta",
+          "latlng": [
+            18.3882823,
+            -66.2482237
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5082,
+      "name": "Toa Baja",
+      "code": "TB",
+      "shortName": "TB",
+      "cities": []
+    },
+    {
+      "id": 5203,
+      "name": "Toa Baja",
+      "code": "137",
+      "shortName": "137",
+      "cities": [
+        {
+          "id": 153618,
+          "name": "Toa Baja",
+          "latlng": [
+            18.4444709,
+            -66.2543293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5084,
+      "name": "Trujillo Alto",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": []
+    },
+    {
+      "id": 5204,
+      "name": "Trujillo Alto",
+      "code": "139",
+      "shortName": "139",
+      "cities": [
+        {
+          "id": 153619,
+          "name": "Trujillo Alto",
+          "latlng": [
+            18.3546719,
+            -66.0073876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5205,
+      "name": "Utuado",
+      "code": "141",
+      "shortName": "141",
+      "cities": [
+        {
+          "id": 153620,
+          "name": "Utuado",
+          "latlng": [
+            18.2655095,
+            -66.7004519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5206,
+      "name": "Vega Alta",
+      "code": "143",
+      "shortName": "143",
+      "cities": [
+        {
+          "id": 153621,
+          "name": "Vega Alta",
+          "latlng": [
+            18.4121703,
+            -66.3312805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5207,
+      "name": "Vega Baja",
+      "code": "145",
+      "shortName": "145",
+      "cities": [
+        {
+          "id": 153622,
+          "name": "Vega Baja",
+          "latlng": [
+            18.4461459,
+            -66.4041967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5208,
+      "name": "Vieques",
+      "code": "147",
+      "shortName": "147",
+      "cities": [
+        {
+          "id": 153623,
+          "name": "Vieques",
+          "latlng": [
+            18.1262854,
+            -65.4400985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5209,
+      "name": "Villalba",
+      "code": "149",
+      "shortName": "149",
+      "cities": [
+        {
+          "id": 153624,
+          "name": "Villalba",
+          "latlng": [
+            18.1217554,
+            -66.4985787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5210,
+      "name": "Yabucoa",
+      "code": "151",
+      "shortName": "151",
+      "cities": [
+        {
+          "id": 153625,
+          "name": "Yabucoa",
+          "latlng": [
+            18.0505201,
+            -65.8793288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5211,
+      "name": "Yauco",
+      "code": "153",
+      "shortName": "153",
+      "cities": [
+        {
+          "id": 153626,
+          "name": "Yauco",
+          "latlng": [
+            18.034964,
+            -66.8498983
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

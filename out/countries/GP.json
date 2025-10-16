@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Guadeloupe",
+    "official": "Guadeloupe"
+  },
+  "iso2": "GP",
+  "iso3": "GLP",
+  "numericCode": "312",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".gp",
+  "phoneCode": "590",
+  "capital": "Basse-Terre",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Guadeloupe",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gp.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gp.svg",
+  "states": []
+}

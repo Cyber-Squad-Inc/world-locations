@@ -1,0 +1,3506 @@
+{
+  "name": {
+    "common": "Armenia",
+    "official": "Armenia"
+  },
+  "iso2": "AM",
+  "iso3": "ARM",
+  "numericCode": "051",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".am",
+  "phoneCode": "374",
+  "capital": "Yerevan",
+  "currencies": {
+    "AMD": "Armenian dram"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Yerevan",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "AMT",
+      "tzName": "Armenia Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/am.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/am.svg",
+  "states": [
+    {
+      "id": 2023,
+      "name": "Aragatsotn",
+      "code": "AG",
+      "shortName": "AG",
+      "cities": [
+        {
+          "id": 286,
+          "name": "Agarakavan",
+          "latlng": [
+            40.33069,
+            44.07233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 303,
+          "name": "Aparan",
+          "latlng": [
+            40.59323,
+            44.3589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 305,
+          "name": "Aragats",
+          "latlng": [
+            40.48889,
+            44.3529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 329,
+          "name": "Arteni",
+          "latlng": [
+            40.2973,
+            43.76672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 334,
+          "name": "Ashnak",
+          "latlng": [
+            40.33069,
+            43.91669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 335,
+          "name": "Ashtarak",
+          "latlng": [
+            40.2991,
+            44.36204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 361,
+          "name": "Byurakan",
+          "latlng": [
+            40.33894,
+            44.27275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 412,
+          "name": "Hnaberd",
+          "latlng": [
+            40.63721,
+            44.14058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 428,
+          "name": "Karbi",
+          "latlng": [
+            40.33069,
+            44.37793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 430,
+          "name": "Kasakh",
+          "latlng": [
+            40.53697,
+            44.41046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 434,
+          "name": "Kosh",
+          "latlng": [
+            40.30011,
+            44.16107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 486,
+          "name": "Nor Yerznka",
+          "latlng": [
+            40.30011,
+            44.38892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 497,
+          "name": "Oshakan",
+          "latlng": [
+            40.26392,
+            44.31671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 512,
+          "name": "Sasunik",
+          "latlng": [
+            40.25012,
+            44.34448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 520,
+          "name": "Shenavan",
+          "latlng": [
+            40.48328,
+            44.38348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 546,
+          "name": "T’alin",
+          "latlng": [
+            40.39172,
+            43.87793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 538,
+          "name": "Tsaghkahovit",
+          "latlng": [
+            40.63428,
+            44.22241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 548,
+          "name": "Ushi",
+          "latlng": [
+            40.34729,
+            44.37512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 570,
+          "name": "Voskevaz",
+          "latlng": [
+            40.27508,
+            44.30011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 588,
+          "name": "Zovuni",
+          "latlng": [
+            40.51111,
+            44.4389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2024,
+      "name": "Ararat",
+      "code": "AR",
+      "shortName": "AR",
+      "cities": [
+        {
+          "id": 282,
+          "name": "Abovyan",
+          "latlng": [
+            40.04851,
+            44.54742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 307,
+          "name": "Aralez",
+          "latlng": [
+            39.90008,
+            44.6557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 309,
+          "name": "Ararat",
+          "latlng": [
+            39.83069,
+            44.70569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 314,
+          "name": "Arevabuyr",
+          "latlng": [
+            40.03607,
+            44.46948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 319,
+          "name": "Arevshat",
+          "latlng": [
+            40.03963,
+            44.54179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 324,
+          "name": "Armash",
+          "latlng": [
+            39.76672,
+            44.8111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 328,
+          "name": "Artashat",
+          "latlng": [
+            39.96144,
+            44.54447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 337,
+          "name": "Avshar",
+          "latlng": [
+            39.85553,
+            44.65832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 338,
+          "name": "Aygavan",
+          "latlng": [
+            39.87327,
+            44.66984
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 341,
+          "name": "Aygepat",
+          "latlng": [
+            39.95845,
+            44.59981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 343,
+          "name": "Aygestan",
+          "latlng": [
+            40.00293,
+            44.55829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 344,
+          "name": "Aygezard",
+          "latlng": [
+            39.95436,
+            44.60229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 351,
+          "name": "Bardzrashen",
+          "latlng": [
+            40.08533,
+            44.57957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 356,
+          "name": "Berk’anush",
+          "latlng": [
+            39.9779,
+            44.51672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 359,
+          "name": "Burastan",
+          "latlng": [
+            39.99157,
+            44.49681
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 362,
+          "name": "Byuravan",
+          "latlng": [
+            40.01604,
+            44.51889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 366,
+          "name": "Dalar",
+          "latlng": [
+            39.97653,
+            44.52649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 368,
+          "name": "Darakert",
+          "latlng": [
+            40.10553,
+            44.41388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 370,
+          "name": "Dashtavan",
+          "latlng": [
+            40.1001,
+            44.39172
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 373,
+          "name": "Dimitrov",
+          "latlng": [
+            40.00848,
+            44.4917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 377,
+          "name": "Dvin",
+          "latlng": [
+            40.01984,
+            44.58376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 395,
+          "name": "Getazat",
+          "latlng": [
+            40.03844,
+            44.56369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 396,
+          "name": "Ghukasavan",
+          "latlng": [
+            40.12793,
+            44.41669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 401,
+          "name": "Goravan",
+          "latlng": [
+            39.90832,
+            44.73328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 409,
+          "name": "Hayanist",
+          "latlng": [
+            40.12231,
+            44.37793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 415,
+          "name": "Hovtashat",
+          "latlng": [
+            40.09729,
+            44.34448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 416,
+          "name": "Hovtashen",
+          "latlng": [
+            40.02508,
+            44.45007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 421,
+          "name": "Jrahovit",
+          "latlng": [
+            40.0473,
+            44.4751
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 449,
+          "name": "Lusarrat",
+          "latlng": [
+            39.87403,
+            44.58678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 455,
+          "name": "Marmarashen",
+          "latlng": [
+            40.05829,
+            44.47229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 458,
+          "name": "Masis",
+          "latlng": [
+            40.06542,
+            44.41618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 472,
+          "name": "Mrganush",
+          "latlng": [
+            40.02857,
+            44.55831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 475,
+          "name": "Mrgavan",
+          "latlng": [
+            39.97251,
+            44.53565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 476,
+          "name": "Mrgavet",
+          "latlng": [
+            40.02789,
+            44.48328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 482,
+          "name": "Nizami",
+          "latlng": [
+            40.09168,
+            44.4057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 487,
+          "name": "Norabats’",
+          "latlng": [
+            40.10553,
+            44.43329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 489,
+          "name": "Noramarg",
+          "latlng": [
+            40.02228,
+            44.42511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 491,
+          "name": "Norashen",
+          "latlng": [
+            40.0013,
+            44.59296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 493,
+          "name": "Noyakert",
+          "latlng": [
+            39.83069,
+            44.66949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 495,
+          "name": "Nshavan",
+          "latlng": [
+            40.02787,
+            44.52565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 513,
+          "name": "Sayat’-Nova",
+          "latlng": [
+            40.07507,
+            44.40008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 516,
+          "name": "Shahumyan",
+          "latlng": [
+            39.94171,
+            44.57233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 525,
+          "name": "Sis",
+          "latlng": [
+            40.05829,
+            44.38892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 526,
+          "name": "Sisavan",
+          "latlng": [
+            39.90802,
+            44.66721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 531,
+          "name": "Surenavan",
+          "latlng": [
+            39.79449,
+            44.77508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 560,
+          "name": "Vedi",
+          "latlng": [
+            39.91388,
+            44.7251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 561,
+          "name": "Verin Artashat",
+          "latlng": [
+            39.99731,
+            44.58893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 562,
+          "name": "Verin Dvin",
+          "latlng": [
+            40.02434,
+            44.59038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 568,
+          "name": "Vosketap’",
+          "latlng": [
+            39.88114,
+            44.64917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 571,
+          "name": "Vostan",
+          "latlng": [
+            39.96515,
+            44.55937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 574,
+          "name": "Yeghegnavan",
+          "latlng": [
+            39.83893,
+            44.61951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 582,
+          "name": "Zangakatun",
+          "latlng": [
+            39.82233,
+            45.04169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 585,
+          "name": "Zorak",
+          "latlng": [
+            40.09168,
+            44.39447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2026,
+      "name": "Armavir",
+      "code": "AV",
+      "shortName": "AV",
+      "cities": [
+        {
+          "id": 289,
+          "name": "Aghavnatun",
+          "latlng": [
+            40.2333,
+            44.25295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 292,
+          "name": "Aknalich",
+          "latlng": [
+            40.14728,
+            44.16669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 293,
+          "name": "Aknashen",
+          "latlng": [
+            40.09551,
+            44.28604
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 297,
+          "name": "Alashkert",
+          "latlng": [
+            40.10712,
+            44.05108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 302,
+          "name": "Apaga",
+          "latlng": [
+            40.09729,
+            44.25293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 306,
+          "name": "Arak’s",
+          "latlng": [
+            40.05548,
+            44.30292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 310,
+          "name": "Arazap’",
+          "latlng": [
+            40.04169,
+            44.14728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 311,
+          "name": "Arbat’",
+          "latlng": [
+            40.13892,
+            44.40289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 315,
+          "name": "Arevashat",
+          "latlng": [
+            40.14447,
+            44.37512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 317,
+          "name": "Arevik",
+          "latlng": [
+            40.1001,
+            44.09448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 322,
+          "name": "Argavand",
+          "latlng": [
+            40.0611,
+            44.09448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 325,
+          "name": "Armavir",
+          "latlng": [
+            40.15446,
+            44.03815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 327,
+          "name": "Arshaluys",
+          "latlng": [
+            40.16949,
+            44.21393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 330,
+          "name": "Artimet",
+          "latlng": [
+            40.15008,
+            44.26672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 340,
+          "name": "Aygek",
+          "latlng": [
+            40.1889,
+            44.38611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 342,
+          "name": "Aygeshat",
+          "latlng": [
+            40.07507,
+            44.0611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 347,
+          "name": "Baghramyan",
+          "latlng": [
+            40.19452,
+            44.36951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 350,
+          "name": "Bambakashat",
+          "latlng": [
+            40.10828,
+            44.01947
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 367,
+          "name": "Dalarik",
+          "latlng": [
+            40.2279,
+            43.87793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 374,
+          "name": "Doghs",
+          "latlng": [
+            40.22229,
+            44.27228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 388,
+          "name": "Gay",
+          "latlng": [
+            40.08444,
+            44.30528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 389,
+          "name": "Geghakert",
+          "latlng": [
+            40.18516,
+            44.24331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 392,
+          "name": "Geghanist",
+          "latlng": [
+            40.14587,
+            44.43048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 394,
+          "name": "Getashen",
+          "latlng": [
+            40.04449,
+            43.94171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 398,
+          "name": "Gmbet’",
+          "latlng": [
+            40.22369,
+            44.25409
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 403,
+          "name": "Griboyedov",
+          "latlng": [
+            40.11307,
+            44.27169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 410,
+          "name": "Haykashen",
+          "latlng": [
+            40.07233,
+            44.30829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 414,
+          "name": "Hovtamej",
+          "latlng": [
+            40.18329,
+            44.25848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 419,
+          "name": "Janfida",
+          "latlng": [
+            40.04449,
+            44.02789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 433,
+          "name": "Khoronk’",
+          "latlng": [
+            40.13611,
+            44.24731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 440,
+          "name": "Lenughi",
+          "latlng": [
+            40.12512,
+            43.96393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 448,
+          "name": "Lukashin",
+          "latlng": [
+            40.18726,
+            44.0039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 454,
+          "name": "Margara",
+          "latlng": [
+            40.03332,
+            44.18048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 461,
+          "name": "Mayisyan",
+          "latlng": [
+            40.15701,
+            44.09192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 465,
+          "name": "Merdzavan",
+          "latlng": [
+            40.1814,
+            44.40033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 469,
+          "name": "Metsamor",
+          "latlng": [
+            40.14447,
+            44.1167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 473,
+          "name": "Mrgashat",
+          "latlng": [
+            40.13068,
+            44.08069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 477,
+          "name": "Musalerr",
+          "latlng": [
+            40.1557,
+            44.37793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 478,
+          "name": "Myasnikyan",
+          "latlng": [
+            40.18048,
+            43.91949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 479,
+          "name": "Nalbandyan",
+          "latlng": [
+            40.0639,
+            43.98889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 483,
+          "name": "Nor Armavir",
+          "latlng": [
+            40.08612,
+            43.99451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 488,
+          "name": "Norakert",
+          "latlng": [
+            40.19733,
+            44.3501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 504,
+          "name": "P’shatavan",
+          "latlng": [
+            40.03888,
+            44.06671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 502,
+          "name": "Ptghunk’",
+          "latlng": [
+            40.16388,
+            44.36389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 509,
+          "name": "Sardarapat",
+          "latlng": [
+            40.13206,
+            44.00969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 519,
+          "name": "Shenavan",
+          "latlng": [
+            40.05548,
+            43.93048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 532,
+          "name": "Tandzut",
+          "latlng": [
+            40.06952,
+            44.07788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 533,
+          "name": "Taronik",
+          "latlng": [
+            40.13367,
+            44.19957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 539,
+          "name": "Tsaghkunk’",
+          "latlng": [
+            40.18048,
+            44.27228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 540,
+          "name": "Tsiatsan",
+          "latlng": [
+            40.1861,
+            44.26947
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 549,
+          "name": "Vagharshapat",
+          "latlng": [
+            40.16557,
+            44.29462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 567,
+          "name": "Voskehat",
+          "latlng": [
+            40.14172,
+            44.33069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 575,
+          "name": "Yeghegnut",
+          "latlng": [
+            40.08893,
+            44.16669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 579,
+          "name": "Yeraskhahun",
+          "latlng": [
+            40.07233,
+            44.21948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "name": "Gegharkunik",
+      "code": "GR",
+      "shortName": "GR",
+      "cities": [
+        {
+          "id": 296,
+          "name": "Akunk’",
+          "latlng": [
+            40.15886,
+            45.72568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 336,
+          "name": "Astghadzor",
+          "latlng": [
+            40.12231,
+            45.35553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 364,
+          "name": "Chambarak",
+          "latlng": [
+            40.59655,
+            45.35498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 371,
+          "name": "Ddmashen",
+          "latlng": [
+            40.57028,
+            44.82295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 375,
+          "name": "Drakhtik",
+          "latlng": [
+            40.56497,
+            45.2367
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 380,
+          "name": "Dzoragyugh",
+          "latlng": [
+            40.16957,
+            45.18337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 384,
+          "name": "Gagarin",
+          "latlng": [
+            40.54026,
+            44.86962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 385,
+          "name": "Gandzak",
+          "latlng": [
+            40.31472,
+            45.11139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 387,
+          "name": "Gavarr",
+          "latlng": [
+            40.35398,
+            45.12386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 390,
+          "name": "Geghamasar",
+          "latlng": [
+            40.31091,
+            45.67924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 391,
+          "name": "Geghamavan",
+          "latlng": [
+            40.5625,
+            44.88892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 427,
+          "name": "Karanlukh",
+          "latlng": [
+            40.10444,
+            45.28972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 429,
+          "name": "Karchaghbyur",
+          "latlng": [
+            40.17048,
+            45.57785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 437,
+          "name": "Lanjaghbyur",
+          "latlng": [
+            40.26947,
+            45.14447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 438,
+          "name": "Lchap’",
+          "latlng": [
+            40.45569,
+            45.07507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 439,
+          "name": "Lchashen",
+          "latlng": [
+            40.51947,
+            44.93048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 446,
+          "name": "Lichk’",
+          "latlng": [
+            40.15933,
+            45.23467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 450,
+          "name": "Madina",
+          "latlng": [
+            40.07637,
+            45.25507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 457,
+          "name": "Martuni",
+          "latlng": [
+            40.08333,
+            45.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 467,
+          "name": "Mets Masrik",
+          "latlng": [
+            40.21948,
+            45.76391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 481,
+          "name": "Nerk’in Getashen",
+          "latlng": [
+            40.14172,
+            45.27087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 492,
+          "name": "Noratus",
+          "latlng": [
+            40.37793,
+            45.18048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 511,
+          "name": "Sarukhan",
+          "latlng": [
+            40.29169,
+            45.13068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 514,
+          "name": "Sevan",
+          "latlng": [
+            40.5473,
+            44.94171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 541,
+          "name": "Tsovagyugh",
+          "latlng": [
+            40.63348,
+            44.96112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 542,
+          "name": "Tsovak",
+          "latlng": [
+            40.18254,
+            45.63286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 543,
+          "name": "Tsovasar",
+          "latlng": [
+            40.1382,
+            45.19096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 544,
+          "name": "Tsovazard",
+          "latlng": [
+            40.4751,
+            45.05011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 545,
+          "name": "Tsovinar",
+          "latlng": [
+            40.15959,
+            45.46786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 550,
+          "name": "Vaghashen",
+          "latlng": [
+            40.13611,
+            45.33069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 552,
+          "name": "Vahan",
+          "latlng": [
+            40.57549,
+            45.39769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 556,
+          "name": "Vardenik",
+          "latlng": [
+            40.13348,
+            45.44311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 557,
+          "name": "Vardenis",
+          "latlng": [
+            40.18329,
+            45.73053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 558,
+          "name": "Varser",
+          "latlng": [
+            40.55548,
+            44.90832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 563,
+          "name": "Verin Getashen",
+          "latlng": [
+            40.13068,
+            45.25293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 578,
+          "name": "Yeranos",
+          "latlng": [
+            40.20428,
+            45.19209
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2033,
+      "name": "Kotayk",
+      "code": "KT",
+      "shortName": "KT",
+      "cities": [
+        {
+          "id": 281,
+          "name": "Abovyan",
+          "latlng": [
+            40.27368,
+            44.63348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 287,
+          "name": "Aghavnadzor",
+          "latlng": [
+            40.58195,
+            44.69581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 295,
+          "name": "Akunk’",
+          "latlng": [
+            40.26672,
+            44.6861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 308,
+          "name": "Aramus",
+          "latlng": [
+            40.25095,
+            44.66351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 323,
+          "name": "Argel",
+          "latlng": [
+            40.37793,
+            44.6001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 332,
+          "name": "Arzakan",
+          "latlng": [
+            40.45007,
+            44.60828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 333,
+          "name": "Arzni",
+          "latlng": [
+            40.2973,
+            44.59869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 349,
+          "name": "Balahovit",
+          "latlng": [
+            40.25153,
+            44.60828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 357,
+          "name": "Bjni",
+          "latlng": [
+            40.45831,
+            44.65008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 360,
+          "name": "Buzhakan",
+          "latlng": [
+            40.45569,
+            44.51947
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 363,
+          "name": "Byureghavan",
+          "latlng": [
+            40.31417,
+            44.59333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 379,
+          "name": "Dzoraghbyur",
+          "latlng": [
+            40.20412,
+            44.6415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 382,
+          "name": "Fantan",
+          "latlng": [
+            40.39447,
+            44.6861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 386,
+          "name": "Garrni",
+          "latlng": [
+            40.11931,
+            44.73442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 400,
+          "name": "Goght’",
+          "latlng": [
+            40.1347,
+            44.78332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 417,
+          "name": "Hrazdan",
+          "latlng": [
+            40.49748,
+            44.7662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 426,
+          "name": "Kaputan",
+          "latlng": [
+            40.32507,
+            44.70007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 435,
+          "name": "Kotayk’",
+          "latlng": [
+            40.27789,
+            44.66388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 442,
+          "name": "Lerrnanist",
+          "latlng": [
+            40.46676,
+            44.79249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 459,
+          "name": "Mayakovski",
+          "latlng": [
+            40.25293,
+            44.63892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 462,
+          "name": "Meghradzor",
+          "latlng": [
+            40.60611,
+            44.65147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 474,
+          "name": "Mrgashen",
+          "latlng": [
+            40.28607,
+            44.54449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 484,
+          "name": "Nor Geghi",
+          "latlng": [
+            40.32233,
+            44.58331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 485,
+          "name": "Nor Gyugh",
+          "latlng": [
+            40.26672,
+            44.65832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 500,
+          "name": "Prroshyan",
+          "latlng": [
+            40.24731,
+            44.41949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 501,
+          "name": "Ptghni",
+          "latlng": [
+            40.25568,
+            44.58612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 527,
+          "name": "Solak",
+          "latlng": [
+            40.46252,
+            44.70709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 537,
+          "name": "Tsaghkadzor",
+          "latlng": [
+            40.53259,
+            44.72025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 577,
+          "name": "Yeghvard",
+          "latlng": [
+            40.32507,
+            44.48608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 583,
+          "name": "Zarr",
+          "latlng": [
+            40.25848,
+            44.73328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 586,
+          "name": "Zoravan",
+          "latlng": [
+            40.35553,
+            44.52228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 587,
+          "name": "Zovaber",
+          "latlng": [
+            40.56671,
+            44.79028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2029,
+      "name": "Lori",
+      "code": "LO",
+      "shortName": "LO",
+      "cities": [
+        {
+          "id": 283,
+          "name": "Agarak",
+          "latlng": [
+            41.01072,
+            44.46845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 290,
+          "name": "Akht’ala",
+          "latlng": [
+            41.16838,
+            44.75811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 298,
+          "name": "Alaverdi",
+          "latlng": [
+            41.09766,
+            44.67316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 316,
+          "name": "Arevashogh",
+          "latlng": [
+            40.86039,
+            44.27438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 353,
+          "name": "Bazum",
+          "latlng": [
+            40.86763,
+            44.43978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 365,
+          "name": "Chochkan",
+          "latlng": [
+            41.18118,
+            44.83217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 369,
+          "name": "Darpas",
+          "latlng": [
+            40.83674,
+            44.42494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 376,
+          "name": "Dsegh",
+          "latlng": [
+            40.9617,
+            44.65003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 383,
+          "name": "Fioletovo",
+          "latlng": [
+            40.72241,
+            44.71769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 399,
+          "name": "Gogaran",
+          "latlng": [
+            40.89255,
+            44.19915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 404,
+          "name": "Gugark’",
+          "latlng": [
+            40.8046,
+            44.54025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 405,
+          "name": "Gyulagarak",
+          "latlng": [
+            40.96715,
+            44.47144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 423,
+          "name": "Jrashen",
+          "latlng": [
+            40.79028,
+            44.18664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 443,
+          "name": "Lerrnants’k’",
+          "latlng": [
+            40.79532,
+            44.27435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 444,
+          "name": "Lerrnapat",
+          "latlng": [
+            40.81538,
+            44.39344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 445,
+          "name": "Lerrnavan",
+          "latlng": [
+            40.7882,
+            44.16024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 447,
+          "name": "Lorut",
+          "latlng": [
+            40.93717,
+            44.77142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 453,
+          "name": "Margahovit",
+          "latlng": [
+            40.73381,
+            44.68474
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 468,
+          "name": "Mets Parni",
+          "latlng": [
+            40.83472,
+            44.11108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 470,
+          "name": "Metsavan",
+          "latlng": [
+            41.20156,
+            44.22877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 490,
+          "name": "Norashen",
+          "latlng": [
+            41.18886,
+            44.33336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 496,
+          "name": "Odzun",
+          "latlng": [
+            41.05321,
+            44.61341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 506,
+          "name": "Sarahart’",
+          "latlng": [
+            40.87043,
+            44.21407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 507,
+          "name": "Saramej",
+          "latlng": [
+            40.77487,
+            44.2222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 517,
+          "name": "Shahumyan",
+          "latlng": [
+            40.77482,
+            44.54596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 523,
+          "name": "Shirakamut",
+          "latlng": [
+            40.86056,
+            44.15278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 524,
+          "name": "Shnogh",
+          "latlng": [
+            41.14693,
+            44.84043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 529,
+          "name": "Spitak",
+          "latlng": [
+            40.83221,
+            44.26731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 530,
+          "name": "Step’anavan",
+          "latlng": [
+            41.00995,
+            44.38531
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 534,
+          "name": "Tashir",
+          "latlng": [
+            41.12072,
+            44.28462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 536,
+          "name": "Tsaghkaber",
+          "latlng": [
+            40.79849,
+            44.10144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 547,
+          "name": "Urrut",
+          "latlng": [
+            41.06778,
+            44.39628
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 551,
+          "name": "Vahagni",
+          "latlng": [
+            40.90698,
+            44.60873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 553,
+          "name": "Vanadzor",
+          "latlng": [
+            40.80456,
+            44.4939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 554,
+          "name": "Vardablur",
+          "latlng": [
+            40.97083,
+            44.50889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 576,
+          "name": "Yeghegnut",
+          "latlng": [
+            40.90302,
+            44.63155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2031,
+      "name": "Shirak",
+      "code": "SH",
+      "shortName": "SH",
+      "cities": [
+        {
+          "id": 291,
+          "name": "Akhuryan",
+          "latlng": [
+            40.78003,
+            43.90027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 299,
+          "name": "Amasia",
+          "latlng": [
+            40.95442,
+            43.7872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 301,
+          "name": "Anushavan",
+          "latlng": [
+            40.65008,
+            43.98053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 318,
+          "name": "Arevik",
+          "latlng": [
+            40.7417,
+            43.9043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 320,
+          "name": "Arevshat",
+          "latlng": [
+            40.65345,
+            44.04419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 326,
+          "name": "Arrap’i",
+          "latlng": [
+            40.78276,
+            43.80583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 346,
+          "name": "Azatan",
+          "latlng": [
+            40.71959,
+            43.82727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 352,
+          "name": "Basen",
+          "latlng": [
+            40.75767,
+            43.99274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 378,
+          "name": "Dzit’hank’ov",
+          "latlng": [
+            40.50848,
+            43.82092
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 406,
+          "name": "Gyumri",
+          "latlng": [
+            40.7942,
+            43.84528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 411,
+          "name": "Haykavan",
+          "latlng": [
+            40.80312,
+            43.75173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 413,
+          "name": "Horrom",
+          "latlng": [
+            40.65973,
+            43.89032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 424,
+          "name": "Kamo",
+          "latlng": [
+            40.82572,
+            43.95071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 441,
+          "name": "Lerrnakert",
+          "latlng": [
+            40.5625,
+            43.9389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 452,
+          "name": "Maralik",
+          "latlng": [
+            40.57507,
+            43.87231
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 456,
+          "name": "Marmashen",
+          "latlng": [
+            40.83486,
+            43.7779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 460,
+          "name": "Mayisyan",
+          "latlng": [
+            40.84715,
+            43.83938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 463,
+          "name": "Meghrashen",
+          "latlng": [
+            40.6723,
+            43.95831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 466,
+          "name": "Mets Mant’ash",
+          "latlng": [
+            40.64376,
+            44.05653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 503,
+          "name": "P’ok’r Mant’ash",
+          "latlng": [
+            40.64026,
+            44.04666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 499,
+          "name": "Pemzashen",
+          "latlng": [
+            40.58612,
+            43.94311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 508,
+          "name": "Saratak",
+          "latlng": [
+            40.6709,
+            43.87231
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 522,
+          "name": "Shirak",
+          "latlng": [
+            40.84042,
+            43.91582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 528,
+          "name": "Spandaryan",
+          "latlng": [
+            40.66105,
+            44.01551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 566,
+          "name": "Voskehask",
+          "latlng": [
+            40.76426,
+            43.77474
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 580,
+          "name": "Yerazgavors",
+          "latlng": [
+            40.69505,
+            43.74722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2027,
+      "name": "Syunik",
+      "code": "SU",
+      "shortName": "SU",
+      "cities": [
+        {
+          "id": 284,
+          "name": "Agarak",
+          "latlng": [
+            39.20684,
+            46.5446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 294,
+          "name": "Akner",
+          "latlng": [
+            39.53491,
+            46.30732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 300,
+          "name": "Angeghakot’",
+          "latlng": [
+            39.56952,
+            45.94452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 358,
+          "name": "Brrnakot’",
+          "latlng": [
+            39.49742,
+            45.97241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 381,
+          "name": "Dzorastan",
+          "latlng": [
+            39.27059,
+            46.3572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 402,
+          "name": "Goris",
+          "latlng": [
+            39.51111,
+            46.34168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 408,
+          "name": "Hats’avan",
+          "latlng": [
+            39.46405,
+            45.97047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 425,
+          "name": "Kapan",
+          "latlng": [
+            39.20755,
+            46.40576
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 432,
+          "name": "Khndzoresk",
+          "latlng": [
+            39.50568,
+            46.4361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 464,
+          "name": "Meghri",
+          "latlng": [
+            38.90292,
+            46.24458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 515,
+          "name": "Shaghat",
+          "latlng": [
+            39.55698,
+            45.90727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 521,
+          "name": "Shinuhayr",
+          "latlng": [
+            39.4367,
+            46.31787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 535,
+          "name": "Tegh",
+          "latlng": [
+            39.55826,
+            46.48054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 564,
+          "name": "Verishen",
+          "latlng": [
+            39.53543,
+            46.32063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2032,
+      "name": "Tavush",
+      "code": "TV",
+      "shortName": "TV",
+      "cities": [
+        {
+          "id": 312,
+          "name": "Archis",
+          "latlng": [
+            41.16351,
+            44.87631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 331,
+          "name": "Artsvaberd",
+          "latlng": [
+            40.83947,
+            45.47033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 339,
+          "name": "Aygehovit",
+          "latlng": [
+            40.97951,
+            45.25033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 345,
+          "name": "Azatamut",
+          "latlng": [
+            40.98204,
+            45.18551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 348,
+          "name": "Bagratashen",
+          "latlng": [
+            41.24358,
+            44.81737
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 354,
+          "name": "Berd",
+          "latlng": [
+            40.88135,
+            45.38901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 355,
+          "name": "Berdavan",
+          "latlng": [
+            41.20503,
+            44.99967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 372,
+          "name": "Dilijan",
+          "latlng": [
+            40.7417,
+            44.8501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 407,
+          "name": "Haghartsin",
+          "latlng": [
+            40.77614,
+            44.96847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 418,
+          "name": "Ijevan",
+          "latlng": [
+            40.87877,
+            45.14851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 431,
+          "name": "Khasht’arrak",
+          "latlng": [
+            40.93668,
+            45.1821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 471,
+          "name": "Mosesgegh",
+          "latlng": [
+            40.90534,
+            45.48838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 480,
+          "name": "Navur",
+          "latlng": [
+            40.86695,
+            45.34179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 494,
+          "name": "Noyemberyan",
+          "latlng": [
+            41.17244,
+            44.99917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 498,
+          "name": "Parravak’ar",
+          "latlng": [
+            40.98248,
+            45.36696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 510,
+          "name": "Sarigyugh",
+          "latlng": [
+            41.03531,
+            45.14486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 569,
+          "name": "Voskevan",
+          "latlng": [
+            41.12081,
+            45.06381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2025,
+      "name": "Vayots Dzor",
+      "code": "VD",
+      "shortName": "VD",
+      "cities": [
+        {
+          "id": 285,
+          "name": "Agarakadzor",
+          "latlng": [
+            39.73608,
+            45.35553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 288,
+          "name": "Aghavnadzor",
+          "latlng": [
+            39.78607,
+            45.2279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 313,
+          "name": "Areni",
+          "latlng": [
+            39.71668,
+            45.18329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 393,
+          "name": "Getap’",
+          "latlng": [
+            39.76392,
+            45.30829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 397,
+          "name": "Gladzor",
+          "latlng": [
+            39.7807,
+            45.34729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 420,
+          "name": "Jermuk",
+          "latlng": [
+            39.84168,
+            45.66949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 451,
+          "name": "Malishka",
+          "latlng": [
+            39.74731,
+            45.4057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 505,
+          "name": "Rrind",
+          "latlng": [
+            39.76111,
+            45.17792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 518,
+          "name": "Shatin",
+          "latlng": [
+            39.83612,
+            45.30292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 559,
+          "name": "Vayk’",
+          "latlng": [
+            39.6889,
+            45.46668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 565,
+          "name": "Vernashen",
+          "latlng": [
+            39.79236,
+            45.36389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 572,
+          "name": "Yeghegis",
+          "latlng": [
+            39.87231,
+            45.3501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 573,
+          "name": "Yeghegnadzor",
+          "latlng": [
+            39.76389,
+            45.33239
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 584,
+          "name": "Zarrit’ap’",
+          "latlng": [
+            39.63892,
+            45.51111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2030,
+      "name": "Yerevan",
+      "code": "ER",
+      "shortName": "ER",
+      "cities": [
+        {
+          "id": 304,
+          "name": "Arabkir",
+          "latlng": [
+            40.20549,
+            44.50699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 321,
+          "name": "Argavand",
+          "latlng": [
+            40.15289,
+            44.4389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 422,
+          "name": "Jrashen",
+          "latlng": [
+            40.05275,
+            44.51259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 436,
+          "name": "K’anak’erravan",
+          "latlng": [
+            40.24739,
+            44.53511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 555,
+          "name": "Vardadzor",
+          "latlng": [
+            40.18701,
+            45.19212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 581,
+          "name": "Yerevan",
+          "latlng": [
+            40.18111,
+            44.51361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

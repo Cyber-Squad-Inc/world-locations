@@ -1,0 +1,798 @@
+{
+  "name": {
+    "common": "Bangladesh",
+    "official": "Bangladesh"
+  },
+  "iso2": "BD",
+  "iso3": "BGD",
+  "numericCode": "050",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".bd",
+  "phoneCode": "880",
+  "capital": "Dhaka",
+  "currencies": {
+    "BDT": "Bangladeshi taka"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Dhaka",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "BDT",
+      "tzName": "Bangladesh Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bd.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bd.svg",
+  "states": [
+    {
+      "id": 807,
+      "name": "Barisal",
+      "code": "A",
+      "shortName": "A",
+      "cities": [
+        {
+          "id": 153858,
+          "name": "Barguna",
+          "latlng": [
+            22.1716787,
+            89.7974024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153857,
+          "name": "Barisal",
+          "latlng": [
+            22.4203579,
+            89.7825034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153859,
+          "name": "Bhola",
+          "latlng": [
+            22.3245248,
+            90.1056847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153860,
+          "name": "Jhalokati",
+          "latlng": [
+            22.5630352,
+            89.8719159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153861,
+          "name": "Patuakhali",
+          "latlng": [
+            22.1870917,
+            89.7164706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153862,
+          "name": "Pirojpur",
+          "latlng": [
+            22.5093791,
+            89.3643422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 803,
+      "name": "Chittagong",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 8457,
+          "name": "Bandarban",
+          "latlng": [
+            22,
+            92.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8470,
+          "name": "Brahmanbaria",
+          "latlng": [
+            23.98333,
+            91.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8474,
+          "name": "Chandpur",
+          "latlng": [
+            23.25,
+            90.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8481,
+          "name": "Chittagong",
+          "latlng": [
+            22.4875,
+            91.96333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8483,
+          "name": "Comilla",
+          "latlng": [
+            23.4417,
+            91.00987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8484,
+          "name": "Cox's Bazar",
+          "latlng": [
+            21.58389,
+            92.01528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8492,
+          "name": "Feni",
+          "latlng": [
+            22.96667,
+            91.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8512,
+          "name": "Khagrachhari",
+          "latlng": [
+            23.16667,
+            91.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8521,
+          "name": "Lakshmipur",
+          "latlng": [
+            22.91667,
+            90.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8553,
+          "name": "Noakhali",
+          "latlng": [
+            22.75,
+            91.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8576,
+          "name": "Rangamati",
+          "latlng": [
+            22.63333,
+            92.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "name": "Dhaka",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 153863,
+          "name": "Dhaka",
+          "latlng": [
+            23.7841798,
+            89.9285983
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153871,
+          "name": "Faridpur",
+          "latlng": [
+            23.4511524,
+            89.5282038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153864,
+          "name": "Gazipur",
+          "latlng": [
+            24.1091452,
+            90.0959614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153872,
+          "name": "Gopalganj",
+          "latlng": [
+            23.1066012,
+            89.5780271
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153865,
+          "name": "Kishoreganj",
+          "latlng": [
+            24.3388803,
+            90.584998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153873,
+          "name": "Madaripur",
+          "latlng": [
+            23.2345549,
+            89.8108903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153866,
+          "name": "Manikganj",
+          "latlng": [
+            23.8317408,
+            89.6409789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153867,
+          "name": "Munshiganj",
+          "latlng": [
+            23.5261523,
+            90.1159091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153868,
+          "name": "Narayanganj",
+          "latlng": [
+            23.7488013,
+            90.256385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153869,
+          "name": "Narsingdi",
+          "latlng": [
+            24.00966,
+            90.4448042
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153874,
+          "name": "Rajbari",
+          "latlng": [
+            23.73843,
+            89.25547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153875,
+          "name": "Shariatpur",
+          "latlng": [
+            23.2312434,
+            90.0829347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153870,
+          "name": "Tangail",
+          "latlng": [
+            24.376307,
+            89.3580461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "name": "Khulna",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 153876,
+          "name": "Bagerhat",
+          "latlng": [
+            22.3488059,
+            89.0747025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153877,
+          "name": "Chuadanga",
+          "latlng": [
+            23.6035273,
+            88.487324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153878,
+          "name": "Jessore",
+          "latlng": [
+            23.0847356,
+            88.8748008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153879,
+          "name": "Jhenaidah",
+          "latlng": [
+            23.4952127,
+            88.7069493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153880,
+          "name": "Khulna",
+          "latlng": [
+            22.3535139,
+            88.8340709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153881,
+          "name": "Kushtia",
+          "latlng": [
+            23.9459524,
+            88.7017929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153882,
+          "name": "Magura",
+          "latlng": [
+            23.4655774,
+            89.115473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153883,
+          "name": "Meherpur",
+          "latlng": [
+            23.7897218,
+            88.3931949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153884,
+          "name": "Narail",
+          "latlng": [
+            23.131757,
+            89.2625844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153885,
+          "name": "Satkhira",
+          "latlng": [
+            22.2989859,
+            88.4754087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "name": "Mymensingh",
+      "code": "H",
+      "shortName": "H",
+      "cities": [
+        {
+          "id": 153887,
+          "name": "Jamalpur",
+          "latlng": [
+            25.0010825,
+            89.2605013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153886,
+          "name": "Mymensingh",
+          "latlng": [
+            24.7230985,
+            89.7841173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153888,
+          "name": "Netrokona",
+          "latlng": [
+            24.8720481,
+            90.5229381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153889,
+          "name": "Sherpur",
+          "latlng": [
+            25.0926038,
+            89.7635207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "name": "Rajshahi",
+      "code": "E",
+      "shortName": "E",
+      "cities": [
+        {
+          "id": 153894,
+          "name": "Bogra",
+          "latlng": [
+            24.8296645,
+            89.0259857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153895,
+          "name": "Chapai Nawabganj",
+          "latlng": [
+            24.6952075,
+            87.9302131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153897,
+          "name": "Joypurhat",
+          "latlng": [
+            25.0656707,
+            88.7683265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153896,
+          "name": "Naogaon",
+          "latlng": [
+            24.8742508,
+            88.4375191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153890,
+          "name": "Natore",
+          "latlng": [
+            24.3802107,
+            88.7630252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153893,
+          "name": "Pabna",
+          "latlng": [
+            24.0812672,
+            89.0372442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153891,
+          "name": "Rajshahi",
+          "latlng": [
+            24.4207336,
+            88.2960214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153892,
+          "name": "Sirajganj",
+          "latlng": [
+            24.3987624,
+            88.8764181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "name": "Rangpur",
+      "code": "F",
+      "shortName": "F",
+      "cities": [
+        {
+          "id": 153898,
+          "name": "Dinajpur",
+          "latlng": [
+            25.6426103,
+            88.1834462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153900,
+          "name": "Gaibandha",
+          "latlng": [
+            25.3431557,
+            89.1397857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153899,
+          "name": "Kurigram",
+          "latlng": [
+            25.8082722,
+            89.0091503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153901,
+          "name": "Lalmonirhat",
+          "latlng": [
+            26.1244239,
+            88.910609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153902,
+          "name": "Nilphamari",
+          "latlng": [
+            26.0226425,
+            88.6341271
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153903,
+          "name": "Panchagarh",
+          "latlng": [
+            26.320327,
+            26.320327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153904,
+          "name": "Rangpur",
+          "latlng": [
+            25.6239024,
+            88.9009498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153905,
+          "name": "Thakurgaon",
+          "latlng": [
+            25.9364842,
+            88.0336664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "name": "Sylhet",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 153906,
+          "name": "Habiganj",
+          "latlng": [
+            24.3348197,
+            90.7489901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153907,
+          "name": "Moulvibazar",
+          "latlng": [
+            24.4861771,
+            91.2874241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153908,
+          "name": "Sunamganj",
+          "latlng": [
+            24.8890554,
+            91.0024827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153909,
+          "name": "Sylhet",
+          "latlng": [
+            24.8918911,
+            91.7355495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

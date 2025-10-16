@@ -1,0 +1,201 @@
+{
+  "name": {
+    "common": "San Marino",
+    "official": "San Marino"
+  },
+  "iso2": "SM",
+  "iso3": "SMR",
+  "numericCode": "674",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".sm",
+  "phoneCode": "378",
+  "capital": "San Marino",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/San_Marino",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sm.svg",
+  "states": [
+    {
+      "id": 59,
+      "name": "Acquaviva",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 104693,
+          "name": "Acquaviva",
+          "latlng": [
+            43.94593,
+            12.4185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Borgo Maggiore",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 104694,
+          "name": "Borgo Maggiore",
+          "latlng": [
+            43.94193,
+            12.44738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Chiesanuova",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 104699,
+          "name": "Poggio di Chiesanuova",
+          "latlng": [
+            43.90451,
+            12.42142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Domagnano",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 104695,
+          "name": "Domagnano",
+          "latlng": [
+            43.94961,
+            12.46828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Faetano",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 104696,
+          "name": "Faetano",
+          "latlng": [
+            43.92831,
+            12.49798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Fiorentino",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 104697,
+          "name": "Fiorentino",
+          "latlng": [
+            43.91001,
+            12.45738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Montegiardino",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 104698,
+          "name": "Monte Giardino",
+          "latlng": [
+            43.90878,
+            12.48201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "San Marino",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 104700,
+          "name": "San Marino",
+          "latlng": [
+            43.93667,
+            12.44639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Serravalle",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 104701,
+          "name": "Serravalle",
+          "latlng": [
+            43.96897,
+            12.48167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

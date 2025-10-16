@@ -1,0 +1,436 @@
+{
+  "name": {
+    "common": "Eswatini",
+    "official": "Eswatini"
+  },
+  "iso2": "SZ",
+  "iso3": "SWZ",
+  "numericCode": "748",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "tld": ".sz",
+  "phoneCode": "268",
+  "capital": "Mbabane",
+  "currencies": {
+    "SZL": "Lilangeni"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Mbabane",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "SAST",
+      "tzName": "South African Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sz.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sz.svg",
+  "states": [
+    {
+      "id": 969,
+      "name": "Hhohho",
+      "code": "HH",
+      "shortName": "HH",
+      "cities": [
+        {
+          "id": 105084,
+          "name": "Bulembu",
+          "latlng": [
+            -25.96667,
+            31.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105087,
+          "name": "Hhukwini",
+          "latlng": [
+            -26.31972,
+            31.22222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105093,
+          "name": "Lobamba",
+          "latlng": [
+            -26.46667,
+            31.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105099,
+          "name": "Mbabane",
+          "latlng": [
+            -26.31667,
+            31.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105105,
+          "name": "Nkhaba",
+          "latlng": [
+            -26.15728,
+            31.16391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105109,
+          "name": "Piggs Peak",
+          "latlng": [
+            -25.96082,
+            31.24666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 970,
+      "name": "Lubombo",
+      "code": "LU",
+      "shortName": "LU",
+      "cities": [
+        {
+          "id": 105083,
+          "name": "Big Bend",
+          "latlng": [
+            -26.81667,
+            31.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105085,
+          "name": "Dvokodvweni Inkhundla",
+          "latlng": [
+            -26.45398,
+            31.76456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105094,
+          "name": "Lomashasha",
+          "latlng": [
+            -26.06644,
+            32.00768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105101,
+          "name": "Mhlume",
+          "latlng": [
+            -26.03333,
+            31.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105107,
+          "name": "Nsoko",
+          "latlng": [
+            -27.03333,
+            31.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105112,
+          "name": "Siteki",
+          "latlng": [
+            -26.4525,
+            31.94722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105113,
+          "name": "Tshaneni",
+          "latlng": [
+            -25.98333,
+            31.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105114,
+          "name": "Vuvulane",
+          "latlng": [
+            -26.07427,
+            31.87672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 968,
+      "name": "Manzini",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 105082,
+          "name": "Bhunya",
+          "latlng": [
+            -26.55,
+            31.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105086,
+          "name": "Ekukhanyeni",
+          "latlng": [
+            -26.3875,
+            31.52806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105091,
+          "name": "Kwaluseni",
+          "latlng": [
+            -26.48333,
+            31.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105095,
+          "name": "Malkerns",
+          "latlng": [
+            -26.56667,
+            31.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105096,
+          "name": "Manzini",
+          "latlng": [
+            -26.49884,
+            31.38004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105097,
+          "name": "Manzini South",
+          "latlng": [
+            -26.48333,
+            31.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105100,
+          "name": "Mhlambanyatsi",
+          "latlng": [
+            -26.45,
+            31.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105103,
+          "name": "Ngwempisi",
+          "latlng": [
+            -26.6999,
+            31.28876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105108,
+          "name": "Ntondozi",
+          "latlng": [
+            -26.635,
+            31.22556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105110,
+          "name": "Sidvokodvo",
+          "latlng": [
+            -26.6282,
+            31.42021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 971,
+      "name": "Shiselweni",
+      "code": "SH",
+      "shortName": "SH",
+      "cities": [
+        {
+          "id": 105088,
+          "name": "Hlatikulu",
+          "latlng": [
+            -26.97917,
+            31.32444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105089,
+          "name": "Hluti",
+          "latlng": [
+            -27.21667,
+            31.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105090,
+          "name": "Kubuta",
+          "latlng": [
+            -26.88333,
+            31.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105092,
+          "name": "Lavumisa",
+          "latlng": [
+            -27.31005,
+            31.89198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105098,
+          "name": "Matsanjeni",
+          "latlng": [
+            -27.21585,
+            31.72309
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105102,
+          "name": "Ngudzeni",
+          "latlng": [
+            -27.03583,
+            31.55111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105104,
+          "name": "Nhlangano",
+          "latlng": [
+            -27.11222,
+            31.19833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105106,
+          "name": "Nkwene",
+          "latlng": [
+            -26.89778,
+            31.24972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105111,
+          "name": "Sigwe Inkhundla",
+          "latlng": [
+            -27.05821,
+            31.64543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105115,
+          "name": "Zombodze Ikhundla",
+          "latlng": [
+            -27.22746,
+            31.33799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

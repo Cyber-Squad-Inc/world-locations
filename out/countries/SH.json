@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Saint Helena",
+    "official": "Saint Helena"
+  },
+  "iso2": "SH",
+  "iso3": "SHN",
+  "numericCode": "654",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".sh",
+  "phoneCode": "290",
+  "capital": "Jamestown",
+  "currencies": {
+    "SHP": "Saint Helena pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Atlantic/St_Helena",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sh.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sh.svg",
+  "states": []
+}

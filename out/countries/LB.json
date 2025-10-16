@@ -1,0 +1,380 @@
+{
+  "name": {
+    "common": "Lebanon",
+    "official": "Lebanon"
+  },
+  "iso2": "LB",
+  "iso3": "LBN",
+  "numericCode": "422",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".lb",
+  "phoneCode": "961",
+  "capital": "Beirut",
+  "currencies": {
+    "LBP": "Lebanese pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Beirut",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/lb.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/lb.svg",
+  "states": [
+    {
+      "id": 2285,
+      "name": "Akkar",
+      "code": "AK",
+      "shortName": "AK",
+      "cities": [
+        {
+          "id": 65939,
+          "name": "Caza de Aakkar",
+          "latlng": [
+            34.53333,
+            36.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2283,
+      "name": "Baalbek-Hermel",
+      "code": "BH",
+      "shortName": "BH",
+      "cities": [
+        {
+          "id": 65933,
+          "name": "Baalbek",
+          "latlng": [
+            34.00583,
+            36.21806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65941,
+          "name": "Caza de Baalbek",
+          "latlng": [
+            34.09822,
+            36.27157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2286,
+      "name": "Beirut",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 65936,
+          "name": "Beirut",
+          "latlng": [
+            33.89332,
+            35.50157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65951,
+          "name": "Ra’s Bayrūt",
+          "latlng": [
+            33.9,
+            35.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2287,
+      "name": "Beqaa",
+      "code": "BI",
+      "shortName": "BI",
+      "cities": [
+        {
+          "id": 65930,
+          "name": "Aanjar",
+          "latlng": [
+            33.72778,
+            35.93111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65955,
+          "name": "Zahlé",
+          "latlng": [
+            33.84675,
+            35.90203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2282,
+      "name": "Mount Lebanon",
+      "code": "JL",
+      "shortName": "JL",
+      "cities": [
+        {
+          "id": 65932,
+          "name": "Baabda",
+          "latlng": [
+            33.83389,
+            35.54417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65937,
+          "name": "Bhamdoun",
+          "latlng": [
+            33.795,
+            35.65111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65938,
+          "name": "Bhamdoûn el Mhatta",
+          "latlng": [
+            33.80861,
+            35.65972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65940,
+          "name": "Caza de Baabda",
+          "latlng": [
+            33.84592,
+            35.66791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65947,
+          "name": "Jbaïl",
+          "latlng": [
+            34.12111,
+            35.64806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65948,
+          "name": "Jounieh",
+          "latlng": [
+            33.98083,
+            35.61778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2288,
+      "name": "Nabatieh",
+      "code": "NA",
+      "shortName": "NA",
+      "cities": [
+        {
+          "id": 65931,
+          "name": "Ain Ebel",
+          "latlng": [
+            33.11023,
+            35.40251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65942,
+          "name": "Caza de Bent Jbaïl",
+          "latlng": [
+            33.15964,
+            35.41137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65943,
+          "name": "Caza de Nabatîyé",
+          "latlng": [
+            33.39435,
+            35.44483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65946,
+          "name": "Habboûch",
+          "latlng": [
+            33.40729,
+            35.48169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65949,
+          "name": "Marjayoûn",
+          "latlng": [
+            33.36028,
+            35.59111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65950,
+          "name": "Nabatîyé et Tahta",
+          "latlng": [
+            33.37889,
+            35.48389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2284,
+      "name": "North",
+      "code": "AS",
+      "shortName": "AS",
+      "cities": [
+        {
+          "id": 65934,
+          "name": "Batroûn",
+          "latlng": [
+            34.25528,
+            35.65806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65935,
+          "name": "Bcharré",
+          "latlng": [
+            34.25083,
+            36.01056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65953,
+          "name": "Tripoli",
+          "latlng": [
+            34.43352,
+            35.84415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2281,
+      "name": "South",
+      "code": "JA",
+      "shortName": "JA",
+      "cities": [
+        {
+          "id": 65944,
+          "name": "En Nâqoûra",
+          "latlng": [
+            33.11806,
+            35.13972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65945,
+          "name": "Ghazieh",
+          "latlng": [
+            33.5175,
+            35.36889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65952,
+          "name": "Sidon",
+          "latlng": [
+            33.55751,
+            35.37148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65954,
+          "name": "Tyre",
+          "latlng": [
+            33.27333,
+            35.19389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

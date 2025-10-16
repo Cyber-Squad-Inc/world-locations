@@ -1,0 +1,86 @@
+{
+  "name": {
+    "common": "Aruba",
+    "official": "Aruba"
+  },
+  "iso2": "AW",
+  "iso3": "ABW",
+  "numericCode": "533",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".aw",
+  "phoneCode": "297",
+  "capital": "Oranjestad",
+  "currencies": {
+    "AWG": "Aruban florin"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Aruba",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/aw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/aw.svg",
+  "states": [
+    {
+      "id": 5243,
+      "name": "Noord",
+      "code": null,
+      "shortName": "Noord",
+      "cities": []
+    },
+    {
+      "id": 5245,
+      "name": "Oranjestad East",
+      "code": null,
+      "shortName": "Oranjestad East",
+      "cities": []
+    },
+    {
+      "id": 5244,
+      "name": "Oranjestad West",
+      "code": null,
+      "shortName": "Oranjestad West",
+      "cities": []
+    },
+    {
+      "id": 5246,
+      "name": "Paradera",
+      "code": null,
+      "shortName": "Paradera",
+      "cities": []
+    },
+    {
+      "id": 5247,
+      "name": "San Nicolaas Noord",
+      "code": null,
+      "shortName": "San Nicolaas Noord",
+      "cities": []
+    },
+    {
+      "id": 5248,
+      "name": "San Nicolaas Zuid",
+      "code": null,
+      "shortName": "San Nicolaas Zuid",
+      "cities": []
+    },
+    {
+      "id": 5249,
+      "name": "Santa Cruz",
+      "code": null,
+      "shortName": "Santa Cruz",
+      "cities": []
+    },
+    {
+      "id": 5250,
+      "name": "Savaneta",
+      "code": null,
+      "shortName": "Savaneta",
+      "cities": []
+    }
+  ]
+}

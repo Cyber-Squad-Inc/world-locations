@@ -1,0 +1,933 @@
+{
+  "name": {
+    "common": "Nepal",
+    "official": "Nepal"
+  },
+  "iso2": "NP",
+  "iso3": "NPL",
+  "numericCode": "524",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".np",
+  "phoneCode": "977",
+  "capital": "Kathmandu",
+  "currencies": {
+    "NPR": "Nepalese rupee"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Kathmandu",
+      "gmtOffset": 20700,
+      "gmtOffsetName": "UTC+05:45",
+      "abbreviation": "NPT",
+      "tzName": "Nepal Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/np.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/np.svg",
+  "states": [
+    {
+      "id": 2073,
+      "name": "Bagmati",
+      "code": "P3",
+      "shortName": "P3",
+      "cities": [
+        {
+          "id": 79705,
+          "name": "Bhaktapur",
+          "latlng": [
+            27.6774344,
+            85.403867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79707,
+          "name": "Chitwan",
+          "latlng": [
+            27.6195362,
+            84.027934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79713,
+          "name": "Dhading",
+          "latlng": [
+            28.0072584,
+            84.2846417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79722,
+          "name": "Dolakha",
+          "latlng": [
+            27.823719,
+            85.5599189
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79726,
+          "name": "Kathmandu",
+          "latlng": [
+            27.7090302,
+            85.2849327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79728,
+          "name": "Kavrepalanchok",
+          "latlng": [
+            27.5453981,
+            85.3041673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79729,
+          "name": "Lalitpur",
+          "latlng": [
+            27.5482023,
+            85.0420147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79732,
+          "name": "Makwanpur",
+          "latlng": [
+            27.4372082,
+            84.757804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79733,
+          "name": "Nuwakot",
+          "latlng": [
+            27.9220549,
+            84.0596846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79735,
+          "name": "Ramechhap",
+          "latlng": [
+            27.5374985,
+            85.855351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79737,
+          "name": "Rasuwa",
+          "latlng": [
+            28.1717741,
+            84.2782312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79740,
+          "name": "Sindhuli",
+          "latlng": [
+            27.1846933,
+            85.2443715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79742,
+          "name": "Sindhupalchok",
+          "latlng": [
+            27.9071196,
+            85.4236067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2069,
+      "name": "Gandaki",
+      "code": "P4",
+      "shortName": "P4",
+      "cities": [
+        {
+          "id": 79706,
+          "name": "Baglung",
+          "latlng": [
+            28.2771164,
+            83.5435353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79709,
+          "name": "Gorkha",
+          "latlng": [
+            28.2734627,
+            84.148777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79711,
+          "name": "Kaski",
+          "latlng": [
+            28.3457236,
+            83.6598731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79720,
+          "name": "Lamjung",
+          "latlng": [
+            28.2830567,
+            84.1110312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79721,
+          "name": "Manang",
+          "latlng": [
+            28.6687281,
+            82.9968136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79730,
+          "name": "Mustang",
+          "latlng": [
+            28.9439987,
+            82.6806739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79731,
+          "name": "Myagdi",
+          "latlng": [
+            28.5460986,
+            83.1559775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79736,
+          "name": "Nawalpur",
+          "latlng": [
+            27.6531965,
+            83.7244287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79738,
+          "name": "Parbat",
+          "latlng": [
+            28.2027643,
+            83.3612186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79739,
+          "name": "Syangja",
+          "latlng": [
+            28.0450971,
+            83.406127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79744,
+          "name": "Tanahun",
+          "latlng": [
+            27.9356556,
+            83.9179311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2068,
+      "name": "Karnali",
+      "code": "P6",
+      "shortName": "P6",
+      "cities": [
+        {
+          "id": 79717,
+          "name": "Dailekh",
+          "latlng": [
+            28.8848053,
+            81.3387197
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79719,
+          "name": "Dolpa",
+          "latlng": [
+            29.2137239,
+            82.3766775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79724,
+          "name": "Humla",
+          "latlng": [
+            30.0255703,
+            81.2173203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79741,
+          "name": "Jajarkot",
+          "latlng": [
+            28.8695526,
+            81.870337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79760,
+          "name": "Jumla",
+          "latlng": [
+            29.2388651,
+            81.8889974
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153801,
+          "name": "Kalikot",
+          "latlng": [
+            29.2164552,
+            81.4139615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153802,
+          "name": "Mugu",
+          "latlng": [
+            29.6778288,
+            81.6361137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153803,
+          "name": "Salyan",
+          "latlng": [
+            28.4069349,
+            81.7605894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153804,
+          "name": "Surkhet",
+          "latlng": [
+            28.6573587,
+            80.851152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153805,
+          "name": "Western Rukum",
+          "latlng": [
+            28.7566521,
+            82.1127309
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2066,
+      "name": "Koshi",
+      "code": "P1",
+      "shortName": "P1",
+      "cities": [
+        {
+          "id": 79710,
+          "name": "Bhojpur",
+          "latlng": [
+            27.1643203,
+            86.9739908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79712,
+          "name": "Dhankuta",
+          "latlng": [
+            26.9844561,
+            87.2431129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79718,
+          "name": "Ilam",
+          "latlng": [
+            26.8985601,
+            87.8816007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79727,
+          "name": "Jhapa",
+          "latlng": [
+            26.5837746,
+            87.582655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79734,
+          "name": "Khotang",
+          "latlng": [
+            27.156403,
+            86.3760147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79745,
+          "name": "Morang",
+          "latlng": [
+            26.6107271,
+            87.1349626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79756,
+          "name": "Okhaldhunga",
+          "latlng": [
+            27.3366812,
+            86.1150771
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153792,
+          "name": "Panchthar",
+          "latlng": [
+            27.1492951,
+            87.4539698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153793,
+          "name": "Sankhuwasabha",
+          "latlng": [
+            27.546658,
+            86.6491272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153794,
+          "name": "Solukhumbu",
+          "latlng": [
+            27.7251464,
+            86.0232404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153795,
+          "name": "Sunsari",
+          "latlng": [
+            26.6411646,
+            86.7991952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153796,
+          "name": "Taplejung",
+          "latlng": [
+            27.6101409,
+            87.1635539
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153797,
+          "name": "Terhathum",
+          "latlng": [
+            27.1326896,
+            87.4069143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153798,
+          "name": "Udayapur",
+          "latlng": [
+            26.9327407,
+            86.0026464
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2067,
+      "name": "Lumbini",
+      "code": "P5",
+      "shortName": "P5",
+      "cities": [
+        {
+          "id": 79708,
+          "name": "Arghakhanchi",
+          "latlng": [
+            27.9323454,
+            82.7096611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79714,
+          "name": "Banke",
+          "latlng": [
+            28.0959371,
+            81.5166283
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79715,
+          "name": "Bardiya",
+          "latlng": [
+            28.3720167,
+            81.0831683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79716,
+          "name": "Dang",
+          "latlng": [
+            27.8886562,
+            79.2970208
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79723,
+          "name": "Eastern Rukum",
+          "latlng": [
+            28.6724804,
+            82.4894003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79725,
+          "name": "Gulmi",
+          "latlng": [
+            28.0959782,
+            82.9837972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79748,
+          "name": "Kapilvastu",
+          "latlng": [
+            27.5450696,
+            82.9755252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79752,
+          "name": "Nawalparasi (West of Bardaghat Susta)",
+          "latlng": [
+            27.519779,
+            83.4049481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79757,
+          "name": "Palpa",
+          "latlng": [
+            27.8106874,
+            83.3000022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79758,
+          "name": "Pyuthan",
+          "latlng": [
+            28.1080544,
+            82.7853244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153799,
+          "name": "Rolpa",
+          "latlng": [
+            28.325734,
+            82.3237615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153800,
+          "name": "Rupandehi",
+          "latlng": [
+            27.5493142,
+            83.0893067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5240,
+      "name": "Madhesh",
+      "code": "P2",
+      "shortName": "P2",
+      "cities": [
+        {
+          "id": 153809,
+          "name": "Bara",
+          "latlng": [
+            27.1076631,
+            84.7387894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153807,
+          "name": "Dhanusha",
+          "latlng": [
+            26.8511257,
+            85.7243307
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153813,
+          "name": "Mahottari",
+          "latlng": [
+            26.8843934,
+            85.2196324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153814,
+          "name": "Parsa",
+          "latlng": [
+            27.2196086,
+            83.5454157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153810,
+          "name": "Rautahat",
+          "latlng": [
+            26.9889241,
+            85.0037945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153811,
+          "name": "Saptari",
+          "latlng": [
+            26.6070667,
+            86.4205227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153808,
+          "name": "Sarlahi",
+          "latlng": [
+            26.9686119,
+            85.2390648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153812,
+          "name": "Siraha",
+          "latlng": [
+            26.7428739,
+            86.0130449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5241,
+      "name": "Sudurpashchim",
+      "code": "P7",
+      "shortName": "P7",
+      "cities": [
+        {
+          "id": 153815,
+          "name": "Achham",
+          "latlng": [
+            29.0675962,
+            80.9745285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153816,
+          "name": "Baitadi",
+          "latlng": [
+            29.5083263,
+            80.245342
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153817,
+          "name": "Bajhang",
+          "latlng": [
+            29.722111,
+            80.4959142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153818,
+          "name": "Bajura",
+          "latlng": [
+            29.6100812,
+            80.8294802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153819,
+          "name": "Dadeldhura",
+          "latlng": [
+            29.2093409,
+            80.1553646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153820,
+          "name": "Darchula",
+          "latlng": [
+            29.5960642,
+            80.0574343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153821,
+          "name": "Doti",
+          "latlng": [
+            29.1883361,
+            80.5268261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153822,
+          "name": "Kailali",
+          "latlng": [
+            28.7309061,
+            80.2184777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153823,
+          "name": "Kanchanpur",
+          "latlng": [
+            28.844712,
+            79.9792695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

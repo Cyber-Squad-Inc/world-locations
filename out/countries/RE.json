@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Reunion",
+    "official": "Reunion"
+  },
+  "iso2": "RE",
+  "iso3": "REU",
+  "numericCode": "638",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".re",
+  "phoneCode": "262",
+  "capital": "Saint-Denis",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Reunion",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "RET",
+      "tzName": "Réunion Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/re.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/re.svg",
+  "states": []
+}

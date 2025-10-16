@@ -1,0 +1,212 @@
+{
+  "name": {
+    "common": "Nauru",
+    "official": "Nauru"
+  },
+  "iso2": "NR",
+  "iso3": "NRU",
+  "numericCode": "520",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".nr",
+  "phoneCode": "674",
+  "capital": "Yaren",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Nauru",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "NRT",
+      "tzName": "Nauru Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/nr.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/nr.svg",
+  "states": [
+    {
+      "id": 4656,
+      "name": "Aiwo",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 79762,
+          "name": "Arijejen",
+          "latlng": [
+            -0.52545,
+            166.91247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4658,
+      "name": "Anabar",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 79761,
+          "name": "Anabar",
+          "latlng": [
+            -0.50845,
+            166.95326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4667,
+      "name": "Anetan",
+      "code": "03",
+      "shortName": "03",
+      "cities": []
+    },
+    {
+      "id": 4663,
+      "name": "Anibare",
+      "code": "04",
+      "shortName": "04",
+      "cities": []
+    },
+    {
+      "id": 4660,
+      "name": "Baiti",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 79763,
+          "name": "Baiti",
+          "latlng": [
+            -0.50803,
+            166.92945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4665,
+      "name": "Boe",
+      "code": "06",
+      "shortName": "06",
+      "cities": []
+    },
+    {
+      "id": 4662,
+      "name": "Buada",
+      "code": "07",
+      "shortName": "07",
+      "cities": []
+    },
+    {
+      "id": 4666,
+      "name": "Denigomodu",
+      "code": "08",
+      "shortName": "08",
+      "cities": []
+    },
+    {
+      "id": 4654,
+      "name": "Ewa",
+      "code": "09",
+      "shortName": "09",
+      "cities": []
+    },
+    {
+      "id": 4661,
+      "name": "Ijuw",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 79764,
+          "name": "Ijuw",
+          "latlng": [
+            -0.521,
+            166.95813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4657,
+      "name": "Meneng",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 79765,
+          "name": "Menen",
+          "latlng": [
+            -0.54539,
+            166.94871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4659,
+      "name": "Nibok",
+      "code": "12",
+      "shortName": "12",
+      "cities": []
+    },
+    {
+      "id": 4655,
+      "name": "Uaboe",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 79766,
+          "name": "Uaboe",
+          "latlng": [
+            -0.51393,
+            166.92384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4664,
+      "name": "Yaren",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 79767,
+          "name": "Yaren",
+          "latlng": [
+            -0.55085,
+            166.9252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

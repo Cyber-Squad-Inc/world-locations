@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Pitcairn Island",
+    "official": "Pitcairn Island"
+  },
+  "iso2": "PN",
+  "iso3": "PCN",
+  "numericCode": "612",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".pn",
+  "phoneCode": "870",
+  "capital": "Adamstown",
+  "currencies": {
+    "NZD": "New Zealand dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Pitcairn",
+      "gmtOffset": -28800,
+      "gmtOffsetName": "UTC-08:00",
+      "abbreviation": "PST",
+      "tzName": "Pacific Standard Time (North America"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pn.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pn.svg",
+  "states": []
+}

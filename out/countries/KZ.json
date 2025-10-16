@@ -1,0 +1,3068 @@
+{
+  "name": {
+    "common": "Kazakhstan",
+    "official": "Kazakhstan"
+  },
+  "iso2": "KZ",
+  "iso3": "KAZ",
+  "numericCode": "398",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "tld": ".kz",
+  "phoneCode": "7",
+  "capital": "Astana",
+  "currencies": {
+    "KZT": "Kazakhstani tenge"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Almaty",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "ALMT",
+      "tzName": "Alma-Ata Time[1"
+    },
+    {
+      "zoneName": "Asia/Aqtau",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "AQTT",
+      "tzName": "Aqtobe Time"
+    },
+    {
+      "zoneName": "Asia/Aqtobe",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "AQTT",
+      "tzName": "Aqtobe Time"
+    },
+    {
+      "zoneName": "Asia/Atyrau",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "MSD+1",
+      "tzName": "Moscow Daylight Time+1"
+    },
+    {
+      "zoneName": "Asia/Oral",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "ORAT",
+      "tzName": "Oral Time"
+    },
+    {
+      "zoneName": "Asia/Qostanay",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "QYZST",
+      "tzName": "Qyzylorda Summer Time"
+    },
+    {
+      "zoneName": "Asia/Qyzylorda",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "QYZT",
+      "tzName": "Qyzylorda Summer Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/kz.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/kz.svg",
+  "states": [
+    {
+      "id": 145,
+      "name": "Akmola",
+      "code": "AKM",
+      "shortName": "AKM",
+      "cities": [
+        {
+          "id": 65596,
+          "name": "Akkol",
+          "latlng": [
+            51.99374,
+            70.94704
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65597,
+          "name": "Akkol’",
+          "latlng": [
+            53.29617,
+            69.59997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65600,
+          "name": "Aksu",
+          "latlng": [
+            52.44422,
+            71.95761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65619,
+          "name": "Astrakhan",
+          "latlng": [
+            51.53092,
+            69.79684
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65624,
+          "name": "Atbasar",
+          "latlng": [
+            51.80652,
+            68.35996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65632,
+          "name": "Balkashino",
+          "latlng": [
+            52.51779,
+            68.7516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65647,
+          "name": "Bestobe",
+          "latlng": [
+            52.49795,
+            73.09592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65665,
+          "name": "Derzhavīnsk",
+          "latlng": [
+            51.09922,
+            66.31557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65672,
+          "name": "Egindiköl",
+          "latlng": [
+            51.05412,
+            69.47928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65676,
+          "name": "Esil",
+          "latlng": [
+            51.95495,
+            66.40841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65698,
+          "name": "Kokshetau",
+          "latlng": [
+            53.28333,
+            69.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65703,
+          "name": "Krasnogorskiy",
+          "latlng": [
+            52.2456,
+            66.52081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65720,
+          "name": "Makinsk",
+          "latlng": [
+            52.6329,
+            70.41911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65781,
+          "name": "Shantobe",
+          "latlng": [
+            52.45376,
+            68.17475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65784,
+          "name": "Shchuchinsk",
+          "latlng": [
+            52.93592,
+            70.18895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65787,
+          "name": "Shortandy",
+          "latlng": [
+            51.69946,
+            70.99457
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65796,
+          "name": "Stepnogorsk",
+          "latlng": [
+            52.35062,
+            71.88161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65797,
+          "name": "Stepnyak",
+          "latlng": [
+            52.83489,
+            70.78861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65830,
+          "name": "Yermentau",
+          "latlng": [
+            51.62364,
+            73.10265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65832,
+          "name": "Zavodskoy",
+          "latlng": [
+            52.47031,
+            72.01514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65840,
+          "name": "Zhaqsy",
+          "latlng": [
+            51.91058,
+            67.31665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65847,
+          "name": "Zholymbet",
+          "latlng": [
+            51.74211,
+            71.71245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Aktobe",
+      "code": "AKT",
+      "shortName": "AKT",
+      "cities": [
+        {
+          "id": 65605,
+          "name": "Aktobe",
+          "latlng": [
+            50.27969,
+            57.20718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65636,
+          "name": "Batamshinskiy",
+          "latlng": [
+            50.56022,
+            58.27715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65638,
+          "name": "Bayganin",
+          "latlng": [
+            48.68975,
+            55.87512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65674,
+          "name": "Embi",
+          "latlng": [
+            48.82981,
+            58.15042
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65687,
+          "name": "Kandyagash",
+          "latlng": [
+            49.46912,
+            57.41914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65697,
+          "name": "Khromtau",
+          "latlng": [
+            50.25117,
+            58.44003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65725,
+          "name": "Martuk",
+          "latlng": [
+            50.74746,
+            56.50611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65779,
+          "name": "Shalqar",
+          "latlng": [
+            47.83333,
+            59.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65788,
+          "name": "Shubarkuduk",
+          "latlng": [
+            49.14391,
+            56.48196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65790,
+          "name": "Shubarshi",
+          "latlng": [
+            48.58022,
+            57.18289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65808,
+          "name": "Temir",
+          "latlng": [
+            49.14132,
+            57.12855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65831,
+          "name": "Yrghyz",
+          "latlng": [
+            48.61667,
+            61.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Almaty",
+      "code": "ALM",
+      "shortName": "ALM",
+      "cities": [
+        {
+          "id": 65631,
+          "name": "Bakanas",
+          "latlng": [
+            44.80838,
+            76.27214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65633,
+          "name": "Balpyk Bī",
+          "latlng": [
+            44.90225,
+            78.23157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65656,
+          "name": "Burunday",
+          "latlng": [
+            43.35567,
+            76.85477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65661,
+          "name": "Chemolgan",
+          "latlng": [
+            43.37633,
+            76.62456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65668,
+          "name": "Druzhba",
+          "latlng": [
+            45.25332,
+            82.48044
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65675,
+          "name": "Esik",
+          "latlng": [
+            43.3552,
+            77.45245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65689,
+          "name": "Kapshagay",
+          "latlng": [
+            43.86681,
+            77.06304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65694,
+          "name": "Kegen",
+          "latlng": [
+            43.02143,
+            79.22055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65715,
+          "name": "Lepsy",
+          "latlng": [
+            46.235,
+            78.94556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65726,
+          "name": "Matay",
+          "latlng": [
+            45.895,
+            78.71806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65742,
+          "name": "Otegen Batyra",
+          "latlng": [
+            43.41949,
+            77.0202
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65746,
+          "name": "Pervomayka",
+          "latlng": [
+            43.37361,
+            76.94
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65763,
+          "name": "Sarkand",
+          "latlng": [
+            45.41126,
+            79.91545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65767,
+          "name": "Saryozek",
+          "latlng": [
+            44.36178,
+            77.97279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65800,
+          "name": "Taldykorgan",
+          "latlng": [
+            45.01556,
+            78.37389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65801,
+          "name": "Talghar",
+          "latlng": [
+            43.30348,
+            77.24085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65807,
+          "name": "Tekeli",
+          "latlng": [
+            44.83322,
+            78.83089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65818,
+          "name": "Turgen",
+          "latlng": [
+            43.40056,
+            77.59333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65852,
+          "name": "Ülken",
+          "latlng": [
+            45.21194,
+            73.97861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65823,
+          "name": "Ush-Tyube",
+          "latlng": [
+            45.25201,
+            77.98007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65841,
+          "name": "Zharkent",
+          "latlng": [
+            44.1666,
+            80.00655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Almaty",
+      "code": "ALA",
+      "shortName": "ALA",
+      "cities": [
+        {
+          "id": 65607,
+          "name": "Almaty",
+          "latlng": [
+            43.25667,
+            76.92861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Astana",
+      "code": "AST",
+      "shortName": "AST",
+      "cities": [
+        {
+          "id": 65737,
+          "name": "Nur-Sultan",
+          "latlng": [
+            51.1801,
+            71.44598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Atyrau",
+      "code": "ATY",
+      "shortName": "ATY",
+      "cities": [
+        {
+          "id": 65598,
+          "name": "Akkol’",
+          "latlng": [
+            48.77177,
+            53.1858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65625,
+          "name": "Atyrau",
+          "latlng": [
+            47.11667,
+            51.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65635,
+          "name": "Balykshi",
+          "latlng": [
+            47.06667,
+            51.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65639,
+          "name": "Bayshonas",
+          "latlng": [
+            47.24139,
+            52.94111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65667,
+          "name": "Dossor",
+          "latlng": [
+            47.52722,
+            52.98111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65684,
+          "name": "Inderbor",
+          "latlng": [
+            48.55,
+            51.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65719,
+          "name": "Makhambet",
+          "latlng": [
+            47.66667,
+            51.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65722,
+          "name": "Maloye Ganyushkino",
+          "latlng": [
+            46.6,
+            49.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65723,
+          "name": "Maqat",
+          "latlng": [
+            47.65,
+            53.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65729,
+          "name": "Miyaly",
+          "latlng": [
+            48.88504,
+            53.79194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65751,
+          "name": "Qaraton",
+          "latlng": [
+            46.43528,
+            53.48639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65759,
+          "name": "Qulsary",
+          "latlng": [
+            46.95307,
+            54.01978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65778,
+          "name": "Shalkar",
+          "latlng": [
+            48.03333,
+            48.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Baikonur",
+      "code": "BAY",
+      "shortName": "BAY",
+      "cities": [
+        {
+          "id": 65630,
+          "name": "Baikonur",
+          "latlng": [
+            45.61667,
+            63.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "East Kazakhstan",
+      "code": "VOS",
+      "shortName": "VOS",
+      "cities": [
+        {
+          "id": 65608,
+          "name": "Altayskiy",
+          "latlng": [
+            50.24593,
+            82.36252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65613,
+          "name": "Aqtoghay",
+          "latlng": [
+            46.95,
+            79.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65621,
+          "name": "Asūbulaq",
+          "latlng": [
+            49.55688,
+            83.06355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65626,
+          "name": "Auezov",
+          "latlng": [
+            49.71003,
+            81.58018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65627,
+          "name": "Ayagoz",
+          "latlng": [
+            47.96447,
+            80.43437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65643,
+          "name": "Belogorskīy",
+          "latlng": [
+            49.47698,
+            83.14803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65645,
+          "name": "Belousovka",
+          "latlng": [
+            50.13287,
+            82.52481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65651,
+          "name": "Borodulikha",
+          "latlng": [
+            50.71841,
+            80.9295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65681,
+          "name": "Georgīevka",
+          "latlng": [
+            49.32671,
+            81.57373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65682,
+          "name": "Glubokoye",
+          "latlng": [
+            50.13887,
+            82.31114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65705,
+          "name": "Kurchatov",
+          "latlng": [
+            50.75617,
+            78.54188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65706,
+          "name": "Kurchum",
+          "latlng": [
+            48.56603,
+            83.66146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65721,
+          "name": "Maleyevsk",
+          "latlng": [
+            49.81441,
+            84.29102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65738,
+          "name": "Ognevka",
+          "latlng": [
+            49.68351,
+            83.01674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65749,
+          "name": "Priisk Boko",
+          "latlng": [
+            49.06028,
+            81.64528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65753,
+          "name": "Qaraūyl",
+          "latlng": [
+            48.94509,
+            79.25502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65761,
+          "name": "Ridder",
+          "latlng": [
+            50.34413,
+            83.51287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65774,
+          "name": "Semey",
+          "latlng": [
+            50.42675,
+            80.26669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65782,
+          "name": "Shar",
+          "latlng": [
+            49.5872,
+            81.04883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65785,
+          "name": "Shemonaīkha",
+          "latlng": [
+            50.62811,
+            81.91213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65798,
+          "name": "Suykbulak",
+          "latlng": [
+            49.70837,
+            81.04854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65821,
+          "name": "Tūghyl",
+          "latlng": [
+            47.72521,
+            84.20629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65822,
+          "name": "Urzhar",
+          "latlng": [
+            47.09302,
+            81.62939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65824,
+          "name": "Ust-Kamenogorsk",
+          "latlng": [
+            49.97143,
+            82.60586
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65853,
+          "name": "Ūst’-Talovka",
+          "latlng": [
+            50.54927,
+            81.84997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65833,
+          "name": "Zaysan",
+          "latlng": [
+            47.46657,
+            84.87144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65835,
+          "name": "Zhalghyztobe",
+          "latlng": [
+            49.21094,
+            81.21596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65838,
+          "name": "Zhanga Buqtyrma",
+          "latlng": [
+            49.6295,
+            83.52475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65845,
+          "name": "Zhezkent",
+          "latlng": [
+            50.93112,
+            81.3615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65850,
+          "name": "Zyryanovsk",
+          "latlng": [
+            49.72654,
+            84.27318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Jambyl",
+      "code": "ZHA",
+      "shortName": "ZHA",
+      "cities": [
+        {
+          "id": 65610,
+          "name": "Aqbaqay",
+          "latlng": [
+            45,
+            72.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65663,
+          "name": "Chu",
+          "latlng": [
+            43.60334,
+            73.75919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65680,
+          "name": "Georgiyevka",
+          "latlng": [
+            43.03882,
+            74.71287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65683,
+          "name": "Granitogorsk",
+          "latlng": [
+            42.744,
+            73.46848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65692,
+          "name": "Karatau",
+          "latlng": [
+            43.17869,
+            70.46768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65696,
+          "name": "Khantaū",
+          "latlng": [
+            44.22744,
+            73.79555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65717,
+          "name": "Lugovoy",
+          "latlng": [
+            42.94197,
+            72.76098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65718,
+          "name": "Lugovoye",
+          "latlng": [
+            42.9101,
+            72.72066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65728,
+          "name": "Merke",
+          "latlng": [
+            42.86976,
+            73.18463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65730,
+          "name": "Moyynkum",
+          "latlng": [
+            44.28461,
+            72.9392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65733,
+          "name": "Mynaral",
+          "latlng": [
+            45.41611,
+            73.68444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65743,
+          "name": "Oytal",
+          "latlng": [
+            42.90573,
+            73.26972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65766,
+          "name": "Sarykemer",
+          "latlng": [
+            43,
+            71.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65791,
+          "name": "Shyghanaq",
+          "latlng": [
+            44.83056,
+            70.00194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65803,
+          "name": "Taraz",
+          "latlng": [
+            42.9,
+            71.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65839,
+          "name": "Zhangatas",
+          "latlng": [
+            43.56222,
+            69.73428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Karaganda",
+      "code": "KAR",
+      "shortName": "KAR",
+      "cities": [
+        {
+          "id": 65594,
+          "name": "Abay",
+          "latlng": [
+            49.63575,
+            72.86164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65595,
+          "name": "Abay Qalasy",
+          "latlng": [
+            49.63333,
+            72.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65601,
+          "name": "Aksu-Ayuly",
+          "latlng": [
+            48.76788,
+            73.67272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65602,
+          "name": "Aktas",
+          "latlng": [
+            49.77952,
+            72.96128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65603,
+          "name": "Aktau",
+          "latlng": [
+            48.03333,
+            72.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65606,
+          "name": "Aktogay",
+          "latlng": [
+            48.16667,
+            75.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65609,
+          "name": "Aqadyr",
+          "latlng": [
+            48.26014,
+            72.85851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65612,
+          "name": "Aqshataū",
+          "latlng": [
+            47.98917,
+            74.0575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65614,
+          "name": "Aqtoghay Aūdany",
+          "latlng": [
+            48.5,
+            74.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65623,
+          "name": "Atasū",
+          "latlng": [
+            48.68659,
+            71.64469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65634,
+          "name": "Balqash",
+          "latlng": [
+            46.84806,
+            74.995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65653,
+          "name": "Bukhar-Zhyrau",
+          "latlng": [
+            49.85658,
+            73.68118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65666,
+          "name": "Dolinka",
+          "latlng": [
+            49.67685,
+            72.67822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65690,
+          "name": "Karagandy",
+          "latlng": [
+            49.80187,
+            73.10211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65711,
+          "name": "Kīevka",
+          "latlng": [
+            50.26212,
+            71.54839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65699,
+          "name": "Koktal",
+          "latlng": [
+            49.65,
+            73.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65707,
+          "name": "Kushoky",
+          "latlng": [
+            50.23091,
+            73.40146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65709,
+          "name": "Kyzylzhar",
+          "latlng": [
+            49.98197,
+            72.60761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65731,
+          "name": "Moyynty",
+          "latlng": [
+            47.22111,
+            73.36694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65735,
+          "name": "Novodolinskiy",
+          "latlng": [
+            49.7065,
+            72.70807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65741,
+          "name": "Osakarovka",
+          "latlng": [
+            50.56219,
+            72.57089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65748,
+          "name": "Prigorodnoye",
+          "latlng": [
+            49.69244,
+            75.58438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65750,
+          "name": "Priozersk",
+          "latlng": [
+            46.03106,
+            73.70247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65752,
+          "name": "Qarazhal",
+          "latlng": [
+            48.00627,
+            70.79607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65754,
+          "name": "Qarqaraly",
+          "latlng": [
+            49.41287,
+            75.47286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65768,
+          "name": "Saryshaghan",
+          "latlng": [
+            46.11917,
+            73.61917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65770,
+          "name": "Sayaq",
+          "latlng": [
+            47,
+            77.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65776,
+          "name": "Shakhan",
+          "latlng": [
+            49.81958,
+            72.65407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65777,
+          "name": "Shakhtinsk",
+          "latlng": [
+            49.70885,
+            72.59212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65783,
+          "name": "Shashūbay",
+          "latlng": [
+            46.81694,
+            75.04028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65789,
+          "name": "Shubarköl",
+          "latlng": [
+            48.88222,
+            68.80722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65794,
+          "name": "Soran",
+          "latlng": [
+            49.7908,
+            72.83744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65810,
+          "name": "Temirtau",
+          "latlng": [
+            50.05494,
+            72.96464
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65814,
+          "name": "Tokarevka",
+          "latlng": [
+            50.11573,
+            73.16034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65825,
+          "name": "Verkhniye Kayrakty",
+          "latlng": [
+            48.68333,
+            73.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65836,
+          "name": "Zhambyl",
+          "latlng": [
+            47.20694,
+            71.39694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65842,
+          "name": "Zharyk",
+          "latlng": [
+            48.85692,
+            72.83598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65846,
+          "name": "Zhezqazghan",
+          "latlng": [
+            47.78333,
+            67.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Kostanay",
+      "code": "KUS",
+      "shortName": "KUS",
+      "cities": [
+        {
+          "id": 65616,
+          "name": "Arkalyk",
+          "latlng": [
+            50.24915,
+            66.92027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65628,
+          "name": "Ayat",
+          "latlng": [
+            52.83554,
+            62.52078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65652,
+          "name": "Borovskoy",
+          "latlng": [
+            53.7927,
+            64.18268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65671,
+          "name": "Dzhetygara",
+          "latlng": [
+            52.19019,
+            61.19894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65679,
+          "name": "Fyodorovka",
+          "latlng": [
+            53.63809,
+            62.69653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65691,
+          "name": "Karasu",
+          "latlng": [
+            52.65995,
+            65.48421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65701,
+          "name": "Komsomolets",
+          "latlng": [
+            53.75019,
+            62.0584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65702,
+          "name": "Kostanay",
+          "latlng": [
+            53.21435,
+            63.62463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65716,
+          "name": "Lisakovsk",
+          "latlng": [
+            52.54707,
+            62.49987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65740,
+          "name": "Ordzhonikidze",
+          "latlng": [
+            52.44772,
+            61.74942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65755,
+          "name": "Qashar",
+          "latlng": [
+            53.36799,
+            62.86839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65760,
+          "name": "Qusmuryn",
+          "latlng": [
+            52.45107,
+            64.61977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65762,
+          "name": "Rudnyy",
+          "latlng": [
+            52.9729,
+            63.11677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65813,
+          "name": "Tobol",
+          "latlng": [
+            52.69366,
+            62.5914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65815,
+          "name": "Torghay",
+          "latlng": [
+            49.63389,
+            63.49806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65816,
+          "name": "Troyebratskiy",
+          "latlng": [
+            54.44306,
+            66.07982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Kyzylorda",
+      "code": "KZY",
+      "shortName": "KZY",
+      "cities": [
+        {
+          "id": 65615,
+          "name": "Aral",
+          "latlng": [
+            46.8,
+            61.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65629,
+          "name": "Ayteke Bi",
+          "latlng": [
+            45.84607,
+            62.15264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65642,
+          "name": "Belköl",
+          "latlng": [
+            44.81162,
+            65.58796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65669,
+          "name": "Dzhalagash",
+          "latlng": [
+            45.08333,
+            64.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65708,
+          "name": "Kyzylorda",
+          "latlng": [
+            44.85278,
+            65.50917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65757,
+          "name": "Qazaly",
+          "latlng": [
+            45.76278,
+            62.1075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65773,
+          "name": "Sekseūil",
+          "latlng": [
+            47.09,
+            61.15194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65780,
+          "name": "Shalqīya",
+          "latlng": [
+            44.00947,
+            67.41062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65792,
+          "name": "Shīeli",
+          "latlng": [
+            44.16882,
+            66.73887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65804,
+          "name": "Tasböget",
+          "latlng": [
+            44.77384,
+            65.55227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65811,
+          "name": "Terenozek",
+          "latlng": [
+            45.05053,
+            64.98395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65827,
+          "name": "Yanykurgan",
+          "latlng": [
+            43.90652,
+            67.24637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65848,
+          "name": "Zhosaly",
+          "latlng": [
+            45.48778,
+            64.07806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Mangystau",
+      "code": "MAN",
+      "shortName": "MAN",
+      "cities": [
+        {
+          "id": 65604,
+          "name": "Aktau",
+          "latlng": [
+            43.65,
+            51.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65641,
+          "name": "Baūtīno",
+          "latlng": [
+            44.54479,
+            50.24629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65648,
+          "name": "Beyneu",
+          "latlng": [
+            45.31667,
+            55.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65678,
+          "name": "Fort-Shevchenko",
+          "latlng": [
+            44.50654,
+            50.26388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65732,
+          "name": "Munayshy",
+          "latlng": [
+            43.49111,
+            52.10861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65851,
+          "name": "Ömirzaq",
+          "latlng": [
+            43.59786,
+            51.24171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65772,
+          "name": "Sayötesh",
+          "latlng": [
+            44.32781,
+            53.53246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65786,
+          "name": "Shetpe",
+          "latlng": [
+            44.16667,
+            52.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65806,
+          "name": "Taūshyq",
+          "latlng": [
+            44.34678,
+            51.34932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65829,
+          "name": "Yeraliyev",
+          "latlng": [
+            43.18032,
+            51.68116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65837,
+          "name": "Zhanaozen",
+          "latlng": [
+            43.34116,
+            52.86192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65844,
+          "name": "Zhetibay",
+          "latlng": [
+            43.59417,
+            52.07889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "North Kazakhstan",
+      "code": "SEV",
+      "shortName": "SEV",
+      "cities": [
+        {
+          "id": 65649,
+          "name": "Birlestik",
+          "latlng": [
+            53.58414,
+            68.35382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65650,
+          "name": "Bishkul",
+          "latlng": [
+            54.77763,
+            69.09951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65654,
+          "name": "Bulayevo",
+          "latlng": [
+            54.90596,
+            70.44155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65657,
+          "name": "Būrabay",
+          "latlng": [
+            53.08382,
+            70.31379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65710,
+          "name": "Kzyltu",
+          "latlng": [
+            53.63589,
+            72.34079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65736,
+          "name": "Novoishimskiy",
+          "latlng": [
+            53.19806,
+            66.76944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65747,
+          "name": "Petropavl",
+          "latlng": [
+            54.86667,
+            69.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65775,
+          "name": "Sergeyevka",
+          "latlng": [
+            53.88139,
+            67.40882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65793,
+          "name": "Smirnovo",
+          "latlng": [
+            54.5148,
+            69.42732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65799,
+          "name": "Taiynsha",
+          "latlng": [
+            53.84796,
+            69.76773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65802,
+          "name": "Talshik",
+          "latlng": [
+            53.63736,
+            71.87404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65812,
+          "name": "Timiryazevo",
+          "latlng": [
+            53.74947,
+            66.48852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65826,
+          "name": "Volodarskoye",
+          "latlng": [
+            53.2927,
+            68.105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65828,
+          "name": "Yavlenka",
+          "latlng": [
+            54.34525,
+            68.4574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Pavlodar",
+      "code": "PAV",
+      "shortName": "PAV",
+      "cities": [
+        {
+          "id": 65599,
+          "name": "Aksu",
+          "latlng": [
+            52.04023,
+            76.92748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65637,
+          "name": "Bayanaul",
+          "latlng": [
+            50.79304,
+            75.70123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65644,
+          "name": "Belogor’ye",
+          "latlng": [
+            51.52983,
+            77.47146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65673,
+          "name": "Ekibastuz",
+          "latlng": [
+            51.72371,
+            75.32287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65685,
+          "name": "Irtyshsk",
+          "latlng": [
+            53.33365,
+            75.45775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65686,
+          "name": "Kalkaman",
+          "latlng": [
+            51.95349,
+            76.02723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65713,
+          "name": "Leninskiy",
+          "latlng": [
+            52.25346,
+            76.78211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65727,
+          "name": "Mayqayyng",
+          "latlng": [
+            51.45981,
+            75.80232
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65744,
+          "name": "Pavlodar",
+          "latlng": [
+            52.28333,
+            76.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65756,
+          "name": "Qashyr",
+          "latlng": [
+            53.06649,
+            76.10489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65843,
+          "name": "Zhelezinka",
+          "latlng": [
+            53.5388,
+            75.31326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Turkestan",
+      "code": "YUZ",
+      "shortName": "YUZ",
+      "cities": [
+        {
+          "id": 65617,
+          "name": "Arys",
+          "latlng": [
+            42.43015,
+            68.8087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65618,
+          "name": "Ashchysay",
+          "latlng": [
+            43.5537,
+            68.89792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65620,
+          "name": "Asyqata",
+          "latlng": [
+            40.8946,
+            68.3643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65622,
+          "name": "Atakent",
+          "latlng": [
+            40.84782,
+            68.50643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65640,
+          "name": "Bayzhansay",
+          "latlng": [
+            43.16708,
+            69.91459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65646,
+          "name": "Belyye Vody",
+          "latlng": [
+            42.42193,
+            69.82709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65659,
+          "name": "Chardara",
+          "latlng": [
+            41.25832,
+            67.96991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65660,
+          "name": "Chayan",
+          "latlng": [
+            43.03399,
+            69.38048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65664,
+          "name": "Chulakkurgan",
+          "latlng": [
+            43.76453,
+            69.17856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65688,
+          "name": "Kantagi",
+          "latlng": [
+            43.52786,
+            68.58287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65695,
+          "name": "Kentau",
+          "latlng": [
+            43.51672,
+            68.50463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65700,
+          "name": "Kokterek",
+          "latlng": [
+            42.49442,
+            70.25478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65712,
+          "name": "Lenger",
+          "latlng": [
+            42.18152,
+            69.88582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65714,
+          "name": "Leninskoye",
+          "latlng": [
+            41.7564,
+            69.3839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65724,
+          "name": "Maqtaaral Aūdany",
+          "latlng": [
+            40.75,
+            68.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65734,
+          "name": "Myrzakent",
+          "latlng": [
+            40.66338,
+            68.5451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65758,
+          "name": "Qogham",
+          "latlng": [
+            42.82774,
+            68.28074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65764,
+          "name": "Saryaghash",
+          "latlng": [
+            41.46042,
+            69.16791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65765,
+          "name": "Saryaghash Aūdany",
+          "latlng": [
+            41.66667,
+            68.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65769,
+          "name": "Sastobe",
+          "latlng": [
+            42.5533,
+            69.99835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65795,
+          "name": "Sozaq Aūdany",
+          "latlng": [
+            44.83333,
+            68.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65809,
+          "name": "Temirlanovka",
+          "latlng": [
+            42.59998,
+            69.25836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65817,
+          "name": "Turar Ryskulov",
+          "latlng": [
+            42.5334,
+            70.3496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65819,
+          "name": "Turkestan",
+          "latlng": [
+            43.29733,
+            68.25175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65820,
+          "name": "Tyul’kubas",
+          "latlng": [
+            42.48578,
+            70.29601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65834,
+          "name": "Zhabagly",
+          "latlng": [
+            42.43781,
+            70.47841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "West Kazakhstan",
+      "code": "ZAP",
+      "shortName": "ZAP",
+      "cities": [
+        {
+          "id": 65611,
+          "name": "Aqsay",
+          "latlng": [
+            51.1681,
+            52.99782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65655,
+          "name": "Burlin",
+          "latlng": [
+            51.42724,
+            52.71392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65658,
+          "name": "Chapaev",
+          "latlng": [
+            50.2,
+            51.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65662,
+          "name": "Chingirlau",
+          "latlng": [
+            51.09878,
+            54.08426
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65670,
+          "name": "Dzhambeyty",
+          "latlng": [
+            50.25676,
+            52.59895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65677,
+          "name": "Fedorovka",
+          "latlng": [
+            51.22102,
+            51.95723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65693,
+          "name": "Kaztalovka",
+          "latlng": [
+            49.76612,
+            48.68903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65704,
+          "name": "Krūgloozernoe",
+          "latlng": [
+            51.07854,
+            51.28992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65739,
+          "name": "Oral",
+          "latlng": [
+            51.23333,
+            51.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65745,
+          "name": "Peremetnoe",
+          "latlng": [
+            51.19925,
+            50.85544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65771,
+          "name": "Saykhin",
+          "latlng": [
+            48.85611,
+            46.83361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65805,
+          "name": "Tasqala",
+          "latlng": [
+            51.11073,
+            50.29454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65849,
+          "name": "Zhänibek",
+          "latlng": [
+            49.42207,
+            46.84705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

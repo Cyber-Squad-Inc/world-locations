@@ -1,0 +1,1725 @@
+{
+  "name": {
+    "common": "Venezuela",
+    "official": "Venezuela"
+  },
+  "iso2": "VE",
+  "iso3": "VEN",
+  "numericCode": "862",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".ve",
+  "phoneCode": "58",
+  "capital": "Caracas",
+  "currencies": {
+    "VES": "Bolívar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Caracas",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "VET",
+      "tzName": "Venezuelan Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ve.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ve.svg",
+  "states": [
+    {
+      "id": 2044,
+      "name": "Amazonas",
+      "code": "Z",
+      "shortName": "Z",
+      "cities": [
+        {
+          "id": 130106,
+          "name": "Maroa",
+          "latlng": [
+            2.7188,
+            -67.56046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130110,
+          "name": "Municipio Autónomo Alto Orinoco",
+          "latlng": [
+            2.73456,
+            -64.83032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130131,
+          "name": "Puerto Ayacucho",
+          "latlng": [
+            5.66049,
+            -67.58343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130142,
+          "name": "San Carlos de Río Negro",
+          "latlng": [
+            1.92027,
+            -67.06089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130146,
+          "name": "San Fernando de Atabapo",
+          "latlng": [
+            4.04564,
+            -67.69934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130149,
+          "name": "San Juan de Manapiare",
+          "latlng": [
+            5.32665,
+            -66.05402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2050,
+      "name": "Anzoátegui",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 130041,
+          "name": "Anaco",
+          "latlng": [
+            9.42958,
+            -64.46428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130042,
+          "name": "Aragua de Barcelona",
+          "latlng": [
+            9.45588,
+            -64.82928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130044,
+          "name": "Barcelona",
+          "latlng": [
+            10.13625,
+            -64.68618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130054,
+          "name": "Cantaura",
+          "latlng": [
+            9.30571,
+            -64.35841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130078,
+          "name": "El Tigre",
+          "latlng": [
+            8.88902,
+            -64.2527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130113,
+          "name": "Municipio José Gregorio Monagas",
+          "latlng": [
+            7.73874,
+            -64.71876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130127,
+          "name": "Onoto",
+          "latlng": [
+            9.59714,
+            -65.1935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130133,
+          "name": "Puerto La Cruz",
+          "latlng": [
+            10.21382,
+            -64.6328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130134,
+          "name": "Puerto Píritu",
+          "latlng": [
+            10.05896,
+            -65.03698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130148,
+          "name": "San José de Guanipa",
+          "latlng": [
+            8.88724,
+            -64.16512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4856,
+      "name": "Apure",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 153351,
+          "name": "San Fernando de Apure",
+          "latlng": [
+            7.8726693,
+            -67.4819328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2047,
+      "name": "Aragua",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 130052,
+          "name": "Cagua",
+          "latlng": [
+            10.18634,
+            -67.45935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130077,
+          "name": "El Limón",
+          "latlng": [
+            10.30589,
+            -67.63212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130093,
+          "name": "La Victoria",
+          "latlng": [
+            10.22677,
+            -67.33122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130096,
+          "name": "Las Tejerías",
+          "latlng": [
+            10.25416,
+            -67.17333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130104,
+          "name": "Maracay",
+          "latlng": [
+            10.23535,
+            -67.59113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130128,
+          "name": "Palo Negro",
+          "latlng": [
+            10.17389,
+            -67.54194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130151,
+          "name": "San Mateo",
+          "latlng": [
+            10.21302,
+            -67.42365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130153,
+          "name": "Santa Rita",
+          "latlng": [
+            10.2054,
+            -67.55948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130162,
+          "name": "Turmero",
+          "latlng": [
+            10.22856,
+            -67.47421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130169,
+          "name": "Villa de Cura",
+          "latlng": [
+            10.03863,
+            -67.48938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2049,
+      "name": "Barinas",
+      "code": "E",
+      "shortName": "E",
+      "cities": [
+        {
+          "id": 130040,
+          "name": "Alto Barinas",
+          "latlng": [
+            8.5931,
+            -70.2261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130045,
+          "name": "Barinas",
+          "latlng": [
+            8.62261,
+            -70.20749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130046,
+          "name": "Barinitas",
+          "latlng": [
+            8.76171,
+            -70.41199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130111,
+          "name": "Municipio Barinas",
+          "latlng": [
+            8.61497,
+            -70.19852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2039,
+      "name": "Bolívar",
+      "code": "F",
+      "shortName": "F",
+      "cities": [
+        {
+          "id": 130067,
+          "name": "Ciudad Bolívar",
+          "latlng": [
+            8.12923,
+            -63.54086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130068,
+          "name": "Ciudad Guayana",
+          "latlng": [
+            8.35122,
+            -62.64102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130119,
+          "name": "Municipio Padre Pedro Chien",
+          "latlng": [
+            8.02455,
+            -61.88187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130152,
+          "name": "Santa Elena de Uairén",
+          "latlng": [
+            4.60226,
+            -61.11025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130164,
+          "name": "Upata",
+          "latlng": [
+            8.0162,
+            -62.40561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2040,
+      "name": "Carabobo",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 130081,
+          "name": "Guacara",
+          "latlng": [
+            10.22609,
+            -67.877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130085,
+          "name": "Güigüe",
+          "latlng": [
+            10.08344,
+            -67.77799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130098,
+          "name": "Los Guayos",
+          "latlng": [
+            10.18932,
+            -67.93828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130105,
+          "name": "Mariara",
+          "latlng": [
+            10.29532,
+            -67.7177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130108,
+          "name": "Morón",
+          "latlng": [
+            10.48715,
+            -68.20078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130132,
+          "name": "Puerto Cabello",
+          "latlng": [
+            10.47306,
+            -68.0125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130147,
+          "name": "San Joaquín",
+          "latlng": [
+            10.26061,
+            -67.79348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130156,
+          "name": "Tacarigua",
+          "latlng": [
+            10.08621,
+            -67.91982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130158,
+          "name": "Tocuyito",
+          "latlng": [
+            10.11347,
+            -68.06783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130165,
+          "name": "Valencia",
+          "latlng": [
+            10.16202,
+            -68.00765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2034,
+      "name": "Cojedes",
+      "code": "H",
+      "shortName": "H",
+      "cities": [
+        {
+          "id": 130141,
+          "name": "San Carlos",
+          "latlng": [
+            9.66124,
+            -68.58268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130157,
+          "name": "Tinaquillo",
+          "latlng": [
+            9.91861,
+            -68.30472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2051,
+      "name": "Delta Amacuro",
+      "code": "Y",
+      "shortName": "Y",
+      "cities": [
+        {
+          "id": 130161,
+          "name": "Tucupita",
+          "latlng": [
+            9.05806,
+            -62.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4855,
+      "name": "Distrito Capital",
+      "code": "A",
+      "shortName": "A",
+      "cities": [
+        {
+          "id": 149261,
+          "name": "Caracas",
+          "latlng": [
+            10.5,
+            -66.93333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2035,
+      "name": "Falcón",
+      "code": "I",
+      "shortName": "I",
+      "cities": [
+        {
+          "id": 130065,
+          "name": "Chichiriviche",
+          "latlng": [
+            10.92872,
+            -68.27283
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130071,
+          "name": "Coro",
+          "latlng": [
+            11.4045,
+            -69.67344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130116,
+          "name": "Municipio Los Taques",
+          "latlng": [
+            11.82308,
+            -70.25353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130118,
+          "name": "Municipio Miranda",
+          "latlng": [
+            11.31667,
+            -69.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130135,
+          "name": "Punta Cardón",
+          "latlng": [
+            11.65806,
+            -70.215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130136,
+          "name": "Punto Fijo",
+          "latlng": [
+            11.69152,
+            -70.19918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130160,
+          "name": "Tucacas",
+          "latlng": [
+            10.79006,
+            -68.32564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2045,
+      "name": "Guárico",
+      "code": "J",
+      "shortName": "J",
+      "cities": [
+        {
+          "id": 130039,
+          "name": "Altagracia de Orituco",
+          "latlng": [
+            9.86005,
+            -66.38139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130053,
+          "name": "Calabozo",
+          "latlng": [
+            8.92416,
+            -67.42929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130150,
+          "name": "San Juan de los Morros",
+          "latlng": [
+            9.91152,
+            -67.35381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130167,
+          "name": "Valle de La Pascua",
+          "latlng": [
+            9.21554,
+            -66.00734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130171,
+          "name": "Zaraza",
+          "latlng": [
+            9.35029,
+            -65.32452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2055,
+      "name": "La Guaira",
+      "code": "X",
+      "shortName": "X",
+      "cities": [
+        {
+          "id": 130055,
+          "name": "Caraballeda",
+          "latlng": [
+            10.61216,
+            -66.85192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130060,
+          "name": "Catia La Mar",
+          "latlng": [
+            10.60545,
+            -67.03238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130092,
+          "name": "La Guaira",
+          "latlng": [
+            10.60156,
+            -66.93293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130102,
+          "name": "Maiquetía",
+          "latlng": [
+            10.5945,
+            -66.95624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2038,
+      "name": "Lara",
+      "code": "K",
+      "shortName": "K",
+      "cities": [
+        {
+          "id": 130047,
+          "name": "Barquisimeto",
+          "latlng": [
+            10.0647,
+            -69.35703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130051,
+          "name": "Cabudare",
+          "latlng": [
+            10.02658,
+            -69.26203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130057,
+          "name": "Carora",
+          "latlng": [
+            10.17283,
+            -70.081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130079,
+          "name": "El Tocuyo",
+          "latlng": [
+            9.78709,
+            -69.79294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130099,
+          "name": "Los Rastrojos",
+          "latlng": [
+            10.02588,
+            -69.24166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130137,
+          "name": "Quíbor",
+          "latlng": [
+            9.92866,
+            -69.6201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2053,
+      "name": "Mérida",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 130074,
+          "name": "Ejido",
+          "latlng": [
+            8.54665,
+            -71.24087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130080,
+          "name": "El Vigía",
+          "latlng": [
+            8.6135,
+            -71.65702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130124,
+          "name": "Mérida",
+          "latlng": [
+            8.58972,
+            -71.15611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130109,
+          "name": "Mucumpiz",
+          "latlng": [
+            8.41667,
+            -71.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130115,
+          "name": "Municipio Libertador",
+          "latlng": [
+            8.33333,
+            -71.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2037,
+      "name": "Miranda",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 130048,
+          "name": "Baruta",
+          "latlng": [
+            10.43424,
+            -66.87558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130058,
+          "name": "Carrizal",
+          "latlng": [
+            10.34985,
+            -66.98632
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130061,
+          "name": "Caucaguita",
+          "latlng": [
+            10.35782,
+            -66.80252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130062,
+          "name": "Caucagüito",
+          "latlng": [
+            10.48666,
+            -66.73799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130063,
+          "name": "Chacao",
+          "latlng": [
+            10.49581,
+            -66.85367
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130064,
+          "name": "Charallave",
+          "latlng": [
+            10.24247,
+            -66.85723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130073,
+          "name": "Cúa",
+          "latlng": [
+            10.16245,
+            -66.88248
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130075,
+          "name": "El Cafetal",
+          "latlng": [
+            10.46541,
+            -66.82951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130076,
+          "name": "El Hatillo",
+          "latlng": [
+            10.42411,
+            -66.82581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130083,
+          "name": "Guarenas",
+          "latlng": [
+            10.47027,
+            -66.61934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130084,
+          "name": "Guatire",
+          "latlng": [
+            10.474,
+            -66.54241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130089,
+          "name": "La Dolorita",
+          "latlng": [
+            10.4883,
+            -66.78608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130097,
+          "name": "Los Dos Caminos",
+          "latlng": [
+            10.49389,
+            -66.82863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130100,
+          "name": "Los Teques",
+          "latlng": [
+            10.34447,
+            -67.04325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130126,
+          "name": "Ocumare del Tuy",
+          "latlng": [
+            10.1182,
+            -66.77513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130129,
+          "name": "Petare",
+          "latlng": [
+            10.47679,
+            -66.80786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130139,
+          "name": "San Antonio de Los Altos",
+          "latlng": [
+            10.38853,
+            -66.95179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130155,
+          "name": "Santa Teresa del Tuy",
+          "latlng": [
+            10.23291,
+            -66.66474
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2054,
+      "name": "Monagas",
+      "code": "N",
+      "shortName": "N",
+      "cities": [
+        {
+          "id": 130056,
+          "name": "Caripito",
+          "latlng": [
+            10.11135,
+            -63.09985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130107,
+          "name": "Maturín",
+          "latlng": [
+            9.74569,
+            -63.18323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130117,
+          "name": "Municipio Maturín",
+          "latlng": [
+            9.4,
+            -63.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130122,
+          "name": "Municipio Uracoa",
+          "latlng": [
+            8.9996,
+            -62.35164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2052,
+      "name": "Nueva Esparta",
+      "code": "O",
+      "shortName": "O",
+      "cities": [
+        {
+          "id": 130087,
+          "name": "Juan Griego",
+          "latlng": [
+            11.08172,
+            -63.96549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130088,
+          "name": "La Asunción",
+          "latlng": [
+            11.03333,
+            -63.86278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130130,
+          "name": "Porlamar",
+          "latlng": [
+            10.95771,
+            -63.86971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2036,
+      "name": "Portuguesa",
+      "code": "P",
+      "shortName": "P",
+      "cities": [
+        {
+          "id": 130038,
+          "name": "Acarigua",
+          "latlng": [
+            9.55451,
+            -69.19564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130043,
+          "name": "Araure",
+          "latlng": [
+            9.58144,
+            -69.23851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130082,
+          "name": "Guanare",
+          "latlng": [
+            9.04183,
+            -69.74206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130168,
+          "name": "Villa Bruzual",
+          "latlng": [
+            9.33186,
+            -69.11968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2056,
+      "name": "Sucre",
+      "code": "R",
+      "shortName": "R",
+      "cities": [
+        {
+          "id": 130059,
+          "name": "Carúpano",
+          "latlng": [
+            10.66516,
+            -63.25387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130072,
+          "name": "Cumaná",
+          "latlng": [
+            10.45397,
+            -64.18256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130086,
+          "name": "Güiria",
+          "latlng": [
+            10.57721,
+            -62.29841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130123,
+          "name": "Municipio Valdez",
+          "latlng": [
+            10.57945,
+            -62.30029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2048,
+      "name": "Táchira",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 130070,
+          "name": "Colón",
+          "latlng": [
+            8.03125,
+            -72.26053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130090,
+          "name": "La Fría",
+          "latlng": [
+            8.21523,
+            -72.24888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130091,
+          "name": "La Grita",
+          "latlng": [
+            8.13316,
+            -71.9839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130114,
+          "name": "Municipio José María Vargas",
+          "latlng": [
+            8.03514,
+            -72.05675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130138,
+          "name": "Rubio",
+          "latlng": [
+            7.70131,
+            -72.35569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130140,
+          "name": "San Antonio del Táchira",
+          "latlng": [
+            7.81454,
+            -72.4431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130144,
+          "name": "San Cristóbal",
+          "latlng": [
+            7.76694,
+            -72.225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130163,
+          "name": "Táriba",
+          "latlng": [
+            7.8188,
+            -72.22427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2043,
+      "name": "Trujillo",
+      "code": "T",
+      "shortName": "T",
+      "cities": [
+        {
+          "id": 130049,
+          "name": "Boconó",
+          "latlng": [
+            9.25385,
+            -70.25105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130120,
+          "name": "Municipio Pampanito",
+          "latlng": [
+            9.41147,
+            -70.49592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130121,
+          "name": "Municipio San Rafael de Carvajal",
+          "latlng": [
+            9.30756,
+            -70.58965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130159,
+          "name": "Trujillo",
+          "latlng": [
+            9.36583,
+            -70.43694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130166,
+          "name": "Valera",
+          "latlng": [
+            9.31778,
+            -70.60361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2046,
+      "name": "Venezuela",
+      "code": "W",
+      "shortName": "W",
+      "cities": []
+    },
+    {
+      "id": 2041,
+      "name": "Yaracuy",
+      "code": "U",
+      "shortName": "U",
+      "cities": [
+        {
+          "id": 130066,
+          "name": "Chivacoa",
+          "latlng": [
+            10.15951,
+            -68.89453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130112,
+          "name": "Municipio Independencia",
+          "latlng": [
+            10.33472,
+            -68.75555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130125,
+          "name": "Nirgua",
+          "latlng": [
+            10.15039,
+            -68.56478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130145,
+          "name": "San Felipe",
+          "latlng": [
+            10.33991,
+            -68.74247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130170,
+          "name": "Yaritagua",
+          "latlng": [
+            10.08081,
+            -69.1242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2042,
+      "name": "Zulia",
+      "code": "V",
+      "shortName": "V",
+      "cities": [
+        {
+          "id": 130050,
+          "name": "Cabimas",
+          "latlng": [
+            10.39907,
+            -71.45206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130069,
+          "name": "Ciudad Ojeda",
+          "latlng": [
+            10.20161,
+            -71.3148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130094,
+          "name": "La Villa del Rosario",
+          "latlng": [
+            10.3258,
+            -72.31343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130095,
+          "name": "Lagunillas",
+          "latlng": [
+            10.13008,
+            -71.25946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130101,
+          "name": "Machiques",
+          "latlng": [
+            10.06077,
+            -72.55212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130103,
+          "name": "Maracaibo",
+          "latlng": [
+            10.66663,
+            -71.61245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130143,
+          "name": "San Carlos del Zulia",
+          "latlng": [
+            9.00098,
+            -71.92683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130154,
+          "name": "Santa Rita",
+          "latlng": [
+            10.53642,
+            -71.51104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

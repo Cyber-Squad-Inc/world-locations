@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Mayotte",
+    "official": "Mayotte"
+  },
+  "iso2": "YT",
+  "iso3": "MYT",
+  "numericCode": "175",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".yt",
+  "phoneCode": "262",
+  "capital": "Mamoudzou",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Mayotte",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/yt.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/yt.svg",
+  "states": []
+}

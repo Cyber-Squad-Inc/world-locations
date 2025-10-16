@@ -1,0 +1,242 @@
+{
+  "name": {
+    "common": "Lesotho",
+    "official": "Lesotho"
+  },
+  "iso2": "LS",
+  "iso3": "LSO",
+  "numericCode": "426",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "tld": ".ls",
+  "phoneCode": "266",
+  "capital": "Maseru",
+  "currencies": {
+    "LSL": "Lesotho loti"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Maseru",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "SAST",
+      "tzName": "South African Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ls.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ls.svg",
+  "states": [
+    {
+      "id": 3030,
+      "name": "Berea",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 66574,
+          "name": "Teyateyaneng",
+          "latlng": [
+            -29.14719,
+            27.74895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3029,
+      "name": "Butha-Buthe",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 66564,
+          "name": "Butha-Buthe",
+          "latlng": [
+            -28.76659,
+            28.24937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3026,
+      "name": "Leribe",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 66565,
+          "name": "Leribe",
+          "latlng": [
+            -28.87185,
+            28.04501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66567,
+          "name": "Maputsoe",
+          "latlng": [
+            -28.8866,
+            27.89915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3022,
+      "name": "Mafeteng",
+      "code": "E",
+      "shortName": "E",
+      "cities": [
+        {
+          "id": 66566,
+          "name": "Mafeteng",
+          "latlng": [
+            -29.82299,
+            27.23744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3028,
+      "name": "Maseru",
+      "code": "A",
+      "shortName": "A",
+      "cities": [
+        {
+          "id": 66568,
+          "name": "Maseru",
+          "latlng": [
+            -29.31667,
+            27.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66571,
+          "name": "Nako",
+          "latlng": [
+            -29.61667,
+            27.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3023,
+      "name": "Mohale's Hoek",
+      "code": "F",
+      "shortName": "F",
+      "cities": [
+        {
+          "id": 66569,
+          "name": "Mohale’s Hoek",
+          "latlng": [
+            -30.15137,
+            27.47691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3024,
+      "name": "Mokhotlong",
+      "code": "J",
+      "shortName": "J",
+      "cities": [
+        {
+          "id": 66570,
+          "name": "Mokhotlong",
+          "latlng": [
+            -29.28939,
+            29.06751
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3025,
+      "name": "Qacha's Nek",
+      "code": "H",
+      "shortName": "H",
+      "cities": [
+        {
+          "id": 66572,
+          "name": "Qacha’s Nek",
+          "latlng": [
+            -30.11537,
+            28.68936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3027,
+      "name": "Quthing",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 66573,
+          "name": "Quthing",
+          "latlng": [
+            -30.40001,
+            27.70027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3031,
+      "name": "Thaba-Tseka",
+      "code": "K",
+      "shortName": "K",
+      "cities": [
+        {
+          "id": 66575,
+          "name": "Thaba-Tseka",
+          "latlng": [
+            -29.52204,
+            28.6084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

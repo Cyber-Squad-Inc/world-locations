@@ -1,0 +1,1372 @@
+{
+  "name": {
+    "common": "Georgia",
+    "official": "Georgia"
+  },
+  "iso2": "GE",
+  "iso3": "GEO",
+  "numericCode": "268",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".ge",
+  "phoneCode": "995",
+  "capital": "Tbilisi",
+  "currencies": {
+    "GEL": "Georgian lari"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Tbilisi",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "GET",
+      "tzName": "Georgia Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ge.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ge.svg",
+  "states": [
+    {
+      "id": 901,
+      "name": "Abkhazia",
+      "code": "AB",
+      "shortName": "AB",
+      "cities": [
+        {
+          "id": 52054,
+          "name": "Bich’vinta",
+          "latlng": [
+            43.16197,
+            40.34102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52063,
+          "name": "Dranda",
+          "latlng": [
+            42.87167,
+            41.15333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52065,
+          "name": "Gagra",
+          "latlng": [
+            43.27858,
+            40.27124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52066,
+          "name": "Gali",
+          "latlng": [
+            42.62655,
+            41.73808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52067,
+          "name": "Gantiadi",
+          "latlng": [
+            43.38111,
+            40.07944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52073,
+          "name": "Gudauta",
+          "latlng": [
+            43.10547,
+            40.62067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52078,
+          "name": "Kelasuri",
+          "latlng": [
+            42.97877,
+            41.07067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52105,
+          "name": "Och’amch’ire",
+          "latlng": [
+            42.71232,
+            41.46863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52111,
+          "name": "P’rimorsk’oe",
+          "latlng": [
+            43.09236,
+            40.6965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52122,
+          "name": "Sokhumi",
+          "latlng": [
+            43.00697,
+            40.9893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52123,
+          "name": "Stantsiya Novyy Afon",
+          "latlng": [
+            43.08056,
+            40.83833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52130,
+          "name": "Tqvarch'eli",
+          "latlng": [
+            42.84035,
+            41.68007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 900,
+      "name": "Adjara",
+      "code": "AJ",
+      "shortName": "AJ",
+      "cities": [
+        {
+          "id": 52040,
+          "name": "Akhaldaba",
+          "latlng": [
+            41.65395,
+            42.15163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52053,
+          "name": "Batumi",
+          "latlng": [
+            41.64228,
+            41.63392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52058,
+          "name": "Chakvi",
+          "latlng": [
+            41.72528,
+            41.73278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52061,
+          "name": "Dioknisi",
+          "latlng": [
+            41.62933,
+            42.39171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52081,
+          "name": "Khelvachauri",
+          "latlng": [
+            41.58556,
+            41.66889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52084,
+          "name": "Khulo",
+          "latlng": [
+            41.64353,
+            42.30397
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52085,
+          "name": "Kobuleti",
+          "latlng": [
+            41.82143,
+            41.77921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52093,
+          "name": "Makhinjauri",
+          "latlng": [
+            41.67385,
+            41.69401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52104,
+          "name": "Ochkhamuri",
+          "latlng": [
+            41.85975,
+            41.85309
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52119,
+          "name": "Shuakhevi",
+          "latlng": [
+            41.63,
+            42.19083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52134,
+          "name": "Tsikhisdziri",
+          "latlng": [
+            41.76659,
+            41.75517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "name": "Guria",
+      "code": "GU",
+      "shortName": "GU",
+      "cities": [
+        {
+          "id": 52091,
+          "name": "Lanchkhuti",
+          "latlng": [
+            42.09027,
+            42.03239
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52102,
+          "name": "Naruja",
+          "latlng": [
+            41.90694,
+            41.95417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52108,
+          "name": "Ozurgeti",
+          "latlng": [
+            41.92442,
+            42.00682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52141,
+          "name": "Urek’i",
+          "latlng": [
+            41.99556,
+            41.77861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "name": "Imereti",
+      "code": "IM",
+      "shortName": "IM",
+      "cities": [
+        {
+          "id": 52051,
+          "name": "Baghdatis Munitsip’alit’et’i",
+          "latlng": [
+            42,
+            42.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52059,
+          "name": "Chiat’ura",
+          "latlng": [
+            42.29806,
+            43.29889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52088,
+          "name": "K’alak’i Chiat’ura",
+          "latlng": [
+            42.28333,
+            43.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52089,
+          "name": "K’ulashi",
+          "latlng": [
+            42.20405,
+            42.34289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52079,
+          "name": "Kharagauli",
+          "latlng": [
+            42.02137,
+            43.19773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52083,
+          "name": "Khoni",
+          "latlng": [
+            42.3226,
+            42.42061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52086,
+          "name": "Kutaisi",
+          "latlng": [
+            42.26791,
+            42.69459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52114,
+          "name": "Sach’khere",
+          "latlng": [
+            42.34528,
+            43.41944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52116,
+          "name": "Samtredia",
+          "latlng": [
+            42.1537,
+            42.33517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52118,
+          "name": "Shorapani",
+          "latlng": [
+            42.0898,
+            43.08662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52129,
+          "name": "Tqibuli",
+          "latlng": [
+            42.35121,
+            42.99874
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52137,
+          "name": "Tsqaltubo",
+          "latlng": [
+            42.34129,
+            42.5976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52143,
+          "name": "Vani",
+          "latlng": [
+            42.0832,
+            42.52163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52144,
+          "name": "Zestap’oni",
+          "latlng": [
+            42.11,
+            43.0525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 910,
+      "name": "Kakheti",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": [
+        {
+          "id": 52045,
+          "name": "Akhmet’a",
+          "latlng": [
+            42.03111,
+            45.2075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52046,
+          "name": "Akhmet’is Munitsip’alit’et’i",
+          "latlng": [
+            42.25,
+            45.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52074,
+          "name": "Gurjaani",
+          "latlng": [
+            41.74292,
+            45.80111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52090,
+          "name": "Lagodekhi",
+          "latlng": [
+            41.82681,
+            46.27667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52112,
+          "name": "Qvareli",
+          "latlng": [
+            41.95493,
+            45.81716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52115,
+          "name": "Sagarejo",
+          "latlng": [
+            41.73397,
+            45.33149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52120,
+          "name": "Sighnaghi",
+          "latlng": [
+            41.62046,
+            45.92198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52121,
+          "name": "Sighnaghis Munitsip’alit’et’i",
+          "latlng": [
+            41.56667,
+            45.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52127,
+          "name": "Telavi",
+          "latlng": [
+            41.91978,
+            45.47315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52135,
+          "name": "Tsinandali",
+          "latlng": [
+            41.89315,
+            45.57129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52136,
+          "name": "Tsnori",
+          "latlng": [
+            41.62088,
+            45.96943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 897,
+      "name": "Khelvachauri",
+      "code": "29",
+      "shortName": "29",
+      "cities": []
+    },
+    {
+      "id": 904,
+      "name": "Kvemo Kartli",
+      "code": "KK",
+      "shortName": "KK",
+      "cities": [
+        {
+          "id": 52055,
+          "name": "Bolnisi",
+          "latlng": [
+            41.44794,
+            44.53838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52056,
+          "name": "Bolnisis Munitsip’alit’et’i",
+          "latlng": [
+            41.36667,
+            44.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52060,
+          "name": "Didi Lilo",
+          "latlng": [
+            41.73611,
+            44.96472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52062,
+          "name": "Dmanisis Munitsip’alit’et’i",
+          "latlng": [
+            41.35,
+            44.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52068,
+          "name": "Gardabani",
+          "latlng": [
+            41.46054,
+            45.09283
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52069,
+          "name": "Gardabnis Munitsip’alit’et’i",
+          "latlng": [
+            41.61667,
+            45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52094,
+          "name": "Manglisi",
+          "latlng": [
+            41.69698,
+            44.38448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52095,
+          "name": "Marneuli",
+          "latlng": [
+            41.47588,
+            44.80895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52096,
+          "name": "Marneulis Munitsip’alit’et’i",
+          "latlng": [
+            41.38333,
+            44.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52101,
+          "name": "Naghvarevi",
+          "latlng": [
+            41.35272,
+            44.76178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52113,
+          "name": "Rust’avi",
+          "latlng": [
+            41.54949,
+            44.99323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52140,
+          "name": "T’et’ri Tsqaro",
+          "latlng": [
+            41.54448,
+            44.46153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52128,
+          "name": "Tetrits’q’alos Munitsip’alit’et’i",
+          "latlng": [
+            41.6,
+            44.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52138,
+          "name": "Ts’alk’is Munitsip’alit’et’i",
+          "latlng": [
+            41.63333,
+            43.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52133,
+          "name": "Tsalka",
+          "latlng": [
+            41.5946,
+            44.08909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 902,
+      "name": "Mtskheta-Mtianeti",
+      "code": "MM",
+      "shortName": "MM",
+      "cities": [
+        {
+          "id": 52041,
+          "name": "Akhalgori",
+          "latlng": [
+            42.12597,
+            44.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52064,
+          "name": "Dzegvi",
+          "latlng": [
+            41.84569,
+            44.60097
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52072,
+          "name": "Gudauri",
+          "latlng": [
+            42.47797,
+            44.47616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52075,
+          "name": "Java",
+          "latlng": [
+            42.39972,
+            43.93667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52100,
+          "name": "Mtskheta",
+          "latlng": [
+            41.84514,
+            44.71875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52109,
+          "name": "P’asanauri",
+          "latlng": [
+            42.3506,
+            44.68912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52124,
+          "name": "Step’antsminda",
+          "latlng": [
+            42.65667,
+            44.64333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52145,
+          "name": "Zhinvali",
+          "latlng": [
+            42.13181,
+            44.77264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 909,
+      "name": "Racha-Lechkhumi and Kvemo Svaneti",
+      "code": "RL",
+      "shortName": "RL",
+      "cities": [
+        {
+          "id": 52047,
+          "name": "Ambrolauri",
+          "latlng": [
+            42.52111,
+            43.16222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52048,
+          "name": "Ambrolauris Munitsip’alit’et’i",
+          "latlng": [
+            42.56667,
+            43.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52092,
+          "name": "Lent’ekhi",
+          "latlng": [
+            42.78893,
+            42.72226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52106,
+          "name": "Oni",
+          "latlng": [
+            42.57944,
+            43.4425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 908,
+      "name": "Samegrelo-Zemo Svaneti",
+      "code": "SZ",
+      "shortName": "SZ",
+      "cities": [
+        {
+          "id": 52035,
+          "name": "Abasha",
+          "latlng": [
+            42.2,
+            42.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52076,
+          "name": "Jvari",
+          "latlng": [
+            42.71693,
+            42.052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52082,
+          "name": "Khobi",
+          "latlng": [
+            42.31558,
+            41.89871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52087,
+          "name": "Kveda Chkhorots’q’u",
+          "latlng": [
+            42.48103,
+            42.09661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52097,
+          "name": "Mart’vili",
+          "latlng": [
+            42.41436,
+            42.37924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52098,
+          "name": "Mest’ia",
+          "latlng": [
+            43.04581,
+            42.7278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52099,
+          "name": "Mest’iis Munitsip’alit’et’i",
+          "latlng": [
+            43.05,
+            42.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52107,
+          "name": "Orsant’ia",
+          "latlng": [
+            42.46777,
+            41.67377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52110,
+          "name": "P’ot’i",
+          "latlng": [
+            42.14616,
+            41.67197
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52117,
+          "name": "Senak’i",
+          "latlng": [
+            42.27042,
+            42.0675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52132,
+          "name": "Tsalenjikha",
+          "latlng": [
+            42.60444,
+            42.06825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52146,
+          "name": "Zugdidi",
+          "latlng": [
+            42.5088,
+            41.87088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 906,
+      "name": "Samtskhe-Javakheti",
+      "code": "SJ",
+      "shortName": "SJ",
+      "cities": [
+        {
+          "id": 52036,
+          "name": "Adigeni",
+          "latlng": [
+            41.68191,
+            42.69867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52037,
+          "name": "Adigeni Municipality",
+          "latlng": [
+            41.71667,
+            42.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52039,
+          "name": "Akhaldaba",
+          "latlng": [
+            41.92945,
+            43.48762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52042,
+          "name": "Akhalk’alak’i",
+          "latlng": [
+            41.40514,
+            43.48629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52043,
+          "name": "Akhaltsikhe",
+          "latlng": [
+            41.63901,
+            42.98262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52044,
+          "name": "Akhaltsikhis Munitsip’alit’et’i",
+          "latlng": [
+            41.63333,
+            43
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52050,
+          "name": "Asp’indzis Munitsip’alit’et’i",
+          "latlng": [
+            41.5,
+            43.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52049,
+          "name": "Aspindza",
+          "latlng": [
+            41.57389,
+            43.24826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52052,
+          "name": "Bakuriani",
+          "latlng": [
+            41.74972,
+            43.5325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52057,
+          "name": "Borjomi",
+          "latlng": [
+            41.85272,
+            43.41284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52103,
+          "name": "Ninotsminda",
+          "latlng": [
+            41.26458,
+            43.59161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52131,
+          "name": "Tsaghveri",
+          "latlng": [
+            41.80365,
+            43.48194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52142,
+          "name": "Vale",
+          "latlng": [
+            41.61558,
+            42.87224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 898,
+      "name": "Senaki",
+      "code": "50",
+      "shortName": "50",
+      "cities": []
+    },
+    {
+      "id": 903,
+      "name": "Shida Kartli",
+      "code": "SK",
+      "shortName": "SK",
+      "cities": [
+        {
+          "id": 52038,
+          "name": "Agara",
+          "latlng": [
+            42.03761,
+            43.82382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52070,
+          "name": "Gori",
+          "latlng": [
+            41.98422,
+            44.11578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52071,
+          "name": "Goris Munitsip’alit’et’i",
+          "latlng": [
+            42.06667,
+            44.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52077,
+          "name": "Kaspi",
+          "latlng": [
+            41.9252,
+            44.42568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52080,
+          "name": "Khashuri",
+          "latlng": [
+            41.99414,
+            43.59994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52125,
+          "name": "Surami",
+          "latlng": [
+            42.02431,
+            43.55556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52139,
+          "name": "Ts’khinvali",
+          "latlng": [
+            42.22764,
+            43.96861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 899,
+      "name": "Tbilisi",
+      "code": "TB",
+      "shortName": "TB",
+      "cities": [
+        {
+          "id": 52126,
+          "name": "Tbilisi",
+          "latlng": [
+            41.69411,
+            44.83368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

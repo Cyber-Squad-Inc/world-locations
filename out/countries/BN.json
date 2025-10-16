@@ -1,0 +1,161 @@
+{
+  "name": {
+    "common": "Brunei",
+    "official": "Brunei"
+  },
+  "iso2": "BN",
+  "iso3": "BRN",
+  "numericCode": "096",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "tld": ".bn",
+  "phoneCode": "673",
+  "capital": "Bandar Seri Begawan",
+  "currencies": {
+    "BND": "Brunei dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Brunei",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "BNT",
+      "tzName": "Brunei Darussalam Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bn.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bn.svg",
+  "states": [
+    {
+      "id": 1217,
+      "name": "Belait",
+      "code": "BE",
+      "shortName": "BE",
+      "cities": [
+        {
+          "id": 9820,
+          "name": "Kuala Belait",
+          "latlng": [
+            4.58361,
+            114.2312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9823,
+          "name": "Seria",
+          "latlng": [
+            4.60637,
+            114.32476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1216,
+      "name": "Brunei-Muara",
+      "code": "BM",
+      "shortName": "BM",
+      "cities": [
+        {
+          "id": 9816,
+          "name": "Bandar Seri Begawan",
+          "latlng": [
+            4.89035,
+            114.94006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9818,
+          "name": "Berakas A",
+          "latlng": [
+            4.97032,
+            114.92989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9819,
+          "name": "Kapok",
+          "latlng": [
+            5.02447,
+            115.04664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9821,
+          "name": "Mentiri",
+          "latlng": [
+            4.97058,
+            115.02078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9822,
+          "name": "Serasa",
+          "latlng": [
+            5.01718,
+            115.05841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1218,
+      "name": "Temburong",
+      "code": "TE",
+      "shortName": "TE",
+      "cities": [
+        {
+          "id": 9817,
+          "name": "Bangar",
+          "latlng": [
+            4.70861,
+            115.07167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1219,
+      "name": "Tutong",
+      "code": "TU",
+      "shortName": "TU",
+      "cities": [
+        {
+          "id": 9824,
+          "name": "Tutong",
+          "latlng": [
+            4.80278,
+            114.64917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

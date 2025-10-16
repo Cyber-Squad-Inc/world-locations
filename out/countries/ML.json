@@ -1,0 +1,633 @@
+{
+  "name": {
+    "common": "Mali",
+    "official": "Mali"
+  },
+  "iso2": "ML",
+  "iso3": "MLI",
+  "numericCode": "466",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".ml",
+  "phoneCode": "223",
+  "capital": "Bamako",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Bamako",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ml.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ml.svg",
+  "states": [
+    {
+      "id": 253,
+      "name": "Bamako",
+      "code": "BKO",
+      "shortName": "BKO",
+      "cities": [
+        {
+          "id": 67587,
+          "name": "Bamako",
+          "latlng": [
+            12.65,
+            -8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Gao",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 67584,
+          "name": "Ansongo",
+          "latlng": [
+            15.6597,
+            0.5022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67592,
+          "name": "Cercle de Bourem",
+          "latlng": [
+            17.71192,
+            -0.34284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67601,
+          "name": "Gao",
+          "latlng": [
+            16.27167,
+            -0.04472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67602,
+          "name": "Gao Cercle",
+          "latlng": [
+            16.72237,
+            0.43984
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67605,
+          "name": "Inékar",
+          "latlng": [
+            15.95944,
+            3.14111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Kayes",
+      "code": "1",
+      "shortName": "1",
+      "cities": [
+        {
+          "id": 67586,
+          "name": "Bafoulabé",
+          "latlng": [
+            13.8065,
+            -10.8321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67608,
+          "name": "Kayes",
+          "latlng": [
+            14.44693,
+            -11.44448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67611,
+          "name": "Kita",
+          "latlng": [
+            13.0349,
+            -9.4895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67612,
+          "name": "Kokofata",
+          "latlng": [
+            12.88333,
+            -9.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67623,
+          "name": "Sagalo",
+          "latlng": [
+            12.2,
+            -10.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Kidal",
+      "code": "8",
+      "shortName": "8",
+      "cities": [
+        {
+          "id": 67583,
+          "name": "Abeïbara",
+          "latlng": [
+            19.11667,
+            1.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67595,
+          "name": "Cercle d’Abeïbara",
+          "latlng": [
+            19.48878,
+            2.20025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67609,
+          "name": "Kidal",
+          "latlng": [
+            18.44111,
+            1.40778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Koulikoro",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 67588,
+          "name": "Banamba",
+          "latlng": [
+            13.54773,
+            -7.44808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67606,
+          "name": "Kangaba",
+          "latlng": [
+            11.93333,
+            -8.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67607,
+          "name": "Kati",
+          "latlng": [
+            12.74409,
+            -8.07257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67613,
+          "name": "Kolokani",
+          "latlng": [
+            13.5728,
+            -8.0339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67615,
+          "name": "Koulikoro",
+          "latlng": [
+            12.86273,
+            -7.55985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Ménaka",
+      "code": "9",
+      "shortName": "9",
+      "cities": []
+    },
+    {
+      "id": 255,
+      "name": "Mopti",
+      "code": "5",
+      "shortName": "5",
+      "cities": [
+        {
+          "id": 67589,
+          "name": "Bandiagara",
+          "latlng": [
+            14.35005,
+            -3.61038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67598,
+          "name": "Djénné",
+          "latlng": [
+            13.90608,
+            -4.55332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67599,
+          "name": "Douentza",
+          "latlng": [
+            15.00155,
+            -2.94978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67600,
+          "name": "Douentza Cercle",
+          "latlng": [
+            15.06947,
+            -2.40875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67620,
+          "name": "Mopti",
+          "latlng": [
+            14.4843,
+            -4.18296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67629,
+          "name": "Ténenkou",
+          "latlng": [
+            14.45722,
+            -4.9169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Ségou",
+      "code": "4",
+      "shortName": "4",
+      "cities": [
+        {
+          "id": 67590,
+          "name": "Baroueli",
+          "latlng": [
+            13.07489,
+            -6.57171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67594,
+          "name": "Cercle de San",
+          "latlng": [
+            13.17895,
+            -5.01617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67618,
+          "name": "Ké-Macina",
+          "latlng": [
+            13.9641,
+            -5.35791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67610,
+          "name": "Kinmparana",
+          "latlng": [
+            12.84217,
+            -4.9245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67619,
+          "name": "Markala",
+          "latlng": [
+            13.7021,
+            -6.0659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67624,
+          "name": "San",
+          "latlng": [
+            13.30335,
+            -4.89562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67627,
+          "name": "Ségou",
+          "latlng": [
+            13.4317,
+            -6.2157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67626,
+          "name": "Sokolo",
+          "latlng": [
+            14.7328,
+            -6.1219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Sikasso",
+      "code": "3",
+      "shortName": "3",
+      "cities": [
+        {
+          "id": 67591,
+          "name": "Bougouni",
+          "latlng": [
+            11.41769,
+            -7.48323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67614,
+          "name": "Kolondiéba",
+          "latlng": [
+            11.08943,
+            -6.8929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67616,
+          "name": "Koutiala",
+          "latlng": [
+            12.39173,
+            -5.46421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67617,
+          "name": "Koutiala Cercle",
+          "latlng": [
+            12.35311,
+            -5.5839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67622,
+          "name": "Ntossoni",
+          "latlng": [
+            12.5304,
+            -5.77003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67625,
+          "name": "Sikasso",
+          "latlng": [
+            11.31755,
+            -5.66654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67630,
+          "name": "Yorosso",
+          "latlng": [
+            12.35811,
+            -4.77688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Taoudénit",
+      "code": "10",
+      "shortName": "10",
+      "cities": []
+    },
+    {
+      "id": 248,
+      "name": "Tombouctou",
+      "code": "6",
+      "shortName": "6",
+      "cities": [
+        {
+          "id": 67585,
+          "name": "Araouane",
+          "latlng": [
+            18.90476,
+            -3.52649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67593,
+          "name": "Cercle de Goundam",
+          "latlng": [
+            18.60035,
+            -4.99306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67596,
+          "name": "Dire",
+          "latlng": [
+            16.28017,
+            -3.31302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67603,
+          "name": "Goundam",
+          "latlng": [
+            16.41453,
+            -3.67075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67604,
+          "name": "Gourma-Rharous Cercle",
+          "latlng": [
+            16.07979,
+            -1.76981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67621,
+          "name": "Niafunké",
+          "latlng": [
+            15.9322,
+            -3.9906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67628,
+          "name": "Timbuktu",
+          "latlng": [
+            16.77348,
+            -3.00742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

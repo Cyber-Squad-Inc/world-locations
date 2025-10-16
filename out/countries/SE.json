@@ -1,0 +1,8997 @@
+{
+  "name": {
+    "common": "Sweden",
+    "official": "Sweden"
+  },
+  "iso2": "SE",
+  "iso3": "SWE",
+  "numericCode": "752",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".se",
+  "phoneCode": "46",
+  "capital": "Stockholm",
+  "currencies": {
+    "SEK": "Swedish krona"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Stockholm",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/se.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/se.svg",
+  "states": [
+    {
+      "id": 1537,
+      "name": "Blekinge",
+      "code": "K",
+      "shortName": "K",
+      "cities": [
+        {
+          "id": 103094,
+          "name": "Bräkne-Hoby",
+          "latlng": [
+            56.23333,
+            15.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103321,
+          "name": "Hällevik",
+          "latlng": [
+            56.01667,
+            14.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103270,
+          "name": "Hasslö",
+          "latlng": [
+            56.11667,
+            15.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103359,
+          "name": "Jämjö",
+          "latlng": [
+            56.19187,
+            15.84115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103360,
+          "name": "Jämshög",
+          "latlng": [
+            56.23333,
+            14.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103371,
+          "name": "Kallinge",
+          "latlng": [
+            56.24841,
+            15.28721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103377,
+          "name": "Karlshamn",
+          "latlng": [
+            56.1706,
+            14.86188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103381,
+          "name": "Karlskrona",
+          "latlng": [
+            56.16156,
+            15.58661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103539,
+          "name": "Mjällby",
+          "latlng": [
+            56.05,
+            14.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103570,
+          "name": "Mörrum",
+          "latlng": [
+            56.19281,
+            14.74739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103605,
+          "name": "Nättraby",
+          "latlng": [
+            56.2,
+            15.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103612,
+          "name": "Olofström",
+          "latlng": [
+            56.2773,
+            14.53402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103672,
+          "name": "Rödeby",
+          "latlng": [
+            56.26078,
+            15.62143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103655,
+          "name": "Ronneby",
+          "latlng": [
+            56.20999,
+            15.27602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103830,
+          "name": "Sölvesborg",
+          "latlng": [
+            56.05205,
+            14.57525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103779,
+          "name": "Sturkö",
+          "latlng": [
+            56.08333,
+            15.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103801,
+          "name": "Svängsta",
+          "latlng": [
+            56.26667,
+            14.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1534,
+      "name": "Dalarna",
+      "code": "W",
+      "shortName": "W",
+      "cities": [
+        {
+          "id": 102985,
+          "name": "Abborrberget",
+          "latlng": [
+            60.15,
+            14.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103989,
+          "name": "Älvdalen",
+          "latlng": [
+            61.22774,
+            14.03935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103022,
+          "name": "Avesta",
+          "latlng": [
+            60.14274,
+            16.16295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103046,
+          "name": "Bjursås",
+          "latlng": [
+            60.73726,
+            15.45291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103075,
+          "name": "Borlänge",
+          "latlng": [
+            60.4858,
+            15.43714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103093,
+          "name": "Brunna",
+          "latlng": [
+            60.26255,
+            16.01034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103122,
+          "name": "Djurås",
+          "latlng": [
+            60.56061,
+            15.13281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103142,
+          "name": "Enbacka",
+          "latlng": [
+            60.40993,
+            15.59575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103162,
+          "name": "Falun",
+          "latlng": [
+            60.60357,
+            15.62597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103197,
+          "name": "Gagnef",
+          "latlng": [
+            60.59856,
+            15.07745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103226,
+          "name": "Grängesberg",
+          "latlng": [
+            60.07465,
+            15.00784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103225,
+          "name": "Grycksbo",
+          "latlng": [
+            60.68751,
+            15.48507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103274,
+          "name": "Hedemora",
+          "latlng": [
+            60.27973,
+            15.98855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103297,
+          "name": "Horndal",
+          "latlng": [
+            60.3,
+            16.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103347,
+          "name": "Insjön",
+          "latlng": [
+            60.67688,
+            15.09487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103364,
+          "name": "Järna",
+          "latlng": [
+            60.53333,
+            14.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103419,
+          "name": "Krylbo",
+          "latlng": [
+            60.13333,
+            16.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103504,
+          "name": "Långshyttan",
+          "latlng": [
+            60.45238,
+            16.03831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103456,
+          "name": "Leksand",
+          "latlng": [
+            60.7303,
+            14.99994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103491,
+          "name": "Ludvika",
+          "latlng": [
+            60.14959,
+            15.18776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103518,
+          "name": "Malung",
+          "latlng": [
+            60.68329,
+            13.71542
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103542,
+          "name": "Mockfjärd",
+          "latlng": [
+            60.5,
+            14.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103545,
+          "name": "Mora",
+          "latlng": [
+            61.00704,
+            14.54316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103595,
+          "name": "Nyhammar",
+          "latlng": [
+            60.28333,
+            14.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103617,
+          "name": "Ornäs",
+          "latlng": [
+            60.50944,
+            15.54128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103618,
+          "name": "Orsa",
+          "latlng": [
+            61.12034,
+            14.6155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103665,
+          "name": "Rättvik",
+          "latlng": [
+            60.88632,
+            15.11787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103654,
+          "name": "Romme",
+          "latlng": [
+            60.43333,
+            15.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103807,
+          "name": "Säter",
+          "latlng": [
+            60.34778,
+            15.75051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103688,
+          "name": "Siljansnäs",
+          "latlng": [
+            60.78333,
+            14.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103728,
+          "name": "Smedby",
+          "latlng": [
+            60.7,
+            15.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103729,
+          "name": "Smedjebacken",
+          "latlng": [
+            60.14181,
+            15.41416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103802,
+          "name": "Svärdsjö",
+          "latlng": [
+            60.74022,
+            15.90173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103920,
+          "name": "Vansbro",
+          "latlng": [
+            60.50893,
+            14.22458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103941,
+          "name": "Vikarbyn",
+          "latlng": [
+            60.91667,
+            15.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1533,
+      "name": "Gävleborg",
+      "code": "X",
+      "shortName": "X",
+      "cities": [
+        {
+          "id": 102990,
+          "name": "Alfta",
+          "latlng": [
+            61.34675,
+            16.07499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103009,
+          "name": "Arbrå",
+          "latlng": [
+            61.46667,
+            16.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104014,
+          "name": "Årsunda",
+          "latlng": [
+            60.51644,
+            16.73436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103033,
+          "name": "Bergby",
+          "latlng": [
+            60.92931,
+            17.04194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103038,
+          "name": "Bergsjö",
+          "latlng": [
+            61.98253,
+            17.06368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103067,
+          "name": "Bollnäs",
+          "latlng": [
+            61.34817,
+            16.39464
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103118,
+          "name": "Delsbo",
+          "latlng": [
+            61.80104,
+            16.55571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103129,
+          "name": "Edsbyn",
+          "latlng": [
+            61.37692,
+            15.81747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103193,
+          "name": "Färila",
+          "latlng": [
+            61.80011,
+            15.84422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103177,
+          "name": "Forsbacka",
+          "latlng": [
+            60.61667,
+            16.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103240,
+          "name": "Gävle",
+          "latlng": [
+            60.67452,
+            17.14174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103214,
+          "name": "Gnarp",
+          "latlng": [
+            62.04874,
+            17.25858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103276,
+          "name": "Hedesunda",
+          "latlng": [
+            60.4,
+            17
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103293,
+          "name": "Hofors",
+          "latlng": [
+            60.54573,
+            16.28668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103305,
+          "name": "Hudiksvall",
+          "latlng": [
+            61.72744,
+            17.10558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103344,
+          "name": "Iggesund",
+          "latlng": [
+            61.64219,
+            17.07477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103361,
+          "name": "Järbo",
+          "latlng": [
+            60.71667,
+            16.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103365,
+          "name": "Järvsö",
+          "latlng": [
+            61.71667,
+            16.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103389,
+          "name": "Kilafors",
+          "latlng": [
+            61.23333,
+            16.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103485,
+          "name": "Ljusdal",
+          "latlng": [
+            61.82883,
+            16.09126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103488,
+          "name": "Ljusne",
+          "latlng": [
+            61.2117,
+            17.1279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103607,
+          "name": "Ockelbo",
+          "latlng": [
+            60.8912,
+            16.71846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103680,
+          "name": "Sandarne",
+          "latlng": [
+            61.25893,
+            17.15284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103681,
+          "name": "Sandviken",
+          "latlng": [
+            60.61667,
+            16.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103819,
+          "name": "Söderhamn",
+          "latlng": [
+            61.30373,
+            17.05921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103832,
+          "name": "Sörforsa",
+          "latlng": [
+            61.73333,
+            16.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103768,
+          "name": "Storvik",
+          "latlng": [
+            60.58333,
+            16.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103912,
+          "name": "Valbo",
+          "latlng": [
+            60.65,
+            17.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1546,
+      "name": "Gotland",
+      "code": "I",
+      "shortName": "I",
+      "cities": [
+        {
+          "id": 103219,
+          "name": "Gotland",
+          "latlng": [
+            57.5,
+            18.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103279,
+          "name": "Hemse",
+          "latlng": [
+            57.23788,
+            18.37443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103398,
+          "name": "Klintehamn",
+          "latlng": [
+            57.38667,
+            18.20371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103940,
+          "name": "Vibble",
+          "latlng": [
+            57.60452,
+            18.25601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103957,
+          "name": "Visby",
+          "latlng": [
+            57.64089,
+            18.29602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1548,
+      "name": "Halland",
+      "code": "N",
+      "shortName": "N",
+      "cities": [
+        {
+          "id": 104005,
+          "name": "Åled",
+          "latlng": [
+            56.75,
+            12.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104016,
+          "name": "Åsa",
+          "latlng": [
+            57.35,
+            12.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103096,
+          "name": "Bua",
+          "latlng": [
+            57.2378,
+            12.12187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103157,
+          "name": "Falkenberg",
+          "latlng": [
+            56.90552,
+            12.49118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103172,
+          "name": "Fjärås kyrkby",
+          "latlng": [
+            57.45913,
+            12.17508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103182,
+          "name": "Frillesås",
+          "latlng": [
+            57.31667,
+            12.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103186,
+          "name": "Frösakull",
+          "latlng": [
+            56.68333,
+            12.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103190,
+          "name": "Fyllinge",
+          "latlng": [
+            56.65,
+            12.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103207,
+          "name": "Getinge",
+          "latlng": [
+            56.81667,
+            12.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103212,
+          "name": "Glommen",
+          "latlng": [
+            56.93333,
+            12.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103231,
+          "name": "Gullbrandstorp",
+          "latlng": [
+            56.7,
+            12.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103258,
+          "name": "Halmstad",
+          "latlng": [
+            56.67446,
+            12.85676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103269,
+          "name": "Harplinge",
+          "latlng": [
+            56.74491,
+            12.72758
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103271,
+          "name": "Haverdal",
+          "latlng": [
+            56.72222,
+            12.67194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103314,
+          "name": "Hyltebruk",
+          "latlng": [
+            56.99892,
+            13.23958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103405,
+          "name": "Knäred",
+          "latlng": [
+            56.51861,
+            13.32423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103423,
+          "name": "Kungsbacka",
+          "latlng": [
+            57.48719,
+            12.07612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103447,
+          "name": "Laholm",
+          "latlng": [
+            56.51207,
+            13.04371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103535,
+          "name": "Mellbystrand",
+          "latlng": [
+            56.48561,
+            12.93958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103538,
+          "name": "Mjällby",
+          "latlng": [
+            56.68333,
+            12.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103616,
+          "name": "Onsala",
+          "latlng": [
+            57.42531,
+            12.02903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103625,
+          "name": "Oskarström",
+          "latlng": [
+            56.8,
+            12.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103806,
+          "name": "Särö",
+          "latlng": [
+            57.50577,
+            11.9321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103711,
+          "name": "Skrea",
+          "latlng": [
+            56.88333,
+            12.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103750,
+          "name": "Steninge",
+          "latlng": [
+            56.769,
+            12.63034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103868,
+          "name": "Torup",
+          "latlng": [
+            56.95663,
+            13.07725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103879,
+          "name": "Träslövsläge",
+          "latlng": [
+            57.05417,
+            12.27899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103880,
+          "name": "Trönninge",
+          "latlng": [
+            56.61667,
+            12.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103883,
+          "name": "Tvååker",
+          "latlng": [
+            57.04147,
+            12.3995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103917,
+          "name": "Vallda",
+          "latlng": [
+            57.4775,
+            12.00139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103924,
+          "name": "Varberg",
+          "latlng": [
+            57.10557,
+            12.25078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103974,
+          "name": "Västra Hagen",
+          "latlng": [
+            57.42444,
+            11.93583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103932,
+          "name": "Veddige",
+          "latlng": [
+            57.26591,
+            12.3322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103933,
+          "name": "Veinge",
+          "latlng": [
+            56.55,
+            13.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5117,
+      "name": "Jämtland",
+      "code": "Z",
+      "shortName": "Z",
+      "cities": []
+    },
+    {
+      "id": 1550,
+      "name": "Jönköping",
+      "code": "F",
+      "shortName": "F",
+      "cities": [
+        {
+          "id": 102999,
+          "name": "Anderstorp",
+          "latlng": [
+            57.28333,
+            13.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103001,
+          "name": "Aneby",
+          "latlng": [
+            57.83895,
+            14.81016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103026,
+          "name": "Bankeryd",
+          "latlng": [
+            57.86021,
+            14.124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103060,
+          "name": "Bodafors",
+          "latlng": [
+            57.5,
+            14.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103071,
+          "name": "Bor",
+          "latlng": [
+            57.11667,
+            14.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103083,
+          "name": "Bredaryd",
+          "latlng": [
+            57.17343,
+            13.73789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103132,
+          "name": "Ekenässjön",
+          "latlng": [
+            57.49175,
+            15.02226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103136,
+          "name": "Eksjö",
+          "latlng": [
+            57.66643,
+            14.97205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103178,
+          "name": "Forserum",
+          "latlng": [
+            57.7,
+            14.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103181,
+          "name": "Forsheda",
+          "latlng": [
+            57.16415,
+            13.83016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103209,
+          "name": "Gislaved",
+          "latlng": [
+            57.3044,
+            13.54078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103217,
+          "name": "Gnosjö",
+          "latlng": [
+            57.3585,
+            13.73686
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103227,
+          "name": "Gränna",
+          "latlng": [
+            58.01667,
+            14.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103249,
+          "name": "Habo",
+          "latlng": [
+            57.91185,
+            14.07444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103284,
+          "name": "Hestra",
+          "latlng": [
+            57.44232,
+            13.59575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103285,
+          "name": "Hillerstorp",
+          "latlng": [
+            57.31293,
+            13.88437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103310,
+          "name": "Huskvarna",
+          "latlng": [
+            57.78596,
+            14.30214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103366,
+          "name": "Jönköping",
+          "latlng": [
+            57.78145,
+            14.15618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103387,
+          "name": "Kaxholmen",
+          "latlng": [
+            57.85345,
+            14.30457
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103450,
+          "name": "Landsbro",
+          "latlng": [
+            57.36667,
+            14.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103514,
+          "name": "Malmbäck",
+          "latlng": [
+            57.57667,
+            14.4617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103523,
+          "name": "Mariannelund",
+          "latlng": [
+            57.61667,
+            15.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103526,
+          "name": "Marieholm",
+          "latlng": [
+            57.38333,
+            13.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103550,
+          "name": "Mullsjö",
+          "latlng": [
+            57.9171,
+            13.87831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103602,
+          "name": "Nässjö",
+          "latlng": [
+            57.65307,
+            14.69676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103610,
+          "name": "Odensjö",
+          "latlng": [
+            57.71667,
+            14.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103644,
+          "name": "Reftele",
+          "latlng": [
+            57.17467,
+            13.59498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103662,
+          "name": "Rydaholm",
+          "latlng": [
+            56.98388,
+            14.30849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103814,
+          "name": "Sävsjö",
+          "latlng": [
+            57.40327,
+            14.66244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103704,
+          "name": "Skillingaryd",
+          "latlng": [
+            57.43044,
+            14.09383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103732,
+          "name": "Smålandsstenar",
+          "latlng": [
+            57.16241,
+            13.41212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103757,
+          "name": "Stockaryd",
+          "latlng": [
+            57.31737,
+            14.59341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103835,
+          "name": "Taberg",
+          "latlng": [
+            57.67722,
+            14.08876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103840,
+          "name": "Tenhult",
+          "latlng": [
+            57.70761,
+            14.32205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103871,
+          "name": "Tranås",
+          "latlng": [
+            58.03717,
+            14.9782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103909,
+          "name": "Vaggeryd",
+          "latlng": [
+            57.49807,
+            14.14842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103968,
+          "name": "Värnamo",
+          "latlng": [
+            57.18604,
+            14.04001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103937,
+          "name": "Vetlanda",
+          "latlng": [
+            57.42887,
+            15.07762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103961,
+          "name": "Vrigstad",
+          "latlng": [
+            57.35,
+            14.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1544,
+      "name": "Kalmar",
+      "code": "H",
+      "shortName": "H",
+      "cities": [
+        {
+          "id": 103004,
+          "name": "Ankarsrum",
+          "latlng": [
+            57.69896,
+            16.33407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103035,
+          "name": "Bergkvara",
+          "latlng": [
+            56.39063,
+            16.07274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103059,
+          "name": "Blomstermåla",
+          "latlng": [
+            56.98333,
+            16.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103073,
+          "name": "Borgholm",
+          "latlng": [
+            56.8793,
+            16.65634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103140,
+          "name": "Emmaboda",
+          "latlng": [
+            56.63268,
+            15.53648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103194,
+          "name": "Färjestaden",
+          "latlng": [
+            56.6499,
+            16.46859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103201,
+          "name": "Gamleby",
+          "latlng": [
+            57.89485,
+            16.40508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103234,
+          "name": "Gunnebo",
+          "latlng": [
+            57.71667,
+            16.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103331,
+          "name": "Högsby",
+          "latlng": [
+            57.16597,
+            16.02562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103307,
+          "name": "Hultsfred",
+          "latlng": [
+            57.48815,
+            15.84357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103372,
+          "name": "Kalmar",
+          "latlng": [
+            56.66157,
+            16.36163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103413,
+          "name": "Kristdala",
+          "latlng": [
+            57.4007,
+            16.20496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103473,
+          "name": "Lindsdal",
+          "latlng": [
+            56.73333,
+            16.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103481,
+          "name": "Ljungbyholm",
+          "latlng": [
+            56.63333,
+            16.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103559,
+          "name": "Målilla",
+          "latlng": [
+            57.38773,
+            15.80675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103565,
+          "name": "Mönsterås",
+          "latlng": [
+            57.04134,
+            16.44463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103568,
+          "name": "Mörbylånga",
+          "latlng": [
+            56.5248,
+            16.37877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103593,
+          "name": "Nybro",
+          "latlng": [
+            56.74461,
+            15.90714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103623,
+          "name": "Oskarshamn",
+          "latlng": [
+            57.26455,
+            16.44837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104056,
+          "name": "Överum",
+          "latlng": [
+            57.98856,
+            16.3139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103641,
+          "name": "Påskallavik",
+          "latlng": [
+            57.16667,
+            16.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103649,
+          "name": "Rinkabyholm",
+          "latlng": [
+            56.64972,
+            16.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103727,
+          "name": "Smedby",
+          "latlng": [
+            56.67413,
+            16.2432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103827,
+          "name": "Södra Sandby",
+          "latlng": [
+            56.56667,
+            16.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103829,
+          "name": "Södra Vi",
+          "latlng": [
+            57.73993,
+            15.79391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103762,
+          "name": "Storebro",
+          "latlng": [
+            57.58333,
+            15.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103849,
+          "name": "Timmernabben",
+          "latlng": [
+            56.96667,
+            16.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103866,
+          "name": "Torsås",
+          "latlng": [
+            56.41251,
+            15.99844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103873,
+          "name": "Trekanten",
+          "latlng": [
+            56.7,
+            16.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103970,
+          "name": "Västervik",
+          "latlng": [
+            57.7584,
+            16.63733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103947,
+          "name": "Vimmerby",
+          "latlng": [
+            57.66588,
+            15.85515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103956,
+          "name": "Virserum",
+          "latlng": [
+            57.31667,
+            15.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1542,
+      "name": "Kronoberg",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 103985,
+          "name": "Älmhult",
+          "latlng": [
+            56.55146,
+            14.13827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102995,
+          "name": "Alvesta",
+          "latlng": [
+            56.89935,
+            14.55559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104018,
+          "name": "Åseda",
+          "latlng": [
+            57.1701,
+            15.3443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103082,
+          "name": "Braås",
+          "latlng": [
+            57.06667,
+            15.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103205,
+          "name": "Gemla",
+          "latlng": [
+            56.86753,
+            14.64379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103301,
+          "name": "Hovmantorp",
+          "latlng": [
+            56.78685,
+            15.14023
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103346,
+          "name": "Ingelstad",
+          "latlng": [
+            56.75,
+            14.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103446,
+          "name": "Lagan",
+          "latlng": [
+            56.91667,
+            13.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103449,
+          "name": "Lammhult",
+          "latlng": [
+            57.16667,
+            14.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103458,
+          "name": "Lenhovda",
+          "latlng": [
+            57,
+            15.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103461,
+          "name": "Lessebo",
+          "latlng": [
+            56.75185,
+            15.26969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103478,
+          "name": "Ljungby",
+          "latlng": [
+            56.83324,
+            13.94082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103531,
+          "name": "Markaryd",
+          "latlng": [
+            56.46135,
+            13.59644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103543,
+          "name": "Moheda",
+          "latlng": [
+            57,
+            14.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103659,
+          "name": "Rottne",
+          "latlng": [
+            57.01667,
+            14.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103660,
+          "name": "Ryd",
+          "latlng": [
+            56.46667,
+            14.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103774,
+          "name": "Strömsnäsbruk",
+          "latlng": [
+            56.55,
+            13.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103852,
+          "name": "Tingsryd",
+          "latlng": [
+            56.5247,
+            14.97902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103975,
+          "name": "Växjö",
+          "latlng": [
+            56.87767,
+            14.80906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103959,
+          "name": "Vislanda",
+          "latlng": [
+            56.78333,
+            14.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1538,
+      "name": "Norrbotten",
+      "code": "BD",
+      "shortName": "BD",
+      "cities": [
+        {
+          "id": 103993,
+          "name": "Älvsbyn",
+          "latlng": [
+            65.67624,
+            21.00162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103010,
+          "name": "Arjeplog",
+          "latlng": [
+            66.05173,
+            17.88606
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103015,
+          "name": "Arvidsjaur",
+          "latlng": [
+            65.59033,
+            19.16682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103036,
+          "name": "Bergnäset",
+          "latlng": [
+            65.57791,
+            22.10844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103039,
+          "name": "Bergsviken",
+          "latlng": [
+            65.3,
+            21.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103054,
+          "name": "Björkskatan",
+          "latlng": [
+            65.61373,
+            22.17702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103061,
+          "name": "Boden",
+          "latlng": [
+            65.82518,
+            21.68864
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103237,
+          "name": "Gällivare",
+          "latlng": [
+            67.13387,
+            20.65278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103202,
+          "name": "Gammelstad",
+          "latlng": [
+            65.63931,
+            22.01145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103267,
+          "name": "Haparanda",
+          "latlng": [
+            65.83549,
+            24.13676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103299,
+          "name": "Hortlax",
+          "latlng": [
+            65.28188,
+            21.40544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103353,
+          "name": "Jokkmokk",
+          "latlng": [
+            66.60665,
+            19.82324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103369,
+          "name": "Kalix",
+          "latlng": [
+            65.85298,
+            23.15645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103394,
+          "name": "Kiruna",
+          "latlng": [
+            67.85572,
+            20.22513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103493,
+          "name": "Luleå",
+          "latlng": [
+            65.58415,
+            22.15465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103513,
+          "name": "Malmberget",
+          "latlng": [
+            67.17529,
+            20.65495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103528,
+          "name": "Marielund",
+          "latlng": [
+            65.85307,
+            24.10486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103585,
+          "name": "Norrfjärden",
+          "latlng": [
+            65.41805,
+            21.50151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104052,
+          "name": "Överkalix",
+          "latlng": [
+            66.32754,
+            22.84414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104054,
+          "name": "Övertorneå",
+          "latlng": [
+            66.38778,
+            23.65425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103630,
+          "name": "Pajala",
+          "latlng": [
+            67.21284,
+            23.36607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103637,
+          "name": "Piteå",
+          "latlng": [
+            65.31717,
+            21.47944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103668,
+          "name": "Råneå",
+          "latlng": [
+            65.85482,
+            22.29126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103652,
+          "name": "Roknäs",
+          "latlng": [
+            65.35,
+            21.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103653,
+          "name": "Rolfs",
+          "latlng": [
+            65.85,
+            23.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103658,
+          "name": "Rosvik",
+          "latlng": [
+            65.43333,
+            21.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103812,
+          "name": "Sävast",
+          "latlng": [
+            65.77002,
+            21.73113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103828,
+          "name": "Södra Sunderbyn",
+          "latlng": [
+            65.65983,
+            21.94004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103891,
+          "name": "Töre",
+          "latlng": [
+            65.91243,
+            22.65128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1539,
+      "name": "Örebro",
+      "code": "T",
+      "shortName": "T",
+      "cities": [
+        {
+          "id": 104017,
+          "name": "Åsbro",
+          "latlng": [
+            59,
+            15.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103019,
+          "name": "Askersund",
+          "latlng": [
+            58.87988,
+            14.9023
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103115,
+          "name": "Degerfors",
+          "latlng": [
+            59.23797,
+            14.43077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103131,
+          "name": "Ekeby-Almby",
+          "latlng": [
+            59.26,
+            15.33
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103163,
+          "name": "Fellingsbro",
+          "latlng": [
+            59.43333,
+            15.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103170,
+          "name": "Fjugesta",
+          "latlng": [
+            59.17375,
+            14.87227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103187,
+          "name": "Frövi",
+          "latlng": [
+            59.46667,
+            15.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103204,
+          "name": "Garphyttan",
+          "latlng": [
+            59.30429,
+            14.94623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103316,
+          "name": "Hällabrottet",
+          "latlng": [
+            59.11667,
+            15.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103318,
+          "name": "Hällefors",
+          "latlng": [
+            59.78388,
+            14.52197
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103253,
+          "name": "Hallsberg",
+          "latlng": [
+            59.06463,
+            15.10993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103302,
+          "name": "Hovsta",
+          "latlng": [
+            59.35,
+            15.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103379,
+          "name": "Karlskoga",
+          "latlng": [
+            59.32667,
+            14.52386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103409,
+          "name": "Kopparberg",
+          "latlng": [
+            59.87597,
+            14.99436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103420,
+          "name": "Kumla",
+          "latlng": [
+            59.1277,
+            15.14341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103453,
+          "name": "Laxå",
+          "latlng": [
+            58.9863,
+            14.61904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103469,
+          "name": "Lindesberg",
+          "latlng": [
+            59.59202,
+            15.2304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103577,
+          "name": "Nora",
+          "latlng": [
+            59.51926,
+            15.03979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103609,
+          "name": "Odensbacken",
+          "latlng": [
+            59.16667,
+            15.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104034,
+          "name": "Örebro",
+          "latlng": [
+            59.27412,
+            15.2066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103640,
+          "name": "Pålsboda",
+          "latlng": [
+            59.06565,
+            15.33747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103723,
+          "name": "Sköllersta",
+          "latlng": [
+            59.13738,
+            15.3394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103770,
+          "name": "Storå",
+          "latlng": [
+            59.71409,
+            15.13169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103955,
+          "name": "Vintrosa",
+          "latlng": [
+            59.25,
+            14.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1536,
+      "name": "Östergötland",
+      "code": "E",
+      "shortName": "E",
+      "cities": [
+        {
+          "id": 103999,
+          "name": "Åby",
+          "latlng": [
+            58.66667,
+            16.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104023,
+          "name": "Åtvidaberg",
+          "latlng": [
+            58.20152,
+            15.9977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103032,
+          "name": "Berg",
+          "latlng": [
+            58.48831,
+            15.52969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103072,
+          "name": "Borensberg",
+          "latlng": [
+            58.56667,
+            15.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103079,
+          "name": "Boxholm",
+          "latlng": [
+            58.19719,
+            15.05376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103138,
+          "name": "Ekängen",
+          "latlng": [
+            58.46667,
+            15.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103166,
+          "name": "Finspång",
+          "latlng": [
+            58.70578,
+            15.76739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103221,
+          "name": "Grebo",
+          "latlng": [
+            58.30145,
+            15.87085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103236,
+          "name": "Gusum",
+          "latlng": [
+            58.2688,
+            16.49894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103281,
+          "name": "Herrestad",
+          "latlng": [
+            58.38333,
+            14.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103358,
+          "name": "Jursla",
+          "latlng": [
+            58.66667,
+            16.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103391,
+          "name": "Kimstad",
+          "latlng": [
+            58.54967,
+            15.96296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103396,
+          "name": "Kisa",
+          "latlng": [
+            57.98781,
+            15.63303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103418,
+          "name": "Krokek",
+          "latlng": [
+            58.67231,
+            16.36741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103474,
+          "name": "Lindö",
+          "latlng": [
+            58.61667,
+            16.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103475,
+          "name": "Linghem",
+          "latlng": [
+            58.43333,
+            15.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103476,
+          "name": "Linköping",
+          "latlng": [
+            58.41086,
+            15.62157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103483,
+          "name": "Ljungsbro",
+          "latlng": [
+            58.51667,
+            15.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103516,
+          "name": "Malmslätt",
+          "latlng": [
+            58.41102,
+            15.51647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103522,
+          "name": "Mantorp",
+          "latlng": [
+            58.35,
+            15.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103540,
+          "name": "Mjölby",
+          "latlng": [
+            58.32595,
+            15.12365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103548,
+          "name": "Motala",
+          "latlng": [
+            58.53706,
+            15.03649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103586,
+          "name": "Norrköping",
+          "latlng": [
+            58.59419,
+            16.1826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104027,
+          "name": "Ödeshög",
+          "latlng": [
+            58.22949,
+            14.65294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104044,
+          "name": "Österbymo",
+          "latlng": [
+            57.82465,
+            15.27357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103647,
+          "name": "Rimforsa",
+          "latlng": [
+            58.13624,
+            15.6865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103661,
+          "name": "Ryd",
+          "latlng": [
+            58.66667,
+            15.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103718,
+          "name": "Skänninge",
+          "latlng": [
+            58.39427,
+            15.08659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103719,
+          "name": "Skärblacka",
+          "latlng": [
+            58.56667,
+            15.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103821,
+          "name": "Söderköping",
+          "latlng": [
+            58.48057,
+            16.32221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103752,
+          "name": "Stenstorp",
+          "latlng": [
+            58.48333,
+            15.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103778,
+          "name": "Sturefors",
+          "latlng": [
+            58.33333,
+            15.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103803,
+          "name": "Svärtinge",
+          "latlng": [
+            58.65507,
+            16.02823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103836,
+          "name": "Tallboda",
+          "latlng": [
+            58.42521,
+            15.68154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103907,
+          "name": "Vadstena",
+          "latlng": [
+            58.44863,
+            14.88969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103913,
+          "name": "Valdemarsvik",
+          "latlng": [
+            58.2031,
+            16.60225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103944,
+          "name": "Vikingstad",
+          "latlng": [
+            58.38304,
+            15.43201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1541,
+      "name": "Skåne",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 104000,
+          "name": "Åhus",
+          "latlng": [
+            55.91667,
+            14.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104002,
+          "name": "Åkarp",
+          "latlng": [
+            55.65396,
+            13.11107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102998,
+          "name": "Anderslöv",
+          "latlng": [
+            55.43836,
+            13.31966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103996,
+          "name": "Ängelholm",
+          "latlng": [
+            56.2428,
+            12.86219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103012,
+          "name": "Arlöv",
+          "latlng": [
+            55.63248,
+            13.07141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103021,
+          "name": "Asmundtorp",
+          "latlng": [
+            55.88333,
+            12.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104021,
+          "name": "Åstorp",
+          "latlng": [
+            56.13566,
+            12.9443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103028,
+          "name": "Bara",
+          "latlng": [
+            55.58155,
+            13.17862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103104,
+          "name": "Bårslöv",
+          "latlng": [
+            56.0091,
+            12.8058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103105,
+          "name": "Båstad",
+          "latlng": [
+            56.42689,
+            12.85339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103041,
+          "name": "Billeberga",
+          "latlng": [
+            55.88333,
+            13
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103042,
+          "name": "Billesholm",
+          "latlng": [
+            56.05,
+            13
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103049,
+          "name": "Bjärnum",
+          "latlng": [
+            56.29032,
+            13.71128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103050,
+          "name": "Bjärred",
+          "latlng": [
+            55.71667,
+            13.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103047,
+          "name": "Bjuv",
+          "latlng": [
+            56.08372,
+            12.91914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103058,
+          "name": "Blentarp",
+          "latlng": [
+            55.58333,
+            13.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103087,
+          "name": "Broby",
+          "latlng": [
+            56.25521,
+            14.07797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103089,
+          "name": "Bromölla",
+          "latlng": [
+            56.07551,
+            14.46958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103097,
+          "name": "Bunkeflostrand",
+          "latlng": [
+            55.54478,
+            12.92375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103109,
+          "name": "Dalby",
+          "latlng": [
+            55.66655,
+            13.34976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103114,
+          "name": "Degeberga",
+          "latlng": [
+            55.83333,
+            14.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103130,
+          "name": "Ekeby",
+          "latlng": [
+            56,
+            12.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103152,
+          "name": "Eslöv",
+          "latlng": [
+            55.83928,
+            13.30393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103195,
+          "name": "Färlöv",
+          "latlng": [
+            56.06667,
+            14.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103171,
+          "name": "Fjälkinge",
+          "latlng": [
+            56.04364,
+            14.27562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103196,
+          "name": "Förslöv",
+          "latlng": [
+            56.35,
+            12.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103188,
+          "name": "Furulund",
+          "latlng": [
+            55.7738,
+            13.09022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103203,
+          "name": "Gantofta",
+          "latlng": [
+            55.98729,
+            12.80482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103239,
+          "name": "Gärsnäs",
+          "latlng": [
+            55.54949,
+            14.17923
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103206,
+          "name": "Genarp",
+          "latlng": [
+            55.59907,
+            13.3982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103211,
+          "name": "Glimåkra",
+          "latlng": [
+            56.3,
+            14.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103213,
+          "name": "Glumslöv",
+          "latlng": [
+            55.94091,
+            12.80929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103315,
+          "name": "Häljarp",
+          "latlng": [
+            55.85,
+            12.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103260,
+          "name": "Hammar",
+          "latlng": [
+            56.01667,
+            14.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103263,
+          "name": "Hanaskog",
+          "latlng": [
+            56.16061,
+            14.09307
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103325,
+          "name": "Hässleholm",
+          "latlng": [
+            56.15905,
+            13.76638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103327,
+          "name": "Hästveda",
+          "latlng": [
+            56.28468,
+            13.93547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103277,
+          "name": "Helsingborg",
+          "latlng": [
+            56.05648,
+            12.78718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103287,
+          "name": "Hittarp",
+          "latlng": [
+            56.1,
+            12.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103291,
+          "name": "Hjärnarp",
+          "latlng": [
+            56.31667,
+            12.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103292,
+          "name": "Hjärup",
+          "latlng": [
+            55.6688,
+            13.13931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103295,
+          "name": "Hofterup",
+          "latlng": [
+            55.80485,
+            12.9797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103329,
+          "name": "Höganäs",
+          "latlng": [
+            56.19971,
+            12.55795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103334,
+          "name": "Hököpinge",
+          "latlng": [
+            55.49411,
+            13.00782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103335,
+          "name": "Höllviken",
+          "latlng": [
+            55.40982,
+            12.9558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103342,
+          "name": "Höör",
+          "latlng": [
+            55.93444,
+            13.5385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103338,
+          "name": "Hörby",
+          "latlng": [
+            55.85238,
+            13.66094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103312,
+          "name": "Hyllinge",
+          "latlng": [
+            56.1,
+            12.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103356,
+          "name": "Jonstorp",
+          "latlng": [
+            56.2338,
+            12.67184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103440,
+          "name": "Kågeröd",
+          "latlng": [
+            55.99976,
+            13.08795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103437,
+          "name": "Kävlinge",
+          "latlng": [
+            55.79188,
+            13.11021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103401,
+          "name": "Klågerup",
+          "latlng": [
+            55.59416,
+            13.24574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103399,
+          "name": "Klippan",
+          "latlng": [
+            56.13559,
+            13.13086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103402,
+          "name": "Knislinge",
+          "latlng": [
+            56.18333,
+            14.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103443,
+          "name": "Köpingebro",
+          "latlng": [
+            55.45526,
+            13.93453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103414,
+          "name": "Kristianstad",
+          "latlng": [
+            56.03129,
+            14.15242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103433,
+          "name": "Kvidinge",
+          "latlng": [
+            56.13386,
+            13.04678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103451,
+          "name": "Landskrona",
+          "latlng": [
+            55.8862,
+            12.8588
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103480,
+          "name": "Ljungbyhed",
+          "latlng": [
+            56.07437,
+            13.2401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103482,
+          "name": "Ljunghusen",
+          "latlng": [
+            55.39793,
+            12.92486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103506,
+          "name": "Löberöd",
+          "latlng": [
+            55.7761,
+            13.52414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103507,
+          "name": "Löddeköpinge",
+          "latlng": [
+            55.76667,
+            13.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103489,
+          "name": "Lomma",
+          "latlng": [
+            55.67244,
+            13.06849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103509,
+          "name": "Lönsboda",
+          "latlng": [
+            56.4,
+            14.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103495,
+          "name": "Lund",
+          "latlng": [
+            55.70584,
+            13.19321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103517,
+          "name": "Malmö",
+          "latlng": [
+            55.60587,
+            13.00073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103527,
+          "name": "Marieholm",
+          "latlng": [
+            55.86667,
+            13.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103567,
+          "name": "Mörarp",
+          "latlng": [
+            56.05749,
+            12.88018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103552,
+          "name": "Munka-Ljungby",
+          "latlng": [
+            56.25,
+            12.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103604,
+          "name": "Näsum",
+          "latlng": [
+            56.17693,
+            14.49706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103584,
+          "name": "Norra Åsum",
+          "latlng": [
+            55.98333,
+            14.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104030,
+          "name": "Ödåkra",
+          "latlng": [
+            56.10412,
+            12.7477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104032,
+          "name": "Önnestad",
+          "latlng": [
+            56.05747,
+            14.02233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104037,
+          "name": "Örkelljunga",
+          "latlng": [
+            56.28338,
+            13.27773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103621,
+          "name": "Osby",
+          "latlng": [
+            56.38165,
+            13.99364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104051,
+          "name": "Östra Ljungby",
+          "latlng": [
+            56.19601,
+            13.09199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103629,
+          "name": "Oxie",
+          "latlng": [
+            55.54014,
+            13.09605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103639,
+          "name": "Påarp",
+          "latlng": [
+            56.03333,
+            12.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103635,
+          "name": "Perstorp",
+          "latlng": [
+            56.13829,
+            13.39476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103663,
+          "name": "Rydebäck",
+          "latlng": [
+            55.96667,
+            12.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103664,
+          "name": "Rydsgård",
+          "latlng": [
+            55.47285,
+            13.58829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103810,
+          "name": "Sätofta",
+          "latlng": [
+            55.91667,
+            13.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103683,
+          "name": "Saxtorpsskogen",
+          "latlng": [
+            55.83208,
+            12.94429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103685,
+          "name": "Sibbhult",
+          "latlng": [
+            56.26667,
+            14.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103689,
+          "name": "Simrishamn",
+          "latlng": [
+            55.55653,
+            14.35037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103692,
+          "name": "Sjöbo",
+          "latlng": [
+            55.63135,
+            13.70622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103695,
+          "name": "Skanör med Falsterbo",
+          "latlng": [
+            55.4,
+            12.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103721,
+          "name": "Skåre",
+          "latlng": [
+            55.38333,
+            13.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103699,
+          "name": "Skegrie",
+          "latlng": [
+            55.40633,
+            13.07693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103707,
+          "name": "Skivarp",
+          "latlng": [
+            55.41667,
+            13.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103714,
+          "name": "Skurup",
+          "latlng": [
+            55.47839,
+            13.50186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103731,
+          "name": "Smygehamn",
+          "latlng": [
+            55.34337,
+            13.36989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103826,
+          "name": "Södra Sandby",
+          "latlng": [
+            55.71677,
+            13.34659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103834,
+          "name": "Sösdala",
+          "latlng": [
+            56.03992,
+            13.67811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103744,
+          "name": "Staffanstorp",
+          "latlng": [
+            55.64277,
+            13.20638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103781,
+          "name": "Stångby",
+          "latlng": [
+            55.7503,
+            13.19797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103748,
+          "name": "Stehag",
+          "latlng": [
+            55.90188,
+            13.39577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103777,
+          "name": "Strövelstorp",
+          "latlng": [
+            56.16979,
+            12.83925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103794,
+          "name": "Svalöv",
+          "latlng": [
+            55.9134,
+            13.10762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103797,
+          "name": "Svedala",
+          "latlng": [
+            55.50788,
+            13.23515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103839,
+          "name": "Teckomatorp",
+          "latlng": [
+            55.86667,
+            13.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103856,
+          "name": "Tollarp",
+          "latlng": [
+            55.93333,
+            13.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103857,
+          "name": "Tollarp1",
+          "latlng": [
+            56.16667,
+            14.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103858,
+          "name": "Tomelilla",
+          "latlng": [
+            55.54293,
+            13.9546
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103860,
+          "name": "Torekov",
+          "latlng": [
+            56.425,
+            12.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103861,
+          "name": "Tormestorp",
+          "latlng": [
+            56.1135,
+            13.74516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103874,
+          "name": "Trelleborg",
+          "latlng": [
+            55.37514,
+            13.15691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103884,
+          "name": "Tygelsjö",
+          "latlng": [
+            55.51667,
+            13
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103886,
+          "name": "Tyringe",
+          "latlng": [
+            56.16037,
+            13.59811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103915,
+          "name": "Valje",
+          "latlng": [
+            56.06279,
+            14.54388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103931,
+          "name": "Veberöd",
+          "latlng": [
+            55.63333,
+            13.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103934,
+          "name": "Vejbystrand",
+          "latlng": [
+            56.31778,
+            12.76722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103935,
+          "name": "Vellinge",
+          "latlng": [
+            55.47124,
+            13.01971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103943,
+          "name": "Viken",
+          "latlng": [
+            56.15063,
+            12.57429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103954,
+          "name": "Vinslöv",
+          "latlng": [
+            56.1,
+            13.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103960,
+          "name": "Vittsjö",
+          "latlng": [
+            56.34366,
+            13.66081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103983,
+          "name": "Ystad",
+          "latlng": [
+            55.42966,
+            13.82041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1540,
+      "name": "Södermanland",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 104003,
+          "name": "Åkers Styckebruk",
+          "latlng": [
+            59.25,
+            17.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103998,
+          "name": "Ärla",
+          "latlng": [
+            59.27983,
+            16.67896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103013,
+          "name": "Arnö",
+          "latlng": [
+            58.72675,
+            17.02322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103027,
+          "name": "Bara",
+          "latlng": [
+            58.68333,
+            17.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103150,
+          "name": "Eskilstuna",
+          "latlng": [
+            59.36661,
+            16.5077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103173,
+          "name": "Flen",
+          "latlng": [
+            59.05834,
+            16.58781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103215,
+          "name": "Gnesta",
+          "latlng": [
+            59.04751,
+            17.31191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103317,
+          "name": "Hällbybrunn",
+          "latlng": [
+            59.39152,
+            16.42229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103320,
+          "name": "Hälleforsnäs",
+          "latlng": [
+            59.15208,
+            16.497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103385,
+          "name": "Katrineholm",
+          "latlng": [
+            58.99587,
+            16.20721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103432,
+          "name": "Kvicksund",
+          "latlng": [
+            59.45099,
+            16.32131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103515,
+          "name": "Malmköping",
+          "latlng": [
+            59.13333,
+            16.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103525,
+          "name": "Mariefred",
+          "latlng": [
+            59.25963,
+            17.223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103598,
+          "name": "Nyköping",
+          "latlng": [
+            58.753,
+            17.00788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103614,
+          "name": "Olstorp",
+          "latlng": [
+            58.81667,
+            16.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103627,
+          "name": "Oxelösund",
+          "latlng": [
+            58.67057,
+            17.10152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103709,
+          "name": "Skogstorp",
+          "latlng": [
+            59.32472,
+            16.48284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103746,
+          "name": "Stallarholmen",
+          "latlng": [
+            59.36667,
+            17.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103756,
+          "name": "Stigtomta",
+          "latlng": [
+            58.8,
+            16.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103771,
+          "name": "Strängnäs",
+          "latlng": [
+            59.37741,
+            17.03119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103793,
+          "name": "Svalsta",
+          "latlng": [
+            58.74273,
+            16.86978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103864,
+          "name": "Torshälla",
+          "latlng": [
+            59.41667,
+            16.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103877,
+          "name": "Trosa",
+          "latlng": [
+            58.89621,
+            17.54812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103911,
+          "name": "Vagnhärad",
+          "latlng": [
+            58.94587,
+            17.48757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103916,
+          "name": "Valla",
+          "latlng": [
+            59.01667,
+            16.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103951,
+          "name": "Vingåker",
+          "latlng": [
+            59.0433,
+            15.87374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1551,
+      "name": "Stockholm",
+      "code": "AB",
+      "shortName": "AB",
+      "cities": [
+        {
+          "id": 102986,
+          "name": "Akalla",
+          "latlng": [
+            59.41465,
+            17.91398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104004,
+          "name": "Åkersberga",
+          "latlng": [
+            59.47944,
+            18.29967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102988,
+          "name": "Alby",
+          "latlng": [
+            59.2335,
+            17.8538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103987,
+          "name": "Älmsta",
+          "latlng": [
+            59.96667,
+            18.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103988,
+          "name": "Älta",
+          "latlng": [
+            59.26667,
+            18.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103014,
+          "name": "Arnö",
+          "latlng": [
+            60.11667,
+            18.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104013,
+          "name": "Årsta",
+          "latlng": [
+            59.2978,
+            18.0514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103037,
+          "name": "Bergshamra",
+          "latlng": [
+            59.38083,
+            18.03427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103066,
+          "name": "Bollmora",
+          "latlng": [
+            59.24196,
+            18.22762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103070,
+          "name": "Boo",
+          "latlng": [
+            59.33333,
+            18.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103085,
+          "name": "Brevik",
+          "latlng": [
+            59.35,
+            18.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103086,
+          "name": "Bro",
+          "latlng": [
+            59.51667,
+            17.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103088,
+          "name": "Bromma",
+          "latlng": [
+            59.34,
+            17.94
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103091,
+          "name": "Brunn",
+          "latlng": [
+            59.28,
+            18.43
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103092,
+          "name": "Brunna",
+          "latlng": [
+            59.51667,
+            17.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103108,
+          "name": "Dalarö",
+          "latlng": [
+            59.13306,
+            18.40639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103123,
+          "name": "Djurö",
+          "latlng": [
+            59.32653,
+            18.71152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103121,
+          "name": "Djursholm",
+          "latlng": [
+            59.39926,
+            18.05619
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103133,
+          "name": "Ekerö",
+          "latlng": [
+            59.291,
+            17.81212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103143,
+          "name": "Enebyberg",
+          "latlng": [
+            59.43333,
+            18.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103147,
+          "name": "Eriksberg",
+          "latlng": [
+            59.24241,
+            17.81631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103168,
+          "name": "Fisksätra",
+          "latlng": [
+            59.29153,
+            18.2549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103169,
+          "name": "Fittja",
+          "latlng": [
+            59.24868,
+            17.85991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103199,
+          "name": "Gamla Stan",
+          "latlng": [
+            59.32627,
+            18.07251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103235,
+          "name": "Gustavsberg",
+          "latlng": [
+            59.32684,
+            18.38975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103257,
+          "name": "Hallstavik",
+          "latlng": [
+            60.05,
+            18.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103264,
+          "name": "Handen",
+          "latlng": [
+            59.16809,
+            18.13796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103265,
+          "name": "Haninge",
+          "latlng": [
+            59.16775,
+            18.14478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103278,
+          "name": "Hemmesta",
+          "latlng": [
+            59.32273,
+            18.48675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103336,
+          "name": "Hölö",
+          "latlng": [
+            59.01667,
+            17.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103303,
+          "name": "Huddinge",
+          "latlng": [
+            59.23705,
+            17.98192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103351,
+          "name": "Jakobsberg",
+          "latlng": [
+            59.42268,
+            17.83508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103363,
+          "name": "Järna",
+          "latlng": [
+            59.09165,
+            17.56615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103357,
+          "name": "Jordbro",
+          "latlng": [
+            59.14972,
+            18.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103397,
+          "name": "Kista",
+          "latlng": [
+            59.40316,
+            17.94479
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103410,
+          "name": "Kopparmora",
+          "latlng": [
+            59.33306,
+            18.58306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103422,
+          "name": "Kummelnäs",
+          "latlng": [
+            59.35,
+            18.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103427,
+          "name": "Kungsängen",
+          "latlng": [
+            59.47857,
+            17.74834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103426,
+          "name": "Kungsholmen",
+          "latlng": [
+            59.33183,
+            18.04118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103505,
+          "name": "Långvik",
+          "latlng": [
+            59.24583,
+            18.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103463,
+          "name": "Lidingö",
+          "latlng": [
+            59.36303,
+            18.15096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103471,
+          "name": "Lindholmen",
+          "latlng": [
+            59.58333,
+            18.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103558,
+          "name": "Märsta",
+          "latlng": [
+            59.62157,
+            17.85476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103561,
+          "name": "Mölnbo",
+          "latlng": [
+            59.05,
+            17.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103571,
+          "name": "Mörtnäs",
+          "latlng": [
+            59.31862,
+            18.44312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103572,
+          "name": "Nacka",
+          "latlng": [
+            59.31053,
+            18.16372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103588,
+          "name": "Norrtälje",
+          "latlng": [
+            59.75799,
+            18.70496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103596,
+          "name": "Nykvarn",
+          "latlng": [
+            59.8,
+            18.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103600,
+          "name": "Nynäshamn",
+          "latlng": [
+            58.90337,
+            17.94793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104042,
+          "name": "Ösmo",
+          "latlng": [
+            58.98333,
+            17.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104045,
+          "name": "Östermalm",
+          "latlng": [
+            59.33879,
+            18.08487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103634,
+          "name": "Pershagen",
+          "latlng": [
+            59.15494,
+            17.6534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103669,
+          "name": "Råsunda",
+          "latlng": [
+            59.36588,
+            17.99569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103645,
+          "name": "Resarö",
+          "latlng": [
+            59.4291,
+            18.33386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103646,
+          "name": "Rimbo",
+          "latlng": [
+            59.75,
+            18.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103648,
+          "name": "Rindö",
+          "latlng": [
+            59.39688,
+            18.39434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103673,
+          "name": "Rönninge",
+          "latlng": [
+            59.2,
+            17.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103657,
+          "name": "Rosersberg",
+          "latlng": [
+            59.58333,
+            17.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103678,
+          "name": "Saltsjöbaden",
+          "latlng": [
+            59.28333,
+            18.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103684,
+          "name": "Segeltorp",
+          "latlng": [
+            59.27597,
+            17.93072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103686,
+          "name": "Sigtuna",
+          "latlng": [
+            59.61731,
+            17.72361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103717,
+          "name": "Skänninge",
+          "latlng": [
+            59.93333,
+            18.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103823,
+          "name": "Södermalm",
+          "latlng": [
+            59.31278,
+            18.07577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103824,
+          "name": "Södertälje",
+          "latlng": [
+            59.19554,
+            17.62525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103737,
+          "name": "Sollentuna",
+          "latlng": [
+            59.42804,
+            17.95093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103739,
+          "name": "Solna",
+          "latlng": [
+            59.36004,
+            18.00086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103747,
+          "name": "Stavsnäs",
+          "latlng": [
+            59.28333,
+            18.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103749,
+          "name": "Stenhamra",
+          "latlng": [
+            59.3344,
+            17.68842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103758,
+          "name": "Stockholm",
+          "latlng": [
+            59.33258,
+            18.0649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103773,
+          "name": "Strömma",
+          "latlng": [
+            59.28333,
+            18.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103783,
+          "name": "Sundbyberg",
+          "latlng": [
+            59.36128,
+            17.97114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103841,
+          "name": "Tensta",
+          "latlng": [
+            59.3939,
+            17.90111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103881,
+          "name": "Tullinge",
+          "latlng": [
+            59.2,
+            17.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103882,
+          "name": "Tumba",
+          "latlng": [
+            59.19858,
+            17.83317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103900,
+          "name": "Upplands Väsby",
+          "latlng": [
+            59.51839,
+            17.91128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103918,
+          "name": "Vallentuna",
+          "latlng": [
+            59.53436,
+            18.07758
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103978,
+          "name": "Vårby",
+          "latlng": [
+            59.26671,
+            17.88407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103981,
+          "name": "Vårsta",
+          "latlng": [
+            59.16528,
+            17.79722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103927,
+          "name": "Vasastan",
+          "latlng": [
+            59.34571,
+            18.04985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103929,
+          "name": "Vaxholm",
+          "latlng": [
+            59.40225,
+            18.35317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1545,
+      "name": "Uppsala",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 102993,
+          "name": "Alsike",
+          "latlng": [
+            59.75324,
+            17.77331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102994,
+          "name": "Alunda",
+          "latlng": [
+            60.26667,
+            18.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103991,
+          "name": "Älvkarleby",
+          "latlng": [
+            60.57081,
+            17.44895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103005,
+          "name": "Anneberg",
+          "latlng": [
+            60.24167,
+            18.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103102,
+          "name": "Bälinge",
+          "latlng": [
+            59.95,
+            17.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103103,
+          "name": "Bålsta",
+          "latlng": [
+            59.5671,
+            17.52781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103053,
+          "name": "Björklinge",
+          "latlng": [
+            60.03004,
+            17.55203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103145,
+          "name": "Enköping",
+          "latlng": [
+            59.63607,
+            17.07768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103200,
+          "name": "Gamla Uppsala",
+          "latlng": [
+            59.89817,
+            17.63386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103208,
+          "name": "Gimo",
+          "latlng": [
+            60.17304,
+            18.18507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103222,
+          "name": "Grillby",
+          "latlng": [
+            59.62603,
+            17.25787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103272,
+          "name": "Heby",
+          "latlng": [
+            59.93815,
+            16.86217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103350,
+          "name": "Irsta",
+          "latlng": [
+            59.7,
+            16.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103374,
+          "name": "Karlholmsbruk",
+          "latlng": [
+            60.52091,
+            17.63152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103403,
+          "name": "Knivsta",
+          "latlng": [
+            59.72564,
+            17.78753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103511,
+          "name": "Lövstalöt",
+          "latlng": [
+            59.9574,
+            17.57826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103524,
+          "name": "Marieberg",
+          "latlng": [
+            60.23333,
+            18.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103547,
+          "name": "Morgongåva",
+          "latlng": [
+            59.93395,
+            16.96353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104033,
+          "name": "Örbyhus",
+          "latlng": [
+            60.22407,
+            17.70138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104036,
+          "name": "Öregrund",
+          "latlng": [
+            60.33333,
+            18.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104041,
+          "name": "Örsundsbro",
+          "latlng": [
+            59.73333,
+            17.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104043,
+          "name": "Österbybruk",
+          "latlng": [
+            60.2,
+            17.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104046,
+          "name": "Östervåla",
+          "latlng": [
+            60.18333,
+            17.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104048,
+          "name": "Östhammar",
+          "latlng": [
+            60.25909,
+            18.37408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103813,
+          "name": "Sävja",
+          "latlng": [
+            59.81872,
+            17.69958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103716,
+          "name": "Skutskär",
+          "latlng": [
+            60.62507,
+            17.41552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103817,
+          "name": "Söderfors",
+          "latlng": [
+            60.38333,
+            17.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103769,
+          "name": "Storvreta",
+          "latlng": [
+            59.95933,
+            17.70588
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103889,
+          "name": "Tärnsjö",
+          "latlng": [
+            60.15,
+            16.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103846,
+          "name": "Tierp",
+          "latlng": [
+            60.34269,
+            17.51812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103903,
+          "name": "Uppsala",
+          "latlng": [
+            59.85882,
+            17.63889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103928,
+          "name": "Vattholma",
+          "latlng": [
+            60.01667,
+            17.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1535,
+      "name": "Värmland",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 104006,
+          "name": "Åmotfors",
+          "latlng": [
+            59.76191,
+            12.36211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104011,
+          "name": "Årjäng",
+          "latlng": [
+            59.39217,
+            12.13336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103017,
+          "name": "Arvika",
+          "latlng": [
+            59.65528,
+            12.58518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103057,
+          "name": "Björneborg",
+          "latlng": [
+            59.24122,
+            14.24942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103107,
+          "name": "Charlottenberg",
+          "latlng": [
+            59.88422,
+            12.30398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103117,
+          "name": "Deje",
+          "latlng": [
+            59.603,
+            13.472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103135,
+          "name": "Ekshärad",
+          "latlng": [
+            60.17275,
+            13.49647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103164,
+          "name": "Filipstad",
+          "latlng": [
+            59.71236,
+            14.16831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103179,
+          "name": "Forshaga",
+          "latlng": [
+            59.52541,
+            13.48127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103223,
+          "name": "Grums",
+          "latlng": [
+            59.35141,
+            13.11105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103251,
+          "name": "Hagfors",
+          "latlng": [
+            60.02378,
+            13.67214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103383,
+          "name": "Karlstad",
+          "latlng": [
+            59.3793,
+            13.50357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103388,
+          "name": "Kil",
+          "latlng": [
+            59.50234,
+            13.31277
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103416,
+          "name": "Kristinehamn",
+          "latlng": [
+            59.30978,
+            14.10808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103544,
+          "name": "Molkom",
+          "latlng": [
+            59.60057,
+            13.72115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103555,
+          "name": "Munkfors",
+          "latlng": [
+            59.83856,
+            13.54361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103670,
+          "name": "Råtorp",
+          "latlng": [
+            59.40197,
+            13.49144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103804,
+          "name": "Säffle",
+          "latlng": [
+            59.13229,
+            12.92888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103722,
+          "name": "Skåre",
+          "latlng": [
+            59.43333,
+            13.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103698,
+          "name": "Skattkärr",
+          "latlng": [
+            59.41208,
+            13.67078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103708,
+          "name": "Skoghall",
+          "latlng": [
+            59.32324,
+            13.46552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103726,
+          "name": "Slottsbron",
+          "latlng": [
+            59.3227,
+            13.10268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103763,
+          "name": "Storfors",
+          "latlng": [
+            59.53183,
+            14.27201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103788,
+          "name": "Sunne",
+          "latlng": [
+            59.83764,
+            13.14302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103890,
+          "name": "Töcksfors",
+          "latlng": [
+            59.50816,
+            11.84431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103862,
+          "name": "Torsby",
+          "latlng": [
+            60.13527,
+            13.0082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103977,
+          "name": "Vålberg",
+          "latlng": [
+            59.39145,
+            13.18633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1543,
+      "name": "Västerbotten",
+      "code": "AC",
+      "shortName": "AC",
+      "cities": [
+        {
+          "id": 104019,
+          "name": "Åsele",
+          "latlng": [
+            64.16026,
+            17.34762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103025,
+          "name": "Backa",
+          "latlng": [
+            64.98333,
+            21.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103044,
+          "name": "Bjurholm",
+          "latlng": [
+            63.93027,
+            19.21369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103063,
+          "name": "Boliden",
+          "latlng": [
+            64.86667,
+            20.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103098,
+          "name": "Bureå",
+          "latlng": [
+            64.61667,
+            21.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103100,
+          "name": "Burträsk",
+          "latlng": [
+            64.51667,
+            20.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103101,
+          "name": "Byske",
+          "latlng": [
+            64.95258,
+            21.2058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103125,
+          "name": "Dorotea",
+          "latlng": [
+            64.26185,
+            16.41306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103149,
+          "name": "Ersmark",
+          "latlng": [
+            63.88333,
+            20.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103176,
+          "name": "Forsbacka",
+          "latlng": [
+            64.76667,
+            20.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103296,
+          "name": "Holmsund",
+          "latlng": [
+            63.70602,
+            20.36409
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103340,
+          "name": "Hörnefors",
+          "latlng": [
+            63.62312,
+            19.90856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103348,
+          "name": "Insjön",
+          "latlng": [
+            64.4,
+            17.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103439,
+          "name": "Kåge",
+          "latlng": [
+            64.83571,
+            20.98453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103503,
+          "name": "Långsele",
+          "latlng": [
+            64.81667,
+            20.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103497,
+          "name": "Lycksele",
+          "latlng": [
+            64.59537,
+            18.67351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103520,
+          "name": "Malå",
+          "latlng": [
+            65.18501,
+            18.74243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103582,
+          "name": "Nordmaling",
+          "latlng": [
+            63.56852,
+            19.50244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103590,
+          "name": "Norsjö",
+          "latlng": [
+            64.91206,
+            19.48153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103606,
+          "name": "Obbola",
+          "latlng": [
+            63.7,
+            20.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103671,
+          "name": "Röbäck",
+          "latlng": [
+            63.80879,
+            20.18901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103650,
+          "name": "Robertsfors",
+          "latlng": [
+            64.19324,
+            20.84806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103811,
+          "name": "Sävar",
+          "latlng": [
+            63.90383,
+            20.55014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103701,
+          "name": "Skellefteå",
+          "latlng": [
+            64.75067,
+            20.95279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103700,
+          "name": "Skelleftehamn",
+          "latlng": [
+            64.68333,
+            21.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103818,
+          "name": "Söderfors",
+          "latlng": [
+            64.81667,
+            18.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103741,
+          "name": "Sorsele",
+          "latlng": [
+            65.53484,
+            17.53702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103765,
+          "name": "Storuman",
+          "latlng": [
+            65.0959,
+            17.11731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103767,
+          "name": "Storvik",
+          "latlng": [
+            65.15,
+            20.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103888,
+          "name": "Täfteå",
+          "latlng": [
+            63.8397,
+            20.47857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103898,
+          "name": "Umeå",
+          "latlng": [
+            63.82842,
+            20.25972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103906,
+          "name": "Ursviken",
+          "latlng": [
+            64.71261,
+            21.1658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103964,
+          "name": "Vännäs",
+          "latlng": [
+            63.90676,
+            19.75712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103966,
+          "name": "Vännäsby",
+          "latlng": [
+            63.91564,
+            19.82438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103942,
+          "name": "Viken",
+          "latlng": [
+            64.72587,
+            20.91548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103945,
+          "name": "Vilhelmina",
+          "latlng": [
+            64.62417,
+            16.65596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103949,
+          "name": "Vindeln",
+          "latlng": [
+            64.20175,
+            19.71945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1552,
+      "name": "Västernorrland",
+      "code": "Y",
+      "shortName": "Y",
+      "cities": [
+        {
+          "id": 104009,
+          "name": "Ånge",
+          "latlng": [
+            62.52495,
+            15.65904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104015,
+          "name": "Ås",
+          "latlng": [
+            63.36667,
+            16.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103034,
+          "name": "Bergeforsen",
+          "latlng": [
+            62.53074,
+            17.38123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103051,
+          "name": "Bjästa",
+          "latlng": [
+            63.2,
+            18.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103069,
+          "name": "Bollstabruk",
+          "latlng": [
+            62.99777,
+            17.67348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103084,
+          "name": "Bredbyn",
+          "latlng": [
+            63.44655,
+            18.11019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103185,
+          "name": "Fränsta",
+          "latlng": [
+            62.49855,
+            16.17016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103322,
+          "name": "Härnösand",
+          "latlng": [
+            62.63228,
+            17.93794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103311,
+          "name": "Husum",
+          "latlng": [
+            63.33333,
+            19.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103352,
+          "name": "Johannedal",
+          "latlng": [
+            62.43424,
+            17.37273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103445,
+          "name": "Köpmanholmen",
+          "latlng": [
+            63.16667,
+            18.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103411,
+          "name": "Kramfors",
+          "latlng": [
+            62.93161,
+            17.77646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103434,
+          "name": "Kvissleby",
+          "latlng": [
+            62.29361,
+            17.375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103502,
+          "name": "Långsele",
+          "latlng": [
+            63.18333,
+            17.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103534,
+          "name": "Matfors",
+          "latlng": [
+            62.34864,
+            17.03173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103574,
+          "name": "Njurundabommen",
+          "latlng": [
+            62.26339,
+            17.38354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103575,
+          "name": "Nolby",
+          "latlng": [
+            62.2875,
+            17.36917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104039,
+          "name": "Örnsköldsvik",
+          "latlng": [
+            63.29091,
+            18.71525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103710,
+          "name": "Skottsund",
+          "latlng": [
+            62.29056,
+            17.38694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103735,
+          "name": "Sollefteå",
+          "latlng": [
+            63.16667,
+            17.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103833,
+          "name": "Söråker",
+          "latlng": [
+            62.50561,
+            17.51032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103760,
+          "name": "Stockvik",
+          "latlng": [
+            62.33667,
+            17.36583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103785,
+          "name": "Sundsbruk",
+          "latlng": [
+            62.45806,
+            17.34889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103786,
+          "name": "Sundsvall",
+          "latlng": [
+            62.39129,
+            17.3063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103850,
+          "name": "Timrå",
+          "latlng": [
+            62.48654,
+            17.32613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103939,
+          "name": "Vi",
+          "latlng": [
+            62.43333,
+            17.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1549,
+      "name": "Västmanland",
+      "code": "U",
+      "shortName": "U",
+      "cities": [
+        {
+          "id": 103007,
+          "name": "Arboga",
+          "latlng": [
+            59.39387,
+            15.83882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103029,
+          "name": "Barkarö",
+          "latlng": [
+            59.54935,
+            16.5074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103119,
+          "name": "Dingtuna",
+          "latlng": [
+            59.57279,
+            16.38722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103144,
+          "name": "Enhagen-Ekbacken",
+          "latlng": [
+            59.56543,
+            16.53045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103155,
+          "name": "Fagersta",
+          "latlng": [
+            60.00418,
+            15.79316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103255,
+          "name": "Hallstahammar",
+          "latlng": [
+            59.61395,
+            16.22846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103333,
+          "name": "Hökåsen",
+          "latlng": [
+            59.66667,
+            16.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103349,
+          "name": "Irsta",
+          "latlng": [
+            59.6,
+            16.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103407,
+          "name": "Kolbäck",
+          "latlng": [
+            59.56516,
+            16.23037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103408,
+          "name": "Kolsva",
+          "latlng": [
+            59.6,
+            15.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103442,
+          "name": "Köping",
+          "latlng": [
+            59.51404,
+            15.99255
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103428,
+          "name": "Kungsör",
+          "latlng": [
+            59.42245,
+            16.09656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103579,
+          "name": "Norberg",
+          "latlng": [
+            60.06505,
+            15.92366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103642,
+          "name": "Ramnäs",
+          "latlng": [
+            59.76667,
+            16.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103675,
+          "name": "Sala",
+          "latlng": [
+            59.91993,
+            16.60655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103705,
+          "name": "Skinnskatteberg",
+          "latlng": [
+            59.83028,
+            15.69337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103713,
+          "name": "Skultuna",
+          "latlng": [
+            59.71667,
+            16.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103790,
+          "name": "Surahammar",
+          "latlng": [
+            59.70725,
+            16.22188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103848,
+          "name": "Tillberga",
+          "latlng": [
+            59.68333,
+            16.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103972,
+          "name": "Västerås",
+          "latlng": [
+            59.64914,
+            16.56445
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1547,
+      "name": "Västra Götaland",
+      "code": "O",
+      "shortName": "O",
+      "cities": [
+        {
+          "id": 104001,
+          "name": "Åkarp",
+          "latlng": [
+            58.23333,
+            13.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102987,
+          "name": "Alafors",
+          "latlng": [
+            57.92579,
+            12.07835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102991,
+          "name": "Alingsås",
+          "latlng": [
+            57.93033,
+            12.53345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103995,
+          "name": "Älvängen",
+          "latlng": [
+            57.95872,
+            12.1235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104007,
+          "name": "Åmål",
+          "latlng": [
+            59.051,
+            12.70492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102997,
+          "name": "Andalen",
+          "latlng": [
+            57.70039,
+            11.76136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103000,
+          "name": "Anderstorp",
+          "latlng": [
+            58.88333,
+            14.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103003,
+          "name": "Angered",
+          "latlng": [
+            57.78628,
+            12.09852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103006,
+          "name": "Annelund",
+          "latlng": [
+            57.98843,
+            13.07483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103024,
+          "name": "Axvall",
+          "latlng": [
+            58.38333,
+            13.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103030,
+          "name": "Bengtsfors",
+          "latlng": [
+            59.02912,
+            12.23207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103040,
+          "name": "Billdal",
+          "latlng": [
+            57.56667,
+            11.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103043,
+          "name": "Billingsfors",
+          "latlng": [
+            58.98333,
+            12.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103052,
+          "name": "Björboholm",
+          "latlng": [
+            57.87096,
+            12.32546
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103055,
+          "name": "Björkö",
+          "latlng": [
+            57.73221,
+            11.67916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103056,
+          "name": "Björlanda",
+          "latlng": [
+            57.76667,
+            11.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103064,
+          "name": "Bollebygd",
+          "latlng": [
+            57.66866,
+            12.57272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103077,
+          "name": "Borås",
+          "latlng": [
+            57.73783,
+            12.94076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103095,
+          "name": "Brålanda",
+          "latlng": [
+            58.56344,
+            12.34923
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103081,
+          "name": "Brastad",
+          "latlng": [
+            58.38333,
+            11.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103110,
+          "name": "Dals Långed",
+          "latlng": [
+            58.92555,
+            12.30865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103112,
+          "name": "Dalsjöfors",
+          "latlng": [
+            57.71667,
+            13.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103120,
+          "name": "Diseröd",
+          "latlng": [
+            57.92636,
+            12.02598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103124,
+          "name": "Donsö",
+          "latlng": [
+            57.6,
+            11.79917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103127,
+          "name": "Ed",
+          "latlng": [
+            58.91247,
+            11.93308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103139,
+          "name": "Ellös",
+          "latlng": [
+            58.18333,
+            11.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103148,
+          "name": "Eriksbo",
+          "latlng": [
+            57.77141,
+            12.04183
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103159,
+          "name": "Falköping",
+          "latlng": [
+            58.17347,
+            13.55068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103191,
+          "name": "Färgelanda",
+          "latlng": [
+            58.56816,
+            11.99235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103175,
+          "name": "Floby",
+          "latlng": [
+            58.13333,
+            13.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103183,
+          "name": "Fristad",
+          "latlng": [
+            57.82483,
+            13.01064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103184,
+          "name": "Fritsla",
+          "latlng": [
+            57.55655,
+            12.78457
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103189,
+          "name": "Furulund",
+          "latlng": [
+            57.71667,
+            12.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103242,
+          "name": "Gånghester",
+          "latlng": [
+            57.7,
+            13.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103243,
+          "name": "Gårdsten",
+          "latlng": [
+            57.8048,
+            12.02883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103244,
+          "name": "Göta",
+          "latlng": [
+            58.10617,
+            12.15254
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103245,
+          "name": "Göteborg",
+          "latlng": [
+            57.70716,
+            11.96679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103246,
+          "name": "Göteborgs stad",
+          "latlng": [
+            57.72288,
+            11.94577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103247,
+          "name": "Götene",
+          "latlng": [
+            58.52824,
+            13.49458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103230,
+          "name": "Gråbo",
+          "latlng": [
+            57.83625,
+            12.29954
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103228,
+          "name": "Grästorp",
+          "latlng": [
+            58.33219,
+            12.68122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103220,
+          "name": "Grebbestad",
+          "latlng": [
+            58.70248,
+            11.25738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103232,
+          "name": "Gullspång",
+          "latlng": [
+            58.98615,
+            14.09644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103261,
+          "name": "Hammarkullen",
+          "latlng": [
+            57.78049,
+            12.03604
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103280,
+          "name": "Henån",
+          "latlng": [
+            58.23848,
+            11.67598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103282,
+          "name": "Herrljunga",
+          "latlng": [
+            58.07739,
+            13.02662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103286,
+          "name": "Hindås",
+          "latlng": [
+            57.70338,
+            12.44657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103288,
+          "name": "Hjo",
+          "latlng": [
+            58.30133,
+            14.28784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103290,
+          "name": "Hjuvik",
+          "latlng": [
+            57.70167,
+            11.71639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103337,
+          "name": "Hönö",
+          "latlng": [
+            57.68972,
+            11.64972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103298,
+          "name": "Horred",
+          "latlng": [
+            57.35475,
+            12.47777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103300,
+          "name": "Hova",
+          "latlng": [
+            58.85363,
+            14.21914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103341,
+          "name": "Höviksnäs",
+          "latlng": [
+            58.03333,
+            11.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103309,
+          "name": "Hunnebostrand",
+          "latlng": [
+            58.44127,
+            11.3032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103345,
+          "name": "Ingared",
+          "latlng": [
+            57.85989,
+            12.45161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103355,
+          "name": "Jonstorp",
+          "latlng": [
+            58,
+            12.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103368,
+          "name": "Jörlanda",
+          "latlng": [
+            57.9863,
+            11.82943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103436,
+          "name": "Källby",
+          "latlng": [
+            58.50999,
+            13.30582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103441,
+          "name": "Kållered",
+          "latlng": [
+            57.60992,
+            12.05106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103375,
+          "name": "Karlsborg",
+          "latlng": [
+            58.53724,
+            14.5047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103393,
+          "name": "Kinna",
+          "latlng": [
+            57.50728,
+            12.69463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103406,
+          "name": "Kode",
+          "latlng": [
+            57.94263,
+            11.85051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103430,
+          "name": "Kungälv",
+          "latlng": [
+            57.87096,
+            11.98054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103425,
+          "name": "Kungshamn",
+          "latlng": [
+            58.36305,
+            11.25938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103435,
+          "name": "Kvänum",
+          "latlng": [
+            58.3,
+            13.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103452,
+          "name": "Landvetter",
+          "latlng": [
+            57.68665,
+            12.21169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103501,
+          "name": "Länghem",
+          "latlng": [
+            57.6,
+            13.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103459,
+          "name": "Lerum",
+          "latlng": [
+            57.77051,
+            12.26904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103464,
+          "name": "Lidköping",
+          "latlng": [
+            58.50517,
+            13.15765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103466,
+          "name": "Lilla Edet",
+          "latlng": [
+            58.13333,
+            12.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103468,
+          "name": "Limmared",
+          "latlng": [
+            57.53592,
+            13.35566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103472,
+          "name": "Lindome",
+          "latlng": [
+            57.56667,
+            12.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103484,
+          "name": "Ljungskile",
+          "latlng": [
+            58.22452,
+            11.92014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103508,
+          "name": "Lödöse",
+          "latlng": [
+            58.02994,
+            12.15934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103510,
+          "name": "Lövgärdet",
+          "latlng": [
+            57.81555,
+            12.03861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103499,
+          "name": "Lysekil",
+          "latlng": [
+            58.27429,
+            11.43576
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103512,
+          "name": "Majorna",
+          "latlng": [
+            57.69195,
+            11.91605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103529,
+          "name": "Mariestad",
+          "latlng": [
+            58.70971,
+            13.82367
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103536,
+          "name": "Mellerud",
+          "latlng": [
+            58.69979,
+            12.45312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103560,
+          "name": "Mölltorp",
+          "latlng": [
+            58.5,
+            14.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103562,
+          "name": "Mölndal",
+          "latlng": [
+            57.6554,
+            12.01378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103564,
+          "name": "Mölnlycke",
+          "latlng": [
+            57.65893,
+            12.11792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103553,
+          "name": "Munkedal",
+          "latlng": [
+            58.46634,
+            11.67345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103557,
+          "name": "Myggenäs",
+          "latlng": [
+            58.06176,
+            11.74936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103576,
+          "name": "Nolvik",
+          "latlng": [
+            57.775,
+            11.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103592,
+          "name": "Nossebro",
+          "latlng": [
+            58.18808,
+            12.71599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104025,
+          "name": "Öckerö",
+          "latlng": [
+            57.70814,
+            11.65585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104029,
+          "name": "Ödsmål",
+          "latlng": [
+            58.1,
+            11.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104031,
+          "name": "Öjersjö",
+          "latlng": [
+            57.69882,
+            12.13448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103611,
+          "name": "Olofstorp",
+          "latlng": [
+            57.80444,
+            12.17131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103615,
+          "name": "Olstorp",
+          "latlng": [
+            57.82277,
+            12.27696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103620,
+          "name": "Orust",
+          "latlng": [
+            58.18025,
+            11.63419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103632,
+          "name": "Partille",
+          "latlng": [
+            57.7395,
+            12.10642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103643,
+          "name": "Rannebergen",
+          "latlng": [
+            57.80236,
+            12.07131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103667,
+          "name": "Rävlanda",
+          "latlng": [
+            57.65338,
+            12.49791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103674,
+          "name": "Rönnäng",
+          "latlng": [
+            57.93333,
+            11.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103816,
+          "name": "Sålanda",
+          "latlng": [
+            57.98333,
+            12.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103679,
+          "name": "Sandared",
+          "latlng": [
+            57.70992,
+            12.79238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103809,
+          "name": "Sätila",
+          "latlng": [
+            57.54172,
+            12.43429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103694,
+          "name": "Sjömarken",
+          "latlng": [
+            57.71533,
+            12.83495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103691,
+          "name": "Sjuntorp",
+          "latlng": [
+            58.2,
+            12.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103696,
+          "name": "Skara",
+          "latlng": [
+            58.38659,
+            13.43836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103720,
+          "name": "Skärhamn",
+          "latlng": [
+            57.98665,
+            11.55742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103703,
+          "name": "Skepplanda",
+          "latlng": [
+            57.98333,
+            12.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103724,
+          "name": "Skövde",
+          "latlng": [
+            58.39118,
+            13.84506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103712,
+          "name": "Skultorp",
+          "latlng": [
+            58.35,
+            13.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103733,
+          "name": "Smögen",
+          "latlng": [
+            58.35593,
+            11.22411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103734,
+          "name": "Sollebrunn",
+          "latlng": [
+            58.11667,
+            12.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103751,
+          "name": "Stenkullen",
+          "latlng": [
+            57.79476,
+            12.31688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103753,
+          "name": "Stenstorp",
+          "latlng": [
+            58.27254,
+            13.71454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103754,
+          "name": "Stenungsund",
+          "latlng": [
+            58.07046,
+            11.8181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103782,
+          "name": "Stöpen",
+          "latlng": [
+            58.47802,
+            13.86611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103761,
+          "name": "Stora Höga",
+          "latlng": [
+            58.01667,
+            11.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103775,
+          "name": "Strömstad",
+          "latlng": [
+            58.93945,
+            11.1712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103780,
+          "name": "Styrsö",
+          "latlng": [
+            57.61639,
+            11.78556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103792,
+          "name": "Surte",
+          "latlng": [
+            57.82533,
+            12.01604
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103796,
+          "name": "Svanesund",
+          "latlng": [
+            58.14292,
+            11.81821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103799,
+          "name": "Svenljunga",
+          "latlng": [
+            57.49551,
+            13.11078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103838,
+          "name": "Tanumshede",
+          "latlng": [
+            58.72385,
+            11.32587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103842,
+          "name": "Tibro",
+          "latlng": [
+            58.42453,
+            14.16162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103844,
+          "name": "Tidaholm",
+          "latlng": [
+            58.18035,
+            13.95824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103854,
+          "name": "Tjuvkil",
+          "latlng": [
+            57.9,
+            11.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103892,
+          "name": "Töreboda",
+          "latlng": [
+            58.70739,
+            14.12597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103865,
+          "name": "Torslanda",
+          "latlng": [
+            57.72432,
+            11.77013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103869,
+          "name": "Tranemo",
+          "latlng": [
+            57.48333,
+            13.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103876,
+          "name": "Trollhättan",
+          "latlng": [
+            58.21208,
+            12.35033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103894,
+          "name": "Uddevalla",
+          "latlng": [
+            58.34784,
+            11.9424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103896,
+          "name": "Ulricehamn",
+          "latlng": [
+            57.79159,
+            13.41422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103962,
+          "name": "Vänersborg",
+          "latlng": [
+            58.38075,
+            12.3234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103922,
+          "name": "Vara",
+          "latlng": [
+            58.26234,
+            12.95413
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103979,
+          "name": "Vårgårda",
+          "latlng": [
+            58.03706,
+            12.80907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103926,
+          "name": "Vargön",
+          "latlng": [
+            58.35599,
+            12.3906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103973,
+          "name": "Västra Frölunda",
+          "latlng": [
+            57.64667,
+            11.92944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103953,
+          "name": "Vinninga",
+          "latlng": [
+            58.45,
+            13.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103958,
+          "name": "Viskafors",
+          "latlng": [
+            57.62941,
+            12.8489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

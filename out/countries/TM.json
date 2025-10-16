@@ -1,0 +1,408 @@
+{
+  "name": {
+    "common": "Turkmenistan",
+    "official": "Turkmenistan"
+  },
+  "iso2": "TM",
+  "iso3": "TKM",
+  "numericCode": "795",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "tld": ".tm",
+  "phoneCode": "993",
+  "capital": "Ashgabat",
+  "currencies": {
+    "TMT": "Turkmenistan manat"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Ashgabat",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TMT",
+      "tzName": "Turkmenistan Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tm.svg",
+  "states": [
+    {
+      "id": 3374,
+      "name": "Ahal",
+      "code": "A",
+      "shortName": "A",
+      "cities": [
+        {
+          "id": 106880,
+          "name": "Abadan",
+          "latlng": [
+            38.05415,
+            58.19721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106882,
+          "name": "Annau",
+          "latlng": [
+            37.88754,
+            58.51596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106883,
+          "name": "Arçabil",
+          "latlng": [
+            37.915,
+            58.08987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106886,
+          "name": "Baharly",
+          "latlng": [
+            38.43624,
+            57.43158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106896,
+          "name": "Kaka",
+          "latlng": [
+            37.34821,
+            59.61431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106905,
+          "name": "Tejen",
+          "latlng": [
+            37.38338,
+            60.50545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3371,
+      "name": "Ashgabat",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 106884,
+          "name": "Ashgabat",
+          "latlng": [
+            37.95,
+            58.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3372,
+      "name": "Balkan",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 106887,
+          "name": "Balkanabat",
+          "latlng": [
+            39.51075,
+            54.36713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106889,
+          "name": "Bereket",
+          "latlng": [
+            39.24463,
+            55.51536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106895,
+          "name": "Gumdag",
+          "latlng": [
+            39.20611,
+            54.59056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106898,
+          "name": "Magtymguly",
+          "latlng": [
+            38.43749,
+            56.28081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106901,
+          "name": "Serdar",
+          "latlng": [
+            38.97644,
+            56.27575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106907,
+          "name": "Türkmenbaşy",
+          "latlng": [
+            40.02216,
+            52.95517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3373,
+      "name": "Daşoguz",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 106881,
+          "name": "Akdepe",
+          "latlng": [
+            42.05513,
+            59.37877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106890,
+          "name": "Boldumsaz",
+          "latlng": [
+            42.12824,
+            59.67101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106891,
+          "name": "Daşoguz",
+          "latlng": [
+            41.83625,
+            59.96661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106897,
+          "name": "Köneürgench",
+          "latlng": [
+            42.32773,
+            59.15442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106904,
+          "name": "Tagta",
+          "latlng": [
+            41.65041,
+            59.9164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106909,
+          "name": "Yylanly",
+          "latlng": [
+            41.83333,
+            59.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3370,
+      "name": "Lebap",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 106885,
+          "name": "Atamyrat",
+          "latlng": [
+            37.83573,
+            65.21058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106892,
+          "name": "Farap",
+          "latlng": [
+            39.17037,
+            63.61165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106893,
+          "name": "Gazojak",
+          "latlng": [
+            41.18746,
+            61.4036
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106894,
+          "name": "Gowurdak",
+          "latlng": [
+            37.81244,
+            66.04656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106900,
+          "name": "Saýat",
+          "latlng": [
+            38.78393,
+            63.88035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106906,
+          "name": "Türkmenabat",
+          "latlng": [
+            39.07328,
+            63.57861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3369,
+      "name": "Mary",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 106888,
+          "name": "Bayramaly",
+          "latlng": [
+            37.61852,
+            62.16715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106899,
+          "name": "Mary",
+          "latlng": [
+            37.59378,
+            61.83031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106902,
+          "name": "Serhetabat",
+          "latlng": [
+            35.27992,
+            62.34383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106903,
+          "name": "Seydi",
+          "latlng": [
+            39.4816,
+            62.91374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106908,
+          "name": "Yolöten",
+          "latlng": [
+            37.29886,
+            62.35975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

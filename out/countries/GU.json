@@ -1,0 +1,163 @@
+{
+  "name": {
+    "common": "Guam",
+    "official": "Guam"
+  },
+  "iso2": "GU",
+  "iso3": "GUM",
+  "numericCode": "316",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".gu",
+  "phoneCode": "1",
+  "capital": "Hagatna",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Guam",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "CHST",
+      "tzName": "Chamorro Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gu.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gu.svg",
+  "states": [
+    {
+      "id": 5254,
+      "name": "Agana Heights",
+      "code": null,
+      "shortName": "Agana Heights",
+      "cities": []
+    },
+    {
+      "id": 5255,
+      "name": "Asan-Maina",
+      "code": null,
+      "shortName": "Asan-Maina",
+      "cities": []
+    },
+    {
+      "id": 5256,
+      "name": "Barrigada",
+      "code": null,
+      "shortName": "Barrigada",
+      "cities": []
+    },
+    {
+      "id": 5257,
+      "name": "Chalan Pago-Ordot",
+      "code": null,
+      "shortName": "Chalan Pago-Ordot",
+      "cities": []
+    },
+    {
+      "id": 5258,
+      "name": "Dededo",
+      "code": null,
+      "shortName": "Dededo",
+      "cities": []
+    },
+    {
+      "id": 5259,
+      "name": "Hågat",
+      "code": null,
+      "shortName": "Hågat",
+      "cities": []
+    },
+    {
+      "id": 5265,
+      "name": "Hagåtña",
+      "code": null,
+      "shortName": "Hagåtña",
+      "cities": []
+    },
+    {
+      "id": 5261,
+      "name": "Inarajan (Inalåhan)",
+      "code": null,
+      "shortName": "Inarajan (Inalåhan)",
+      "cities": []
+    },
+    {
+      "id": 5263,
+      "name": "Mangilao",
+      "code": null,
+      "shortName": "Mangilao",
+      "cities": []
+    },
+    {
+      "id": 5262,
+      "name": "Merizo (Malesso)",
+      "code": null,
+      "shortName": "Merizo (Malesso)",
+      "cities": []
+    },
+    {
+      "id": 5264,
+      "name": "Mongmong-Toto-Maite",
+      "code": null,
+      "shortName": "Mongmong-Toto-Maite",
+      "cities": []
+    },
+    {
+      "id": 5266,
+      "name": "Piti",
+      "code": null,
+      "shortName": "Piti",
+      "cities": []
+    },
+    {
+      "id": 5267,
+      "name": "Santa Rita (Sånta Rita-Sumai)",
+      "code": null,
+      "shortName": "Santa Rita (Sånta Rita-Sumai)",
+      "cities": []
+    },
+    {
+      "id": 5268,
+      "name": "Sinajana",
+      "code": null,
+      "shortName": "Sinajana",
+      "cities": []
+    },
+    {
+      "id": 5269,
+      "name": "Talofofo (Talo'fo'fo)",
+      "code": null,
+      "shortName": "Talofofo (Talo'fo'fo)",
+      "cities": []
+    },
+    {
+      "id": 5270,
+      "name": "Tamuning",
+      "code": null,
+      "shortName": "Tamuning",
+      "cities": []
+    },
+    {
+      "id": 5260,
+      "name": "Umatac (Humåtak)",
+      "code": null,
+      "shortName": "Umatac (Humåtak)",
+      "cities": []
+    },
+    {
+      "id": 5271,
+      "name": "Yigo",
+      "code": null,
+      "shortName": "Yigo",
+      "cities": []
+    },
+    {
+      "id": 5272,
+      "name": "Yona",
+      "code": null,
+      "shortName": "Yona",
+      "cities": []
+    }
+  ]
+}

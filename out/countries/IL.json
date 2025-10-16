@@ -1,0 +1,1728 @@
+{
+  "name": {
+    "common": "Israel",
+    "official": "Israel"
+  },
+  "iso2": "IL",
+  "iso3": "ISR",
+  "numericCode": "376",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".il",
+  "phoneCode": "972",
+  "capital": "Jerusalem",
+  "currencies": {
+    "ILS": "Israeli new shekel"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Jerusalem",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "IST",
+      "tzName": "Israel Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/il.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/il.svg",
+  "states": [
+    {
+      "id": 1367,
+      "name": "Central",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 57446,
+          "name": "Bet Dagan",
+          "latlng": [
+            32.00191,
+            34.82977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57449,
+          "name": "Bet Yiẕẖaq",
+          "latlng": [
+            32.32751,
+            34.88878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57450,
+          "name": "Bnei Ayish",
+          "latlng": [
+            31.78333,
+            34.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57463,
+          "name": "Elyakhin",
+          "latlng": [
+            32.40793,
+            34.92433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57467,
+          "name": "Eṭ Ṭaiyiba",
+          "latlng": [
+            32.26616,
+            35.00893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57466,
+          "name": "Even Yehuda",
+          "latlng": [
+            32.26959,
+            34.88759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57468,
+          "name": "Gan Yavne",
+          "latlng": [
+            31.78737,
+            34.70659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57469,
+          "name": "Ganei Tikva",
+          "latlng": [
+            32.05971,
+            34.8732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57470,
+          "name": "Gedera",
+          "latlng": [
+            31.81456,
+            34.77998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57478,
+          "name": "Hod HaSharon",
+          "latlng": [
+            32.15934,
+            34.8932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57483,
+          "name": "Jaljūlya",
+          "latlng": [
+            32.1547,
+            34.95372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57491,
+          "name": "Kafr Qāsim",
+          "latlng": [
+            32.11406,
+            34.97624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57494,
+          "name": "Kefar H̱abad",
+          "latlng": [
+            31.98793,
+            34.8516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57499,
+          "name": "Kefar Yona",
+          "latlng": [
+            32.31669,
+            34.93507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57500,
+          "name": "Kfar Saba",
+          "latlng": [
+            32.175,
+            34.90694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57503,
+          "name": "Lapid",
+          "latlng": [
+            31.91764,
+            35.03222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57505,
+          "name": "Lod",
+          "latlng": [
+            31.9467,
+            34.8903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57507,
+          "name": "Mazkeret Batya",
+          "latlng": [
+            31.85357,
+            34.84646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57515,
+          "name": "Modi‘in Makkabbim Re‘ut",
+          "latlng": [
+            31.89385,
+            35.01504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57525,
+          "name": "Neẖalim",
+          "latlng": [
+            32.06012,
+            34.91069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57522,
+          "name": "Ness Ziona",
+          "latlng": [
+            31.92933,
+            34.79868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57523,
+          "name": "Netanya",
+          "latlng": [
+            32.33291,
+            34.85992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57526,
+          "name": "Nirit",
+          "latlng": [
+            32.14677,
+            34.98622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57527,
+          "name": "Nof Ayalon",
+          "latlng": [
+            31.87111,
+            34.99081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57528,
+          "name": "Nordiyya",
+          "latlng": [
+            32.3147,
+            34.89617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57531,
+          "name": "Pardesiyya",
+          "latlng": [
+            32.30577,
+            34.90911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57533,
+          "name": "Petaẖ Tiqwa",
+          "latlng": [
+            32.08707,
+            34.88747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57534,
+          "name": "Qalansuwa",
+          "latlng": [
+            32.28493,
+            34.98106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57541,
+          "name": "Ra'anana",
+          "latlng": [
+            32.1836,
+            34.87386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57546,
+          "name": "Ramla",
+          "latlng": [
+            31.92923,
+            34.86563
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57548,
+          "name": "Reẖovot",
+          "latlng": [
+            31.89421,
+            34.81199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57549,
+          "name": "Rishon LeẔiyyon",
+          "latlng": [
+            31.97102,
+            34.78939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57550,
+          "name": "Rosh Ha‘Ayin",
+          "latlng": [
+            32.09556,
+            34.95664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57556,
+          "name": "Savyon",
+          "latlng": [
+            32.04966,
+            34.8777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57560,
+          "name": "Shoham",
+          "latlng": [
+            31.99866,
+            34.94559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57565,
+          "name": "Tel Mond",
+          "latlng": [
+            32.24995,
+            34.91737
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57568,
+          "name": "Tirah",
+          "latlng": [
+            32.2341,
+            34.95023
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57573,
+          "name": "Yavné",
+          "latlng": [
+            31.87808,
+            34.73983
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57574,
+          "name": "Yehud",
+          "latlng": [
+            32.03317,
+            34.89091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57580,
+          "name": "Ẕur Moshe",
+          "latlng": [
+            32.29819,
+            34.91313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1369,
+      "name": "Haifa",
+      "code": "HA",
+      "shortName": "HA",
+      "cities": [
+        {
+          "id": 57440,
+          "name": "Atlit",
+          "latlng": [
+            32.68889,
+            34.94236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57455,
+          "name": "Caesarea",
+          "latlng": [
+            32.51888,
+            34.90459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57457,
+          "name": "Daliyat al Karmel",
+          "latlng": [
+            32.69383,
+            35.04686
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57461,
+          "name": "El Fureidīs",
+          "latlng": [
+            32.59812,
+            34.95153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57473,
+          "name": "Hadera",
+          "latlng": [
+            32.44192,
+            34.9039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57474,
+          "name": "Haifa",
+          "latlng": [
+            32.81841,
+            34.9885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57480,
+          "name": "Ibṭīn",
+          "latlng": [
+            32.7615,
+            35.11402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57521,
+          "name": "Nesher",
+          "latlng": [
+            32.76622,
+            35.04425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57535,
+          "name": "Qiryat Ata",
+          "latlng": [
+            32.81149,
+            35.11323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57536,
+          "name": "Qiryat Bialik",
+          "latlng": [
+            32.8275,
+            35.08583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57538,
+          "name": "Qiryat Moẕqin",
+          "latlng": [
+            32.83706,
+            35.0776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57540,
+          "name": "Qiryat Yam",
+          "latlng": [
+            32.84966,
+            35.06973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57547,
+          "name": "Rekhasim",
+          "latlng": [
+            32.74907,
+            35.09901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57569,
+          "name": "Tirat Karmel",
+          "latlng": [
+            32.76021,
+            34.97183
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57570,
+          "name": "Umm el Faḥm",
+          "latlng": [
+            32.51725,
+            35.15349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1370,
+      "name": "Jerusalem",
+      "code": "JM",
+      "shortName": "JM",
+      "cities": [
+        {
+          "id": 57434,
+          "name": "Abū Ghaush",
+          "latlng": [
+            31.80592,
+            35.1093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57447,
+          "name": "Bet Shemesh",
+          "latlng": [
+            31.73072,
+            34.99293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57475,
+          "name": "Har Adar",
+          "latlng": [
+            31.82754,
+            35.13093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57484,
+          "name": "Jerusalem",
+          "latlng": [
+            31.76904,
+            35.21633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57509,
+          "name": "Mevasseret Ẕiyyon",
+          "latlng": [
+            31.80186,
+            35.15072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57514,
+          "name": "Modiin Ilit",
+          "latlng": [
+            31.93221,
+            35.04416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57571,
+          "name": "West Jerusalem",
+          "latlng": [
+            31.78199,
+            35.21961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57579,
+          "name": "Ẕur Hadassa",
+          "latlng": [
+            31.71912,
+            35.09708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1366,
+      "name": "Northern",
+      "code": "Z",
+      "shortName": "Z",
+      "cities": [
+        {
+          "id": 57581,
+          "name": "‘Eilabun",
+          "latlng": [
+            32.83693,
+            35.40029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57583,
+          "name": "‘Uzeir",
+          "latlng": [
+            32.79212,
+            35.32984
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57435,
+          "name": "Acre",
+          "latlng": [
+            32.92814,
+            35.07647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57436,
+          "name": "Afula",
+          "latlng": [
+            32.60907,
+            35.2892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57442,
+          "name": "Basmat Ṭab‘ūn",
+          "latlng": [
+            32.73898,
+            35.15716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57445,
+          "name": "Beit Jann",
+          "latlng": [
+            32.96464,
+            35.38152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57448,
+          "name": "Bet She’an",
+          "latlng": [
+            32.49728,
+            35.49632
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57454,
+          "name": "Bīr el Maksūr",
+          "latlng": [
+            32.77732,
+            35.22069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57453,
+          "name": "Bu‘eina",
+          "latlng": [
+            32.80636,
+            35.36486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57452,
+          "name": "Buqei‘a",
+          "latlng": [
+            32.97747,
+            35.33345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57456,
+          "name": "Dabbūrīya",
+          "latlng": [
+            32.69256,
+            35.37123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57458,
+          "name": "Deir Ḥannā",
+          "latlng": [
+            32.86196,
+            35.36365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57462,
+          "name": "El Mazra‘a",
+          "latlng": [
+            32.98338,
+            35.09837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57464,
+          "name": "Er Reina",
+          "latlng": [
+            32.72339,
+            35.31622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57465,
+          "name": "Esh Sheikh Dannūn",
+          "latlng": [
+            32.9941,
+            35.14805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57578,
+          "name": "Ḥurfeish",
+          "latlng": [
+            33.01711,
+            35.34835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57481,
+          "name": "Iksāl",
+          "latlng": [
+            32.68164,
+            35.32365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57486,
+          "name": "Jīsh",
+          "latlng": [
+            33.02216,
+            35.44694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57485,
+          "name": "Judeida Makr",
+          "latlng": [
+            32.9282,
+            35.15705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57502,
+          "name": "Kābūl",
+          "latlng": [
+            32.86856,
+            35.21171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57487,
+          "name": "Kafr Kammā",
+          "latlng": [
+            32.72129,
+            35.44122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57488,
+          "name": "Kafr Kannā",
+          "latlng": [
+            32.7466,
+            35.34242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57489,
+          "name": "Kafr Mandā",
+          "latlng": [
+            32.81034,
+            35.26009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57490,
+          "name": "Kafr Miṣr",
+          "latlng": [
+            32.64521,
+            35.42147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57492,
+          "name": "Karmi’el",
+          "latlng": [
+            32.91708,
+            35.30501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57493,
+          "name": "Kaukab Abū el Hījā",
+          "latlng": [
+            32.83155,
+            35.24848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57495,
+          "name": "Kefar Rosh HaNiqra",
+          "latlng": [
+            33.08607,
+            35.11348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57497,
+          "name": "Kefar Tavor",
+          "latlng": [
+            32.68655,
+            35.42118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57498,
+          "name": "Kefar Weradim",
+          "latlng": [
+            32.99385,
+            35.27793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57501,
+          "name": "Kfar Yasif",
+          "latlng": [
+            32.95451,
+            35.1623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57577,
+          "name": "maalot Tarshīhā",
+          "latlng": [
+            33.01667,
+            35.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57506,
+          "name": "Maghār",
+          "latlng": [
+            32.88984,
+            35.40703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57508,
+          "name": "Metulla",
+          "latlng": [
+            33.27918,
+            35.5795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57513,
+          "name": "Mi‘ilyā",
+          "latlng": [
+            33.02781,
+            35.25658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57511,
+          "name": "Migdal Ha‘Emeq",
+          "latlng": [
+            32.67597,
+            35.23986
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57516,
+          "name": "Nahariyya",
+          "latlng": [
+            33.00892,
+            35.09814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57518,
+          "name": "Naḥf",
+          "latlng": [
+            32.93444,
+            35.31679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57517,
+          "name": "Nazareth",
+          "latlng": [
+            32.70056,
+            35.29722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57519,
+          "name": "Nefat ‘Akko",
+          "latlng": [
+            32.95,
+            35.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57520,
+          "name": "Nein",
+          "latlng": [
+            32.63063,
+            35.34885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57532,
+          "name": "Pasuta",
+          "latlng": [
+            33.04895,
+            35.30893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57539,
+          "name": "Qiryat Shemona",
+          "latlng": [
+            33.20733,
+            35.57212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57545,
+          "name": "Ramat Yishay",
+          "latlng": [
+            32.70444,
+            35.1707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57551,
+          "name": "Rosh Pinna",
+          "latlng": [
+            32.96894,
+            35.54258
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57552,
+          "name": "Rumat Heib",
+          "latlng": [
+            32.77802,
+            35.30571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57553,
+          "name": "Safed",
+          "latlng": [
+            32.96465,
+            35.496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57561,
+          "name": "Sājūr",
+          "latlng": [
+            32.94266,
+            35.34136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57554,
+          "name": "Sakhnīn",
+          "latlng": [
+            32.86422,
+            35.29707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57555,
+          "name": "Sallama",
+          "latlng": [
+            32.89443,
+            35.36931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57558,
+          "name": "Shelomi",
+          "latlng": [
+            33.07216,
+            35.14452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57559,
+          "name": "Shibli",
+          "latlng": [
+            32.69464,
+            35.39252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57562,
+          "name": "Sūlam",
+          "latlng": [
+            32.60606,
+            35.33408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57563,
+          "name": "Tamra",
+          "latlng": [
+            32.85301,
+            35.1987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57566,
+          "name": "Tiberias",
+          "latlng": [
+            32.79221,
+            35.53124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57567,
+          "name": "Timrat",
+          "latlng": [
+            32.70302,
+            35.22359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57572,
+          "name": "Yavne’el",
+          "latlng": [
+            32.70619,
+            35.50435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1368,
+      "name": "Southern",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 57582,
+          "name": "‘En Boqeq",
+          "latlng": [
+            31.19941,
+            35.36253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57437,
+          "name": "Arad",
+          "latlng": [
+            31.25882,
+            35.21282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57438,
+          "name": "Ashdod",
+          "latlng": [
+            31.79213,
+            34.64966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57439,
+          "name": "Ashkelon",
+          "latlng": [
+            31.66926,
+            34.57149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57444,
+          "name": "Beersheba",
+          "latlng": [
+            31.25181,
+            34.7913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57459,
+          "name": "Dimona",
+          "latlng": [
+            31.07079,
+            35.03269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57460,
+          "name": "Eilat",
+          "latlng": [
+            29.55805,
+            34.94821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57504,
+          "name": "Lehavim",
+          "latlng": [
+            31.37284,
+            34.81619
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57510,
+          "name": "Midreshet Ben-Gurion",
+          "latlng": [
+            30.85154,
+            34.7834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57512,
+          "name": "Mitzpe Ramon",
+          "latlng": [
+            30.60944,
+            34.80111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57524,
+          "name": "Netivot",
+          "latlng": [
+            31.42305,
+            34.58911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57529,
+          "name": "Ofaqim",
+          "latlng": [
+            31.3141,
+            34.62025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57537,
+          "name": "Qiryat Gat",
+          "latlng": [
+            31.60998,
+            34.76422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57542,
+          "name": "Rahat",
+          "latlng": [
+            31.39547,
+            34.75699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57557,
+          "name": "Sederot",
+          "latlng": [
+            31.525,
+            34.59693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57576,
+          "name": "Yeroẖam",
+          "latlng": [
+            30.98822,
+            34.93176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1371,
+      "name": "Tel Aviv",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 57441,
+          "name": "Azor",
+          "latlng": [
+            32.0243,
+            34.80632
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57443,
+          "name": "Bat Yam",
+          "latlng": [
+            32.02379,
+            34.75185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57451,
+          "name": "Bnei Brak",
+          "latlng": [
+            32.08074,
+            34.8338
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57471,
+          "name": "Giv'at Shmuel",
+          "latlng": [
+            32.07817,
+            34.84858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57472,
+          "name": "Givatayim",
+          "latlng": [
+            32.07225,
+            34.81253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57476,
+          "name": "Herzliya",
+          "latlng": [
+            32.16627,
+            34.82536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57477,
+          "name": "Herzliya Pituah",
+          "latlng": [
+            32.17409,
+            34.8028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57479,
+          "name": "H̱olon",
+          "latlng": [
+            32.01034,
+            34.77918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57482,
+          "name": "Jaffa",
+          "latlng": [
+            32.05043,
+            34.75224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57496,
+          "name": "Kefar Shemaryahu",
+          "latlng": [
+            32.18529,
+            34.82082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57530,
+          "name": "Or Yehuda",
+          "latlng": [
+            32.02923,
+            34.85788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57543,
+          "name": "Ramat Gan",
+          "latlng": [
+            32.08227,
+            34.81065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57544,
+          "name": "Ramat HaSharon",
+          "latlng": [
+            32.14613,
+            34.8394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57564,
+          "name": "Tel Aviv",
+          "latlng": [
+            32.08088,
+            34.78057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 57575,
+          "name": "Yehud-Monosson",
+          "latlng": [
+            32.0284,
+            34.8796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

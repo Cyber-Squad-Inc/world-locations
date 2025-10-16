@@ -1,0 +1,360 @@
+{
+  "name": {
+    "common": "Burundi",
+    "official": "Burundi"
+  },
+  "iso2": "BI",
+  "iso3": "BDI",
+  "numericCode": "108",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".bi",
+  "phoneCode": "257",
+  "capital": "Bujumbura",
+  "currencies": {
+    "BIF": "Burundian franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Bujumbura",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bi.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bi.svg",
+  "states": [
+    {
+      "id": 3196,
+      "name": "Bubanza",
+      "code": "BB",
+      "shortName": "BB",
+      "cities": [
+        {
+          "id": 9762,
+          "name": "Bubanza",
+          "latlng": [
+            -3.0804,
+            29.391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3198,
+      "name": "Bujumbura Mairie",
+      "code": "BM",
+      "shortName": "BM",
+      "cities": [
+        {
+          "id": 9763,
+          "name": "Bujumbura",
+          "latlng": [
+            -3.38193,
+            29.36142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3200,
+      "name": "Bujumbura Rural",
+      "code": "BL",
+      "shortName": "BL",
+      "cities": []
+    },
+    {
+      "id": 3202,
+      "name": "Bururi",
+      "code": "BR",
+      "shortName": "BR",
+      "cities": [
+        {
+          "id": 9764,
+          "name": "Bururi",
+          "latlng": [
+            -3.94877,
+            29.62438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3201,
+      "name": "Cankuzo",
+      "code": "CA",
+      "shortName": "CA",
+      "cities": [
+        {
+          "id": 9765,
+          "name": "Cankuzo",
+          "latlng": [
+            -3.2186,
+            30.5528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3190,
+      "name": "Cibitoke",
+      "code": "CI",
+      "shortName": "CI",
+      "cities": [
+        {
+          "id": 9766,
+          "name": "Cibitoke",
+          "latlng": [
+            -2.8869,
+            29.1248
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3197,
+      "name": "Gitega",
+      "code": "GI",
+      "shortName": "GI",
+      "cities": [
+        {
+          "id": 9767,
+          "name": "Gitega",
+          "latlng": [
+            -3.42708,
+            29.92463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3194,
+      "name": "Karuzi",
+      "code": "KR",
+      "shortName": "KR",
+      "cities": [
+        {
+          "id": 9768,
+          "name": "Karuzi",
+          "latlng": [
+            -3.10139,
+            30.16278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3192,
+      "name": "Kayanza",
+      "code": "KY",
+      "shortName": "KY",
+      "cities": [
+        {
+          "id": 9769,
+          "name": "Kayanza",
+          "latlng": [
+            -2.9221,
+            29.6293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3195,
+      "name": "Kirundo",
+      "code": "KI",
+      "shortName": "KI",
+      "cities": [
+        {
+          "id": 9770,
+          "name": "Kirundo",
+          "latlng": [
+            -2.5845,
+            30.0959
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3188,
+      "name": "Makamba",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 9771,
+          "name": "Makamba",
+          "latlng": [
+            -4.1348,
+            29.804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3193,
+      "name": "Muramvya",
+      "code": "MU",
+      "shortName": "MU",
+      "cities": [
+        {
+          "id": 9772,
+          "name": "Muramvya",
+          "latlng": [
+            -3.2682,
+            29.6079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3186,
+      "name": "Muyinga",
+      "code": "MY",
+      "shortName": "MY",
+      "cities": [
+        {
+          "id": 9773,
+          "name": "Muyinga",
+          "latlng": [
+            -2.8451,
+            30.3414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3187,
+      "name": "Mwaro",
+      "code": "MW",
+      "shortName": "MW",
+      "cities": [
+        {
+          "id": 9774,
+          "name": "Mwaro",
+          "latlng": [
+            -3.51128,
+            29.70334
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3199,
+      "name": "Ngozi",
+      "code": "NG",
+      "shortName": "NG",
+      "cities": [
+        {
+          "id": 9775,
+          "name": "Ngozi",
+          "latlng": [
+            -2.9075,
+            29.8306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3185,
+      "name": "Rumonge",
+      "code": "RM",
+      "shortName": "RM",
+      "cities": [
+        {
+          "id": 9776,
+          "name": "Rumonge",
+          "latlng": [
+            -3.9736,
+            29.4386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3189,
+      "name": "Rutana",
+      "code": "RT",
+      "shortName": "RT",
+      "cities": [
+        {
+          "id": 9777,
+          "name": "Rutana",
+          "latlng": [
+            -3.9279,
+            29.992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3191,
+      "name": "Ruyigi",
+      "code": "RY",
+      "shortName": "RY",
+      "cities": [
+        {
+          "id": 9778,
+          "name": "Ruyigi",
+          "latlng": [
+            -3.47639,
+            30.24861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": {
+    "common": "Monaco",
+    "official": "Monaco"
+  },
+  "iso2": "MC",
+  "iso3": "MCO",
+  "numericCode": "492",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "tld": ".mc",
+  "phoneCode": "377",
+  "capital": "Monaco",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Monaco",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mc.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mc.svg",
+  "states": [
+    {
+      "id": 4917,
+      "name": "La Colle",
+      "code": "CL",
+      "shortName": "CL",
+      "cities": []
+    },
+    {
+      "id": 4918,
+      "name": "La Condamine",
+      "code": "CO",
+      "shortName": "CO",
+      "cities": []
+    },
+    {
+      "id": 4919,
+      "name": "Moneghetti",
+      "code": "MG",
+      "shortName": "MG",
+      "cities": []
+    }
+  ]
+}

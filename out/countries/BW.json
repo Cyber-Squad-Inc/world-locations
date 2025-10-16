@@ -1,0 +1,934 @@
+{
+  "name": {
+    "common": "Botswana",
+    "official": "Botswana"
+  },
+  "iso2": "BW",
+  "iso3": "BWA",
+  "numericCode": "072",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "tld": ".bw",
+  "phoneCode": "267",
+  "capital": "Gaborone",
+  "currencies": {
+    "BWP": "Botswana pula"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Gaborone",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bw.svg",
+  "states": [
+    {
+      "id": 3067,
+      "name": "Central",
+      "code": "CE",
+      "shortName": "CE",
+      "cities": [
+        {
+          "id": 15738,
+          "name": "Gobojango",
+          "latlng": [
+            -21.8327,
+            28.72882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15739,
+          "name": "Gweta",
+          "latlng": [
+            -20.18333,
+            25.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15742,
+          "name": "Kalamare",
+          "latlng": [
+            -22.93369,
+            26.57032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15750,
+          "name": "Letlhakane",
+          "latlng": [
+            -21.41494,
+            25.59263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15752,
+          "name": "Letsheng",
+          "latlng": [
+            -22.66384,
+            27.2239
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15753,
+          "name": "Maapi",
+          "latlng": [
+            -22.75785,
+            27.35001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15754,
+          "name": "Machaneng",
+          "latlng": [
+            -23.18621,
+            27.48856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15755,
+          "name": "Mahalapye",
+          "latlng": [
+            -23.10407,
+            26.81421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15757,
+          "name": "Makobeng",
+          "latlng": [
+            -22.99637,
+            27.66766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15758,
+          "name": "Makwata",
+          "latlng": [
+            -23.28333,
+            27.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15761,
+          "name": "Mathakola",
+          "latlng": [
+            -22.72125,
+            27.31057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15762,
+          "name": "Mathambgwane",
+          "latlng": [
+            -20.99075,
+            27.33158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15763,
+          "name": "Mathathane",
+          "latlng": [
+            -22.26875,
+            28.74946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15765,
+          "name": "Maunatlala",
+          "latlng": [
+            -22.59701,
+            27.63006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15770,
+          "name": "Mogapi",
+          "latlng": [
+            -22.32301,
+            27.83492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15772,
+          "name": "Moijabana",
+          "latlng": [
+            -22.43333,
+            26.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15774,
+          "name": "Mookane",
+          "latlng": [
+            -23.68805,
+            26.65948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15775,
+          "name": "Mopipi",
+          "latlng": [
+            -21.18333,
+            24.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15776,
+          "name": "Mosetse",
+          "latlng": [
+            -20.75,
+            26.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15778,
+          "name": "Nata",
+          "latlng": [
+            -20.21667,
+            26.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15781,
+          "name": "Orapa",
+          "latlng": [
+            -21.3115,
+            25.37642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15783,
+          "name": "Palapye",
+          "latlng": [
+            -22.54605,
+            27.12507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15786,
+          "name": "Pilikwe",
+          "latlng": [
+            -22.79904,
+            27.19376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15787,
+          "name": "Rakops",
+          "latlng": [
+            -21.02257,
+            24.36052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15788,
+          "name": "Ramokgonami",
+          "latlng": [
+            -22.8645,
+            27.42391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15790,
+          "name": "Ratholo",
+          "latlng": [
+            -22.72454,
+            27.57199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15792,
+          "name": "Sefophe",
+          "latlng": [
+            -22.18333,
+            27.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15795,
+          "name": "Serowe",
+          "latlng": [
+            -22.38754,
+            26.71077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15797,
+          "name": "Sua",
+          "latlng": [
+            -20.05,
+            26.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15798,
+          "name": "Tamasane",
+          "latlng": [
+            -22.4184,
+            27.40127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15800,
+          "name": "Tobane",
+          "latlng": [
+            -21.95,
+            27.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15801,
+          "name": "Tonota",
+          "latlng": [
+            -21.44236,
+            27.46153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3061,
+      "name": "Ghanzi",
+      "code": "GH",
+      "shortName": "GH",
+      "cities": [
+        {
+          "id": 15731,
+          "name": "Dekar",
+          "latlng": [
+            -21.53333,
+            21.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15737,
+          "name": "Ghanzi",
+          "latlng": [
+            -21.69785,
+            21.64581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3066,
+      "name": "Kgalagadi",
+      "code": "KG",
+      "shortName": "KG",
+      "cities": [
+        {
+          "id": 15740,
+          "name": "Hukuntsi",
+          "latlng": [
+            -23.9988,
+            21.77962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15743,
+          "name": "Kang",
+          "latlng": [
+            -23.67518,
+            22.78762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15748,
+          "name": "Lehututu",
+          "latlng": [
+            -23.96667,
+            21.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15759,
+          "name": "Manyana",
+          "latlng": [
+            -23.4,
+            21.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15802,
+          "name": "Tshabong",
+          "latlng": [
+            -26.05,
+            22.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15803,
+          "name": "Werda",
+          "latlng": [
+            -25.26667,
+            23.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3062,
+      "name": "Kgatleng",
+      "code": "KL",
+      "shortName": "KL",
+      "cities": [
+        {
+          "id": 15729,
+          "name": "Bokaa",
+          "latlng": [
+            -24.45,
+            26.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15767,
+          "name": "Mmathubudukwane",
+          "latlng": [
+            -24.6,
+            26.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15769,
+          "name": "Mochudi",
+          "latlng": [
+            -24.41667,
+            26.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15785,
+          "name": "Pilane",
+          "latlng": [
+            -24.45,
+            26.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3069,
+      "name": "Kweneng",
+      "code": "KW",
+      "shortName": "KW",
+      "cities": [
+        {
+          "id": 15730,
+          "name": "Botlhapatlou",
+          "latlng": [
+            -24.02591,
+            25.48976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15733,
+          "name": "Dutlwe",
+          "latlng": [
+            -23.98333,
+            23.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15734,
+          "name": "Gabane",
+          "latlng": [
+            -24.66667,
+            25.78222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15736,
+          "name": "Gaphatshwe",
+          "latlng": [
+            -24.57389,
+            25.83417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15746,
+          "name": "Khudumelapye",
+          "latlng": [
+            -23.88333,
+            24.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15749,
+          "name": "Lenchwe Le Tau",
+          "latlng": [
+            -24.38333,
+            25.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15751,
+          "name": "Letlhakeng",
+          "latlng": [
+            -24.09442,
+            25.02977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15766,
+          "name": "Metsemotlhaba",
+          "latlng": [
+            -24.55139,
+            25.80306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15768,
+          "name": "Mmopone",
+          "latlng": [
+            -24.56694,
+            25.87417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15771,
+          "name": "Mogoditshane",
+          "latlng": [
+            -24.62694,
+            25.86556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15773,
+          "name": "Molepolole",
+          "latlng": [
+            -24.40659,
+            25.49508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15779,
+          "name": "Nkoyaphiri",
+          "latlng": [
+            -24.63222,
+            25.83139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15799,
+          "name": "Thamaga",
+          "latlng": [
+            -24.67014,
+            25.53975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3060,
+      "name": "Ngamiland",
+      "code": "NG",
+      "shortName": "NG",
+      "cities": []
+    },
+    {
+      "id": 3068,
+      "name": "North-East",
+      "code": "NE",
+      "shortName": "NE",
+      "cities": [
+        {
+          "id": 15732,
+          "name": "Dukwe",
+          "latlng": [
+            -20.58333,
+            26.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15756,
+          "name": "Makaleng",
+          "latlng": [
+            -20.9,
+            27.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15760,
+          "name": "Masunga",
+          "latlng": [
+            -20.62455,
+            27.44875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15791,
+          "name": "Sebina",
+          "latlng": [
+            -20.86667,
+            27.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3065,
+      "name": "North-West",
+      "code": "NW",
+      "shortName": "NW",
+      "cities": [
+        {
+          "id": 15764,
+          "name": "Maun",
+          "latlng": [
+            -19.98333,
+            23.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15780,
+          "name": "Nokaneng",
+          "latlng": [
+            -19.66667,
+            22.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15784,
+          "name": "Pandamatenga",
+          "latlng": [
+            -18.52779,
+            25.62698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15793,
+          "name": "Sehithwa",
+          "latlng": [
+            -20.46667,
+            22.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15796,
+          "name": "Shakawe",
+          "latlng": [
+            -18.36536,
+            21.84219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3064,
+      "name": "South-East",
+      "code": "SE",
+      "shortName": "SE",
+      "cities": [
+        {
+          "id": 15735,
+          "name": "Gaborone",
+          "latlng": [
+            -24.76234,
+            25.7995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15741,
+          "name": "Janeng",
+          "latlng": [
+            -25.41667,
+            25.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15747,
+          "name": "Kopong",
+          "latlng": [
+            -24.48333,
+            25.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15782,
+          "name": "Otse",
+          "latlng": [
+            -25.01667,
+            25.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15789,
+          "name": "Ramotswa",
+          "latlng": [
+            -24.87158,
+            25.86989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3063,
+      "name": "Southern",
+      "code": "SO",
+      "shortName": "SO",
+      "cities": [
+        {
+          "id": 15744,
+          "name": "Kanye",
+          "latlng": [
+            -24.96675,
+            25.33273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15745,
+          "name": "Khakhea",
+          "latlng": [
+            -24.68954,
+            23.49403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15777,
+          "name": "Mosopa",
+          "latlng": [
+            -24.7718,
+            25.42156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15794,
+          "name": "Sekoma",
+          "latlng": [
+            -24.4,
+            23.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

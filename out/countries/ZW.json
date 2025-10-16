@@ -1,0 +1,1309 @@
+{
+  "name": {
+    "common": "Zimbabwe",
+    "official": "Zimbabwe"
+  },
+  "iso2": "ZW",
+  "iso3": "ZWE",
+  "numericCode": "716",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".zw",
+  "phoneCode": "263",
+  "capital": "Harare",
+  "currencies": {
+    "ZWL": "Zimbabwe Dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Harare",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/zw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/zw.svg",
+  "states": [
+    {
+      "id": 1956,
+      "name": "Bulawayo",
+      "code": "BU",
+      "shortName": "BU",
+      "cities": [
+        {
+          "id": 131411,
+          "name": "Bulawayo",
+          "latlng": [
+            -20.15,
+            28.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1958,
+      "name": "Harare",
+      "code": "HA",
+      "shortName": "HA",
+      "cities": [
+        {
+          "id": 131425,
+          "name": "Chitungwiza",
+          "latlng": [
+            -18.01274,
+            31.07555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131431,
+          "name": "Epworth",
+          "latlng": [
+            -17.89,
+            31.1475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131443,
+          "name": "Harare",
+          "latlng": [
+            -17.82772,
+            31.05337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1959,
+      "name": "Manicaland",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 131410,
+          "name": "Buhera District",
+          "latlng": [
+            -19.45658,
+            31.93156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131417,
+          "name": "Chimanimani",
+          "latlng": [
+            -19.8,
+            32.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131418,
+          "name": "Chimanimani District",
+          "latlng": [
+            -19.78295,
+            32.73338
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131420,
+          "name": "Chipinge",
+          "latlng": [
+            -20.18833,
+            32.62365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131421,
+          "name": "Chipinge District",
+          "latlng": [
+            -20.54959,
+            32.4311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131430,
+          "name": "Dorowa Mining Lease",
+          "latlng": [
+            -19.06667,
+            31.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131444,
+          "name": "Headlands",
+          "latlng": [
+            -18.27733,
+            32.0515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131464,
+          "name": "Makoni District",
+          "latlng": [
+            -18.3355,
+            32.1465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131480,
+          "name": "Mutare",
+          "latlng": [
+            -18.9707,
+            32.67086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131481,
+          "name": "Mutare District",
+          "latlng": [
+            -19.25512,
+            32.44327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131482,
+          "name": "Mutasa District",
+          "latlng": [
+            -18.66283,
+            32.74547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131489,
+          "name": "Nyanga",
+          "latlng": [
+            -18.21667,
+            32.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131490,
+          "name": "Nyanga District",
+          "latlng": [
+            -17.92951,
+            32.76561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131491,
+          "name": "Nyazura",
+          "latlng": [
+            -18.70587,
+            32.16796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131492,
+          "name": "Odzi",
+          "latlng": [
+            -18.96167,
+            32.40557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131493,
+          "name": "Penhalonga",
+          "latlng": [
+            -18.89112,
+            32.69781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131497,
+          "name": "Rusape",
+          "latlng": [
+            -18.52785,
+            32.12843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1955,
+      "name": "Mashonaland Central",
+      "code": "MC",
+      "shortName": "MC",
+      "cities": [
+        {
+          "id": 131405,
+          "name": "Bindura",
+          "latlng": [
+            -17.30192,
+            31.33056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131406,
+          "name": "Bindura District",
+          "latlng": [
+            -17.2123,
+            31.303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131412,
+          "name": "Centenary",
+          "latlng": [
+            -16.72289,
+            31.11462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131413,
+          "name": "Centenary District",
+          "latlng": [
+            -16.41667,
+            31.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131428,
+          "name": "Concession",
+          "latlng": [
+            -17.38333,
+            30.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131434,
+          "name": "Glendale",
+          "latlng": [
+            -17.35514,
+            31.06718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131437,
+          "name": "Guruve District",
+          "latlng": [
+            -16.37206,
+            30.60607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131472,
+          "name": "Mazowe",
+          "latlng": [
+            -17.50404,
+            30.97388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131473,
+          "name": "Mazowe District",
+          "latlng": [
+            -17.2808,
+            30.93231
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131476,
+          "name": "Mount Darwin",
+          "latlng": [
+            -16.77251,
+            31.58381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131485,
+          "name": "Mvurwi",
+          "latlng": [
+            -17.03333,
+            30.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131498,
+          "name": "Rushinga District",
+          "latlng": [
+            -16.60792,
+            32.31434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131500,
+          "name": "Shamva",
+          "latlng": [
+            -17.31159,
+            31.57561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131501,
+          "name": "Shamva District",
+          "latlng": [
+            -17.12366,
+            31.64146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1951,
+      "name": "Mashonaland East",
+      "code": "ME",
+      "shortName": "ME",
+      "cities": [
+        {
+          "id": 131401,
+          "name": "Beatrice",
+          "latlng": [
+            -18.25283,
+            30.8473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131426,
+          "name": "Chivhu",
+          "latlng": [
+            -19.02112,
+            30.89218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131436,
+          "name": "Goromonzi District",
+          "latlng": [
+            -17.80695,
+            31.36372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131462,
+          "name": "Macheke",
+          "latlng": [
+            -18.13901,
+            31.84933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131466,
+          "name": "Marondera",
+          "latlng": [
+            -18.18527,
+            31.55193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131467,
+          "name": "Marondera District",
+          "latlng": [
+            -18.29214,
+            31.51252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131477,
+          "name": "Mudzi District",
+          "latlng": [
+            -17.04711,
+            32.65279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131478,
+          "name": "Murehwa",
+          "latlng": [
+            -17.64322,
+            31.784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131479,
+          "name": "Murehwa District",
+          "latlng": [
+            -17.80057,
+            31.83083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131483,
+          "name": "Mutoko",
+          "latlng": [
+            -17.39699,
+            32.22677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131499,
+          "name": "Ruwa",
+          "latlng": [
+            -17.88972,
+            31.24472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1953,
+      "name": "Mashonaland West",
+      "code": "MW",
+      "shortName": "MW",
+      "cities": [
+        {
+          "id": 131400,
+          "name": "Banket",
+          "latlng": [
+            -17.38333,
+            30.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131414,
+          "name": "Chakari",
+          "latlng": [
+            -18.06294,
+            29.89246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131415,
+          "name": "Chegutu",
+          "latlng": [
+            -18.13021,
+            30.14074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131416,
+          "name": "Chegutu District",
+          "latlng": [
+            -18.13097,
+            30.40046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131419,
+          "name": "Chinhoyi",
+          "latlng": [
+            -17.36667,
+            30.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131424,
+          "name": "Chirundu",
+          "latlng": [
+            -16.03333,
+            28.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131445,
+          "name": "Hurungwe District",
+          "latlng": [
+            -16.41301,
+            29.5858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131451,
+          "name": "Kadoma",
+          "latlng": [
+            -18.33328,
+            29.91534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131452,
+          "name": "Kadoma District",
+          "latlng": [
+            -18.34049,
+            29.82831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131454,
+          "name": "Kariba",
+          "latlng": [
+            -16.51667,
+            28.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131455,
+          "name": "Kariba District",
+          "latlng": [
+            -16.91011,
+            28.65983
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131456,
+          "name": "Karoi",
+          "latlng": [
+            -16.80993,
+            29.69247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131463,
+          "name": "Makonde District",
+          "latlng": [
+            -17.16667,
+            30.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131475,
+          "name": "Mhangura",
+          "latlng": [
+            -16.89387,
+            30.16828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131488,
+          "name": "Norton",
+          "latlng": [
+            -17.88333,
+            30.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131495,
+          "name": "Raffingora",
+          "latlng": [
+            -17.03333,
+            30.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1960,
+      "name": "Masvingo",
+      "code": "MV",
+      "shortName": "MV",
+      "cities": [
+        {
+          "id": 131404,
+          "name": "Bikita District",
+          "latlng": [
+            -20.13752,
+            31.93156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131422,
+          "name": "Chiredzi",
+          "latlng": [
+            -21.05,
+            31.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131423,
+          "name": "Chiredzi District",
+          "latlng": [
+            -21.28585,
+            31.77039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131427,
+          "name": "Chivi District",
+          "latlng": [
+            -20.5,
+            30.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131438,
+          "name": "Gutu District",
+          "latlng": [
+            -19.60884,
+            31.25059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131468,
+          "name": "Mashava",
+          "latlng": [
+            -20.03665,
+            30.48225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131469,
+          "name": "Masvingo",
+          "latlng": [
+            -20.06373,
+            30.82766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131470,
+          "name": "Masvingo District",
+          "latlng": [
+            -20.31481,
+            30.90008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131486,
+          "name": "Mwenezi District",
+          "latlng": [
+            -21.35838,
+            30.70668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131507,
+          "name": "Zvishavane",
+          "latlng": [
+            -20.32674,
+            30.06648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1954,
+      "name": "Matabeleland North",
+      "code": "MN",
+      "shortName": "MN",
+      "cities": [
+        {
+          "id": 131407,
+          "name": "Binga",
+          "latlng": [
+            -17.62027,
+            27.34139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131408,
+          "name": "Binga District",
+          "latlng": [
+            -17.8046,
+            27.70088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131409,
+          "name": "Bubi District",
+          "latlng": [
+            -19.52508,
+            28.67998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131429,
+          "name": "Dete",
+          "latlng": [
+            -18.61667,
+            26.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131446,
+          "name": "Hwange",
+          "latlng": [
+            -18.36446,
+            26.49877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131447,
+          "name": "Hwange District",
+          "latlng": [
+            -18.75,
+            26.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131450,
+          "name": "Inyati",
+          "latlng": [
+            -19.67563,
+            28.84687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131453,
+          "name": "Kamativi Mine",
+          "latlng": [
+            -18.31563,
+            27.05729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131460,
+          "name": "Lupane",
+          "latlng": [
+            -18.93149,
+            27.80696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131461,
+          "name": "Lupane District",
+          "latlng": [
+            -18.83608,
+            27.99098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131487,
+          "name": "Nkayi District",
+          "latlng": [
+            -18.92472,
+            28.71221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131506,
+          "name": "Victoria Falls",
+          "latlng": [
+            -17.93285,
+            25.83066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1952,
+      "name": "Matabeleland South",
+      "code": "MS",
+      "shortName": "MS",
+      "cities": [
+        {
+          "id": 131402,
+          "name": "Beitbridge",
+          "latlng": [
+            -22.21667,
+            30
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131403,
+          "name": "Beitbridge District",
+          "latlng": [
+            -21.89829,
+            30.07409
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131432,
+          "name": "Esigodini",
+          "latlng": [
+            -20.28979,
+            28.92261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131433,
+          "name": "Filabusi",
+          "latlng": [
+            -20.53333,
+            29.28502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131439,
+          "name": "Gwanda",
+          "latlng": [
+            -20.93622,
+            29.00698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131440,
+          "name": "Gwanda District",
+          "latlng": [
+            -21.20929,
+            29.17557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131448,
+          "name": "Insiza",
+          "latlng": [
+            -19.78333,
+            29.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131449,
+          "name": "Insiza District",
+          "latlng": [
+            -20.26431,
+            29.47392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131465,
+          "name": "Mangwe District",
+          "latlng": [
+            -20.95545,
+            27.98292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131471,
+          "name": "Matobo",
+          "latlng": [
+            -20.95545,
+            28.49463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131494,
+          "name": "Plumtree",
+          "latlng": [
+            -20.48333,
+            27.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131505,
+          "name": "Umzingwane District",
+          "latlng": [
+            -20.34704,
+            28.94994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1957,
+      "name": "Midlands",
+      "code": "MI",
+      "shortName": "MI",
+      "cities": [
+        {
+          "id": 131435,
+          "name": "Gokwe",
+          "latlng": [
+            -18.20476,
+            28.9349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131441,
+          "name": "Gweru",
+          "latlng": [
+            -19.45,
+            29.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131442,
+          "name": "Gweru District",
+          "latlng": [
+            -19.45665,
+            29.64495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131457,
+          "name": "Kwekwe",
+          "latlng": [
+            -18.92809,
+            29.81486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131458,
+          "name": "Kwekwe District",
+          "latlng": [
+            -18.75,
+            29.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131459,
+          "name": "Lalapanzi",
+          "latlng": [
+            -19.33225,
+            30.17768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131474,
+          "name": "Mberengwa District",
+          "latlng": [
+            -20.72579,
+            30.00962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131484,
+          "name": "Mvuma",
+          "latlng": [
+            -19.27924,
+            30.52828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131496,
+          "name": "Redcliff",
+          "latlng": [
+            -19.03333,
+            29.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131502,
+          "name": "Shangani",
+          "latlng": [
+            -19.78333,
+            29.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131503,
+          "name": "Shurugwi",
+          "latlng": [
+            -19.67016,
+            30.00589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131504,
+          "name": "Shurugwi District",
+          "latlng": [
+            -19.75,
+            30.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131508,
+          "name": "Zvishavane District",
+          "latlng": [
+            -20.30345,
+            30.07514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

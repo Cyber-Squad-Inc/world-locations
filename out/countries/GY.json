@@ -1,0 +1,264 @@
+{
+  "name": {
+    "common": "Guyana",
+    "official": "Guyana"
+  },
+  "iso2": "GY",
+  "iso3": "GUY",
+  "numericCode": "328",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".gy",
+  "phoneCode": "592",
+  "capital": "Georgetown",
+  "currencies": {
+    "GYD": "Guyanese dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Guyana",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "GYT",
+      "tzName": "Guyana Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gy.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gy.svg",
+  "states": [
+    {
+      "id": 2764,
+      "name": "Barima-Waini",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 53826,
+          "name": "Mabaruma",
+          "latlng": [
+            8.2,
+            -59.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2760,
+      "name": "Cuyuni-Mazaruni",
+      "code": "CU",
+      "shortName": "CU",
+      "cities": [
+        {
+          "id": 53822,
+          "name": "Bartica",
+          "latlng": [
+            6.40799,
+            -58.62192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2767,
+      "name": "Demerara-Mahaica",
+      "code": "DE",
+      "shortName": "DE",
+      "cities": [
+        {
+          "id": 53823,
+          "name": "Georgetown",
+          "latlng": [
+            6.80448,
+            -58.15527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53827,
+          "name": "Mahaica Village",
+          "latlng": [
+            6.68405,
+            -57.92181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2766,
+      "name": "East Berbice-Corentyne",
+      "code": "EB",
+      "shortName": "EB",
+      "cities": [
+        {
+          "id": 53830,
+          "name": "New Amsterdam",
+          "latlng": [
+            6.24793,
+            -57.5171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53833,
+          "name": "Skeldon",
+          "latlng": [
+            5.88333,
+            -57.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2768,
+      "name": "Essequibo Islands-West Demerara",
+      "code": "ES",
+      "shortName": "ES",
+      "cities": [
+        {
+          "id": 53831,
+          "name": "Parika",
+          "latlng": [
+            6.83712,
+            -58.42941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53834,
+          "name": "Vreed-en-Hoop",
+          "latlng": [
+            6.80927,
+            -58.19798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2762,
+      "name": "Mahaica-Berbice",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 53828,
+          "name": "Mahaicony Village",
+          "latlng": [
+            6.57633,
+            -57.80486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53832,
+          "name": "Rosignol",
+          "latlng": [
+            6.27095,
+            -57.53697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2765,
+      "name": "Pomeroon-Supenaam",
+      "code": "PM",
+      "shortName": "PM",
+      "cities": [
+        {
+          "id": 53821,
+          "name": "Anna Regina",
+          "latlng": [
+            7.26439,
+            -58.50769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2761,
+      "name": "Potaro-Siparuni",
+      "code": "PT",
+      "shortName": "PT",
+      "cities": [
+        {
+          "id": 53829,
+          "name": "Mahdia",
+          "latlng": [
+            5.26667,
+            -59.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2763,
+      "name": "Upper Demerara-Berbice",
+      "code": "UD",
+      "shortName": "UD",
+      "cities": [
+        {
+          "id": 53825,
+          "name": "Linden",
+          "latlng": [
+            6.00809,
+            -58.30714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2769,
+      "name": "Upper Takutu-Upper Essequibo",
+      "code": "UT",
+      "shortName": "UT",
+      "cities": [
+        {
+          "id": 53824,
+          "name": "Lethem",
+          "latlng": [
+            3.38333,
+            -59.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

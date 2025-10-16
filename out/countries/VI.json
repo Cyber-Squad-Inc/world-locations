@@ -1,0 +1,274 @@
+{
+  "name": {
+    "common": "Virgin Islands (US)",
+    "official": "Virgin Islands (US)"
+  },
+  "iso2": "VI",
+  "iso3": "VIR",
+  "numericCode": "850",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".vi",
+  "phoneCode": "1",
+  "capital": "Charlotte Amalie",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/St_Thomas",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/vi.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/vi.svg",
+  "states": [
+    {
+      "id": 5074,
+      "name": "Saint Croix",
+      "code": "SC",
+      "shortName": "SC",
+      "cities": [
+        {
+          "id": 149573,
+          "name": "Christiansted",
+          "latlng": [
+            17.7440364,
+            -64.7106086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149574,
+          "name": "East End",
+          "latlng": [
+            17.7523882,
+            -64.670301
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149575,
+          "name": "Frederiksted",
+          "latlng": [
+            17.7124691,
+            -64.8867192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149572,
+          "name": "Good Hope",
+          "latlng": [
+            17.7223442,
+            -64.7172494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149576,
+          "name": "Northcentral",
+          "latlng": [
+            17.7501145,
+            -64.8238491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149577,
+          "name": "Northwest",
+          "latlng": [
+            17.7382782,
+            -64.8906347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149578,
+          "name": "Sion Farm",
+          "latlng": [
+            17.7543276,
+            -64.7794611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149579,
+          "name": "Southcentral",
+          "latlng": [
+            17.7064917,
+            -64.8144865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149580,
+          "name": "Southwest",
+          "latlng": [
+            17.6917787,
+            -64.9355939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5073,
+      "name": "Saint John",
+      "code": "SJ",
+      "shortName": "SJ",
+      "cities": [
+        {
+          "id": 149568,
+          "name": "Central",
+          "latlng": [
+            18.3356838,
+            -64.7947078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149569,
+          "name": "Coral Bay",
+          "latlng": [
+            18.3480089,
+            -64.7219682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149570,
+          "name": "Cruz Bay",
+          "latlng": [
+            18.3182037,
+            -64.8024211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149571,
+          "name": "East End",
+          "latlng": [
+            18.3403647,
+            -64.6806266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5072,
+      "name": "Saint Thomas",
+      "code": "ST",
+      "shortName": "ST",
+      "cities": [
+        {
+          "id": 149561,
+          "name": "Charlotte Amalie",
+          "latlng": [
+            18.3412761,
+            -64.9483869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149562,
+          "name": "East End",
+          "latlng": [
+            18.3290162,
+            -64.8704731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149563,
+          "name": "Northside",
+          "latlng": [
+            18.3738081,
+            -64.9558909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149564,
+          "name": "Southside",
+          "latlng": [
+            18.3052912,
+            -64.9172445
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149565,
+          "name": "Tutu",
+          "latlng": [
+            18.3388427,
+            -64.8953072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149566,
+          "name": "Water Island",
+          "latlng": [
+            18.3208653,
+            -64.9693263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149567,
+          "name": "West End",
+          "latlng": [
+            18.3724367,
+            -65.0649013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

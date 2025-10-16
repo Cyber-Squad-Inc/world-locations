@@ -1,0 +1,353 @@
+{
+  "name": {
+    "common": "Kuwait",
+    "official": "Kuwait"
+  },
+  "iso2": "KW",
+  "iso3": "KWT",
+  "numericCode": "414",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".kw",
+  "phoneCode": "965",
+  "capital": "Kuwait City",
+  "currencies": {
+    "KWD": "Kuwaiti dinar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Kuwait",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/kw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/kw.svg",
+  "states": [
+    {
+      "id": 977,
+      "name": "Al Ahmadi",
+      "code": "AH",
+      "shortName": "AH",
+      "cities": [
+        {
+          "id": 65572,
+          "name": "Al Aḩmadī",
+          "latlng": [
+            29.07694,
+            48.08389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65574,
+          "name": "Al Faḩāḩīl",
+          "latlng": [
+            29.0825,
+            48.13028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65575,
+          "name": "Al Finţās",
+          "latlng": [
+            29.17389,
+            48.12111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65578,
+          "name": "Al Mahbūlah",
+          "latlng": [
+            29.145,
+            48.13028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65579,
+          "name": "Al Manqaf",
+          "latlng": [
+            29.09611,
+            48.13278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65580,
+          "name": "Al Wafrah",
+          "latlng": [
+            28.63917,
+            47.93056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65582,
+          "name": "Ar Riqqah",
+          "latlng": [
+            29.14583,
+            48.09472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 975,
+      "name": "Al Farwaniyah",
+      "code": "FA",
+      "shortName": "FA",
+      "cities": [
+        {
+          "id": 65573,
+          "name": "Al Farwānīyah",
+          "latlng": [
+            29.2775,
+            47.95861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65589,
+          "name": "Janūb as Surrah",
+          "latlng": [
+            29.26917,
+            47.97806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 972,
+      "name": "Al Jahra",
+      "code": "JA",
+      "shortName": "JA",
+      "cities": [
+        {
+          "id": 65577,
+          "name": "Al Jahrā’",
+          "latlng": [
+            29.3375,
+            47.65806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 976,
+      "name": "Capital",
+      "code": "KU",
+      "shortName": "KU",
+      "cities": [
+        {
+          "id": 65571,
+          "name": "Ad Dasmah",
+          "latlng": [
+            29.365,
+            48.00139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65584,
+          "name": "Ar Rābiyah",
+          "latlng": [
+            29.295,
+            47.93306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65586,
+          "name": "Ash Shāmīyah",
+          "latlng": [
+            29.34722,
+            47.96167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65587,
+          "name": "Az Zawr",
+          "latlng": [
+            29.4425,
+            48.27472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65590,
+          "name": "Kuwait City",
+          "latlng": [
+            29.36972,
+            47.97833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 973,
+      "name": "Hawalli",
+      "code": "HA",
+      "shortName": "HA",
+      "cities": [
+        {
+          "id": 65583,
+          "name": "Ar Rumaythīyah",
+          "latlng": [
+            29.31167,
+            48.07417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65585,
+          "name": "As Sālimīyah",
+          "latlng": [
+            29.33389,
+            48.07611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65588,
+          "name": "Bayān",
+          "latlng": [
+            29.3032,
+            48.04881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65593,
+          "name": "Ḩawallī",
+          "latlng": [
+            29.33278,
+            48.02861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65591,
+          "name": "Salwá",
+          "latlng": [
+            29.29583,
+            48.07861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 974,
+      "name": "Mubarak Al-Kabeer",
+      "code": "MU",
+      "shortName": "MU",
+      "cities": [
+        {
+          "id": 65569,
+          "name": "Abu Al Hasaniya",
+          "latlng": [
+            29.19076,
+            48.11355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65570,
+          "name": "Abu Fatira",
+          "latlng": [
+            29.19746,
+            48.10278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65576,
+          "name": "Al Funayţīs",
+          "latlng": [
+            29.22528,
+            48.10167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65581,
+          "name": "Al-Masayel",
+          "latlng": [
+            29.2393,
+            48.08862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65592,
+          "name": "Şabāḩ as Sālim",
+          "latlng": [
+            29.25722,
+            48.05722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "name": {
+    "common": "Mongolia",
+    "official": "Mongolia"
+  },
+  "iso2": "MN",
+  "iso3": "MNG",
+  "numericCode": "496",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "tld": ".mn",
+  "phoneCode": "976",
+  "capital": "Ulan Bator",
+  "currencies": {
+    "MNT": "Mongolian tögrög"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Choibalsan",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "CHOT",
+      "tzName": "Choibalsan Standard Time"
+    },
+    {
+      "zoneName": "Asia/Hovd",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "HOVT",
+      "tzName": "Hovd Time"
+    },
+    {
+      "zoneName": "Asia/Ulaanbaatar",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "ULAT",
+      "tzName": "Ulaanbaatar Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mn.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mn.svg",
+  "states": [
+    {
+      "id": 1973,
+      "name": "Arkhangai",
+      "code": "073",
+      "shortName": "073",
+      "cities": [
+        {
+          "id": 67734,
+          "name": "Tsetserleg",
+          "latlng": [
+            47.475,
+            101.45417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1969,
+      "name": "Bayan-Ölgii",
+      "code": "071",
+      "shortName": "071",
+      "cities": [
+        {
+          "id": 67706,
+          "name": "Altay",
+          "latlng": [
+            48.29359,
+            89.51488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67740,
+          "name": "Ölgii",
+          "latlng": [
+            48.96833,
+            89.9625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67733,
+          "name": "Tsengel",
+          "latlng": [
+            48.94314,
+            89.14358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1976,
+      "name": "Bayankhongor",
+      "code": "069",
+      "shortName": "069",
+      "cities": [
+        {
+          "id": 67709,
+          "name": "Bayanhongor",
+          "latlng": [
+            46.19444,
+            100.71806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1961,
+      "name": "Bulgan",
+      "code": "067",
+      "shortName": "067",
+      "cities": [
+        {
+          "id": 67710,
+          "name": "Bulgan",
+          "latlng": [
+            48.8125,
+            103.53472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1962,
+      "name": "Darkhan-Uul",
+      "code": "037",
+      "shortName": "037",
+      "cities": [
+        {
+          "id": 67714,
+          "name": "Darhan",
+          "latlng": [
+            49.48667,
+            105.92278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1963,
+      "name": "Dornod",
+      "code": "061",
+      "shortName": "061",
+      "cities": [
+        {
+          "id": 67711,
+          "name": "Choibalsan",
+          "latlng": [
+            48.07257,
+            114.53264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67718,
+          "name": "Ereencav",
+          "latlng": [
+            49.8807,
+            115.72526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1981,
+      "name": "Dornogovi",
+      "code": "063",
+      "shortName": "063",
+      "cities": []
+    },
+    {
+      "id": 1970,
+      "name": "Dundgovi",
+      "code": "059",
+      "shortName": "059",
+      "cities": [
+        {
+          "id": 67725,
+          "name": "Mandalgovi",
+          "latlng": [
+            45.7625,
+            106.27083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1972,
+      "name": "Govi-Altai",
+      "code": "065",
+      "shortName": "065",
+      "cities": [
+        {
+          "id": 67705,
+          "name": "Altai",
+          "latlng": [
+            46.37222,
+            96.25833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1978,
+      "name": "Govisümber",
+      "code": "064",
+      "shortName": "064",
+      "cities": [
+        {
+          "id": 67712,
+          "name": "Choyr",
+          "latlng": [
+            46.36111,
+            108.36111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1974,
+      "name": "Khentii",
+      "code": "039",
+      "shortName": "039",
+      "cities": [
+        {
+          "id": 67739,
+          "name": "Undurkhaan",
+          "latlng": [
+            47.31944,
+            110.65556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1964,
+      "name": "Khovd",
+      "code": "043",
+      "shortName": "043",
+      "cities": [
+        {
+          "id": 67724,
+          "name": "Khovd",
+          "latlng": [
+            48.00556,
+            91.64194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67728,
+          "name": "Möst",
+          "latlng": [
+            46.67712,
+            92.78521
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67741,
+          "name": "Üyönch",
+          "latlng": [
+            46.04786,
+            92.02612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1975,
+      "name": "Khövsgöl",
+      "code": "041",
+      "shortName": "041",
+      "cities": [
+        {
+          "id": 67719,
+          "name": "Hanh",
+          "latlng": [
+            51.50265,
+            100.66395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67726,
+          "name": "Murun-kuren",
+          "latlng": [
+            49.63417,
+            100.1625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67732,
+          "name": "Tsengel",
+          "latlng": [
+            49.47833,
+            100.88944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67735,
+          "name": "Turt",
+          "latlng": [
+            51.50725,
+            100.66257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1967,
+      "name": "Ömnögovi",
+      "code": "053",
+      "shortName": "053",
+      "cities": [
+        {
+          "id": 67713,
+          "name": "Dalandzadgad",
+          "latlng": [
+            43.57083,
+            104.425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67720,
+          "name": "Hanhongor",
+          "latlng": [
+            43.77345,
+            104.47998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67730,
+          "name": "Nomgon Sum",
+          "latlng": [
+            42.41462,
+            105.0564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1966,
+      "name": "Orkhon",
+      "code": "035",
+      "shortName": "035",
+      "cities": [
+        {
+          "id": 67717,
+          "name": "Erdenet",
+          "latlng": [
+            49.03333,
+            104.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1965,
+      "name": "Övörkhangai",
+      "code": "055",
+      "shortName": "055",
+      "cities": [
+        {
+          "id": 67707,
+          "name": "Arvayheer",
+          "latlng": [
+            46.26389,
+            102.775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67721,
+          "name": "Harhorin",
+          "latlng": [
+            47.19753,
+            102.82379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67722,
+          "name": "Hovd",
+          "latlng": [
+            44.67024,
+            102.17491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67723,
+          "name": "Kharkhorin",
+          "latlng": [
+            47.19245,
+            102.81349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67729,
+          "name": "Nariynteel",
+          "latlng": [
+            45.9595,
+            101.45977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1980,
+      "name": "Selenge",
+      "code": "049",
+      "shortName": "049",
+      "cities": [
+        {
+          "id": 67716,
+          "name": "Dzüünharaa",
+          "latlng": [
+            48.85229,
+            106.45786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67731,
+          "name": "Sühbaatar",
+          "latlng": [
+            50.23139,
+            106.20778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1977,
+      "name": "Sükhbaatar",
+      "code": "051",
+      "shortName": "051",
+      "cities": [
+        {
+          "id": 67708,
+          "name": "Baruun-Urt",
+          "latlng": [
+            46.68056,
+            113.27917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1968,
+      "name": "Töv",
+      "code": "047",
+      "shortName": "047",
+      "cities": [
+        {
+          "id": 67742,
+          "name": "Centipede",
+          "latlng": [
+            47.70693,
+            106.95276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67715,
+          "name": "Dzuunmod",
+          "latlng": [
+            47.70694,
+            106.95278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67727,
+          "name": "Möngönmorĭt",
+          "latlng": [
+            48.19504,
+            108.48295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67737,
+          "name": "Ulaanhudag",
+          "latlng": [
+            47.33333,
+            104.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153783,
+          "name": "Ulan Bator",
+          "latlng": [
+            47.8917624,
+            106.73706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1971,
+      "name": "Uvs",
+      "code": "046",
+      "shortName": "046",
+      "cities": [
+        {
+          "id": 67736,
+          "name": "Ulaangom",
+          "latlng": [
+            49.98111,
+            92.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1979,
+      "name": "Zavkhan",
+      "code": "057",
+      "shortName": "057",
+      "cities": [
+        {
+          "id": 67738,
+          "name": "Uliastay",
+          "latlng": [
+            47.74167,
+            96.84444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

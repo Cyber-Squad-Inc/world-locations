@@ -1,0 +1,333 @@
+{
+  "name": {
+    "common": "Palau",
+    "official": "Palau"
+  },
+  "iso2": "PW",
+  "iso3": "PLW",
+  "numericCode": "585",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".pw",
+  "phoneCode": "680",
+  "capital": "Melekeok",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Palau",
+      "gmtOffset": 32400,
+      "gmtOffsetName": "UTC+09:00",
+      "abbreviation": "PWT",
+      "tzName": "Palau Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pw.svg",
+  "states": [
+    {
+      "id": 4540,
+      "name": "Aimeliik",
+      "code": "002",
+      "shortName": "002",
+      "cities": [
+        {
+          "id": 89709,
+          "name": "Ngchemiangel",
+          "latlng": [
+            7.44613,
+            134.47678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4528,
+      "name": "Airai",
+      "code": "004",
+      "shortName": "004",
+      "cities": [
+        {
+          "id": 89712,
+          "name": "Ngetkib",
+          "latlng": [
+            7.36451,
+            134.51484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4538,
+      "name": "Angaur",
+      "code": "010",
+      "shortName": "010",
+      "cities": [
+        {
+          "id": 89700,
+          "name": "Angaur State",
+          "latlng": [
+            6.90601,
+            134.12997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4529,
+      "name": "Hatohobei",
+      "code": "050",
+      "shortName": "050",
+      "cities": [
+        {
+          "id": 89714,
+          "name": "Tobi Village",
+          "latlng": [
+            3.00488,
+            131.12168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4539,
+      "name": "Kayangel",
+      "code": "100",
+      "shortName": "100",
+      "cities": [
+        {
+          "id": 89702,
+          "name": "Kayangel",
+          "latlng": [
+            8.08228,
+            134.71725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4532,
+      "name": "Koror",
+      "code": "150",
+      "shortName": "150",
+      "cities": [
+        {
+          "id": 89704,
+          "name": "Koror",
+          "latlng": [
+            7.33978,
+            134.47326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89705,
+          "name": "Koror Town",
+          "latlng": [
+            7.34257,
+            134.47888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4530,
+      "name": "Melekeok",
+      "code": "212",
+      "shortName": "212",
+      "cities": [
+        {
+          "id": 89706,
+          "name": "Melekeok Village",
+          "latlng": [
+            7.49567,
+            134.63671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4537,
+      "name": "Ngaraard",
+      "code": "214",
+      "shortName": "214",
+      "cities": [
+        {
+          "id": 89715,
+          "name": "Ulimang",
+          "latlng": [
+            7.62416,
+            134.64208
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4533,
+      "name": "Ngarchelong",
+      "code": "218",
+      "shortName": "218",
+      "cities": [
+        {
+          "id": 89707,
+          "name": "Mengellang",
+          "latlng": [
+            7.6957,
+            134.63054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4527,
+      "name": "Ngardmau",
+      "code": "222",
+      "shortName": "222",
+      "cities": [
+        {
+          "id": 89708,
+          "name": "Ngardmau",
+          "latlng": [
+            7.60986,
+            134.5744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4531,
+      "name": "Ngatpang",
+      "code": "224",
+      "shortName": "224",
+      "cities": []
+    },
+    {
+      "id": 4536,
+      "name": "Ngchesar",
+      "code": "226",
+      "shortName": "226",
+      "cities": [
+        {
+          "id": 89710,
+          "name": "Ngchesar Hamlet",
+          "latlng": [
+            7.46932,
+            134.60991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4541,
+      "name": "Ngeremlengui",
+      "code": "227",
+      "shortName": "227",
+      "cities": [
+        {
+          "id": 89701,
+          "name": "Imeong Hamlet",
+          "latlng": [
+            7.53134,
+            134.52713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4534,
+      "name": "Ngiwal",
+      "code": "228",
+      "shortName": "228",
+      "cities": [
+        {
+          "id": 89711,
+          "name": "Ngerkeai",
+          "latlng": [
+            7.55456,
+            134.63612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4526,
+      "name": "Peleliu",
+      "code": "350",
+      "shortName": "350",
+      "cities": [
+        {
+          "id": 89703,
+          "name": "Kloulklubed",
+          "latlng": [
+            7.04192,
+            134.25561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4535,
+      "name": "Sonsorol",
+      "code": "370",
+      "shortName": "370",
+      "cities": [
+        {
+          "id": 89713,
+          "name": "Sonsorol Village",
+          "latlng": [
+            5.32608,
+            132.21943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

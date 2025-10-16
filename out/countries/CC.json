@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Cocos (Keeling) Islands",
+    "official": "Cocos (Keeling) Islands"
+  },
+  "iso2": "CC",
+  "iso3": "CCK",
+  "numericCode": "166",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "tld": ".cc",
+  "phoneCode": "61",
+  "capital": "West Island",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Cocos",
+      "gmtOffset": 23400,
+      "gmtOffsetName": "UTC+06:30",
+      "abbreviation": "CCT",
+      "tzName": "Cocos Islands Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cc.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cc.svg",
+  "states": []
+}

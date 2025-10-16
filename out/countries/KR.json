@@ -1,0 +1,3565 @@
+{
+  "name": {
+    "common": "South Korea",
+    "official": "South Korea"
+  },
+  "iso2": "KR",
+  "iso3": "KOR",
+  "numericCode": "410",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "tld": ".kr",
+  "phoneCode": "82",
+  "capital": "Seoul",
+  "currencies": {
+    "KRW": "Won"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Seoul",
+      "gmtOffset": 32400,
+      "gmtOffsetName": "UTC+09:00",
+      "abbreviation": "KST",
+      "tzName": "Korea Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/kr.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/kr.svg",
+  "states": [
+    {
+      "id": 3860,
+      "name": "Busan",
+      "code": "26",
+      "shortName": "26",
+      "cities": [
+        {
+          "id": 65276,
+          "name": "Buk-gu",
+          "latlng": [
+            35.19724,
+            128.99134
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65278,
+          "name": "Busan",
+          "latlng": [
+            35.10168,
+            129.03004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65313,
+          "name": "Dongnae-gu",
+          "latlng": [
+            35.20447,
+            129.078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65325,
+          "name": "Gangseo-gu",
+          "latlng": [
+            35.1593,
+            128.933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65331,
+          "name": "Geumjeong-gu",
+          "latlng": [
+            35.25863,
+            129.0901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65333,
+          "name": "Gijang",
+          "latlng": [
+            35.24417,
+            129.21389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65334,
+          "name": "Gijang-gun",
+          "latlng": [
+            35.29721,
+            129.20076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65375,
+          "name": "Haeundae-gu",
+          "latlng": [
+            35.16665,
+            129.16792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65421,
+          "name": "Jung-gu",
+          "latlng": [
+            35.10594,
+            129.03331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65452,
+          "name": "Nam-gu",
+          "latlng": [
+            35.13648,
+            129.08266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65477,
+          "name": "Saha-gu",
+          "latlng": [
+            35.08552,
+            128.98725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65482,
+          "name": "Sasang-gu",
+          "latlng": [
+            35.14479,
+            128.97986
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65484,
+          "name": "Seo-gu",
+          "latlng": [
+            35.12529,
+            129.01946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65513,
+          "name": "Suyeong-gu",
+          "latlng": [
+            35.15627,
+            129.11253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65552,
+          "name": "Yeongdo-gu",
+          "latlng": [
+            35.07849,
+            129.06483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3846,
+      "name": "Daegu",
+      "code": "27",
+      "shortName": "27",
+      "cities": [
+        {
+          "id": 65300,
+          "name": "Daegu",
+          "latlng": [
+            35.87028,
+            128.59111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65302,
+          "name": "Dalseo-gu",
+          "latlng": [
+            35.82569,
+            128.52403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65303,
+          "name": "Dalseong-gun",
+          "latlng": [
+            35.77467,
+            128.42955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65307,
+          "name": "Dong-gu",
+          "latlng": [
+            35.88566,
+            128.63296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65394,
+          "name": "Hwawŏn",
+          "latlng": [
+            35.80167,
+            128.50083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65422,
+          "name": "Jung-gu",
+          "latlng": [
+            35.86678,
+            128.59538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65485,
+          "name": "Seo-gu",
+          "latlng": [
+            35.87465,
+            128.55109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65511,
+          "name": "Suseong-gu",
+          "latlng": [
+            35.85905,
+            128.62625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3850,
+      "name": "Daejeon",
+      "code": "30",
+      "shortName": "30",
+      "cities": [
+        {
+          "id": 65301,
+          "name": "Daejeon",
+          "latlng": [
+            36.34913,
+            127.38493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65486,
+          "name": "Seo-gu",
+          "latlng": [
+            36.27211,
+            127.331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65503,
+          "name": "Sintansin",
+          "latlng": [
+            36.45361,
+            127.43111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65506,
+          "name": "Songgangdong",
+          "latlng": [
+            36.43387,
+            127.37587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65567,
+          "name": "Yuseong-gu",
+          "latlng": [
+            36.36685,
+            127.327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3862,
+      "name": "Gangwon",
+      "code": "42",
+      "shortName": "42",
+      "cities": [
+        {
+          "id": 65293,
+          "name": "Cheorwon-gun",
+          "latlng": [
+            38.24391,
+            127.44522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65297,
+          "name": "Chuncheon",
+          "latlng": [
+            37.87472,
+            127.73417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65298,
+          "name": "Chuncheon-si",
+          "latlng": [
+            37.88048,
+            127.72776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65311,
+          "name": "Donghae-si",
+          "latlng": [
+            37.52345,
+            129.11357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65322,
+          "name": "Gangneung",
+          "latlng": [
+            37.75266,
+            128.87239
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65323,
+          "name": "Gangneung-si",
+          "latlng": [
+            37.7519,
+            128.87825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65349,
+          "name": "Goseong-gun",
+          "latlng": [
+            38.37945,
+            128.46755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65383,
+          "name": "Hoengseong-gun",
+          "latlng": [
+            37.48817,
+            127.9857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65385,
+          "name": "Hongch’ŏn",
+          "latlng": [
+            37.6918,
+            127.8857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65384,
+          "name": "Hongcheon-gun",
+          "latlng": [
+            37.76058,
+            128.02823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65388,
+          "name": "Hwacheon",
+          "latlng": [
+            38.10705,
+            127.70632
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65389,
+          "name": "Hwacheon-gun",
+          "latlng": [
+            38.14212,
+            127.67615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65401,
+          "name": "Inje-gun",
+          "latlng": [
+            38.04416,
+            128.27876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65411,
+          "name": "Jeongseon-gun",
+          "latlng": [
+            37.38911,
+            128.72995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65430,
+          "name": "Kosong",
+          "latlng": [
+            38.37881,
+            128.4676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65459,
+          "name": "Neietsu",
+          "latlng": [
+            37.18447,
+            128.46821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65473,
+          "name": "Pyeongchang",
+          "latlng": [
+            37.37028,
+            128.39306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65474,
+          "name": "Pyeongchang-gun",
+          "latlng": [
+            37.3682,
+            128.3955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65478,
+          "name": "Samcheok-si",
+          "latlng": [
+            37.45013,
+            129.16626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65481,
+          "name": "Santyoku",
+          "latlng": [
+            37.44056,
+            129.17083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65504,
+          "name": "Sokcho",
+          "latlng": [
+            38.20701,
+            128.59181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65505,
+          "name": "Sokcho-si",
+          "latlng": [
+            38.20725,
+            128.59275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65519,
+          "name": "T’aebaek",
+          "latlng": [
+            37.1759,
+            128.9889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65515,
+          "name": "Taebaek-si",
+          "latlng": [
+            37.1652,
+            128.9857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65518,
+          "name": "Tonghae",
+          "latlng": [
+            37.54389,
+            129.10694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65534,
+          "name": "Wŏnju",
+          "latlng": [
+            37.35139,
+            127.94528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65533,
+          "name": "Wonju-si",
+          "latlng": [
+            37.32104,
+            127.92132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65536,
+          "name": "Yanggu",
+          "latlng": [
+            38.10583,
+            127.98944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65537,
+          "name": "Yanggu-gun",
+          "latlng": [
+            38.1016,
+            127.98555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65543,
+          "name": "Yangyang-gun",
+          "latlng": [
+            38.06215,
+            128.61471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3858,
+      "name": "Gwangju",
+      "code": "29",
+      "shortName": "29",
+      "cities": [
+        {
+          "id": 65362,
+          "name": "Gwangju",
+          "latlng": [
+            35.15472,
+            126.91556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65366,
+          "name": "Gwangsan-gu",
+          "latlng": [
+            35.16158,
+            126.8081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65437,
+          "name": "Masan",
+          "latlng": [
+            35.12725,
+            126.83149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3847,
+      "name": "Gyeonggi",
+      "code": "41",
+      "shortName": "41",
+      "cities": [
+        {
+          "id": 65262,
+          "name": "Ansan-si",
+          "latlng": [
+            37.32361,
+            126.82194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65263,
+          "name": "Anseong",
+          "latlng": [
+            37.01083,
+            127.27028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65264,
+          "name": "Anyang-si",
+          "latlng": [
+            37.3925,
+            126.92694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65274,
+          "name": "Bucheon-si",
+          "latlng": [
+            37.5044,
+            126.76625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65310,
+          "name": "Dongducheon",
+          "latlng": [
+            37.91889,
+            127.06897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65326,
+          "name": "Gapyeong",
+          "latlng": [
+            37.83101,
+            127.51059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65327,
+          "name": "Gapyeong-gun",
+          "latlng": [
+            37.8308,
+            127.51522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65339,
+          "name": "Gimpo-si",
+          "latlng": [
+            37.63637,
+            126.6927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65350,
+          "name": "Goyang-si",
+          "latlng": [
+            37.65639,
+            126.835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65352,
+          "name": "Gunpo-si",
+          "latlng": [
+            37.34261,
+            126.92149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65356,
+          "name": "Guri-si",
+          "latlng": [
+            37.5986,
+            127.1394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65359,
+          "name": "Gwacheon-si",
+          "latlng": [
+            37.43407,
+            126.99989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65363,
+          "name": "Gwangju",
+          "latlng": [
+            37.41,
+            127.25722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65364,
+          "name": "Gwangju-si",
+          "latlng": [
+            37.40329,
+            127.29855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65365,
+          "name": "Gwangmyeong-si",
+          "latlng": [
+            37.44435,
+            126.86499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65378,
+          "name": "Hanam",
+          "latlng": [
+            37.54,
+            127.20556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65379,
+          "name": "Hanam-si",
+          "latlng": [
+            37.53895,
+            127.2125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65390,
+          "name": "Hwado",
+          "latlng": [
+            37.6525,
+            127.3075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65391,
+          "name": "Hwaseong-si",
+          "latlng": [
+            37.20682,
+            126.8169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65395,
+          "name": "Icheon-si",
+          "latlng": [
+            37.27642,
+            127.43692
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65433,
+          "name": "Kwangmyŏng",
+          "latlng": [
+            37.47722,
+            126.86639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65448,
+          "name": "Munsan",
+          "latlng": [
+            37.85944,
+            126.785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65456,
+          "name": "Namyangju",
+          "latlng": [
+            37.63667,
+            127.21417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65457,
+          "name": "Namyangju-si",
+          "latlng": [
+            37.65217,
+            127.2401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65465,
+          "name": "Osan",
+          "latlng": [
+            37.15222,
+            127.07056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65466,
+          "name": "Osan-si",
+          "latlng": [
+            37.1623,
+            127.05246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65467,
+          "name": "Paju-si",
+          "latlng": [
+            37.75952,
+            126.77772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65468,
+          "name": "Pocheon-si",
+          "latlng": [
+            37.8937,
+            127.20028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65472,
+          "name": "Pubal",
+          "latlng": [
+            37.29167,
+            127.50778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65475,
+          "name": "Pyeongtaek",
+          "latlng": [
+            37.01372,
+            126.98748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65495,
+          "name": "Seongnam-si",
+          "latlng": [
+            37.41875,
+            127.12877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65499,
+          "name": "Siheung",
+          "latlng": [
+            37.39067,
+            126.7888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65512,
+          "name": "Suwon",
+          "latlng": [
+            37.29111,
+            127.00889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65520,
+          "name": "Uijeongbu-si",
+          "latlng": [
+            37.73865,
+            127.0477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65523,
+          "name": "Uiwang-si",
+          "latlng": [
+            37.345,
+            126.97575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65529,
+          "name": "Wabu",
+          "latlng": [
+            37.58972,
+            127.22028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65538,
+          "name": "Yangju",
+          "latlng": [
+            37.83311,
+            127.06169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65539,
+          "name": "Yangju-si",
+          "latlng": [
+            37.81732,
+            127.046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65540,
+          "name": "Yangp'yŏng",
+          "latlng": [
+            37.48972,
+            127.49056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65541,
+          "name": "Yangpyeong-gun",
+          "latlng": [
+            37.4888,
+            127.49222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65545,
+          "name": "Yeoju-si",
+          "latlng": [
+            37.29562,
+            127.63668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65546,
+          "name": "Yeoncheon-gun",
+          "latlng": [
+            38.09404,
+            127.07577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65564,
+          "name": "Yongin-si",
+          "latlng": [
+            37.23825,
+            127.17795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3848,
+      "name": "Incheon",
+      "code": "28",
+      "shortName": "28",
+      "cities": [
+        {
+          "id": 65277,
+          "name": "Bupyeong-gu",
+          "latlng": [
+            37.4972,
+            126.71107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65400,
+          "name": "Incheon",
+          "latlng": [
+            37.45646,
+            126.70515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65438,
+          "name": "Michuhol",
+          "latlng": [
+            37.46362,
+            126.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65560,
+          "name": "Yeonsu-gu",
+          "latlng": [
+            37.41911,
+            126.66489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3853,
+      "name": "Jeju",
+      "code": "49",
+      "shortName": "49",
+      "cities": [
+        {
+          "id": 65317,
+          "name": "Gaigeturi",
+          "latlng": [
+            33.46444,
+            126.31833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65406,
+          "name": "Jeju City",
+          "latlng": [
+            33.50972,
+            126.52194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65407,
+          "name": "Jeju-si",
+          "latlng": [
+            33.45578,
+            126.53928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65490,
+          "name": "Seogwipo",
+          "latlng": [
+            33.25333,
+            126.56181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3854,
+      "name": "North Chungcheong",
+      "code": "43",
+      "shortName": "43",
+      "cities": [
+        {
+          "id": 65268,
+          "name": "Boeun-gun",
+          "latlng": [
+            36.49489,
+            127.72865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65289,
+          "name": "Cheongju-si",
+          "latlng": [
+            36.63722,
+            127.48972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65295,
+          "name": "Chinch'ŏn",
+          "latlng": [
+            36.85667,
+            127.44333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65299,
+          "name": "Chungju-si",
+          "latlng": [
+            37.01791,
+            127.87713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65305,
+          "name": "Danyang-gun",
+          "latlng": [
+            36.98615,
+            128.36945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65315,
+          "name": "Eumseong-gun",
+          "latlng": [
+            36.92602,
+            127.6807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65341,
+          "name": "Goesan-gun",
+          "latlng": [
+            36.77179,
+            127.81426
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65405,
+          "name": "Jecheon-si",
+          "latlng": [
+            37.06206,
+            128.14065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65414,
+          "name": "Jeungpyeong-gun",
+          "latlng": [
+            36.78377,
+            127.59858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65416,
+          "name": "Jincheon-gun",
+          "latlng": [
+            36.88281,
+            127.42768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65429,
+          "name": "Koesan",
+          "latlng": [
+            36.81083,
+            127.79472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65463,
+          "name": "Okcheon",
+          "latlng": [
+            36.3012,
+            127.568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65464,
+          "name": "Okcheon-gun",
+          "latlng": [
+            36.26642,
+            127.58324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65553,
+          "name": "Yeongdong",
+          "latlng": [
+            36.175,
+            127.77639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65554,
+          "name": "Yeongdong-gun",
+          "latlng": [
+            36.21658,
+            127.79374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3855,
+      "name": "North Gyeongsang",
+      "code": "47",
+      "shortName": "47",
+      "cities": [
+        {
+          "id": 65260,
+          "name": "Andong",
+          "latlng": [
+            36.56636,
+            128.72275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65261,
+          "name": "Andong-si",
+          "latlng": [
+            36.56667,
+            128.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65269,
+          "name": "Bonghwa-gun",
+          "latlng": [
+            36.88951,
+            128.73573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65288,
+          "name": "Cheongdo-gun",
+          "latlng": [
+            35.67166,
+            128.78509
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65290,
+          "name": "Cheongsong gun",
+          "latlng": [
+            36.43351,
+            129.057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65291,
+          "name": "Cheongsong-gun",
+          "latlng": [
+            36.43288,
+            129.05159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65294,
+          "name": "Chilgok-gun",
+          "latlng": [
+            36.01512,
+            128.46138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65314,
+          "name": "Eisen",
+          "latlng": [
+            36.82167,
+            128.63083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65335,
+          "name": "Gimcheon",
+          "latlng": [
+            36.12176,
+            128.11981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65336,
+          "name": "Gimcheon-si",
+          "latlng": [
+            36.14481,
+            128.11157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65346,
+          "name": "Goryeong-gun",
+          "latlng": [
+            35.74959,
+            128.29707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65351,
+          "name": "Gumi-si",
+          "latlng": [
+            36.21009,
+            128.35442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65355,
+          "name": "Gunwi-gun",
+          "latlng": [
+            36.16995,
+            128.64705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65369,
+          "name": "Gyeongju",
+          "latlng": [
+            35.84278,
+            129.21167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65370,
+          "name": "Gyeongsan-si",
+          "latlng": [
+            35.83333,
+            128.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65381,
+          "name": "Hayang",
+          "latlng": [
+            35.91333,
+            128.82
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65382,
+          "name": "Heunghae",
+          "latlng": [
+            36.10945,
+            129.34517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65408,
+          "name": "Jenzan",
+          "latlng": [
+            36.24083,
+            128.2975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65431,
+          "name": "Kunwi",
+          "latlng": [
+            36.23472,
+            128.57278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65446,
+          "name": "Mungyeong",
+          "latlng": [
+            36.59458,
+            128.19946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65447,
+          "name": "Mungyeong-si",
+          "latlng": [
+            36.58755,
+            128.18624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65469,
+          "name": "Pohang",
+          "latlng": [
+            36.02917,
+            129.36481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65470,
+          "name": "Pohang-si",
+          "latlng": [
+            36.08333,
+            129.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65480,
+          "name": "Sangju",
+          "latlng": [
+            36.41528,
+            128.16056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65494,
+          "name": "Seongju-gun",
+          "latlng": [
+            35.91888,
+            128.28838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65522,
+          "name": "Uiseong-gun",
+          "latlng": [
+            36.36122,
+            128.61517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65524,
+          "name": "Uljin-gun",
+          "latlng": [
+            36.91968,
+            129.31966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65526,
+          "name": "Ulleung-gun",
+          "latlng": [
+            37.50442,
+            130.86084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65530,
+          "name": "Waegwan",
+          "latlng": [
+            35.99251,
+            128.39785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65544,
+          "name": "Yecheon-gun",
+          "latlng": [
+            36.65272,
+            128.43007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65549,
+          "name": "Yeongcheon-si",
+          "latlng": [
+            36,
+            129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65550,
+          "name": "Yeongdeok-gun",
+          "latlng": [
+            36.48125,
+            129.31078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65557,
+          "name": "Yeongju-si",
+          "latlng": [
+            36.87459,
+            128.58631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65558,
+          "name": "Yeongyang-gun",
+          "latlng": [
+            36.69592,
+            129.14196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65559,
+          "name": "Yeonil",
+          "latlng": [
+            35.99526,
+            129.35162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3851,
+      "name": "North Jeolla",
+      "code": "45",
+      "shortName": "45",
+      "cities": [
+        {
+          "id": 65273,
+          "name": "Buan-gun",
+          "latlng": [
+            35.7,
+            126.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65283,
+          "name": "Changsu",
+          "latlng": [
+            35.64842,
+            127.51523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65338,
+          "name": "Gimje-si",
+          "latlng": [
+            35.80701,
+            126.90755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65340,
+          "name": "Gochang-gun",
+          "latlng": [
+            35.43483,
+            126.70047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65353,
+          "name": "Gunsan",
+          "latlng": [
+            35.97861,
+            126.71139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65354,
+          "name": "Gunsan-si",
+          "latlng": [
+            35.93583,
+            126.68338
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65396,
+          "name": "Iksan",
+          "latlng": [
+            35.94389,
+            126.95444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65397,
+          "name": "Iksan-si",
+          "latlng": [
+            36.03718,
+            126.98897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65398,
+          "name": "Imsil",
+          "latlng": [
+            35.61306,
+            127.27944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65399,
+          "name": "Imsil-gun",
+          "latlng": [
+            35.6216,
+            127.23187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65404,
+          "name": "Jangsu-gun",
+          "latlng": [
+            35.62504,
+            127.56358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65409,
+          "name": "Jeongeup",
+          "latlng": [
+            35.60004,
+            126.91699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65410,
+          "name": "Jeongeup-si",
+          "latlng": [
+            35.6,
+            126.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65412,
+          "name": "Jeonju",
+          "latlng": [
+            35.82194,
+            127.14889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65413,
+          "name": "Jeonju-si",
+          "latlng": [
+            35.83333,
+            127.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65415,
+          "name": "Jinan-gun",
+          "latlng": [
+            35.80472,
+            127.47579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65426,
+          "name": "Kimje",
+          "latlng": [
+            35.80167,
+            126.88889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65428,
+          "name": "Koch'ang",
+          "latlng": [
+            35.43333,
+            126.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65445,
+          "name": "Muju-gun",
+          "latlng": [
+            35.93172,
+            127.71118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65455,
+          "name": "Namwon",
+          "latlng": [
+            35.44821,
+            127.38007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65458,
+          "name": "Nangen",
+          "latlng": [
+            35.41,
+            127.38583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65471,
+          "name": "Puan",
+          "latlng": [
+            35.72806,
+            126.73194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65508,
+          "name": "Sunchang-gun",
+          "latlng": [
+            35.37651,
+            127.14967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65532,
+          "name": "Wanju",
+          "latlng": [
+            35.84509,
+            127.14752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3861,
+      "name": "Sejong City",
+      "code": "50",
+      "shortName": "50",
+      "cities": [
+        {
+          "id": 65483,
+          "name": "Sejong",
+          "latlng": [
+            36.59245,
+            127.29223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3849,
+      "name": "Seoul",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 65306,
+          "name": "Dobong-gu",
+          "latlng": [
+            37.65066,
+            127.03011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65309,
+          "name": "Dongdaemun-gu",
+          "latlng": [
+            37.58189,
+            127.05408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65312,
+          "name": "Dongjak-gu",
+          "latlng": [
+            37.50056,
+            126.95149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65316,
+          "name": "Eunpyeong-gu",
+          "latlng": [
+            37.61846,
+            126.9278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65318,
+          "name": "Gangbuk-gu",
+          "latlng": [
+            37.6349,
+            127.02015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65319,
+          "name": "Gangdong-gu",
+          "latlng": [
+            37.55274,
+            127.14546
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65321,
+          "name": "Gangnam-gu",
+          "latlng": [
+            37.4951,
+            127.06278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65324,
+          "name": "Gangseo-gu",
+          "latlng": [
+            37.56227,
+            126.81622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65330,
+          "name": "Geumcheon-gu",
+          "latlng": [
+            37.47486,
+            126.89106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65357,
+          "name": "Guro-gu",
+          "latlng": [
+            37.49447,
+            126.8502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65360,
+          "name": "Gwanak-gu",
+          "latlng": [
+            37.47876,
+            126.95235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65361,
+          "name": "Gwangjin-gu",
+          "latlng": [
+            37.53913,
+            127.08366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65419,
+          "name": "Jongno-gu",
+          "latlng": [
+            37.5729,
+            126.97928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65420,
+          "name": "Jung-gu",
+          "latlng": [
+            37.55986,
+            126.99398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65424,
+          "name": "Jungnang-gu",
+          "latlng": [
+            37.60199,
+            127.10461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65436,
+          "name": "Mapo-gu",
+          "latlng": [
+            37.55438,
+            126.90926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65462,
+          "name": "Nowon-gu",
+          "latlng": [
+            37.66045,
+            127.06718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65488,
+          "name": "Seocho-gu",
+          "latlng": [
+            37.49447,
+            127.01088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65489,
+          "name": "Seodaemun-gu",
+          "latlng": [
+            37.57809,
+            126.93506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65491,
+          "name": "Seongbuk-gu",
+          "latlng": [
+            37.60267,
+            127.01448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65492,
+          "name": "Seongdong-gu",
+          "latlng": [
+            37.54784,
+            127.02461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65498,
+          "name": "Seoul",
+          "latlng": [
+            37.566,
+            126.9784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65507,
+          "name": "Songpa-gu",
+          "latlng": [
+            37.5021,
+            127.11113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65535,
+          "name": "Yangcheon-gu",
+          "latlng": [
+            37.52157,
+            126.85827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65551,
+          "name": "Yeongdeungpo-gu",
+          "latlng": [
+            37.52606,
+            126.90308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65565,
+          "name": "Yongsan-dong",
+          "latlng": [
+            37.5445,
+            126.9837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65566,
+          "name": "Yongsan-gu",
+          "latlng": [
+            37.53391,
+            126.9775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3859,
+      "name": "South Chungcheong",
+      "code": "44",
+      "shortName": "44",
+      "cities": [
+        {
+          "id": 65265,
+          "name": "Asan",
+          "latlng": [
+            36.78361,
+            127.00417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65266,
+          "name": "Asan-si",
+          "latlng": [
+            36.80791,
+            126.97769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65270,
+          "name": "Boryeong",
+          "latlng": [
+            36.34931,
+            126.59772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65271,
+          "name": "Boryeong-si",
+          "latlng": [
+            36.35649,
+            126.59444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65279,
+          "name": "Buyeo",
+          "latlng": [
+            36.27472,
+            126.90906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65280,
+          "name": "Buyeo-gun",
+          "latlng": [
+            36.26257,
+            126.85802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65286,
+          "name": "Cheonan",
+          "latlng": [
+            36.8065,
+            127.1522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65287,
+          "name": "Cheonan-si",
+          "latlng": [
+            36.80488,
+            127.19431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65292,
+          "name": "Cheongyang-gun",
+          "latlng": [
+            36.41676,
+            126.79419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65332,
+          "name": "Geumsan-gun",
+          "latlng": [
+            36.13381,
+            127.48062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65344,
+          "name": "Gongju",
+          "latlng": [
+            36.45556,
+            127.12472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65345,
+          "name": "Gongju-si",
+          "latlng": [
+            36.5,
+            127.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65371,
+          "name": "Gyeryong-si",
+          "latlng": [
+            36.29304,
+            127.22575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65386,
+          "name": "Hongseong",
+          "latlng": [
+            36.6009,
+            126.665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65387,
+          "name": "Hongseong-gun",
+          "latlng": [
+            36.56705,
+            126.62626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65427,
+          "name": "Kinzan",
+          "latlng": [
+            36.10306,
+            127.48889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65460,
+          "name": "Nonsan",
+          "latlng": [
+            36.20389,
+            127.08472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65461,
+          "name": "Nonsan-si",
+          "latlng": [
+            36.19774,
+            127.12143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65487,
+          "name": "Seocheon-gun",
+          "latlng": [
+            36.106,
+            126.69716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65493,
+          "name": "Seonghwan",
+          "latlng": [
+            36.91556,
+            127.13139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65496,
+          "name": "Seosan",
+          "latlng": [
+            36.78167,
+            126.45222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65497,
+          "name": "Seosan-si",
+          "latlng": [
+            36.78518,
+            126.46568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65514,
+          "name": "Taean-gun",
+          "latlng": [
+            36.70036,
+            126.28391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65516,
+          "name": "Taesal-li",
+          "latlng": [
+            36.9714,
+            126.4542
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65517,
+          "name": "Tangjin",
+          "latlng": [
+            36.89444,
+            126.62972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65562,
+          "name": "Yesan",
+          "latlng": [
+            36.67756,
+            126.84272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65563,
+          "name": "Yesan-gun",
+          "latlng": [
+            36.68218,
+            126.79592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65568,
+          "name": "Yŏnmu",
+          "latlng": [
+            36.12944,
+            127.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3857,
+      "name": "South Gyeongsang",
+      "code": "48",
+      "shortName": "48",
+      "cities": [
+        {
+          "id": 65281,
+          "name": "Changnyeong",
+          "latlng": [
+            35.54145,
+            128.49506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65282,
+          "name": "Changnyeong-gun",
+          "latlng": [
+            35.50822,
+            128.4902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65284,
+          "name": "Changwon",
+          "latlng": [
+            35.22806,
+            128.68111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65285,
+          "name": "Changwon-si",
+          "latlng": [
+            35.27533,
+            128.65152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65296,
+          "name": "Chinju",
+          "latlng": [
+            35.19278,
+            128.08472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65328,
+          "name": "Geochang-gun",
+          "latlng": [
+            35.73034,
+            127.90149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65329,
+          "name": "Geoje-si",
+          "latlng": [
+            34.9,
+            128.66666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65337,
+          "name": "Gimhae-si",
+          "latlng": [
+            35.25,
+            128.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65347,
+          "name": "Goseong",
+          "latlng": [
+            34.97631,
+            128.32361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65348,
+          "name": "Goseong-gun",
+          "latlng": [
+            35.01478,
+            128.28244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65372,
+          "name": "Hadong-gun",
+          "latlng": [
+            35.13628,
+            127.77291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65376,
+          "name": "Haman-gun",
+          "latlng": [
+            35.29117,
+            128.4297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65380,
+          "name": "Hapcheon-gun",
+          "latlng": [
+            35.5741,
+            128.13841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65418,
+          "name": "Jinju-si",
+          "latlng": [
+            35.20445,
+            128.12408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65425,
+          "name": "Kimhae",
+          "latlng": [
+            35.23417,
+            128.88111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65435,
+          "name": "Kyosai",
+          "latlng": [
+            34.85028,
+            128.58861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65439,
+          "name": "Miryang",
+          "latlng": [
+            35.49333,
+            128.74889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65440,
+          "name": "Miryang-si",
+          "latlng": [
+            35.4975,
+            128.7869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65449,
+          "name": "Naesŏ",
+          "latlng": [
+            35.24972,
+            128.52
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65454,
+          "name": "Namhae-gun",
+          "latlng": [
+            34.80433,
+            127.92708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65476,
+          "name": "Sacheon-si",
+          "latlng": [
+            35.00385,
+            128.06857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65479,
+          "name": "Sancheong-gun",
+          "latlng": [
+            35.36625,
+            127.87065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65502,
+          "name": "Sinhyeon",
+          "latlng": [
+            34.8825,
+            128.62667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65521,
+          "name": "Uiryeong-gun",
+          "latlng": [
+            35.3923,
+            128.26917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65528,
+          "name": "Ungsang",
+          "latlng": [
+            35.40611,
+            129.16861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65542,
+          "name": "Yangsan",
+          "latlng": [
+            35.34199,
+            129.03358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3856,
+      "name": "South Jeolla",
+      "code": "46",
+      "shortName": "46",
+      "cities": [
+        {
+          "id": 65267,
+          "name": "Beolgyo",
+          "latlng": [
+            34.84897,
+            127.34052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65272,
+          "name": "Boseong-gun",
+          "latlng": [
+            34.84622,
+            127.22189
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65304,
+          "name": "Damyang-gun",
+          "latlng": [
+            35.33976,
+            126.99125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65320,
+          "name": "Gangjin-gun",
+          "latlng": [
+            34.61787,
+            126.76758
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65342,
+          "name": "Goheung-gun",
+          "latlng": [
+            34.58333,
+            127.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65343,
+          "name": "Gokseong-gun",
+          "latlng": [
+            35.21449,
+            127.2628
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65358,
+          "name": "Gurye-gun",
+          "latlng": [
+            35.23616,
+            127.50129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65367,
+          "name": "Gwangyang",
+          "latlng": [
+            34.9414,
+            127.69569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65368,
+          "name": "Gwangyang-si",
+          "latlng": [
+            35.04007,
+            127.60949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65373,
+          "name": "Haenam",
+          "latlng": [
+            34.57111,
+            126.59889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65374,
+          "name": "Haenam-gun",
+          "latlng": [
+            34.54047,
+            126.5187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65377,
+          "name": "Hampyeong-gun",
+          "latlng": [
+            35.14988,
+            126.53337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65392,
+          "name": "Hwasun",
+          "latlng": [
+            35.06125,
+            126.98746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65393,
+          "name": "Hwasun-gun",
+          "latlng": [
+            35.00468,
+            127.02648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65402,
+          "name": "Jangheung-gun",
+          "latlng": [
+            34.70555,
+            126.94905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65403,
+          "name": "Jangseong-gun",
+          "latlng": [
+            35.32734,
+            126.76817
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65417,
+          "name": "Jindo-gun",
+          "latlng": [
+            34.41958,
+            126.22599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65432,
+          "name": "Kurye",
+          "latlng": [
+            35.20944,
+            127.46444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65434,
+          "name": "Kwangyang",
+          "latlng": [
+            34.97528,
+            127.58917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65441,
+          "name": "Mokpo",
+          "latlng": [
+            34.81282,
+            126.39181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65442,
+          "name": "Mokpo-si",
+          "latlng": [
+            34.81226,
+            126.39179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65443,
+          "name": "Muan",
+          "latlng": [
+            34.99014,
+            126.47899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65444,
+          "name": "Muan-gun",
+          "latlng": [
+            34.95642,
+            126.44041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65450,
+          "name": "Naju",
+          "latlng": [
+            35.0292,
+            126.7175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65451,
+          "name": "Naju-si",
+          "latlng": [
+            35.05683,
+            126.67362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65500,
+          "name": "Sinan",
+          "latlng": [
+            34.8262,
+            126.10863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65501,
+          "name": "Sinan-gun",
+          "latlng": [
+            34.83107,
+            126.09872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65509,
+          "name": "Suncheon",
+          "latlng": [
+            34.9505,
+            127.48784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65510,
+          "name": "Suncheon-si",
+          "latlng": [
+            34.97162,
+            127.46096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65531,
+          "name": "Wando-gun",
+          "latlng": [
+            34.31182,
+            126.73845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65547,
+          "name": "Yeongam",
+          "latlng": [
+            34.80059,
+            126.69669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65548,
+          "name": "Yeongam-gun",
+          "latlng": [
+            34.7979,
+            126.62651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65555,
+          "name": "Yeonggwang",
+          "latlng": [
+            35.27814,
+            126.51181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65556,
+          "name": "Yeonggwang-gun",
+          "latlng": [
+            35.28711,
+            126.43616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65561,
+          "name": "Yeosu",
+          "latlng": [
+            34.76062,
+            127.66215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3852,
+      "name": "Ulsan",
+      "code": "31",
+      "shortName": "31",
+      "cities": [
+        {
+          "id": 65275,
+          "name": "Buk-gu",
+          "latlng": [
+            35.58243,
+            129.36049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65308,
+          "name": "Dong-gu",
+          "latlng": [
+            35.5047,
+            129.4186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65423,
+          "name": "Jung-gu",
+          "latlng": [
+            35.5684,
+            129.33226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65453,
+          "name": "Nam-gu",
+          "latlng": [
+            35.54382,
+            129.32917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65525,
+          "name": "Ulju-gun",
+          "latlng": [
+            35.56233,
+            129.1269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65527,
+          "name": "Ulsan",
+          "latlng": [
+            35.53722,
+            129.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

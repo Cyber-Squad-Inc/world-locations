@@ -1,0 +1,294 @@
+{
+  "name": {
+    "common": "Seychelles",
+    "official": "Seychelles"
+  },
+  "iso2": "SC",
+  "iso3": "SYC",
+  "numericCode": "690",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".sc",
+  "phoneCode": "248",
+  "capital": "Victoria",
+  "currencies": {
+    "SCR": "Seychellois rupee"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Mahe",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "SCT",
+      "tzName": "Seychelles Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sc.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sc.svg",
+  "states": [
+    {
+      "id": 513,
+      "name": "Anse Boileau",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 102906,
+          "name": "Anse Boileau",
+          "latlng": [
+            -4.71667,
+            55.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Anse Royale",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 102907,
+          "name": "Anse Royale",
+          "latlng": [
+            -4.73333,
+            55.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "name": "Anse-aux-Pins",
+      "code": "01",
+      "shortName": "01",
+      "cities": []
+    },
+    {
+      "id": 508,
+      "name": "Au Cap",
+      "code": "04",
+      "shortName": "04",
+      "cities": []
+    },
+    {
+      "id": 497,
+      "name": "Baie Lazare",
+      "code": "06",
+      "shortName": "06",
+      "cities": []
+    },
+    {
+      "id": 514,
+      "name": "Baie Sainte Anne",
+      "code": "07",
+      "shortName": "07",
+      "cities": []
+    },
+    {
+      "id": 512,
+      "name": "Beau Vallon",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 102908,
+          "name": "Beau Vallon",
+          "latlng": [
+            -4.62091,
+            55.43015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "name": "Bel Air",
+      "code": "09",
+      "shortName": "09",
+      "cities": []
+    },
+    {
+      "id": 505,
+      "name": "Bel Ombre",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 102909,
+          "name": "Bel Ombre",
+          "latlng": [
+            -4.61667,
+            55.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "name": "Cascade",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 102910,
+          "name": "Cascade",
+          "latlng": [
+            -4.66667,
+            55.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "name": "Glacis",
+      "code": "12",
+      "shortName": "12",
+      "cities": []
+    },
+    {
+      "id": 500,
+      "name": "Grand'Anse Mahé",
+      "code": "13",
+      "shortName": "13",
+      "cities": []
+    },
+    {
+      "id": 504,
+      "name": "Grand'Anse Praslin",
+      "code": "14",
+      "shortName": "14",
+      "cities": []
+    },
+    {
+      "id": 495,
+      "name": "La Digue",
+      "code": "15",
+      "shortName": "15",
+      "cities": []
+    },
+    {
+      "id": 516,
+      "name": "La Rivière Anglaise",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 102913,
+          "name": "Victoria",
+          "latlng": [
+            -4.62001,
+            55.45501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "name": "Les Mamelles",
+      "code": "24",
+      "shortName": "24",
+      "cities": []
+    },
+    {
+      "id": 494,
+      "name": "Mont Buxton",
+      "code": "17",
+      "shortName": "17",
+      "cities": []
+    },
+    {
+      "id": 498,
+      "name": "Mont Fleuri",
+      "code": "18",
+      "shortName": "18",
+      "cities": []
+    },
+    {
+      "id": 511,
+      "name": "Plaisance",
+      "code": "19",
+      "shortName": "19",
+      "cities": []
+    },
+    {
+      "id": 510,
+      "name": "Pointe La Rue",
+      "code": "20",
+      "shortName": "20",
+      "cities": []
+    },
+    {
+      "id": 507,
+      "name": "Port Glaud",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 102911,
+          "name": "Port Glaud",
+          "latlng": [
+            -4.66667,
+            55.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Roche Caiman",
+      "code": "25",
+      "shortName": "25",
+      "cities": []
+    },
+    {
+      "id": 496,
+      "name": "Saint Louis",
+      "code": "22",
+      "shortName": "22",
+      "cities": []
+    },
+    {
+      "id": 509,
+      "name": "Takamaka",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 102912,
+          "name": "Takamaka",
+          "latlng": [
+            -4.76667,
+            55.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

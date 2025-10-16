@@ -1,0 +1,258 @@
+{
+  "name": {
+    "common": "Qatar",
+    "official": "Qatar"
+  },
+  "iso2": "QA",
+  "iso3": "QAT",
+  "numericCode": "634",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".qa",
+  "phoneCode": "974",
+  "capital": "Doha",
+  "currencies": {
+    "QAR": "Qatari riyal"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Qatar",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/qa.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/qa.svg",
+  "states": [
+    {
+      "id": 3182,
+      "name": "Al Daayen",
+      "code": "ZA",
+      "shortName": "ZA",
+      "cities": []
+    },
+    {
+      "id": 3183,
+      "name": "Al Khor",
+      "code": "KH",
+      "shortName": "KH",
+      "cities": [
+        {
+          "id": 89856,
+          "name": "Al Ghuwayrīyah",
+          "latlng": [
+            25.82882,
+            51.24567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89858,
+          "name": "Al Khawr",
+          "latlng": [
+            25.68389,
+            51.50583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3177,
+      "name": "Al Rayyan",
+      "code": "RA",
+      "shortName": "RA",
+      "cities": [
+        {
+          "id": 89861,
+          "name": "Ar Rayyān",
+          "latlng": [
+            25.29194,
+            51.42444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89869,
+          "name": "Umm Bāb",
+          "latlng": [
+            25.21417,
+            50.80722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3179,
+      "name": "Al Wakrah",
+      "code": "WA",
+      "shortName": "WA",
+      "cities": [
+        {
+          "id": 89859,
+          "name": "Al Wakrah",
+          "latlng": [
+            25.17151,
+            51.60337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89860,
+          "name": "Al Wukayr",
+          "latlng": [
+            25.15107,
+            51.53718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89868,
+          "name": "Musay‘īd",
+          "latlng": [
+            24.99226,
+            51.55067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3178,
+      "name": "Al-Shahaniya",
+      "code": "SH",
+      "shortName": "SH",
+      "cities": [
+        {
+          "id": 89857,
+          "name": "Al Jumaylīyah",
+          "latlng": [
+            25.61068,
+            51.09108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89863,
+          "name": "Ash Shīḩānīyah",
+          "latlng": [
+            25.37088,
+            51.22264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89865,
+          "name": "Dukhān",
+          "latlng": [
+            25.42485,
+            50.78227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3181,
+      "name": "Doha",
+      "code": "DA",
+      "shortName": "DA",
+      "cities": [
+        {
+          "id": 89864,
+          "name": "Doha",
+          "latlng": [
+            25.28545,
+            51.53096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3180,
+      "name": "Madinat ash Shamal",
+      "code": "MS",
+      "shortName": "MS",
+      "cities": [
+        {
+          "id": 89862,
+          "name": "Ar Ruways",
+          "latlng": [
+            26.13978,
+            51.21493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89866,
+          "name": "Fuwayriţ",
+          "latlng": [
+            26.02565,
+            51.36971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89867,
+          "name": "Madīnat ash Shamāl",
+          "latlng": [
+            26.12933,
+            51.2009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3184,
+      "name": "Umm Salal",
+      "code": "US",
+      "shortName": "US",
+      "cities": [
+        {
+          "id": 89870,
+          "name": "Umm Şalāl Muḩammad",
+          "latlng": [
+            25.41524,
+            51.40647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

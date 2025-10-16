@@ -1,0 +1,2555 @@
+{
+  "name": {
+    "common": "Dominican Republic",
+    "official": "Dominican Republic"
+  },
+  "iso2": "DO",
+  "iso3": "DOM",
+  "numericCode": "214",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".do",
+  "phoneCode": "1",
+  "capital": "Santo Domingo",
+  "currencies": {
+    "DOP": "Dominican peso"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Santo_Domingo",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/do.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/do.svg",
+  "states": [
+    {
+      "id": 4114,
+      "name": "Azua",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 31024,
+          "name": "Azua",
+          "latlng": [
+            18.45319,
+            -70.7349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31060,
+          "name": "El Guayabal",
+          "latlng": [
+            18.7496,
+            -70.8369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31070,
+          "name": "Estebanía",
+          "latlng": [
+            18.4577,
+            -70.6435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31111,
+          "name": "Las Charcas",
+          "latlng": [
+            18.45026,
+            -70.61724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31142,
+          "name": "Padre Las Casas",
+          "latlng": [
+            18.75,
+            -70.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31144,
+          "name": "Palmar de Ocoa",
+          "latlng": [
+            18.29656,
+            -70.58635
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31153,
+          "name": "Peralta",
+          "latlng": [
+            18.58164,
+            -70.77029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31160,
+          "name": "Pueblo Viejo",
+          "latlng": [
+            18.4,
+            -70.76765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31174,
+          "name": "Sabana Yegua",
+          "latlng": [
+            18.71667,
+            -71.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31207,
+          "name": "Tábara Arriba",
+          "latlng": [
+            18.56999,
+            -70.87978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31222,
+          "name": "Villarpando",
+          "latlng": [
+            18.6586,
+            -71.03916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31225,
+          "name": "Yayas de Viajama",
+          "latlng": [
+            18.6071,
+            -70.92753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4105,
+      "name": "Baoruco",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 31061,
+          "name": "El Palmar",
+          "latlng": [
+            18.41139,
+            -71.24558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31074,
+          "name": "Galván",
+          "latlng": [
+            18.50228,
+            -71.34271
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31109,
+          "name": "La Uvilla",
+          "latlng": [
+            18.36186,
+            -71.21046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31122,
+          "name": "Los Ríos",
+          "latlng": [
+            18.52131,
+            -71.59106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31138,
+          "name": "Neiba",
+          "latlng": [
+            18.48137,
+            -71.41965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31203,
+          "name": "Tamayo",
+          "latlng": [
+            18.5,
+            -71.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31218,
+          "name": "Villa Jaragua",
+          "latlng": [
+            18.49077,
+            -71.48377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4090,
+      "name": "Barahona",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 31036,
+          "name": "Cabral",
+          "latlng": [
+            18.19991,
+            -71.2466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31038,
+          "name": "Cachón",
+          "latlng": [
+            18.24833,
+            -71.18912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31041,
+          "name": "Canoa",
+          "latlng": [
+            18.35499,
+            -71.15851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31062,
+          "name": "El Peñón",
+          "latlng": [
+            18.29643,
+            -71.1841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31066,
+          "name": "Enriquillo",
+          "latlng": [
+            17.91667,
+            -71.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31073,
+          "name": "Fundación",
+          "latlng": [
+            18.28668,
+            -71.18147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31090,
+          "name": "Jaquimeyes",
+          "latlng": [
+            18.31173,
+            -71.16145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31104,
+          "name": "La Ciénaga",
+          "latlng": [
+            18.06858,
+            -71.10651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31115,
+          "name": "Las Salinas",
+          "latlng": [
+            18.27485,
+            -71.31596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31145,
+          "name": "Paraíso",
+          "latlng": [
+            18.02652,
+            -71.20889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31154,
+          "name": "Pescadería",
+          "latlng": [
+            18.26766,
+            -71.16612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31158,
+          "name": "Polo",
+          "latlng": [
+            18.07873,
+            -71.28723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31194,
+          "name": "Santa Cruz de Barahona",
+          "latlng": [
+            18.20854,
+            -71.10077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31210,
+          "name": "Vicente Noble",
+          "latlng": [
+            18.38443,
+            -71.18009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4107,
+      "name": "Dajabón",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 31053,
+          "name": "Dajabón",
+          "latlng": [
+            19.54878,
+            -71.70829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31063,
+          "name": "El Pino",
+          "latlng": [
+            19.43537,
+            -71.4754
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31118,
+          "name": "Loma de Cabrera",
+          "latlng": [
+            19.41667,
+            -71.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31146,
+          "name": "Partido",
+          "latlng": [
+            19.48403,
+            -71.5473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31165,
+          "name": "Restauración",
+          "latlng": [
+            19.31532,
+            -71.69239
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4095,
+      "name": "Distrito Nacional",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 31029,
+          "name": "Bella Vista",
+          "latlng": [
+            18.45539,
+            -69.9454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31047,
+          "name": "Ciudad Nueva",
+          "latlng": [
+            18.46707,
+            -69.89339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31051,
+          "name": "Cristo Rey",
+          "latlng": [
+            18.5,
+            -69.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31067,
+          "name": "Ensanche Luperón",
+          "latlng": [
+            18.5,
+            -69.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31101,
+          "name": "La Agustina",
+          "latlng": [
+            18.5,
+            -69.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31107,
+          "name": "La Julia",
+          "latlng": [
+            18.46667,
+            -69.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31182,
+          "name": "San Carlos",
+          "latlng": [
+            18.48333,
+            -69.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31197,
+          "name": "Santo Domingo",
+          "latlng": [
+            18.47186,
+            -69.89232
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31213,
+          "name": "Villa Consuelo",
+          "latlng": [
+            18.48333,
+            -69.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31215,
+          "name": "Villa Francisca",
+          "latlng": [
+            18.48278,
+            -69.88914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4113,
+      "name": "Duarte",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 31019,
+          "name": "Agua Santa del Yuna",
+          "latlng": [
+            19.15072,
+            -69.80069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31022,
+          "name": "Arenoso",
+          "latlng": [
+            19.18732,
+            -69.85917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31043,
+          "name": "Castillo",
+          "latlng": [
+            19.25,
+            -70
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31086,
+          "name": "Hostos",
+          "latlng": [
+            19.18043,
+            -70.02046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31112,
+          "name": "Las Guáranas",
+          "latlng": [
+            19.1931,
+            -70.20835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31156,
+          "name": "Pimentel",
+          "latlng": [
+            19.21667,
+            -70.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31185,
+          "name": "San Francisco de Macorís",
+          "latlng": [
+            19.30099,
+            -70.25259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31219,
+          "name": "Villa Riva",
+          "latlng": [
+            19.15051,
+            -69.8837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4086,
+      "name": "El Seibo",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 31131,
+          "name": "Miches",
+          "latlng": [
+            18.98364,
+            -69.0476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31151,
+          "name": "Pedro Sánchez",
+          "latlng": [
+            18.86375,
+            -69.10868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31195,
+          "name": "Santa Cruz de El Seibo",
+          "latlng": [
+            18.76559,
+            -69.03886
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4102,
+      "name": "Espaillat",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 31044,
+          "name": "Cayetano Germosén",
+          "latlng": [
+            19.34285,
+            -70.47573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31075,
+          "name": "Gaspar Hernández",
+          "latlng": [
+            19.62748,
+            -70.27772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31089,
+          "name": "Jamao al Norte",
+          "latlng": [
+            19.63552,
+            -70.44664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31095,
+          "name": "Joba Arriba",
+          "latlng": [
+            19.56667,
+            -70.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31097,
+          "name": "Juan López Abajo",
+          "latlng": [
+            19.43333,
+            -70.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31132,
+          "name": "Moca",
+          "latlng": [
+            19.5,
+            -70.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31193,
+          "name": "San Víctor Arriba",
+          "latlng": [
+            19.47741,
+            -70.53585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31209,
+          "name": "Veragua Arriba",
+          "latlng": [
+            19.58333,
+            -70.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4106,
+      "name": "Hato Mayor",
+      "code": "30",
+      "shortName": "30",
+      "cities": [
+        {
+          "id": 31065,
+          "name": "El Valle",
+          "latlng": [
+            18.93333,
+            -69.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31080,
+          "name": "Guayabo Dulce",
+          "latlng": [
+            18.65,
+            -69.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31084,
+          "name": "Hato Mayor del Rey",
+          "latlng": [
+            18.76278,
+            -69.25681
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31175,
+          "name": "Sabana de la Mar",
+          "latlng": [
+            19.03333,
+            -69.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4089,
+      "name": "Hermanas Mirabal",
+      "code": "19",
+      "shortName": "19",
+      "cities": [
+        {
+          "id": 31178,
+          "name": "Salcedo",
+          "latlng": [
+            19.41667,
+            -70.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31179,
+          "name": "Salsipuedes",
+          "latlng": [
+            19.40552,
+            -70.37985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31205,
+          "name": "Tenares",
+          "latlng": [
+            19.37439,
+            -70.35087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31220,
+          "name": "Villa Tapia",
+          "latlng": [
+            19.30084,
+            -70.42199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4097,
+      "name": "Independencia",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 31052,
+          "name": "Cristóbal",
+          "latlng": [
+            18.29405,
+            -71.29298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31055,
+          "name": "Duvergé",
+          "latlng": [
+            18.31634,
+            -71.59451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31079,
+          "name": "Guayabal",
+          "latlng": [
+            18.5981,
+            -71.64184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31094,
+          "name": "Jimaní",
+          "latlng": [
+            18.49169,
+            -71.85022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31105,
+          "name": "La Descubierta",
+          "latlng": [
+            18.57053,
+            -71.72967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31130,
+          "name": "Mella",
+          "latlng": [
+            18.35871,
+            -71.41716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31159,
+          "name": "Postrer Río",
+          "latlng": [
+            18.54374,
+            -71.63561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4109,
+      "name": "La Altagracia",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 31032,
+          "name": "Boca de Yuma",
+          "latlng": [
+            18.37825,
+            -68.609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31085,
+          "name": "Higüey",
+          "latlng": [
+            18.7,
+            -68.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31140,
+          "name": "Otra Banda",
+          "latlng": [
+            18.65017,
+            -68.66281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31162,
+          "name": "Punta Cana",
+          "latlng": [
+            18.58182,
+            -68.40431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31180,
+          "name": "Salvaleón de Higüey",
+          "latlng": [
+            18.61501,
+            -68.70798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31192,
+          "name": "San Rafael del Yuma",
+          "latlng": [
+            18.42993,
+            -68.6739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4087,
+      "name": "La Romana",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 31081,
+          "name": "Guaymate",
+          "latlng": [
+            18.58793,
+            -68.97867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31108,
+          "name": "La Romana",
+          "latlng": [
+            18.42733,
+            -68.97285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4116,
+      "name": "La Vega",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 31048,
+          "name": "Concepción de La Vega",
+          "latlng": [
+            19.22207,
+            -70.52956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31049,
+          "name": "Constanza",
+          "latlng": [
+            18.90919,
+            -70.74499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31091,
+          "name": "Jarabacoa",
+          "latlng": [
+            19.11683,
+            -70.63595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31093,
+          "name": "Jima Abajo",
+          "latlng": [
+            19.13292,
+            -70.37607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31166,
+          "name": "Rincón",
+          "latlng": [
+            19.11938,
+            -70.40632
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31169,
+          "name": "Río Verde Arriba",
+          "latlng": [
+            19.31583,
+            -70.56643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31206,
+          "name": "Tireo Arriba",
+          "latlng": [
+            18.93537,
+            -70.6885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4094,
+      "name": "María Trinidad Sánchez",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 31023,
+          "name": "Arroyo Salado",
+          "latlng": [
+            19.5,
+            -69.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31037,
+          "name": "Cabrera",
+          "latlng": [
+            19.6426,
+            -69.90489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31059,
+          "name": "El Factor",
+          "latlng": [
+            19.31834,
+            -69.88827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31106,
+          "name": "La Entrada",
+          "latlng": [
+            19.55367,
+            -69.90762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31137,
+          "name": "Nagua",
+          "latlng": [
+            19.3832,
+            -69.8474
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31168,
+          "name": "Río San Juan",
+          "latlng": [
+            19.55022,
+            -70.07703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4099,
+      "name": "Monseñor Nouel",
+      "code": "28",
+      "shortName": "28",
+      "cities": [
+        {
+          "id": 31034,
+          "name": "Bonao",
+          "latlng": [
+            18.91667,
+            -70.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31096,
+          "name": "Juan Adrián",
+          "latlng": [
+            18.76365,
+            -70.33732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31124,
+          "name": "Maimón",
+          "latlng": [
+            18.88333,
+            -70.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31155,
+          "name": "Piedra Blanca",
+          "latlng": [
+            18.84431,
+            -70.31688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31176,
+          "name": "Sabana del Puerto",
+          "latlng": [
+            19.06667,
+            -70.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4115,
+      "name": "Monte Cristi",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 31040,
+          "name": "Cana Chapetón",
+          "latlng": [
+            19.60703,
+            -71.25734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31042,
+          "name": "Castañuelas",
+          "latlng": [
+            19.71387,
+            -71.49876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31082,
+          "name": "Guayubín",
+          "latlng": [
+            19.61667,
+            -71.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31083,
+          "name": "Hatillo Palma",
+          "latlng": [
+            19.66256,
+            -71.19406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31114,
+          "name": "Las Matas de Santa Cruz",
+          "latlng": [
+            19.67119,
+            -71.50471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31134,
+          "name": "Monte Cristi",
+          "latlng": [
+            19.83333,
+            -71.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31152,
+          "name": "Pepillo Salcedo",
+          "latlng": [
+            19.66667,
+            -71.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31184,
+          "name": "San Fernando de Monte Cristi",
+          "latlng": [
+            19.84826,
+            -71.64597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31214,
+          "name": "Villa Elisa",
+          "latlng": [
+            19.6856,
+            -71.27007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31221,
+          "name": "Villa Vásquez",
+          "latlng": [
+            19.80791,
+            -71.44
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4111,
+      "name": "Monte Plata",
+      "code": "29",
+      "shortName": "29",
+      "cities": [
+        {
+          "id": 31028,
+          "name": "Bayaguana",
+          "latlng": [
+            18.78333,
+            -69.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31054,
+          "name": "Don Juan",
+          "latlng": [
+            18.82774,
+            -69.94629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31068,
+          "name": "Esperalvillo",
+          "latlng": [
+            18.81509,
+            -70.03557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31076,
+          "name": "Gonzalo",
+          "latlng": [
+            18.95147,
+            -69.75114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31119,
+          "name": "Los Botados",
+          "latlng": [
+            18.73226,
+            -69.99536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31126,
+          "name": "Majagual",
+          "latlng": [
+            19.04134,
+            -69.83616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31136,
+          "name": "Monte Plata",
+          "latlng": [
+            18.807,
+            -69.78399
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31171,
+          "name": "Sabana Grande de Boyá",
+          "latlng": [
+            18.94498,
+            -69.79331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31224,
+          "name": "Yamasá",
+          "latlng": [
+            18.77315,
+            -70.02583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4101,
+      "name": "Pedernales",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 31099,
+          "name": "Juancho",
+          "latlng": [
+            17.85782,
+            -71.29311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31141,
+          "name": "Oviedo",
+          "latlng": [
+            17.80136,
+            -71.401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31148,
+          "name": "Pedernales",
+          "latlng": [
+            18.08333,
+            -71.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4096,
+      "name": "Peravia",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 31027,
+          "name": "Baní",
+          "latlng": [
+            18.27964,
+            -70.33185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31128,
+          "name": "Matanzas",
+          "latlng": [
+            18.24297,
+            -70.41768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31139,
+          "name": "Nizao",
+          "latlng": [
+            18.24697,
+            -70.21053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31147,
+          "name": "Paya",
+          "latlng": [
+            18.26196,
+            -70.2956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31157,
+          "name": "Pizarrete",
+          "latlng": [
+            18.29935,
+            -70.22648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31170,
+          "name": "Sabana Buey",
+          "latlng": [
+            18.27351,
+            -70.52352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4092,
+      "name": "Puerto Plata",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 31020,
+          "name": "Altamira",
+          "latlng": [
+            19.7,
+            -70.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31035,
+          "name": "Cabarete",
+          "latlng": [
+            19.74982,
+            -70.40829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31071,
+          "name": "Estero Hondo",
+          "latlng": [
+            19.82712,
+            -71.17411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31077,
+          "name": "Guananico",
+          "latlng": [
+            19.72693,
+            -70.92294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31087,
+          "name": "Imbert",
+          "latlng": [
+            19.75371,
+            -70.82906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31120,
+          "name": "Los Hidalgos",
+          "latlng": [
+            19.73333,
+            -71.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31123,
+          "name": "Luperón",
+          "latlng": [
+            19.89131,
+            -70.96204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31135,
+          "name": "Monte Llano",
+          "latlng": [
+            19.7346,
+            -70.59915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31161,
+          "name": "Puerto Plata",
+          "latlng": [
+            19.75119,
+            -70.70251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31167,
+          "name": "Río Grande",
+          "latlng": [
+            19.66667,
+            -70.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31201,
+          "name": "Sosúa",
+          "latlng": [
+            19.7522,
+            -70.51995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31217,
+          "name": "Villa Isabela",
+          "latlng": [
+            19.81564,
+            -71.06056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4103,
+      "name": "Samaná",
+      "code": "20",
+      "shortName": "20",
+      "cities": [
+        {
+          "id": 31116,
+          "name": "Las Terrenas",
+          "latlng": [
+            19.31102,
+            -69.5428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31181,
+          "name": "Samaná",
+          "latlng": [
+            19.20561,
+            -69.33685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31202,
+          "name": "Sánchez",
+          "latlng": [
+            19.2281,
+            -69.6137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4091,
+      "name": "San Cristóbal",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 31026,
+          "name": "Bajos de Haina",
+          "latlng": [
+            18.41667,
+            -70.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31039,
+          "name": "Cambita Garabitos",
+          "latlng": [
+            18.5,
+            -70.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31056,
+          "name": "El Cacao",
+          "latlng": [
+            18.52719,
+            -70.29585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31057,
+          "name": "El Carril",
+          "latlng": [
+            18.44905,
+            -70.02785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31172,
+          "name": "Sabana Grande de Palenque",
+          "latlng": [
+            18.26256,
+            -70.14821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31183,
+          "name": "San Cristóbal",
+          "latlng": [
+            18.41667,
+            -70.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31186,
+          "name": "San Gregorio de Nigua",
+          "latlng": [
+            18.38333,
+            -70.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31211,
+          "name": "Villa Altagracia",
+          "latlng": [
+            18.63333,
+            -70.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31223,
+          "name": "Yaguate",
+          "latlng": [
+            18.33333,
+            -70.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4112,
+      "name": "San José de Ocoa",
+      "code": "31",
+      "shortName": "31",
+      "cities": [
+        {
+          "id": 31189,
+          "name": "San José de Ocoa",
+          "latlng": [
+            18.54661,
+            -70.50631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4098,
+      "name": "San Juan",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 31033,
+          "name": "Bohechío",
+          "latlng": [
+            18.77515,
+            -70.98889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31045,
+          "name": "Cercado Abajo",
+          "latlng": [
+            18.72681,
+            -71.51742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31058,
+          "name": "El Cercado",
+          "latlng": [
+            18.7,
+            -71.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31098,
+          "name": "Juan de Herrera",
+          "latlng": [
+            18.87402,
+            -71.2383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31113,
+          "name": "Las Matas de Farfán",
+          "latlng": [
+            18.91667,
+            -71.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31129,
+          "name": "Matayaya",
+          "latlng": [
+            18.89036,
+            -71.59459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31149,
+          "name": "Pedro Corto",
+          "latlng": [
+            18.84856,
+            -71.41041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31190,
+          "name": "San Juan de la Maguana",
+          "latlng": [
+            18.80588,
+            -71.22991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31208,
+          "name": "Vallejuelo",
+          "latlng": [
+            18.65354,
+            -71.33431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4110,
+      "name": "San Pedro de Macorís",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 31064,
+          "name": "El Puerto",
+          "latlng": [
+            18.78333,
+            -69.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31121,
+          "name": "Los Llanos",
+          "latlng": [
+            18.62035,
+            -69.49581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31163,
+          "name": "Quisqueya",
+          "latlng": [
+            18.55542,
+            -69.40814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31164,
+          "name": "Ramón Santana",
+          "latlng": [
+            18.54224,
+            -69.17979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31191,
+          "name": "San Pedro de Macorís",
+          "latlng": [
+            18.4539,
+            -69.30864
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4088,
+      "name": "Sánchez Ramírez",
+      "code": "24",
+      "shortName": "24",
+      "cities": [
+        {
+          "id": 31046,
+          "name": "Cevicos",
+          "latlng": [
+            19.00449,
+            -69.97896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31050,
+          "name": "Cotuí",
+          "latlng": [
+            19.05272,
+            -70.14939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31072,
+          "name": "Fantino",
+          "latlng": [
+            19.11667,
+            -70.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4108,
+      "name": "Santiago",
+      "code": "25",
+      "shortName": "25",
+      "cities": [
+        {
+          "id": 31025,
+          "name": "Baitoa",
+          "latlng": [
+            19.32512,
+            -70.70357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31030,
+          "name": "Bisonó",
+          "latlng": [
+            19.58333,
+            -70.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31100,
+          "name": "Juncalito Abajo",
+          "latlng": [
+            19.2199,
+            -70.81905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31102,
+          "name": "La Canela",
+          "latlng": [
+            19.47341,
+            -70.81629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31117,
+          "name": "Licey al Medio",
+          "latlng": [
+            19.45,
+            -70.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31143,
+          "name": "Palmar Arriba",
+          "latlng": [
+            19.53957,
+            -70.73826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31150,
+          "name": "Pedro García",
+          "latlng": [
+            19.59202,
+            -70.65256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31173,
+          "name": "Sabana Iglesia",
+          "latlng": [
+            19.32114,
+            -70.75992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31188,
+          "name": "San José de Las Matas",
+          "latlng": [
+            19.33915,
+            -70.93819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31196,
+          "name": "Santiago de los Caballeros",
+          "latlng": [
+            19.4517,
+            -70.69703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31200,
+          "name": "Santo Tomás de Jánico",
+          "latlng": [
+            19.23528,
+            -70.79515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31204,
+          "name": "Tamboril",
+          "latlng": [
+            19.48538,
+            -70.61104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31212,
+          "name": "Villa Bisonó",
+          "latlng": [
+            19.56378,
+            -70.87582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31216,
+          "name": "Villa González",
+          "latlng": [
+            19.54057,
+            -70.78853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4100,
+      "name": "Santiago Rodríguez",
+      "code": "26",
+      "shortName": "26",
+      "cities": [
+        {
+          "id": 31133,
+          "name": "Monción",
+          "latlng": [
+            19.46667,
+            -71.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31177,
+          "name": "Sabaneta",
+          "latlng": [
+            19.47793,
+            -71.34125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31187,
+          "name": "San Ignacio de Sabaneta",
+          "latlng": [
+            19.38333,
+            -71.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4093,
+      "name": "Santo Domingo",
+      "code": "32",
+      "shortName": "32",
+      "cities": [
+        {
+          "id": 31031,
+          "name": "Boca Chica",
+          "latlng": [
+            18.45,
+            -69.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31198,
+          "name": "Santo Domingo Este",
+          "latlng": [
+            18.48847,
+            -69.85707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31199,
+          "name": "Santo Domingo Oeste",
+          "latlng": [
+            18.5,
+            -70
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4104,
+      "name": "Valverde",
+      "code": "27",
+      "shortName": "27",
+      "cities": [
+        {
+          "id": 31021,
+          "name": "Amina",
+          "latlng": [
+            19.54813,
+            -70.99599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31069,
+          "name": "Esperanza",
+          "latlng": [
+            19.62379,
+            -70.97141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31078,
+          "name": "Guatapanal",
+          "latlng": [
+            19.50705,
+            -70.91713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31088,
+          "name": "Jaibón",
+          "latlng": [
+            19.61169,
+            -71.14847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31092,
+          "name": "Jicomé",
+          "latlng": [
+            19.64955,
+            -70.94927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31103,
+          "name": "La Caya",
+          "latlng": [
+            19.69981,
+            -71.12084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31110,
+          "name": "Laguna Salada",
+          "latlng": [
+            19.7,
+            -71.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31125,
+          "name": "Maizal",
+          "latlng": [
+            19.63655,
+            -71.02734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31127,
+          "name": "Mao",
+          "latlng": [
+            19.55186,
+            -71.07813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

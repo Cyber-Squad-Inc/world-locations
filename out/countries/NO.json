@@ -1,0 +1,7465 @@
+{
+  "name": {
+    "common": "Norway",
+    "official": "Norway"
+  },
+  "iso2": "NO",
+  "iso3": "NOR",
+  "numericCode": "578",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".no",
+  "phoneCode": "47",
+  "capital": "Oslo",
+  "currencies": {
+    "NOK": "Norwegian krone"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Oslo",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    },
+    {
+      "zoneName": "Arctic/Longyearbyen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/no.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/no.svg",
+  "states": [
+    {
+      "id": 1014,
+      "name": "Agder",
+      "code": "42",
+      "shortName": "42",
+      "cities": [
+        {
+          "id": 79688,
+          "name": "Åseral",
+          "latlng": [
+            58.6173,
+            7.41118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79049,
+          "name": "Audnedal",
+          "latlng": [
+            58.28378,
+            7.35487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79134,
+          "name": "Farsund",
+          "latlng": [
+            58.09538,
+            6.80403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79149,
+          "name": "Flekkefjord",
+          "latlng": [
+            58.29791,
+            6.66345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79246,
+          "name": "Hægebostad",
+          "latlng": [
+            58.37572,
+            7.21973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79260,
+          "name": "Justvik",
+          "latlng": [
+            58.19691,
+            8.03107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79287,
+          "name": "Kristiansand",
+          "latlng": [
+            58.14642,
+            7.99687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79292,
+          "name": "Kvinesdal",
+          "latlng": [
+            58.23894,
+            6.71445
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79322,
+          "name": "Liknes",
+          "latlng": [
+            58.31216,
+            6.9618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79325,
+          "name": "Lindesnes",
+          "latlng": [
+            58.08435,
+            7.30162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79337,
+          "name": "Lyngdal",
+          "latlng": [
+            58.13829,
+            7.06836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79350,
+          "name": "Mandal",
+          "latlng": [
+            58.02633,
+            7.45014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79353,
+          "name": "Marnardal",
+          "latlng": [
+            58.19802,
+            7.52802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79400,
+          "name": "Nodeland",
+          "latlng": [
+            58.15517,
+            7.83576
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79499,
+          "name": "Sirdal",
+          "latlng": [
+            58.6651,
+            6.71585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79523,
+          "name": "Skålevik",
+          "latlng": [
+            58.07955,
+            8.01602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79533,
+          "name": "Songdalen",
+          "latlng": [
+            58.15273,
+            7.83677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79576,
+          "name": "Søgne",
+          "latlng": [
+            58.09663,
+            7.81491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79554,
+          "name": "Strai",
+          "latlng": [
+            58.1893,
+            7.92826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79602,
+          "name": "Tonstad",
+          "latlng": [
+            58.66263,
+            6.71694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79613,
+          "name": "Tveit",
+          "latlng": [
+            58.23366,
+            8.12199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79631,
+          "name": "Vanse",
+          "latlng": [
+            58.09812,
+            6.69184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79639,
+          "name": "Vennesla",
+          "latlng": [
+            58.34271,
+            7.97596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79643,
+          "name": "Vestbygd",
+          "latlng": [
+            58.09991,
+            6.58696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79649,
+          "name": "Vigeland",
+          "latlng": [
+            58.08437,
+            7.30497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "name": "Innlandet",
+      "code": "34",
+      "shortName": "34",
+      "cities": [
+        {
+          "id": 79040,
+          "name": "Alvdal",
+          "latlng": [
+            62.10854,
+            10.63483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79679,
+          "name": "Åmot",
+          "latlng": [
+            61.13199,
+            11.37328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79690,
+          "name": "Åsnes",
+          "latlng": [
+            60.61363,
+            12.012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79059,
+          "name": "Bagn",
+          "latlng": [
+            60.82249,
+            9.55207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79089,
+          "name": "Brumunddal",
+          "latlng": [
+            60.88095,
+            10.93948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79101,
+          "name": "Dokka",
+          "latlng": [
+            60.835,
+            10.07362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79102,
+          "name": "Dombås",
+          "latlng": [
+            62.07554,
+            9.12785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79103,
+          "name": "Dovre",
+          "latlng": [
+            61.98582,
+            9.24947
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79114,
+          "name": "Eidskog",
+          "latlng": [
+            59.98556,
+            12.12502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79122,
+          "name": "Elverum",
+          "latlng": [
+            60.88159,
+            11.56314
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79124,
+          "name": "Engerdal",
+          "latlng": [
+            61.75774,
+            11.95966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79127,
+          "name": "Etnedal",
+          "latlng": [
+            60.88872,
+            9.64031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79131,
+          "name": "Fagernes",
+          "latlng": [
+            60.98584,
+            9.23236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79154,
+          "name": "Folldal",
+          "latlng": [
+            62.13329,
+            9.9971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79157,
+          "name": "Fossbergom",
+          "latlng": [
+            61.83772,
+            8.56842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79173,
+          "name": "Gausdal",
+          "latlng": [
+            61.22685,
+            10.22145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79180,
+          "name": "Gjøvik",
+          "latlng": [
+            60.79472,
+            10.69287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79185,
+          "name": "Gran",
+          "latlng": [
+            60.39293,
+            10.56045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79191,
+          "name": "Grua",
+          "latlng": [
+            60.25701,
+            10.66222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79192,
+          "name": "Grue",
+          "latlng": [
+            60.45133,
+            12.05489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79201,
+          "name": "Hamar",
+          "latlng": [
+            60.7945,
+            11.06798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79237,
+          "name": "Hov",
+          "latlng": [
+            60.6987,
+            10.35193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79238,
+          "name": "Hundorp",
+          "latlng": [
+            61.55523,
+            9.94069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79254,
+          "name": "Innbygda",
+          "latlng": [
+            61.31484,
+            12.26374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79257,
+          "name": "Jevnaker",
+          "latlng": [
+            60.2406,
+            10.38587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79271,
+          "name": "Kirkenær",
+          "latlng": [
+            60.4579,
+            12.05855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79282,
+          "name": "Kongsvinger",
+          "latlng": [
+            60.19117,
+            11.99916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79284,
+          "name": "Koppang",
+          "latlng": [
+            61.57219,
+            11.04659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79315,
+          "name": "Lena",
+          "latlng": [
+            60.67391,
+            10.81317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79318,
+          "name": "Lesja",
+          "latlng": [
+            62.11785,
+            8.86262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79323,
+          "name": "Lillehammer",
+          "latlng": [
+            61.11464,
+            10.46743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79327,
+          "name": "Lom",
+          "latlng": [
+            61.83639,
+            8.56811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79347,
+          "name": "Løten",
+          "latlng": [
+            60.81771,
+            11.34373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79333,
+          "name": "Lunner",
+          "latlng": [
+            60.29462,
+            10.6086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79369,
+          "name": "Moelv",
+          "latlng": [
+            60.93333,
+            10.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79402,
+          "name": "Nord-Aurdal",
+          "latlng": [
+            60.98531,
+            9.23661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79403,
+          "name": "Nord-Fron",
+          "latlng": [
+            61.59556,
+            9.7483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79404,
+          "name": "Nord-Odal",
+          "latlng": [
+            60.39195,
+            11.54151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79408,
+          "name": "Nordre Land",
+          "latlng": [
+            60.83471,
+            10.07543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79422,
+          "name": "Os",
+          "latlng": [
+            62.49536,
+            11.22807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79427,
+          "name": "Otta",
+          "latlng": [
+            61.7712,
+            9.53529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79699,
+          "name": "Østre Toten",
+          "latlng": [
+            60.67659,
+            10.81997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79701,
+          "name": "Øyer",
+          "latlng": [
+            61.26495,
+            10.41297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79704,
+          "name": "Øystre Slidre",
+          "latlng": [
+            61.13377,
+            9.07872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79439,
+          "name": "Raufoss",
+          "latlng": [
+            60.72604,
+            10.6133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79443,
+          "name": "Reinsvoll",
+          "latlng": [
+            60.67977,
+            10.62175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79444,
+          "name": "Rena",
+          "latlng": [
+            61.13222,
+            11.37156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79445,
+          "name": "Rendalen",
+          "latlng": [
+            61.89004,
+            11.07694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79450,
+          "name": "Ringebu",
+          "latlng": [
+            61.5298,
+            10.1418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79452,
+          "name": "Ringsaker",
+          "latlng": [
+            60.88216,
+            10.9503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79477,
+          "name": "Sand",
+          "latlng": [
+            60.3922,
+            11.5403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79490,
+          "name": "Sel",
+          "latlng": [
+            61.77278,
+            9.53415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79504,
+          "name": "Skarnes",
+          "latlng": [
+            60.25391,
+            11.68485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79512,
+          "name": "Skjåk",
+          "latlng": [
+            61.88349,
+            8.2649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79519,
+          "name": "Skotterud",
+          "latlng": [
+            59.98281,
+            12.12825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79520,
+          "name": "Skreia",
+          "latlng": [
+            60.65257,
+            10.93564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79578,
+          "name": "Søndre Land",
+          "latlng": [
+            60.69944,
+            10.35086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79579,
+          "name": "Sør-Aurdal",
+          "latlng": [
+            60.82242,
+            9.54836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79580,
+          "name": "Sør-Fron",
+          "latlng": [
+            61.55652,
+            9.93949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79581,
+          "name": "Sør-Odal",
+          "latlng": [
+            60.25455,
+            11.68246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79535,
+          "name": "Spetalen",
+          "latlng": [
+            60.18333,
+            11.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79537,
+          "name": "Stange",
+          "latlng": [
+            60.71576,
+            11.19069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79547,
+          "name": "Stor-Elvdal",
+          "latlng": [
+            61.57198,
+            11.04759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79599,
+          "name": "Tolga",
+          "latlng": [
+            62.40984,
+            10.9977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79606,
+          "name": "Tretten",
+          "latlng": [
+            61.31423,
+            10.30066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79610,
+          "name": "Trysil",
+          "latlng": [
+            61.31549,
+            12.26422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79615,
+          "name": "Tynset",
+          "latlng": [
+            62.27387,
+            10.77626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79665,
+          "name": "Vågå",
+          "latlng": [
+            61.87565,
+            9.09572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79666,
+          "name": "Vågåmo",
+          "latlng": [
+            61.87505,
+            9.09671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79667,
+          "name": "Våler",
+          "latlng": [
+            60.67845,
+            11.83314
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79630,
+          "name": "Vang",
+          "latlng": [
+            61.12564,
+            8.57167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79645,
+          "name": "Vestre Slidre",
+          "latlng": [
+            61.08842,
+            8.98196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79646,
+          "name": "Vestre Toten",
+          "latlng": [
+            60.72593,
+            10.60764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79659,
+          "name": "Vinstra",
+          "latlng": [
+            61.59496,
+            9.75134
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1026,
+      "name": "Jan Mayen",
+      "code": "22",
+      "shortName": "22",
+      "cities": []
+    },
+    {
+      "id": 1020,
+      "name": "Møre og Romsdal",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 79678,
+          "name": "Ålesund",
+          "latlng": [
+            62.47225,
+            6.15492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79680,
+          "name": "Åndalsnes",
+          "latlng": [
+            62.56749,
+            7.68709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79050,
+          "name": "Aukra",
+          "latlng": [
+            62.805,
+            6.88722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79052,
+          "name": "Aure",
+          "latlng": [
+            63.2675,
+            8.52778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79058,
+          "name": "Averøy",
+          "latlng": [
+            63.05344,
+            7.63265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79066,
+          "name": "Batnfjordsøra",
+          "latlng": [
+            62.89463,
+            7.67251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79086,
+          "name": "Brattvåg",
+          "latlng": [
+            62.59991,
+            6.44426
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79111,
+          "name": "Eide",
+          "latlng": [
+            62.9157,
+            7.44496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79116,
+          "name": "Eidsvåg",
+          "latlng": [
+            62.77656,
+            8.0655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79121,
+          "name": "Elnesvågen",
+          "latlng": [
+            62.85426,
+            7.13769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79164,
+          "name": "Fræna",
+          "latlng": [
+            62.85375,
+            7.1538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79176,
+          "name": "Giske",
+          "latlng": [
+            62.5007,
+            6.13472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79177,
+          "name": "Gjemnes",
+          "latlng": [
+            62.89379,
+            7.67714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79200,
+          "name": "Halsa",
+          "latlng": [
+            63.11855,
+            8.31536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79205,
+          "name": "Haram",
+          "latlng": [
+            62.59898,
+            6.44483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79207,
+          "name": "Hareid",
+          "latlng": [
+            62.36742,
+            6.02114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79221,
+          "name": "Herøy",
+          "latlng": [
+            62.33333,
+            5.63598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79225,
+          "name": "Hjelset",
+          "latlng": [
+            62.7805,
+            7.49277
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79234,
+          "name": "Hopen",
+          "latlng": [
+            63.46539,
+            8.01437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79288,
+          "name": "Kristiansund",
+          "latlng": [
+            63.11152,
+            7.73198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79303,
+          "name": "Larsnes",
+          "latlng": [
+            62.20282,
+            5.57729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79364,
+          "name": "Midsund",
+          "latlng": [
+            62.67614,
+            6.67776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79372,
+          "name": "Molde",
+          "latlng": [
+            62.73807,
+            7.15882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79397,
+          "name": "Nesset",
+          "latlng": [
+            62.77619,
+            8.06623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79405,
+          "name": "Norddal",
+          "latlng": [
+            62.2991,
+            7.26145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79410,
+          "name": "Nordstranda",
+          "latlng": [
+            62.51384,
+            6.13166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79697,
+          "name": "Ørskog",
+          "latlng": [
+            62.4845,
+            6.82025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79698,
+          "name": "Ørsta",
+          "latlng": [
+            62.19937,
+            6.13084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79440,
+          "name": "Rauma",
+          "latlng": [
+            62.5681,
+            7.68612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79448,
+          "name": "Rensvik",
+          "latlng": [
+            63.09843,
+            7.82026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79481,
+          "name": "Sande",
+          "latlng": [
+            62.20455,
+            5.57971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79486,
+          "name": "Sandøy",
+          "latlng": [
+            62.78167,
+            6.46875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79501,
+          "name": "Sjøholt",
+          "latlng": [
+            62.48263,
+            6.81376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79514,
+          "name": "Skodje",
+          "latlng": [
+            62.50306,
+            6.69817
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79525,
+          "name": "Smøla",
+          "latlng": [
+            63.46526,
+            8.01814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79542,
+          "name": "Steinshamn",
+          "latlng": [
+            62.78389,
+            6.47065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79549,
+          "name": "Stordal",
+          "latlng": [
+            62.38214,
+            6.98708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79556,
+          "name": "Stranda",
+          "latlng": [
+            62.31132,
+            6.93115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79562,
+          "name": "Sula",
+          "latlng": [
+            62.44447,
+            6.21229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79565,
+          "name": "Sunndal",
+          "latlng": [
+            62.67464,
+            8.56188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79566,
+          "name": "Sunndalsøra",
+          "latlng": [
+            62.67519,
+            8.56327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79567,
+          "name": "Surnadal",
+          "latlng": [
+            62.97533,
+            8.7249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79573,
+          "name": "Sykkylven",
+          "latlng": [
+            62.38962,
+            6.57825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79593,
+          "name": "Tingvoll",
+          "latlng": [
+            62.91194,
+            8.20673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79600,
+          "name": "Tomra",
+          "latlng": [
+            62.58118,
+            6.93106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79623,
+          "name": "Ulstein",
+          "latlng": [
+            62.34423,
+            5.85241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79624,
+          "name": "Ulsteinvik",
+          "latlng": [
+            62.34317,
+            5.84869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79625,
+          "name": "Ulsteinvik weather pws station",
+          "latlng": [
+            62.34338,
+            5.84385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79632,
+          "name": "Vanylven",
+          "latlng": [
+            62.10003,
+            5.55827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79635,
+          "name": "Vatne",
+          "latlng": [
+            62.55826,
+            6.61708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79644,
+          "name": "Vestnes",
+          "latlng": [
+            62.6213,
+            7.08966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79660,
+          "name": "Volda",
+          "latlng": [
+            62.14678,
+            6.068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1025,
+      "name": "Nordland",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 79038,
+          "name": "Alstahaug",
+          "latlng": [
+            65.97556,
+            12.56836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79041,
+          "name": "Andenes",
+          "latlng": [
+            69.31428,
+            16.11939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79042,
+          "name": "Andøy",
+          "latlng": [
+            69.08033,
+            15.77637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79061,
+          "name": "Ballangen",
+          "latlng": [
+            68.34365,
+            16.83317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79067,
+          "name": "Beiarn",
+          "latlng": [
+            67.00725,
+            14.57304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79074,
+          "name": "Bindal",
+          "latlng": [
+            65.0878,
+            12.37747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79076,
+          "name": "Bjerkvik",
+          "latlng": [
+            68.54917,
+            17.55709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79081,
+          "name": "Bodø",
+          "latlng": [
+            67.28325,
+            14.38319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79082,
+          "name": "Bogen",
+          "latlng": [
+            68.52647,
+            16.9928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79096,
+          "name": "Bø",
+          "latlng": [
+            68.68823,
+            14.47899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79091,
+          "name": "Brønnøy",
+          "latlng": [
+            65.46786,
+            12.20626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79092,
+          "name": "Brønnøysund",
+          "latlng": [
+            65.47487,
+            12.21285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79108,
+          "name": "Dønna",
+          "latlng": [
+            66.10606,
+            12.48189
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79128,
+          "name": "Evenes",
+          "latlng": [
+            68.52334,
+            17.00888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79130,
+          "name": "Evjen",
+          "latlng": [
+            68.26667,
+            13.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79135,
+          "name": "Fauske",
+          "latlng": [
+            67.25963,
+            15.3941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79146,
+          "name": "Flakstad",
+          "latlng": [
+            68.09292,
+            13.2331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79175,
+          "name": "Gildeskål",
+          "latlng": [
+            67.03394,
+            14.02582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79181,
+          "name": "Gladstad",
+          "latlng": [
+            65.67683,
+            11.96218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79182,
+          "name": "Glomfjord",
+          "latlng": [
+            66.81663,
+            13.94404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79186,
+          "name": "Grane",
+          "latlng": [
+            65.53865,
+            13.38499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79189,
+          "name": "Gravdal",
+          "latlng": [
+            68.11832,
+            13.55339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79197,
+          "name": "Hadsel",
+          "latlng": [
+            68.56328,
+            14.90835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79202,
+          "name": "Hamarøy",
+          "latlng": [
+            68.08381,
+            15.61671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79210,
+          "name": "Hattfjelldal",
+          "latlng": [
+            65.59765,
+            13.98948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79213,
+          "name": "Hauknes",
+          "latlng": [
+            66.28333,
+            14.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79215,
+          "name": "Hemnes",
+          "latlng": [
+            66.07712,
+            13.8135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79216,
+          "name": "Hemnesberget",
+          "latlng": [
+            66.22489,
+            13.61643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79220,
+          "name": "Herøy",
+          "latlng": [
+            65.98427,
+            12.28916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79255,
+          "name": "Inndyr",
+          "latlng": [
+            67.03353,
+            14.02663
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79263,
+          "name": "Kabelvåg",
+          "latlng": [
+            68.21066,
+            14.47554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79273,
+          "name": "Kjøpsvik",
+          "latlng": [
+            68.09696,
+            16.37416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79285,
+          "name": "Korgen",
+          "latlng": [
+            66.07662,
+            13.8216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79309,
+          "name": "Leirfjord",
+          "latlng": [
+            66.06348,
+            12.93667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79313,
+          "name": "Leknes",
+          "latlng": [
+            68.14746,
+            13.61151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79314,
+          "name": "Leland",
+          "latlng": [
+            66.06406,
+            12.94325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79343,
+          "name": "Løding",
+          "latlng": [
+            67.30055,
+            14.73852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79344,
+          "name": "Lødingen",
+          "latlng": [
+            68.40998,
+            15.99012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79345,
+          "name": "Løpsmarka",
+          "latlng": [
+            67.31343,
+            14.44934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79334,
+          "name": "Lurøy",
+          "latlng": [
+            66.41887,
+            12.84248
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79358,
+          "name": "Melbu",
+          "latlng": [
+            68.50246,
+            14.79962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79362,
+          "name": "Meløy",
+          "latlng": [
+            66.87204,
+            13.70763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79366,
+          "name": "Mo i Rana",
+          "latlng": [
+            66.31278,
+            14.14278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79373,
+          "name": "Mosjøen",
+          "latlng": [
+            65.83599,
+            13.19076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79374,
+          "name": "Moskenes",
+          "latlng": [
+            67.93467,
+            13.09109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79377,
+          "name": "Myre",
+          "latlng": [
+            68.914,
+            15.07843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79386,
+          "name": "Narvik",
+          "latlng": [
+            68.43896,
+            17.42775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79393,
+          "name": "Nesna",
+          "latlng": [
+            66.19796,
+            13.02229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79692,
+          "name": "Øksnes",
+          "latlng": [
+            68.91463,
+            15.08703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79696,
+          "name": "Ørnes",
+          "latlng": [
+            66.86878,
+            13.70579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79436,
+          "name": "Rana",
+          "latlng": [
+            66.31122,
+            14.13996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79442,
+          "name": "Reine",
+          "latlng": [
+            67.93249,
+            13.08955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79455,
+          "name": "Rognan",
+          "latlng": [
+            67.10021,
+            15.39086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79466,
+          "name": "Rødøy",
+          "latlng": [
+            66.71195,
+            13.2853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79470,
+          "name": "Røst",
+          "latlng": [
+            67.51727,
+            12.11564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79475,
+          "name": "Saltdal",
+          "latlng": [
+            67.10144,
+            15.39458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79484,
+          "name": "Sandnessjøen",
+          "latlng": [
+            66.02166,
+            12.63158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79534,
+          "name": "Sortland",
+          "latlng": [
+            68.69618,
+            15.41174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79577,
+          "name": "Sømna",
+          "latlng": [
+            65.31379,
+            12.16729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79583,
+          "name": "Sørfold",
+          "latlng": [
+            67.34803,
+            15.59445
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79584,
+          "name": "Sørland",
+          "latlng": [
+            67.66564,
+            12.69784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79540,
+          "name": "Steigen",
+          "latlng": [
+            67.77625,
+            15.01621
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79546,
+          "name": "Stokmarknes",
+          "latlng": [
+            68.56462,
+            14.91075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79557,
+          "name": "Straume",
+          "latlng": [
+            68.6888,
+            14.47205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79560,
+          "name": "Straumen",
+          "latlng": [
+            67.34769,
+            15.60493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79571,
+          "name": "Svolvær",
+          "latlng": [
+            68.23417,
+            14.56834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79591,
+          "name": "Terråk",
+          "latlng": [
+            65.087,
+            12.37148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79595,
+          "name": "Tjeldsund",
+          "latlng": [
+            68.55557,
+            16.36172
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79611,
+          "name": "Træna",
+          "latlng": [
+            66.50159,
+            12.09645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79607,
+          "name": "Trofors",
+          "latlng": [
+            65.53335,
+            13.40631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79616,
+          "name": "Tysfjord",
+          "latlng": [
+            68.09772,
+            16.37591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79663,
+          "name": "Vågan",
+          "latlng": [
+            68.2322,
+            14.56226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79669,
+          "name": "Værøy",
+          "latlng": [
+            67.66374,
+            12.69337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79637,
+          "name": "Vefsn",
+          "latlng": [
+            65.84109,
+            13.20024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79638,
+          "name": "Vega",
+          "latlng": [
+            65.67539,
+            11.96456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79647,
+          "name": "Vestvågøy",
+          "latlng": [
+            68.1483,
+            13.61119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79648,
+          "name": "Vevelstad",
+          "latlng": [
+            65.70002,
+            12.43921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79651,
+          "name": "Vik",
+          "latlng": [
+            65.31254,
+            12.16734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "name": "Oslo",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 79425,
+          "name": "Oslo",
+          "latlng": [
+            59.91273,
+            10.74609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79502,
+          "name": "Sjølyststranda",
+          "latlng": [
+            59.92105,
+            10.68017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "name": "Rogaland",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 79676,
+          "name": "Åkrehamn",
+          "latlng": [
+            59.26053,
+            5.18689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79075,
+          "name": "Bjerkreim",
+          "latlng": [
+            58.6305,
+            6.0813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79083,
+          "name": "Bokn",
+          "latlng": [
+            59.23062,
+            5.43524
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79090,
+          "name": "Bryne",
+          "latlng": [
+            58.73536,
+            5.64766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79109,
+          "name": "Egersund",
+          "latlng": [
+            58.45133,
+            5.9997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79117,
+          "name": "Eigersund",
+          "latlng": [
+            58.45236,
+            6.00314
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79118,
+          "name": "Eike",
+          "latlng": [
+            59.39833,
+            5.36389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79141,
+          "name": "Finnøy",
+          "latlng": [
+            59.17117,
+            5.87398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79155,
+          "name": "Forsand",
+          "latlng": [
+            58.89929,
+            6.09642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79179,
+          "name": "Gjesdal",
+          "latlng": [
+            58.76478,
+            5.855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79245,
+          "name": "Hå",
+          "latlng": [
+            58.6161,
+            5.64497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79211,
+          "name": "Hauge i Dalane",
+          "latlng": [
+            58.34361,
+            6.28121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79212,
+          "name": "Haugesund",
+          "latlng": [
+            59.41015,
+            5.27551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79224,
+          "name": "Hjelmeland",
+          "latlng": [
+            59.23668,
+            6.17912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79232,
+          "name": "Hommersåk",
+          "latlng": [
+            58.92556,
+            5.85104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79262,
+          "name": "Jørpeland",
+          "latlng": [
+            59.02251,
+            6.04078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79259,
+          "name": "Judaberg",
+          "latlng": [
+            59.17204,
+            5.87617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79267,
+          "name": "Karmøy",
+          "latlng": [
+            59.28079,
+            5.30529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79274,
+          "name": "Klepp",
+          "latlng": [
+            58.77655,
+            5.63009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79283,
+          "name": "Kopervik",
+          "latlng": [
+            59.28354,
+            5.30669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79295,
+          "name": "Kvitsøy",
+          "latlng": [
+            59.06471,
+            5.40537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79330,
+          "name": "Lund",
+          "latlng": [
+            58.45715,
+            6.54871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79336,
+          "name": "Lyefjell",
+          "latlng": [
+            58.73539,
+            5.73615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79371,
+          "name": "Moi",
+          "latlng": [
+            58.45674,
+            6.55184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79415,
+          "name": "Nærbø",
+          "latlng": [
+            58.66546,
+            5.63788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79693,
+          "name": "Ølen",
+          "latlng": [
+            59.60437,
+            5.80799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79437,
+          "name": "Randaberg",
+          "latlng": [
+            58.9987,
+            5.62055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79447,
+          "name": "Rennesøy",
+          "latlng": [
+            59.09899,
+            5.69966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79483,
+          "name": "Sandnes",
+          "latlng": [
+            58.8476,
+            5.72855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79488,
+          "name": "Sauda",
+          "latlng": [
+            59.65067,
+            6.35312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79575,
+          "name": "Sæveland",
+          "latlng": [
+            59.26667,
+            5.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79521,
+          "name": "Skudeneshavn",
+          "latlng": [
+            59.14856,
+            5.25687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79530,
+          "name": "Sokndal",
+          "latlng": [
+            58.34256,
+            6.29425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79531,
+          "name": "Sola",
+          "latlng": [
+            58.88806,
+            5.64728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79538,
+          "name": "Stavanger",
+          "latlng": [
+            58.96941,
+            5.72856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79555,
+          "name": "Strand",
+          "latlng": [
+            59.02353,
+            6.04343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79563,
+          "name": "Suldal",
+          "latlng": [
+            59.48571,
+            6.25222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79589,
+          "name": "Tananger",
+          "latlng": [
+            58.93618,
+            5.5741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79590,
+          "name": "Tau",
+          "latlng": [
+            59.06481,
+            5.9225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79592,
+          "name": "Time",
+          "latlng": [
+            58.73636,
+            5.65297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79618,
+          "name": "Tysvær",
+          "latlng": [
+            59.42159,
+            5.44781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79627,
+          "name": "Utsira",
+          "latlng": [
+            59.30565,
+            4.88621
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79634,
+          "name": "Varhaug",
+          "latlng": [
+            58.6181,
+            5.65702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79636,
+          "name": "Vedavågen",
+          "latlng": [
+            59.29483,
+            5.21874
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79650,
+          "name": "Vigrestad",
+          "latlng": [
+            58.57103,
+            5.68182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79654,
+          "name": "Vikeså",
+          "latlng": [
+            58.63759,
+            6.09133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79655,
+          "name": "Vikevåg",
+          "latlng": [
+            59.09754,
+            5.6979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79657,
+          "name": "Vindafjord",
+          "latlng": [
+            59.60543,
+            5.80784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79661,
+          "name": "Vormedal",
+          "latlng": [
+            59.35607,
+            5.31962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "name": "Svalbard",
+      "code": "21",
+      "shortName": "21",
+      "cities": []
+    },
+    {
+      "id": 1015,
+      "name": "Troms og Finnmark",
+      "code": "54",
+      "shortName": "54",
+      "cities": [
+        {
+          "id": 79039,
+          "name": "Alta",
+          "latlng": [
+            69.97675,
+            23.29634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79672,
+          "name": "Ávanuorri",
+          "latlng": [
+            70.99634,
+            24.66217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79062,
+          "name": "Balsfjord",
+          "latlng": [
+            69.24024,
+            19.22653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79064,
+          "name": "Bardu",
+          "latlng": [
+            68.86058,
+            18.35052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79093,
+          "name": "Båtsfjord",
+          "latlng": [
+            70.63428,
+            29.7175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79068,
+          "name": "Berg",
+          "latlng": [
+            69.44444,
+            17.2995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79072,
+          "name": "Berlevåg",
+          "latlng": [
+            70.85778,
+            29.08636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79079,
+          "name": "Bjørnevatn",
+          "latlng": [
+            69.66745,
+            29.98722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79084,
+          "name": "Borkenes",
+          "latlng": [
+            68.77261,
+            16.17115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79107,
+          "name": "Dyrøy",
+          "latlng": [
+            69.09154,
+            17.69094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79129,
+          "name": "Evenskjer",
+          "latlng": [
+            68.58283,
+            16.57203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79140,
+          "name": "Finnsnes",
+          "latlng": [
+            69.22959,
+            17.98114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79170,
+          "name": "Gamvik",
+          "latlng": [
+            71.04107,
+            27.85144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79188,
+          "name": "Gratangen",
+          "latlng": [
+            68.69273,
+            17.53186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79193,
+          "name": "Gryllefjord",
+          "latlng": [
+            69.36304,
+            17.05284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79203,
+          "name": "Hammerfest",
+          "latlng": [
+            70.66257,
+            23.68295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79204,
+          "name": "Hansnes",
+          "latlng": [
+            69.96701,
+            19.62752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79208,
+          "name": "Harstad",
+          "latlng": [
+            68.79896,
+            16.5293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79209,
+          "name": "Hasvik",
+          "latlng": [
+            70.59164,
+            22.30272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79233,
+          "name": "Honningsvåg",
+          "latlng": [
+            70.98209,
+            25.97037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79250,
+          "name": "Ibestad",
+          "latlng": [
+            68.77866,
+            17.17661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79300,
+          "name": "Kåfjord",
+          "latlng": [
+            69.604,
+            20.53456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79299,
+          "name": "Kárášjohka",
+          "latlng": [
+            69.47187,
+            25.51122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79264,
+          "name": "Karasjok",
+          "latlng": [
+            69.47224,
+            25.51885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79266,
+          "name": "Karlsøy",
+          "latlng": [
+            69.96185,
+            19.61811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79268,
+          "name": "Kautokeino",
+          "latlng": [
+            69.01151,
+            23.04151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79270,
+          "name": "Kirkenes",
+          "latlng": [
+            69.72706,
+            30.04578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79272,
+          "name": "Kjøllefjord",
+          "latlng": [
+            70.94574,
+            27.3465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79290,
+          "name": "Kvalsund",
+          "latlng": [
+            70.4991,
+            23.97393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79296,
+          "name": "Kvæfjord",
+          "latlng": [
+            68.77201,
+            16.17294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79297,
+          "name": "Kvænangen",
+          "latlng": [
+            69.9389,
+            22.04935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79301,
+          "name": "Lakselv",
+          "latlng": [
+            70.05133,
+            24.97182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79306,
+          "name": "Lavangen",
+          "latlng": [
+            68.74722,
+            17.80558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79307,
+          "name": "Lebesby",
+          "latlng": [
+            70.94535,
+            27.35134
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79316,
+          "name": "Lenvik",
+          "latlng": [
+            69.23111,
+            17.98739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79329,
+          "name": "Loppa",
+          "latlng": [
+            70.23952,
+            22.35136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79338,
+          "name": "Lyngen",
+          "latlng": [
+            69.57621,
+            20.21702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79339,
+          "name": "Lyngseidet",
+          "latlng": [
+            69.57629,
+            20.21887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79379,
+          "name": "Målselv",
+          "latlng": [
+            69.12389,
+            18.61498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79381,
+          "name": "Måsøy",
+          "latlng": [
+            70.99654,
+            24.66146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79356,
+          "name": "Mehamn",
+          "latlng": [
+            71.04137,
+            27.85133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79370,
+          "name": "Moen",
+          "latlng": [
+            69.13043,
+            18.61226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79396,
+          "name": "Nesseby",
+          "latlng": [
+            69.88541,
+            28.43368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79407,
+          "name": "Nordkapp",
+          "latlng": [
+            70.97808,
+            25.97473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79409,
+          "name": "Nordreisa",
+          "latlng": [
+            69.76825,
+            21.02569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79418,
+          "name": "Olderdalen",
+          "latlng": [
+            69.60407,
+            20.53272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79691,
+          "name": "Øksfjord",
+          "latlng": [
+            70.23936,
+            22.3507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79429,
+          "name": "Porsanger",
+          "latlng": [
+            70.05214,
+            24.95592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79462,
+          "name": "Rypefjord",
+          "latlng": [
+            70.64126,
+            23.67213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79474,
+          "name": "Salangen",
+          "latlng": [
+            68.87669,
+            17.83375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79496,
+          "name": "Setermoen",
+          "latlng": [
+            68.86099,
+            18.34857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79503,
+          "name": "Sjøvegan",
+          "latlng": [
+            68.87363,
+            17.84706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79524,
+          "name": "Skånland",
+          "latlng": [
+            68.58378,
+            16.57305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79511,
+          "name": "Skjervøy",
+          "latlng": [
+            70.03379,
+            20.97365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79582,
+          "name": "Sør-Varanger",
+          "latlng": [
+            69.72859,
+            30.04264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79585,
+          "name": "Sørreisa",
+          "latlng": [
+            69.14697,
+            18.15629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79551,
+          "name": "Storfjord",
+          "latlng": [
+            69.2686,
+            19.96089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79552,
+          "name": "Storslett",
+          "latlng": [
+            69.76783,
+            21.02466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79553,
+          "name": "Storsteinnes",
+          "latlng": [
+            69.24081,
+            19.23437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79588,
+          "name": "Tana",
+          "latlng": [
+            70.19976,
+            28.18494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79603,
+          "name": "Torsken",
+          "latlng": [
+            69.36184,
+            17.05384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79605,
+          "name": "Tranøy",
+          "latlng": [
+            69.17022,
+            17.7348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79608,
+          "name": "Tromsø",
+          "latlng": [
+            69.64961,
+            18.95702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79628,
+          "name": "Vadsø",
+          "latlng": [
+            70.07412,
+            29.74922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79633,
+          "name": "Vardø",
+          "latlng": [
+            70.3704,
+            31.10866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "name": "Trøndelag",
+      "code": "50",
+      "shortName": "50",
+      "cities": [
+        {
+          "id": 79673,
+          "name": "Å i Åfjord",
+          "latlng": [
+            63.96068,
+            10.22468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79674,
+          "name": "Åfjord",
+          "latlng": [
+            63.96196,
+            10.22587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79037,
+          "name": "Agdenes",
+          "latlng": [
+            63.50575,
+            9.82623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79071,
+          "name": "Berkåk",
+          "latlng": [
+            62.82496,
+            10.01177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79077,
+          "name": "Bjugn",
+          "latlng": [
+            63.76522,
+            9.8094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79085,
+          "name": "Botngård",
+          "latlng": [
+            63.76484,
+            9.80863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79087,
+          "name": "Brekstad",
+          "latlng": [
+            63.68697,
+            9.66541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79139,
+          "name": "Fillan",
+          "latlng": [
+            63.60638,
+            8.96961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79147,
+          "name": "Flatanger",
+          "latlng": [
+            64.41282,
+            11.03285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79156,
+          "name": "Fosnes",
+          "latlng": [
+            64.6591,
+            11.26535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79163,
+          "name": "Frosta",
+          "latlng": [
+            63.5891,
+            10.7423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79165,
+          "name": "Frøya",
+          "latlng": [
+            63.73005,
+            8.82426
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79190,
+          "name": "Grong",
+          "latlng": [
+            64.46397,
+            12.31114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79214,
+          "name": "Hemne",
+          "latlng": [
+            63.29095,
+            9.08893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79222,
+          "name": "Hitra",
+          "latlng": [
+            63.54528,
+            8.78029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79230,
+          "name": "Holtålen",
+          "latlng": [
+            62.84318,
+            11.29284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79231,
+          "name": "Hommelvik",
+          "latlng": [
+            63.41083,
+            10.79424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79249,
+          "name": "Høylandet",
+          "latlng": [
+            64.62759,
+            12.30041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79251,
+          "name": "Inderøy",
+          "latlng": [
+            63.87826,
+            11.28424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79253,
+          "name": "Indre Fosen",
+          "latlng": [
+            63.58897,
+            9.95847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79275,
+          "name": "Klæbu",
+          "latlng": [
+            63.3006,
+            10.48188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79280,
+          "name": "Kolvereid",
+          "latlng": [
+            64.86549,
+            11.60465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79298,
+          "name": "Kyrksæterøra",
+          "latlng": [
+            63.29057,
+            9.08909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79305,
+          "name": "Lauvsnes",
+          "latlng": [
+            64.50061,
+            10.89396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79312,
+          "name": "Leka",
+          "latlng": [
+            65.09244,
+            11.70513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79319,
+          "name": "Levanger",
+          "latlng": [
+            63.74585,
+            11.29991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79321,
+          "name": "Lierne",
+          "latlng": [
+            64.46413,
+            13.59249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79331,
+          "name": "Lundamo",
+          "latlng": [
+            63.15216,
+            10.28555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79348,
+          "name": "Malm",
+          "latlng": [
+            64.07534,
+            11.22398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79349,
+          "name": "Malvik",
+          "latlng": [
+            63.41057,
+            10.79382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79359,
+          "name": "Meldal",
+          "latlng": [
+            63.04598,
+            9.71088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79360,
+          "name": "Melhus",
+          "latlng": [
+            63.28755,
+            10.27686
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79363,
+          "name": "Meråker",
+          "latlng": [
+            63.41423,
+            11.74558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79365,
+          "name": "Midtre Gauldal",
+          "latlng": [
+            63.03902,
+            10.28701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79382,
+          "name": "Namdalseid",
+          "latlng": [
+            64.10843,
+            10.91862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79383,
+          "name": "Namsos",
+          "latlng": [
+            64.47842,
+            11.54182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79384,
+          "name": "Namsskogan",
+          "latlng": [
+            64.92597,
+            13.15932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79416,
+          "name": "Nærøy",
+          "latlng": [
+            64.86298,
+            11.60505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79419,
+          "name": "Oppdal",
+          "latlng": [
+            62.59495,
+            9.68761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79421,
+          "name": "Orkdal",
+          "latlng": [
+            63.29989,
+            9.84365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79424,
+          "name": "Osen",
+          "latlng": [
+            64.29875,
+            10.51284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79428,
+          "name": "Overhalla",
+          "latlng": [
+            64.4938,
+            11.94753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79695,
+          "name": "Ørland",
+          "latlng": [
+            63.68574,
+            9.66633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79433,
+          "name": "Raarvihke - Røyrvik",
+          "latlng": [
+            64.8838,
+            13.5631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79438,
+          "name": "Ranemsletta",
+          "latlng": [
+            64.49447,
+            11.94912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79446,
+          "name": "Rennebu",
+          "latlng": [
+            62.82864,
+            10.00487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79449,
+          "name": "Rindal",
+          "latlng": [
+            63.05511,
+            9.21274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79454,
+          "name": "Roan",
+          "latlng": [
+            64.17281,
+            10.22511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79468,
+          "name": "Røros",
+          "latlng": [
+            62.57562,
+            11.3873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79469,
+          "name": "Rørvik",
+          "latlng": [
+            64.86185,
+            11.23969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79472,
+          "name": "Røyrvik",
+          "latlng": [
+            64.88394,
+            13.56256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79491,
+          "name": "Selbu",
+          "latlng": [
+            63.2177,
+            11.03938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79500,
+          "name": "Sistranda",
+          "latlng": [
+            63.72523,
+            8.83318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79505,
+          "name": "Skaun",
+          "latlng": [
+            63.32386,
+            10.06745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79516,
+          "name": "Skogn",
+          "latlng": [
+            63.70374,
+            11.19262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79527,
+          "name": "Snåase",
+          "latlng": [
+            64.2457,
+            12.37779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79528,
+          "name": "Snåase - Snåsa",
+          "latlng": [
+            64.24606,
+            12.38294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79526,
+          "name": "Snillfjord",
+          "latlng": [
+            63.39973,
+            9.50194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79541,
+          "name": "Steinkjer",
+          "latlng": [
+            64.19303,
+            11.38505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79543,
+          "name": "Stjørdal",
+          "latlng": [
+            63.56699,
+            11.0273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79544,
+          "name": "Stjørdalshalsen",
+          "latlng": [
+            63.4681,
+            10.92618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79559,
+          "name": "Straumen",
+          "latlng": [
+            63.87163,
+            11.29617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79609,
+          "name": "Trondheim",
+          "latlng": [
+            63.42811,
+            10.39687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79614,
+          "name": "Tydal",
+          "latlng": [
+            63.04477,
+            11.65038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79640,
+          "name": "Verdal",
+          "latlng": [
+            63.90023,
+            11.72724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79641,
+          "name": "Verran",
+          "latlng": [
+            64.071,
+            11.21795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79656,
+          "name": "Vikna",
+          "latlng": [
+            64.86362,
+            11.24198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1024,
+      "name": "Vestfold og Telemark",
+      "code": "38",
+      "shortName": "38",
+      "cities": [
+        {
+          "id": 79686,
+          "name": "Årøysund",
+          "latlng": [
+            59.18321,
+            10.45743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79689,
+          "name": "Åsgårdstrand",
+          "latlng": [
+            59.34938,
+            10.46948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79063,
+          "name": "Bamble",
+          "latlng": [
+            59.00146,
+            9.74573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79065,
+          "name": "Barkåker",
+          "latlng": [
+            59.31859,
+            10.38963
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79070,
+          "name": "Berger",
+          "latlng": [
+            59.54994,
+            10.38641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79095,
+          "name": "Bø",
+          "latlng": [
+            59.41281,
+            9.06618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79100,
+          "name": "Dalen",
+          "latlng": [
+            59.44499,
+            8.00492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79105,
+          "name": "Drangedal",
+          "latlng": [
+            59.09655,
+            9.0596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79168,
+          "name": "Færder",
+          "latlng": [
+            59.22791,
+            10.4153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79167,
+          "name": "Fyresdal",
+          "latlng": [
+            59.18651,
+            8.08953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79195,
+          "name": "Gullhaug",
+          "latlng": [
+            59.5013,
+            10.25224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79196,
+          "name": "Gvarv",
+          "latlng": [
+            59.38767,
+            9.1724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79219,
+          "name": "Herre",
+          "latlng": [
+            59.10351,
+            9.56195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79223,
+          "name": "Hjartdal",
+          "latlng": [
+            59.61276,
+            8.94942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79229,
+          "name": "Holmestrand",
+          "latlng": [
+            59.48976,
+            10.31515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79236,
+          "name": "Horten",
+          "latlng": [
+            59.41547,
+            10.48527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79286,
+          "name": "Kragerø",
+          "latlng": [
+            58.86792,
+            9.41099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79294,
+          "name": "Kviteseid",
+          "latlng": [
+            59.40194,
+            8.49459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79304,
+          "name": "Larvik",
+          "latlng": [
+            59.05234,
+            10.02701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79332,
+          "name": "Lunde",
+          "latlng": [
+            59.29832,
+            9.10268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79361,
+          "name": "Melsomvik",
+          "latlng": [
+            59.22394,
+            10.33616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79398,
+          "name": "Nissedal",
+          "latlng": [
+            59.01958,
+            8.52127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79401,
+          "name": "Nome",
+          "latlng": [
+            59.28136,
+            9.25678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79414,
+          "name": "Notodden",
+          "latlng": [
+            59.55992,
+            9.26046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79430,
+          "name": "Porsgrunn",
+          "latlng": [
+            59.1419,
+            9.6568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79431,
+          "name": "Prestestranda",
+          "latlng": [
+            59.09773,
+            9.05866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79441,
+          "name": "Re",
+          "latlng": [
+            59.35056,
+            10.24763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79453,
+          "name": "Rjukan",
+          "latlng": [
+            59.87891,
+            8.59411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79480,
+          "name": "Sande",
+          "latlng": [
+            59.59362,
+            10.20757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79482,
+          "name": "Sandefjord",
+          "latlng": [
+            59.12881,
+            10.21971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79489,
+          "name": "Sauherad",
+          "latlng": [
+            59.39642,
+            9.2491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79493,
+          "name": "Seljord",
+          "latlng": [
+            59.48274,
+            8.62672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79494,
+          "name": "Selvik",
+          "latlng": [
+            59.56645,
+            10.26004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79495,
+          "name": "Sem",
+          "latlng": [
+            59.2823,
+            10.33004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79498,
+          "name": "Siljan",
+          "latlng": [
+            59.28251,
+            9.73368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79508,
+          "name": "Skien",
+          "latlng": [
+            59.20748,
+            9.61052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79518,
+          "name": "Skoppum",
+          "latlng": [
+            59.38613,
+            10.41077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79539,
+          "name": "Stavern",
+          "latlng": [
+            59,
+            10.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79545,
+          "name": "Stokke",
+          "latlng": [
+            59.22255,
+            10.30055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79570,
+          "name": "Svelvik",
+          "latlng": [
+            59.60677,
+            10.40225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79594,
+          "name": "Tinn",
+          "latlng": [
+            59.83486,
+            9.13528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79596,
+          "name": "Tjøme",
+          "latlng": [
+            59.1109,
+            10.3933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79598,
+          "name": "Tokke",
+          "latlng": [
+            59.44569,
+            8.01388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79619,
+          "name": "Tønsberg",
+          "latlng": [
+            59.26754,
+            10.40762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79620,
+          "name": "Ulefoss",
+          "latlng": [
+            59.28245,
+            9.26548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79658,
+          "name": "Vinje",
+          "latlng": [
+            59.56924,
+            7.98896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "name": "Vestland",
+      "code": "46",
+      "shortName": "46",
+      "cities": [
+        {
+          "id": 79675,
+          "name": "Ågotnes",
+          "latlng": [
+            60.40306,
+            5.01927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79682,
+          "name": "Årdal",
+          "latlng": [
+            61.23639,
+            7.70204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79683,
+          "name": "Årdalstangen",
+          "latlng": [
+            61.23581,
+            7.7037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79048,
+          "name": "Askøy",
+          "latlng": [
+            60.40916,
+            5.22599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79047,
+          "name": "Askvoll",
+          "latlng": [
+            61.3485,
+            5.05318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79053,
+          "name": "Aurland",
+          "latlng": [
+            60.90556,
+            7.18734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79056,
+          "name": "Austevoll",
+          "latlng": [
+            60.09578,
+            5.22722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79057,
+          "name": "Austrheim",
+          "latlng": [
+            60.77742,
+            4.93227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79060,
+          "name": "Balestrand",
+          "latlng": [
+            61.20809,
+            6.53551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79069,
+          "name": "Bergen",
+          "latlng": [
+            60.392,
+            5.328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79097,
+          "name": "Bømlo",
+          "latlng": [
+            59.79384,
+            5.17624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79088,
+          "name": "Bremanger",
+          "latlng": [
+            61.76862,
+            5.28907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79098,
+          "name": "Dale",
+          "latlng": [
+            60.58639,
+            5.81888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79110,
+          "name": "Eid",
+          "latlng": [
+            61.90684,
+            5.99321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79112,
+          "name": "Eidfjord",
+          "latlng": [
+            60.46741,
+            7.06971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79119,
+          "name": "Eikelandsosen",
+          "latlng": [
+            60.24175,
+            5.74433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79120,
+          "name": "Eivindvik",
+          "latlng": [
+            60.98133,
+            5.07497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79125,
+          "name": "Espeland",
+          "latlng": [
+            60.38249,
+            5.4657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79126,
+          "name": "Etne",
+          "latlng": [
+            59.66472,
+            5.93438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79133,
+          "name": "Farnes",
+          "latlng": [
+            61.3085,
+            7.79694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79136,
+          "name": "Fedje",
+          "latlng": [
+            60.77873,
+            4.71965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79142,
+          "name": "Fitjar",
+          "latlng": [
+            59.91742,
+            5.31637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79143,
+          "name": "Fjaler",
+          "latlng": [
+            61.36383,
+            5.39808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79144,
+          "name": "Fjell",
+          "latlng": [
+            60.36267,
+            5.12194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79151,
+          "name": "Flora",
+          "latlng": [
+            61.59994,
+            5.03144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79152,
+          "name": "Florø",
+          "latlng": [
+            61.59957,
+            5.0328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79169,
+          "name": "Førde",
+          "latlng": [
+            61.45045,
+            5.85397
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79160,
+          "name": "Frekhaug",
+          "latlng": [
+            60.51321,
+            5.24252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79166,
+          "name": "Fusa",
+          "latlng": [
+            60.24072,
+            5.74458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79171,
+          "name": "Gaular",
+          "latlng": [
+            61.32564,
+            5.79523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79172,
+          "name": "Gaupne",
+          "latlng": [
+            61.40472,
+            7.29458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79183,
+          "name": "Gloppen",
+          "latlng": [
+            61.77728,
+            6.21561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79187,
+          "name": "Granvin",
+          "latlng": [
+            60.52629,
+            6.72178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79194,
+          "name": "Gulen",
+          "latlng": [
+            60.98192,
+            5.07408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79198,
+          "name": "Hagavik",
+          "latlng": [
+            60.18076,
+            5.40146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79206,
+          "name": "Hardbakke",
+          "latlng": [
+            61.07562,
+            4.84111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79218,
+          "name": "Hermansverk",
+          "latlng": [
+            61.18461,
+            6.85016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79235,
+          "name": "Hornindal",
+          "latlng": [
+            61.96925,
+            6.52249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79248,
+          "name": "Høyanger",
+          "latlng": [
+            61.2188,
+            6.07308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79243,
+          "name": "Hylkje",
+          "latlng": [
+            60.51028,
+            5.35444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79244,
+          "name": "Hyllestad",
+          "latlng": [
+            61.17036,
+            5.29614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79252,
+          "name": "Indre Arna",
+          "latlng": [
+            60.41768,
+            5.47087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79258,
+          "name": "Jondal",
+          "latlng": [
+            60.2762,
+            6.25257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79261,
+          "name": "Jølster",
+          "latlng": [
+            61.56923,
+            6.48351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79269,
+          "name": "Kinsarvik",
+          "latlng": [
+            60.37567,
+            6.71948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79277,
+          "name": "Knappskog",
+          "latlng": [
+            60.37906,
+            5.05602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79279,
+          "name": "Knarvik",
+          "latlng": [
+            60.5453,
+            5.28208
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79291,
+          "name": "Kvam",
+          "latlng": [
+            60.36977,
+            6.14344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79293,
+          "name": "Kvinnherad",
+          "latlng": [
+            59.98421,
+            6.01227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79341,
+          "name": "Lærdal",
+          "latlng": [
+            61.09842,
+            7.48101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79342,
+          "name": "Lærdalsøyri",
+          "latlng": [
+            61.10001,
+            7.47374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79308,
+          "name": "Leikanger",
+          "latlng": [
+            61.18556,
+            6.82199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79311,
+          "name": "Leirvik",
+          "latlng": [
+            59.77977,
+            5.50051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79326,
+          "name": "Lindås",
+          "latlng": [
+            60.5491,
+            5.28559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79328,
+          "name": "Lonevåg",
+          "latlng": [
+            60.52556,
+            5.49563
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79335,
+          "name": "Luster",
+          "latlng": [
+            61.4031,
+            7.29793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79380,
+          "name": "Måløy",
+          "latlng": [
+            61.93535,
+            5.11362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79351,
+          "name": "Manger",
+          "latlng": [
+            60.64145,
+            5.04136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79354,
+          "name": "Masfjorden",
+          "latlng": [
+            60.79947,
+            5.30035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79357,
+          "name": "Meland",
+          "latlng": [
+            60.51777,
+            5.24063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79367,
+          "name": "Modalen",
+          "latlng": [
+            60.81735,
+            5.8079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79376,
+          "name": "Mosterhamn",
+          "latlng": [
+            59.69919,
+            5.38585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79387,
+          "name": "Naustdal",
+          "latlng": [
+            61.51034,
+            5.71719
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79406,
+          "name": "Nordfjordeid",
+          "latlng": [
+            61.9122,
+            5.98557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79413,
+          "name": "Norheimsund",
+          "latlng": [
+            60.37089,
+            6.14562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79417,
+          "name": "Odda",
+          "latlng": [
+            60.06697,
+            6.54541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79423,
+          "name": "Os",
+          "latlng": [
+            60.18547,
+            5.46962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79426,
+          "name": "Osterøy",
+          "latlng": [
+            60.52389,
+            5.50551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79702,
+          "name": "Øygarden",
+          "latlng": [
+            60.59041,
+            4.8389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79703,
+          "name": "Øystese",
+          "latlng": [
+            60.38825,
+            6.19251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79434,
+          "name": "Radøy",
+          "latlng": [
+            60.64187,
+            5.0411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79457,
+          "name": "Rosendal",
+          "latlng": [
+            59.98589,
+            6.01157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79459,
+          "name": "Rubbestadneset",
+          "latlng": [
+            59.81559,
+            5.26822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79473,
+          "name": "Sagvåg",
+          "latlng": [
+            59.78139,
+            5.38996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79476,
+          "name": "Samnanger",
+          "latlng": [
+            60.37745,
+            5.76219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79478,
+          "name": "Sandane",
+          "latlng": [
+            61.77277,
+            6.21496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79479,
+          "name": "Sande",
+          "latlng": [
+            61.32511,
+            5.79773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79485,
+          "name": "Sandsli",
+          "latlng": [
+            60.30323,
+            5.28554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79492,
+          "name": "Selje",
+          "latlng": [
+            62.04263,
+            5.34449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79517,
+          "name": "Skogsvågen",
+          "latlng": [
+            60.25512,
+            5.10161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79529,
+          "name": "Sogndal",
+          "latlng": [
+            61.23144,
+            7.10301
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79532,
+          "name": "Solund",
+          "latlng": [
+            61.07394,
+            4.83876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79548,
+          "name": "Stord",
+          "latlng": [
+            59.78092,
+            5.4998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79550,
+          "name": "Storebø",
+          "latlng": [
+            60.09485,
+            5.22705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79558,
+          "name": "Straume",
+          "latlng": [
+            60.36131,
+            5.12199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79561,
+          "name": "Stryn",
+          "latlng": [
+            61.90406,
+            6.724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79564,
+          "name": "Sund",
+          "latlng": [
+            60.27019,
+            5.07225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79568,
+          "name": "Sveio",
+          "latlng": [
+            59.54303,
+            5.3541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79569,
+          "name": "Svelgen",
+          "latlng": [
+            61.76976,
+            5.29544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79572,
+          "name": "Syfteland",
+          "latlng": [
+            60.23803,
+            5.45285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79617,
+          "name": "Tysnes",
+          "latlng": [
+            60.04076,
+            5.53129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79622,
+          "name": "Ullensvang",
+          "latlng": [
+            60.37501,
+            6.72073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79626,
+          "name": "Ulvik",
+          "latlng": [
+            60.56719,
+            6.91871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79664,
+          "name": "Vågsøy",
+          "latlng": [
+            61.93544,
+            5.11402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79629,
+          "name": "Vaksdal",
+          "latlng": [
+            60.5903,
+            5.82272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79652,
+          "name": "Vik",
+          "latlng": [
+            61.08863,
+            6.58512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79662,
+          "name": "Voss",
+          "latlng": [
+            60.6278,
+            6.41831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79670,
+          "name": "Ytre Arna",
+          "latlng": [
+            60.46175,
+            5.43265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79671,
+          "name": "Ytrebygda",
+          "latlng": [
+            60.30504,
+            5.28236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "name": "Viken",
+      "code": "30",
+      "shortName": "30",
+      "cities": [
+        {
+          "id": 79677,
+          "name": "Ål",
+          "latlng": [
+            60.63028,
+            8.56115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79681,
+          "name": "Åneby",
+          "latlng": [
+            60.08926,
+            10.86998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79043,
+          "name": "Aremark",
+          "latlng": [
+            59.22198,
+            11.69582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79684,
+          "name": "Årnes",
+          "latlng": [
+            60.12237,
+            11.47005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79685,
+          "name": "Åros",
+          "latlng": [
+            59.7061,
+            10.51092
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79687,
+          "name": "Ås",
+          "latlng": [
+            59.66366,
+            10.79101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79044,
+          "name": "Ask",
+          "latlng": [
+            60.07131,
+            11.0362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79045,
+          "name": "Asker",
+          "latlng": [
+            59.83734,
+            10.43595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79046,
+          "name": "Askim",
+          "latlng": [
+            59.58464,
+            11.16084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79051,
+          "name": "Auli",
+          "latlng": [
+            60.0345,
+            11.36046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79054,
+          "name": "Aurskog-Høland",
+          "latlng": [
+            59.88321,
+            11.56491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79055,
+          "name": "Aursmoen",
+          "latlng": [
+            59.92763,
+            11.44275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79094,
+          "name": "Bærum",
+          "latlng": [
+            59.88996,
+            10.52649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79073,
+          "name": "Billingstad",
+          "latlng": [
+            59.87548,
+            10.4823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79078,
+          "name": "Bjørkelangen",
+          "latlng": [
+            59.88357,
+            11.56396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79080,
+          "name": "Blakstad",
+          "latlng": [
+            59.8191,
+            10.4645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79104,
+          "name": "Drammen",
+          "latlng": [
+            59.74389,
+            10.20449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79106,
+          "name": "Drøbak",
+          "latlng": [
+            59.66333,
+            10.62975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79113,
+          "name": "Eidsberg",
+          "latlng": [
+            59.55148,
+            11.33587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79115,
+          "name": "Eidsvoll",
+          "latlng": [
+            60.32893,
+            11.26119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79123,
+          "name": "Enebakk",
+          "latlng": [
+            59.76452,
+            11.14492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79132,
+          "name": "Fagerstrand",
+          "latlng": [
+            59.73746,
+            10.59404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79137,
+          "name": "Fet",
+          "latlng": [
+            59.92216,
+            11.16778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79138,
+          "name": "Fetsund",
+          "latlng": [
+            59.92463,
+            11.15711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79145,
+          "name": "Fjellfoten",
+          "latlng": [
+            60.08967,
+            11.47222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79153,
+          "name": "Flå",
+          "latlng": [
+            60.4291,
+            9.46611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79148,
+          "name": "Flateby",
+          "latlng": [
+            59.82951,
+            11.15345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79150,
+          "name": "Flesberg",
+          "latlng": [
+            59.83283,
+            9.58308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79158,
+          "name": "Fossby",
+          "latlng": [
+            59.22218,
+            11.69928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79159,
+          "name": "Fredrikstad",
+          "latlng": [
+            59.21759,
+            10.93787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79161,
+          "name": "Frogn",
+          "latlng": [
+            59.66665,
+            10.63566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79162,
+          "name": "Frogner",
+          "latlng": [
+            60.02463,
+            11.10284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79174,
+          "name": "Geilo",
+          "latlng": [
+            60.53369,
+            8.20539
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79178,
+          "name": "Gjerdrum",
+          "latlng": [
+            60.07159,
+            11.03597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79184,
+          "name": "Gol",
+          "latlng": [
+            60.69953,
+            8.95024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79199,
+          "name": "Halden",
+          "latlng": [
+            59.12258,
+            11.38709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79217,
+          "name": "Hemsedal",
+          "latlng": [
+            60.86114,
+            8.56537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79226,
+          "name": "Hobøl",
+          "latlng": [
+            59.62252,
+            10.94979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79227,
+          "name": "Hol",
+          "latlng": [
+            60.61528,
+            8.30194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79228,
+          "name": "Hole",
+          "latlng": [
+            60.08017,
+            10.2784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79247,
+          "name": "Hønefoss",
+          "latlng": [
+            60.16804,
+            10.25647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79239,
+          "name": "Hurdal",
+          "latlng": [
+            60.43518,
+            11.06707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79240,
+          "name": "Hurum",
+          "latlng": [
+            59.61401,
+            10.45763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79241,
+          "name": "Hvaler",
+          "latlng": [
+            59.02809,
+            11.0311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79242,
+          "name": "Hvittingfoss",
+          "latlng": [
+            59.48572,
+            10.01173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79256,
+          "name": "Jessheim",
+          "latlng": [
+            60.14151,
+            11.17515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79265,
+          "name": "Karlshus",
+          "latlng": [
+            59.35195,
+            10.87226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79276,
+          "name": "Kløfta",
+          "latlng": [
+            60.07407,
+            11.13805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79278,
+          "name": "Knappstad",
+          "latlng": [
+            59.62424,
+            11.03274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79281,
+          "name": "Kongsberg",
+          "latlng": [
+            59.66516,
+            9.64653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79289,
+          "name": "Krødsherad",
+          "latlng": [
+            60.17944,
+            9.62124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79302,
+          "name": "Larkollen",
+          "latlng": [
+            59.33196,
+            10.66687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79310,
+          "name": "Leirsund",
+          "latlng": [
+            59.99682,
+            11.08746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79317,
+          "name": "Lervik",
+          "latlng": [
+            59.27119,
+            10.7461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79320,
+          "name": "Lier",
+          "latlng": [
+            59.78663,
+            10.2459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79324,
+          "name": "Lillestrøm",
+          "latlng": [
+            59.95597,
+            11.04918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79346,
+          "name": "Lørenskog",
+          "latlng": [
+            59.93209,
+            10.96079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79340,
+          "name": "Lysaker",
+          "latlng": [
+            59.90994,
+            10.63545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79352,
+          "name": "Marker",
+          "latlng": [
+            59.47952,
+            11.65917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79355,
+          "name": "Maura",
+          "latlng": [
+            60.2583,
+            11.03192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79368,
+          "name": "Modum",
+          "latlng": [
+            59.97346,
+            10.00468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79375,
+          "name": "Moss",
+          "latlng": [
+            59.43436,
+            10.65968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79378,
+          "name": "Mysen",
+          "latlng": [
+            59.55354,
+            11.32578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79385,
+          "name": "Nannestad",
+          "latlng": [
+            60.21707,
+            11.012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79388,
+          "name": "Nedre Eiker",
+          "latlng": [
+            59.75023,
+            10.00736
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79389,
+          "name": "Nes",
+          "latlng": [
+            60.12252,
+            11.4657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79391,
+          "name": "Nesbyen",
+          "latlng": [
+            60.56809,
+            9.10274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79392,
+          "name": "Neskollen",
+          "latlng": [
+            60.12159,
+            11.33926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79394,
+          "name": "Nesodden",
+          "latlng": [
+            59.8422,
+            10.6494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79395,
+          "name": "Nesoddtangen",
+          "latlng": [
+            59.86244,
+            10.66308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79399,
+          "name": "Nittedal",
+          "latlng": [
+            60.04278,
+            10.88167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79411,
+          "name": "Nore og Uvdal",
+          "latlng": [
+            60.26706,
+            8.94635
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79412,
+          "name": "Noresund",
+          "latlng": [
+            60.17985,
+            9.62411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79420,
+          "name": "Oppegård",
+          "latlng": [
+            59.81149,
+            10.79712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79694,
+          "name": "Ørje",
+          "latlng": [
+            59.48023,
+            11.66016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79700,
+          "name": "Øvre Eiker",
+          "latlng": [
+            59.77111,
+            9.9084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79432,
+          "name": "Prestfoss",
+          "latlng": [
+            60.04343,
+            9.6352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79463,
+          "name": "Råde",
+          "latlng": [
+            59.35162,
+            10.87135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79464,
+          "name": "Råholt",
+          "latlng": [
+            60.27513,
+            11.17901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79435,
+          "name": "Rakkestad",
+          "latlng": [
+            59.42822,
+            11.3435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79465,
+          "name": "Rælingen",
+          "latlng": [
+            59.92626,
+            11.06527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79451,
+          "name": "Ringerike",
+          "latlng": [
+            60.16018,
+            10.2566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79456,
+          "name": "Rollag",
+          "latlng": [
+            59.98413,
+            9.29489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79458,
+          "name": "Rotnes",
+          "latlng": [
+            60.05707,
+            10.86135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79467,
+          "name": "Rømskog",
+          "latlng": [
+            59.74968,
+            11.81122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79471,
+          "name": "Røyken",
+          "latlng": [
+            59.74019,
+            10.41321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79460,
+          "name": "Rygge",
+          "latlng": [
+            59.40629,
+            10.69298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79461,
+          "name": "Ryggebyen",
+          "latlng": [
+            59.375,
+            10.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79487,
+          "name": "Sarpsborg",
+          "latlng": [
+            59.28148,
+            11.11167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79574,
+          "name": "Sætre",
+          "latlng": [
+            59.68129,
+            10.52749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79497,
+          "name": "Sigdal",
+          "latlng": [
+            60.04592,
+            9.63673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79506,
+          "name": "Skedsmo",
+          "latlng": [
+            59.95448,
+            11.03952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79507,
+          "name": "Ski",
+          "latlng": [
+            59.72049,
+            10.83882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79509,
+          "name": "Skiptvet",
+          "latlng": [
+            59.47751,
+            11.16171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79513,
+          "name": "Skjærhalden",
+          "latlng": [
+            59.02526,
+            11.03685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79510,
+          "name": "Skjeberg",
+          "latlng": [
+            59.21148,
+            11.19025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79515,
+          "name": "Skoger",
+          "latlng": [
+            59.71327,
+            10.25356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79522,
+          "name": "Skui",
+          "latlng": [
+            59.92746,
+            10.4475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79586,
+          "name": "Sørum",
+          "latlng": [
+            59.98709,
+            11.24019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79587,
+          "name": "Sørumsand",
+          "latlng": [
+            59.98621,
+            11.24154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79536,
+          "name": "Spydeberg",
+          "latlng": [
+            59.62028,
+            11.08069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79597,
+          "name": "Tofte",
+          "latlng": [
+            59.54275,
+            10.56138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79601,
+          "name": "Tomter",
+          "latlng": [
+            59.6591,
+            10.99487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79604,
+          "name": "Tranby",
+          "latlng": [
+            59.8085,
+            10.26114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79612,
+          "name": "Trøgstad",
+          "latlng": [
+            59.64016,
+            11.3189
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79621,
+          "name": "Ullensaker",
+          "latlng": [
+            60.14401,
+            11.17441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79668,
+          "name": "Våler",
+          "latlng": [
+            59.4887,
+            10.86551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79642,
+          "name": "Vestby",
+          "latlng": [
+            59.60228,
+            10.74807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79653,
+          "name": "Vikersund",
+          "latlng": [
+            59.96838,
+            9.99107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

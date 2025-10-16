@@ -1,0 +1,5430 @@
+{
+  "name": {
+    "common": "Nigeria",
+    "official": "Nigeria"
+  },
+  "iso2": "NG",
+  "iso3": "NGA",
+  "numericCode": "566",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".ng",
+  "phoneCode": "234",
+  "capital": "Abuja",
+  "currencies": {
+    "NGN": "Nigerian naira"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Lagos",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ng.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ng.svg",
+  "states": [
+    {
+      "id": 303,
+      "name": "Abia",
+      "code": "AB",
+      "shortName": "AB",
+      "cities": [
+        {
+          "id": 76744,
+          "name": "Aba",
+          "latlng": [
+            5.10658,
+            7.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76769,
+          "name": "Amaigbo",
+          "latlng": [
+            5.78917,
+            7.83829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76779,
+          "name": "Arochukwu",
+          "latlng": [
+            5.38941,
+            7.91235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76799,
+          "name": "Bende",
+          "latlng": [
+            5.55874,
+            7.63359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77057,
+          "name": "Ohafia-Ifigh",
+          "latlng": [
+            5.61455,
+            7.81191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77125,
+          "name": "Umuahia",
+          "latlng": [
+            5.52491,
+            7.49461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Abuja Federal Capital Territory",
+      "code": "FC",
+      "shortName": "FC",
+      "cities": [
+        {
+          "id": 76749,
+          "name": "Abuja",
+          "latlng": [
+            9.05785,
+            7.49508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153367,
+          "name": "Asokoro",
+          "latlng": [
+            9.0479,
+            7.5155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153362,
+          "name": "Bamburu",
+          "latlng": [
+            9.1136,
+            7.1096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153366,
+          "name": "Garki",
+          "latlng": [
+            9.0319,
+            7.4828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153364,
+          "name": "Gwagwalada",
+          "latlng": [
+            8.9508,
+            7.0767
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153363,
+          "name": "Gwarinpa",
+          "latlng": [
+            9.1099,
+            7.4042
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153371,
+          "name": "Jikwoyi",
+          "latlng": [
+            8.9913,
+            7.5563
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153368,
+          "name": "Karu",
+          "latlng": [
+            8.9928,
+            7.5725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153369,
+          "name": "Kubwa",
+          "latlng": [
+            9.1538,
+            7.322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76990,
+          "name": "Kuje",
+          "latlng": [
+            8.87952,
+            7.22756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153370,
+          "name": "Kurunduma",
+          "latlng": [
+            9.0151,
+            7.5349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76997,
+          "name": "Kwali",
+          "latlng": [
+            8.88346,
+            7.01858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77014,
+          "name": "Madala",
+          "latlng": [
+            9.10444,
+            7.21333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153365,
+          "name": "Maitama",
+          "latlng": [
+            9.0882,
+            7.4934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153373,
+          "name": "Wuse",
+          "latlng": [
+            9.0747,
+            7.476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153372,
+          "name": "Zuba",
+          "latlng": [
+            9.1023,
+            7.1952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Adamawa",
+      "code": "AD",
+      "shortName": "AD",
+      "cities": [
+        {
+          "id": 76876,
+          "name": "Ganye",
+          "latlng": [
+            8.43497,
+            12.05107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76885,
+          "name": "Gombi",
+          "latlng": [
+            10.16756,
+            12.73684
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76904,
+          "name": "Holma",
+          "latlng": [
+            9.89863,
+            13.0545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76962,
+          "name": "Jimeta",
+          "latlng": [
+            9.27949,
+            12.45819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77013,
+          "name": "Madagali",
+          "latlng": [
+            10.88942,
+            13.62832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77027,
+          "name": "Mayo-Belwa",
+          "latlng": [
+            9.05421,
+            12.05794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77035,
+          "name": "Mubi",
+          "latlng": [
+            10.26858,
+            13.26701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77041,
+          "name": "Ngurore",
+          "latlng": [
+            9.28871,
+            12.24026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77046,
+          "name": "Numan",
+          "latlng": [
+            9.46374,
+            12.03062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77114,
+          "name": "Toungo",
+          "latlng": [
+            8.11733,
+            12.04611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77146,
+          "name": "Yola",
+          "latlng": [
+            9.20839,
+            12.48146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Akwa Ibom",
+      "code": "AK",
+      "shortName": "AK",
+      "cities": [
+        {
+          "id": 76858,
+          "name": "Eket",
+          "latlng": [
+            4.64231,
+            7.92438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76865,
+          "name": "Esuk Oron",
+          "latlng": [
+            4.80293,
+            8.25341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76937,
+          "name": "Ikot Ekpene",
+          "latlng": [
+            5.18194,
+            7.71481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76955,
+          "name": "Itu",
+          "latlng": [
+            5.20131,
+            7.98373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77129,
+          "name": "Uyo",
+          "latlng": [
+            5.05127,
+            7.9335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Anambra",
+      "code": "AN",
+      "shortName": "AN",
+      "cities": [
+        {
+          "id": 76759,
+          "name": "Agulu",
+          "latlng": [
+            6.10045,
+            7.061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76781,
+          "name": "Atani",
+          "latlng": [
+            6.01277,
+            6.74768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76785,
+          "name": "Awka",
+          "latlng": [
+            6.21269,
+            7.07199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76863,
+          "name": "Enugu-Ukwu",
+          "latlng": [
+            6.17146,
+            7.00525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76920,
+          "name": "Igbo-Ukwu",
+          "latlng": [
+            6.01798,
+            7.02027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76924,
+          "name": "Ihiala",
+          "latlng": [
+            5.85475,
+            6.85944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77043,
+          "name": "Nkpor",
+          "latlng": [
+            6.15038,
+            6.83042
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77044,
+          "name": "Nnewi",
+          "latlng": [
+            6.01962,
+            6.91729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77068,
+          "name": "Onitsha",
+          "latlng": [
+            6.14978,
+            6.78569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77083,
+          "name": "Ozubulu",
+          "latlng": [
+            5.95753,
+            6.85305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77120,
+          "name": "Uga",
+          "latlng": [
+            5.93576,
+            7.0793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77128,
+          "name": "Uruobo-Okija",
+          "latlng": [
+            5.90016,
+            6.84312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Bauchi",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 76786,
+          "name": "Azare",
+          "latlng": [
+            11.67478,
+            10.19069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76796,
+          "name": "Bauchi",
+          "latlng": [
+            10.31032,
+            9.84388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76810,
+          "name": "Boi",
+          "latlng": [
+            9.56109,
+            9.50154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76818,
+          "name": "Bununu",
+          "latlng": [
+            9.88224,
+            9.68058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76835,
+          "name": "Darazo",
+          "latlng": [
+            10.9992,
+            10.41062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76836,
+          "name": "Dass",
+          "latlng": [
+            10.00065,
+            9.51596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76843,
+          "name": "Dindima",
+          "latlng": [
+            10.22629,
+            10.15132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76844,
+          "name": "Disina",
+          "latlng": [
+            11.48135,
+            9.91903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76871,
+          "name": "Gabarin",
+          "latlng": [
+            11.1093,
+            10.4441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76898,
+          "name": "Gwaram",
+          "latlng": [
+            10.23295,
+            10.28572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76978,
+          "name": "Kari",
+          "latlng": [
+            11.2471,
+            10.561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77005,
+          "name": "Lame",
+          "latlng": [
+            10.44154,
+            9.23955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77009,
+          "name": "Lere",
+          "latlng": [
+            9.71052,
+            9.34029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77015,
+          "name": "Madara",
+          "latlng": [
+            11.7798,
+            10.4479
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77031,
+          "name": "Misau",
+          "latlng": [
+            11.3137,
+            10.46664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77095,
+          "name": "Sade",
+          "latlng": [
+            11.3595,
+            10.6732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77140,
+          "name": "Yamrat",
+          "latlng": [
+            10.11161,
+            9.82604
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77141,
+          "name": "Yanda Bayo",
+          "latlng": [
+            11.5071,
+            10.7459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77147,
+          "name": "Yuli",
+          "latlng": [
+            9.69707,
+            10.2735
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77148,
+          "name": "Zadawa",
+          "latlng": [
+            11.4496,
+            10.3672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77150,
+          "name": "Zalanga",
+          "latlng": [
+            10.61432,
+            10.17647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Bayelsa",
+      "code": "BY",
+      "shortName": "BY",
+      "cities": [
+        {
+          "id": 76770,
+          "name": "Amassoma",
+          "latlng": [
+            4.97032,
+            6.10915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77116,
+          "name": "Twon-Brass",
+          "latlng": [
+            4.31231,
+            6.24091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77145,
+          "name": "Yenagoa",
+          "latlng": [
+            4.92675,
+            6.26764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Benue",
+      "code": "BE",
+      "shortName": "BE",
+      "cities": [
+        {
+          "id": 76767,
+          "name": "Aliade",
+          "latlng": [
+            7.29627,
+            8.48278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76811,
+          "name": "Boju",
+          "latlng": [
+            7.35572,
+            7.89303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149066,
+          "name": "Gboko",
+          "latlng": [
+            7.3315953,
+            8.9760068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76922,
+          "name": "Igbor",
+          "latlng": [
+            7.45123,
+            8.60805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77021,
+          "name": "Makurdi",
+          "latlng": [
+            7.73375,
+            8.52139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77049,
+          "name": "Ochobo",
+          "latlng": [
+            7.18045,
+            7.9824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77077,
+          "name": "Otukpa",
+          "latlng": [
+            7.10168,
+            7.65945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77110,
+          "name": "Takum",
+          "latlng": [
+            7.26667,
+            9.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77121,
+          "name": "Ugbokpo",
+          "latlng": [
+            7.65321,
+            7.8841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77142,
+          "name": "Yandev",
+          "latlng": [
+            7.36308,
+            9.04235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77149,
+          "name": "Zaki Biam",
+          "latlng": [
+            7.50671,
+            9.6104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Borno",
+      "code": "BO",
+      "shortName": "BO",
+      "cities": [
+        {
+          "id": 76793,
+          "name": "Bama",
+          "latlng": [
+            11.52134,
+            13.68952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76801,
+          "name": "Benisheikh",
+          "latlng": [
+            11.80919,
+            12.49151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76808,
+          "name": "Biu",
+          "latlng": [
+            10.61285,
+            12.19458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76814,
+          "name": "Bornu Yassu",
+          "latlng": [
+            12.27503,
+            12.56856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76825,
+          "name": "Damasak",
+          "latlng": [
+            13.10518,
+            12.50854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76827,
+          "name": "Damboa",
+          "latlng": [
+            11.15534,
+            12.75638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76842,
+          "name": "Dikwa",
+          "latlng": [
+            12.03609,
+            13.91815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76874,
+          "name": "Gamboru",
+          "latlng": [
+            12.37299,
+            14.2069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76901,
+          "name": "Gwoza",
+          "latlng": [
+            11.08313,
+            13.69595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76991,
+          "name": "Kukawa",
+          "latlng": [
+            12.92475,
+            13.56617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77016,
+          "name": "Magumeri",
+          "latlng": [
+            12.11451,
+            12.8262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77018,
+          "name": "Maiduguri",
+          "latlng": [
+            11.84692,
+            13.15712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77024,
+          "name": "Marte",
+          "latlng": [
+            12.36532,
+            13.8293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77030,
+          "name": "Miringa",
+          "latlng": [
+            10.73115,
+            12.14626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77033,
+          "name": "Monguno",
+          "latlng": [
+            12.67059,
+            13.61224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77040,
+          "name": "Ngala",
+          "latlng": [
+            12.34053,
+            14.1867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77101,
+          "name": "Shaffa",
+          "latlng": [
+            10.50673,
+            12.33315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77103,
+          "name": "Shani",
+          "latlng": [
+            10.21824,
+            12.06059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77113,
+          "name": "Tokombere",
+          "latlng": [
+            11.22135,
+            13.48783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77117,
+          "name": "Uba",
+          "latlng": [
+            10.45509,
+            13.22233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77138,
+          "name": "Wuyo",
+          "latlng": [
+            10.38522,
+            11.69678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77139,
+          "name": "Yajiwa",
+          "latlng": [
+            11.38623,
+            12.71992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Cross River",
+      "code": "CR",
+      "shortName": "CR",
+      "cities": [
+        {
+          "id": 76761,
+          "name": "Akankpa",
+          "latlng": [
+            5.1264,
+            8.1898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76821,
+          "name": "Calabar",
+          "latlng": [
+            4.95893,
+            8.32695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76873,
+          "name": "Gakem",
+          "latlng": [
+            6.76963,
+            8.9912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76931,
+          "name": "Ikang",
+          "latlng": [
+            4.78978,
+            8.5316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77122,
+          "name": "Ugep",
+          "latlng": [
+            5.80865,
+            8.08098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Delta",
+      "code": "DE",
+      "shortName": "DE",
+      "cities": [
+        {
+          "id": 76748,
+          "name": "Abraka",
+          "latlng": [
+            5.79023,
+            6.10473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76756,
+          "name": "Agbor",
+          "latlng": [
+            6.25375,
+            6.1942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76780,
+          "name": "Asaba",
+          "latlng": [
+            6.19824,
+            6.73187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76813,
+          "name": "Bomadi",
+          "latlng": [
+            5.16073,
+            5.92375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76820,
+          "name": "Burutu",
+          "latlng": [
+            5.35328,
+            5.50826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76996,
+          "name": "Kwale",
+          "latlng": [
+            5.70773,
+            6.43402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77047,
+          "name": "Obiaruku",
+          "latlng": [
+            5.84672,
+            6.1529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77056,
+          "name": "Ogwashi-Uku",
+          "latlng": [
+            6.17811,
+            6.52461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77071,
+          "name": "Orerokpe",
+          "latlng": [
+            5.63747,
+            5.89013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77086,
+          "name": "Patani",
+          "latlng": [
+            5.22885,
+            6.19139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77099,
+          "name": "Sapele",
+          "latlng": [
+            5.89405,
+            5.67666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77123,
+          "name": "Ughelli",
+          "latlng": [
+            5.48956,
+            6.00407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77126,
+          "name": "Umunede",
+          "latlng": [
+            6.26549,
+            6.30962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77133,
+          "name": "Warri",
+          "latlng": [
+            5.51737,
+            5.75006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Ebonyi",
+      "code": "EB",
+      "shortName": "EB",
+      "cities": [
+        {
+          "id": 76745,
+          "name": "Abakaliki",
+          "latlng": [
+            6.32485,
+            8.11368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76754,
+          "name": "Afikpo",
+          "latlng": [
+            5.89258,
+            7.93534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76852,
+          "name": "Effium",
+          "latlng": [
+            6.63105,
+            8.05814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76867,
+          "name": "Ezza-Ohu",
+          "latlng": [
+            6.44094,
+            8.08432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76954,
+          "name": "Isieke",
+          "latlng": [
+            6.38186,
+            8.03736
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "name": "Edo",
+      "code": "ED",
+      "shortName": "ED",
+      "cities": [
+        {
+          "id": 76757,
+          "name": "Agenebode",
+          "latlng": [
+            7.10512,
+            6.69381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76782,
+          "name": "Auchi",
+          "latlng": [
+            7.06756,
+            6.2636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76800,
+          "name": "Benin City",
+          "latlng": [
+            6.33815,
+            5.62575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76859,
+          "name": "Ekpoma",
+          "latlng": [
+            6.743,
+            6.14029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76916,
+          "name": "Igarra",
+          "latlng": [
+            7.29366,
+            6.10432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76944,
+          "name": "Illushi",
+          "latlng": [
+            6.67033,
+            6.62907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77104,
+          "name": "Siluko",
+          "latlng": [
+            6.53589,
+            5.16005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77118,
+          "name": "Ubiaja",
+          "latlng": [
+            6.65581,
+            6.38494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77127,
+          "name": "Uromi",
+          "latlng": [
+            6.7,
+            6.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "name": "Ekiti",
+      "code": "EK",
+      "shortName": "EK",
+      "cities": [
+        {
+          "id": 76752,
+          "name": "Ado-Ekiti",
+          "latlng": [
+            7.62329,
+            5.22087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76777,
+          "name": "Aramoko-Ekiti",
+          "latlng": [
+            7.70483,
+            5.04054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76853,
+          "name": "Efon-Alaaye",
+          "latlng": [
+            7.65649,
+            4.92235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76860,
+          "name": "Emure-Ekiti",
+          "latlng": [
+            7.43636,
+            5.45925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76913,
+          "name": "Ifaki",
+          "latlng": [
+            7.78942,
+            5.24852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76917,
+          "name": "Igbara-Odo",
+          "latlng": [
+            7.50251,
+            5.06258
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76923,
+          "name": "Igede-Ekiti",
+          "latlng": [
+            7.6685,
+            5.12627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76930,
+          "name": "Ijero-Ekiti",
+          "latlng": [
+            7.81514,
+            5.06716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76934,
+          "name": "Ikere-Ekiti",
+          "latlng": [
+            7.49748,
+            5.23041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76950,
+          "name": "Ipoti",
+          "latlng": [
+            7.87377,
+            5.07691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76953,
+          "name": "Ise-Ekiti",
+          "latlng": [
+            7.46478,
+            5.42333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77058,
+          "name": "Oke Ila",
+          "latlng": [
+            7.95,
+            4.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77066,
+          "name": "Omuo-Ekiti",
+          "latlng": [
+            7.75833,
+            5.72227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Enugu",
+      "code": "EN",
+      "shortName": "EN",
+      "cities": [
+        {
+          "id": 76750,
+          "name": "Adani",
+          "latlng": [
+            6.73971,
+            7.01117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76762,
+          "name": "Ake-Eze",
+          "latlng": [
+            5.91677,
+            7.67615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76764,
+          "name": "Aku",
+          "latlng": [
+            6.70902,
+            7.31826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76768,
+          "name": "Amagunze",
+          "latlng": [
+            6.33063,
+            7.65247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76784,
+          "name": "Awgu",
+          "latlng": [
+            6.07278,
+            7.47739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76855,
+          "name": "Eha Amufu",
+          "latlng": [
+            6.65915,
+            7.75961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76861,
+          "name": "Enugu",
+          "latlng": [
+            6.44132,
+            7.49883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76862,
+          "name": "Enugu-Ezike",
+          "latlng": [
+            6.9827,
+            7.45534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76866,
+          "name": "Ete",
+          "latlng": [
+            7.08956,
+            7.45341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76933,
+          "name": "Ikem",
+          "latlng": [
+            6.77993,
+            7.71484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77028,
+          "name": "Mberubu",
+          "latlng": [
+            6.1731,
+            7.63017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77045,
+          "name": "Nsukka",
+          "latlng": [
+            6.85783,
+            7.39577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77048,
+          "name": "Obolo-Eke (1)",
+          "latlng": [
+            6.88333,
+            7.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77069,
+          "name": "Opi",
+          "latlng": [
+            6.78223,
+            7.43319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77119,
+          "name": "Udi",
+          "latlng": [
+            6.31592,
+            7.42086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Gombe",
+      "code": "GO",
+      "shortName": "GO",
+      "cities": [
+        {
+          "id": 76763,
+          "name": "Akko",
+          "latlng": [
+            10.28899,
+            10.9732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76794,
+          "name": "Bara",
+          "latlng": [
+            10.37444,
+            10.72884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76802,
+          "name": "Billiri",
+          "latlng": [
+            9.86545,
+            11.22624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76823,
+          "name": "Dadiya",
+          "latlng": [
+            9.61667,
+            11.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76839,
+          "name": "Deba",
+          "latlng": [
+            10.21187,
+            11.3871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76846,
+          "name": "Dukku",
+          "latlng": [
+            10.82379,
+            10.77221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76877,
+          "name": "Garko",
+          "latlng": [
+            10.17506,
+            11.16458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76884,
+          "name": "Gombe",
+          "latlng": [
+            10.28969,
+            11.16729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76903,
+          "name": "Hinna",
+          "latlng": [
+            10.30426,
+            11.49905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76968,
+          "name": "Kafarati",
+          "latlng": [
+            10.38304,
+            11.09567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76973,
+          "name": "Kaltungo",
+          "latlng": [
+            9.81998,
+            11.30871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76993,
+          "name": "Kumo",
+          "latlng": [
+            10.04807,
+            11.21055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77037,
+          "name": "Nafada",
+          "latlng": [
+            11.09596,
+            11.33261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77088,
+          "name": "Pindiga",
+          "latlng": [
+            9.98433,
+            10.95229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Imo",
+      "code": "IM",
+      "shortName": "IM",
+      "cities": [
+        {
+          "id": 76925,
+          "name": "Iho",
+          "latlng": [
+            5.58225,
+            7.09896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77055,
+          "name": "Oguta",
+          "latlng": [
+            5.71044,
+            6.80936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77062,
+          "name": "Okigwe",
+          "latlng": [
+            5.82917,
+            7.35056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77073,
+          "name": "Orlu",
+          "latlng": [
+            5.79565,
+            7.03513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77074,
+          "name": "Orodo",
+          "latlng": [
+            5.61667,
+            7.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77078,
+          "name": "Owerri",
+          "latlng": [
+            5.48363,
+            7.03325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Jigawa",
+      "code": "JI",
+      "shortName": "JI",
+      "cities": [
+        {
+          "id": 76788,
+          "name": "Babura",
+          "latlng": [
+            12.77256,
+            9.01525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76806,
+          "name": "Birnin Kudu",
+          "latlng": [
+            11.45207,
+            9.47856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76807,
+          "name": "Birniwa",
+          "latlng": [
+            12.7907,
+            10.23614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76848,
+          "name": "Dutse",
+          "latlng": [
+            11.75618,
+            9.33896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76872,
+          "name": "Gagarawa",
+          "latlng": [
+            12.40848,
+            9.52881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76892,
+          "name": "Gumel",
+          "latlng": [
+            12.6269,
+            9.38807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76897,
+          "name": "Gwaram",
+          "latlng": [
+            11.27727,
+            9.88385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76902,
+          "name": "Hadejia",
+          "latlng": [
+            12.45347,
+            10.04115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76969,
+          "name": "Kafin Hausa",
+          "latlng": [
+            12.23933,
+            9.91105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76981,
+          "name": "Kazaure",
+          "latlng": [
+            12.64846,
+            8.41178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76985,
+          "name": "Kiyawa",
+          "latlng": [
+            11.78442,
+            9.6069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77022,
+          "name": "Mallammaduri",
+          "latlng": [
+            12.56427,
+            9.95727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77091,
+          "name": "Ringim",
+          "latlng": [
+            12.15143,
+            9.16216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77097,
+          "name": "Samamiya",
+          "latlng": [
+            11.34873,
+            9.63989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Kaduna",
+      "code": "KD",
+      "shortName": "KD",
+      "cities": [
+        {
+          "id": 76772,
+          "name": "Anchau",
+          "latlng": [
+            10.96245,
+            8.39233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76819,
+          "name": "Burumburum",
+          "latlng": [
+            11.39106,
+            8.72341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76849,
+          "name": "Dutsen Wai",
+          "latlng": [
+            10.85009,
+            8.199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76905,
+          "name": "Hunkuyi",
+          "latlng": [
+            11.2668,
+            7.64916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76965,
+          "name": "Kachia",
+          "latlng": [
+            9.87342,
+            7.95407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76966,
+          "name": "Kaduna",
+          "latlng": [
+            10.52641,
+            7.43879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76967,
+          "name": "Kafanchan",
+          "latlng": [
+            9.58126,
+            8.2926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76970,
+          "name": "Kagoro",
+          "latlng": [
+            9.60776,
+            8.39043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76972,
+          "name": "Kajuru",
+          "latlng": [
+            10.32281,
+            7.68462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76989,
+          "name": "Kujama",
+          "latlng": [
+            10.45767,
+            7.63808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77010,
+          "name": "Lere",
+          "latlng": [
+            10.38584,
+            8.57286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77023,
+          "name": "Mando",
+          "latlng": [
+            10.71667,
+            6.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77098,
+          "name": "Saminaka",
+          "latlng": [
+            10.41227,
+            8.68748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77105,
+          "name": "Soba",
+          "latlng": [
+            10.98133,
+            8.05749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77106,
+          "name": "Sofo-Birnin-Gwari",
+          "latlng": [
+            11.01537,
+            6.78036
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77151,
+          "name": "Zaria",
+          "latlng": [
+            11.11128,
+            7.7227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Kano",
+      "code": "KN",
+      "shortName": "KN",
+      "cities": [
+        {
+          "id": 76828,
+          "name": "Dan Gora",
+          "latlng": [
+            11.53485,
+            8.15224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76880,
+          "name": "Gaya",
+          "latlng": [
+            11.86064,
+            9.0027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76977,
+          "name": "Kano",
+          "latlng": [
+            12.00012,
+            8.51672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Katsina",
+      "code": "KT",
+      "shortName": "KT",
+      "cities": [
+        {
+          "id": 76831,
+          "name": "Danja",
+          "latlng": [
+            11.3771,
+            7.56097
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76833,
+          "name": "Dankama",
+          "latlng": [
+            13.29782,
+            7.79492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76838,
+          "name": "Daura",
+          "latlng": [
+            13.03299,
+            8.32351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76850,
+          "name": "Dutsin-Ma",
+          "latlng": [
+            12.45392,
+            7.49723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76870,
+          "name": "Funtua",
+          "latlng": [
+            11.47196,
+            7.30699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76887,
+          "name": "Gora",
+          "latlng": [
+            11.91294,
+            7.66531
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76960,
+          "name": "Jibia",
+          "latlng": [
+            13.09378,
+            7.22624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76961,
+          "name": "Jikamshi",
+          "latlng": [
+            12.17328,
+            7.77424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76976,
+          "name": "Kankara",
+          "latlng": [
+            11.93114,
+            7.41115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76979,
+          "name": "Katsina",
+          "latlng": [
+            12.99082,
+            7.60177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77026,
+          "name": "Mashi",
+          "latlng": [
+            12.98044,
+            7.94703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77093,
+          "name": "Ruma",
+          "latlng": [
+            12.8626,
+            7.23469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77094,
+          "name": "Runka",
+          "latlng": [
+            12.44788,
+            7.30918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77131,
+          "name": "Wagini",
+          "latlng": [
+            12.68781,
+            7.19579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Kebbi",
+      "code": "KE",
+      "shortName": "KE",
+      "cities": [
+        {
+          "id": 76778,
+          "name": "Argungu",
+          "latlng": [
+            12.74482,
+            4.52514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76791,
+          "name": "Bagudo",
+          "latlng": [
+            11.40351,
+            4.22571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76798,
+          "name": "Bena",
+          "latlng": [
+            11.28444,
+            5.93472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76803,
+          "name": "Bin Yauri",
+          "latlng": [
+            10.7823,
+            4.81135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76805,
+          "name": "Birnin Kebbi",
+          "latlng": [
+            12.45389,
+            4.1975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76822,
+          "name": "Dabai",
+          "latlng": [
+            11.47651,
+            5.20625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76824,
+          "name": "Dakingari",
+          "latlng": [
+            11.64809,
+            4.06177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76891,
+          "name": "Gulma",
+          "latlng": [
+            12.64231,
+            4.35545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76896,
+          "name": "Gwandu",
+          "latlng": [
+            12.50204,
+            4.64295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76959,
+          "name": "Jega",
+          "latlng": [
+            12.22336,
+            4.37971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76974,
+          "name": "Kamba",
+          "latlng": [
+            11.85172,
+            3.65478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76975,
+          "name": "Kangiwa",
+          "latlng": [
+            12.55339,
+            3.81814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76983,
+          "name": "Kende",
+          "latlng": [
+            11.51966,
+            4.2603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77017,
+          "name": "Mahuta",
+          "latlng": [
+            11.55338,
+            4.98138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77019,
+          "name": "Maiyama",
+          "latlng": [
+            12.08225,
+            4.36907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77102,
+          "name": "Shanga",
+          "latlng": [
+            11.21374,
+            4.57941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77134,
+          "name": "Wasagu",
+          "latlng": [
+            11.3764,
+            5.79536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77153,
+          "name": "Zuru",
+          "latlng": [
+            11.43522,
+            5.23494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Kogi",
+      "code": "KO",
+      "shortName": "KO",
+      "cities": [
+        {
+          "id": 76747,
+          "name": "Abocho",
+          "latlng": [
+            7.5677,
+            6.9863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76753,
+          "name": "Adoru",
+          "latlng": [
+            6.97694,
+            7.16262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76774,
+          "name": "Ankpa",
+          "latlng": [
+            7.40249,
+            7.63196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76816,
+          "name": "Bugana",
+          "latlng": [
+            7.99917,
+            7.58361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76840,
+          "name": "Dekina",
+          "latlng": [
+            7.68967,
+            7.0438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76854,
+          "name": "Egbe",
+          "latlng": [
+            8.21667,
+            5.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76909,
+          "name": "Icheu",
+          "latlng": [
+            7.7067,
+            6.7718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76910,
+          "name": "Idah",
+          "latlng": [
+            7.11345,
+            6.73866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76951,
+          "name": "Isanlu-Itedoijowa",
+          "latlng": [
+            8.27445,
+            5.83528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76964,
+          "name": "Kabba",
+          "latlng": [
+            7.82719,
+            6.07502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76988,
+          "name": "Koton-Karfe",
+          "latlng": [
+            8.0912,
+            6.79782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77011,
+          "name": "Lokoja",
+          "latlng": [
+            7.79688,
+            6.74048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77052,
+          "name": "Ogaminana",
+          "latlng": [
+            7.59383,
+            6.21798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77054,
+          "name": "Ogurugu",
+          "latlng": [
+            6.78636,
+            6.95017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77061,
+          "name": "Okene",
+          "latlng": [
+            7.55122,
+            6.23589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Kwara",
+      "code": "KW",
+      "shortName": "KW",
+      "cities": [
+        {
+          "id": 76760,
+          "name": "Ajasse Ipo",
+          "latlng": [
+            8.23333,
+            4.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76809,
+          "name": "Bode Saadu",
+          "latlng": [
+            8.939,
+            4.78227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76899,
+          "name": "Gwasero",
+          "latlng": [
+            9.48333,
+            3.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76946,
+          "name": "Ilorin",
+          "latlng": [
+            8.49664,
+            4.54214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76958,
+          "name": "Jebba",
+          "latlng": [
+            9.11972,
+            4.8236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76971,
+          "name": "Kaiama",
+          "latlng": [
+            9.6053,
+            3.94101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77001,
+          "name": "Lafiagi",
+          "latlng": [
+            8.85299,
+            5.41641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77051,
+          "name": "Offa",
+          "latlng": [
+            8.14911,
+            4.72074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77063,
+          "name": "Okuta",
+          "latlng": [
+            9.21667,
+            3.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77065,
+          "name": "Omu-Aran",
+          "latlng": [
+            8.13857,
+            5.1026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77087,
+          "name": "Patigi",
+          "latlng": [
+            8.72851,
+            5.75561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77109,
+          "name": "Suya",
+          "latlng": [
+            9.46667,
+            3.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77143,
+          "name": "Yashikera",
+          "latlng": [
+            9.76667,
+            3.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Lagos",
+      "code": "LA",
+      "shortName": "LA",
+      "cities": [
+        {
+          "id": 153687,
+          "name": "Abule Egba",
+          "latlng": [
+            6.6507441,
+            3.2655451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153665,
+          "name": "Agege",
+          "latlng": [
+            6.6152236,
+            3.300297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153661,
+          "name": "Alimosho",
+          "latlng": [
+            6.5889,
+            3.2485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153672,
+          "name": "Amuwo-Odofin",
+          "latlng": [
+            6.4467434,
+            3.196826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76775,
+          "name": "Apapa",
+          "latlng": [
+            6.4488,
+            3.35901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76789,
+          "name": "Badagry",
+          "latlng": [
+            6.41502,
+            2.88132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153677,
+          "name": "Bariga",
+          "latlng": [
+            6.5393123,
+            3.3762706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76851,
+          "name": "Ebute Ikorodu",
+          "latlng": [
+            6.60086,
+            3.48818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153686,
+          "name": "Ebute Metta",
+          "latlng": [
+            6.4843759,
+            3.3759168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76857,
+          "name": "Ejirin",
+          "latlng": [
+            6.61423,
+            3.90019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76864,
+          "name": "Epe",
+          "latlng": [
+            6.58412,
+            3.98336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153666,
+          "name": "Eti-Osa",
+          "latlng": [
+            6.468124,
+            3.3709378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153680,
+          "name": "Festac",
+          "latlng": [
+            6.4717833,
+            3.2649387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153674,
+          "name": "Ibeju-Lekki",
+          "latlng": [
+            6.4576436,
+            3.623244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153682,
+          "name": "Idimu",
+          "latlng": [
+            6.5833798,
+            3.2044278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153671,
+          "name": "Ifako-Ijaiye",
+          "latlng": [
+            6.6830972,
+            3.2207917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153681,
+          "name": "Igando",
+          "latlng": [
+            6.5513239,
+            3.2218113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153679,
+          "name": "Ijora",
+          "latlng": [
+            6.4633045,
+            3.3406241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76932,
+          "name": "Ikeja",
+          "latlng": [
+            6.59651,
+            3.34205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153663,
+          "name": "Ikorodu",
+          "latlng": [
+            6.61526,
+            3.5069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153683,
+          "name": "Ipaja",
+          "latlng": [
+            6.609832,
+            3.2229994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153664,
+          "name": "Isheri-Olofin",
+          "latlng": [
+            6.5809203,
+            3.2741728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77002,
+          "name": "Lagos",
+          "latlng": [
+            6.45407,
+            3.39467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153662,
+          "name": "Lagos Island",
+          "latlng": [
+            6.4499982,
+            3.3999984
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153673,
+          "name": "Lekki",
+          "latlng": [
+            6.5114813,
+            3.4445381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77020,
+          "name": "Makoko",
+          "latlng": [
+            6.49611,
+            3.38778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153668,
+          "name": "Mushin",
+          "latlng": [
+            6.5356324,
+            3.3302253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153684,
+          "name": "Ogba",
+          "latlng": [
+            6.6230624,
+            3.3341836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153667,
+          "name": "Ojo",
+          "latlng": [
+            6.4620213,
+            3.0796915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153688,
+          "name": "Ojodu Berger",
+          "latlng": [
+            6.6454523,
+            3.3663973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153685,
+          "name": "Ojota",
+          "latlng": [
+            6.5851656,
+            3.3709254
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153670,
+          "name": "Oshodi-Isolo",
+          "latlng": [
+            6.5365483,
+            3.2755143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153675,
+          "name": "Shomolu",
+          "latlng": [
+            6.5375955,
+            3.3650645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153669,
+          "name": "Surulere",
+          "latlng": [
+            6.4900983,
+            3.3025143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153676,
+          "name": "Victoria Island",
+          "latlng": [
+            6.429984,
+            3.4022449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153678,
+          "name": "Yaba",
+          "latlng": [
+            6.5059457,
+            3.3601286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Nasarawa",
+      "code": "NA",
+      "shortName": "NA",
+      "cities": [
+        {
+          "id": 76815,
+          "name": "Buga",
+          "latlng": [
+            8.49056,
+            7.34139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76845,
+          "name": "Doma",
+          "latlng": [
+            8.39307,
+            8.35544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76982,
+          "name": "Keffi",
+          "latlng": [
+            8.84651,
+            7.87354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77000,
+          "name": "Lafia",
+          "latlng": [
+            8.4939,
+            8.51532
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77038,
+          "name": "Nasarawa",
+          "latlng": [
+            8.53895,
+            7.70821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77132,
+          "name": "Wamba",
+          "latlng": [
+            8.94153,
+            8.60315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Niger",
+      "code": "NI",
+      "shortName": "NI",
+      "cities": [
+        {
+          "id": 76783,
+          "name": "Auna",
+          "latlng": [
+            10.18805,
+            4.72318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76787,
+          "name": "Babana",
+          "latlng": [
+            10.42949,
+            3.81495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76790,
+          "name": "Badeggi",
+          "latlng": [
+            9.0563,
+            6.143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76795,
+          "name": "Baro",
+          "latlng": [
+            8.61565,
+            6.4185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76812,
+          "name": "Bokani",
+          "latlng": [
+            9.43333,
+            5.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76847,
+          "name": "Duku",
+          "latlng": [
+            11.2361,
+            4.90727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76907,
+          "name": "Ibeto",
+          "latlng": [
+            10.48536,
+            5.14501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76986,
+          "name": "Konkwesso",
+          "latlng": [
+            10.84686,
+            4.09835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76987,
+          "name": "Kontagora",
+          "latlng": [
+            10.40319,
+            5.4708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76994,
+          "name": "Kusheriki",
+          "latlng": [
+            10.53283,
+            6.44222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76995,
+          "name": "Kuta",
+          "latlng": [
+            9.86864,
+            6.71042
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77007,
+          "name": "Lapai",
+          "latlng": [
+            9.04439,
+            6.57089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77029,
+          "name": "Minna",
+          "latlng": [
+            9.61524,
+            6.54776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77039,
+          "name": "New Shagunnu",
+          "latlng": [
+            10.33957,
+            4.4688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77108,
+          "name": "Suleja",
+          "latlng": [
+            9.18059,
+            7.17939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77112,
+          "name": "Tegina",
+          "latlng": [
+            10.0706,
+            6.1906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77124,
+          "name": "Ukata",
+          "latlng": [
+            10.83122,
+            5.82494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77135,
+          "name": "Wawa",
+          "latlng": [
+            9.90222,
+            4.41917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77152,
+          "name": "Zungeru",
+          "latlng": [
+            9.80726,
+            6.15238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "name": "Ogun",
+      "code": "OG",
+      "shortName": "OG",
+      "cities": [
+        {
+          "id": 76746,
+          "name": "Abeokuta",
+          "latlng": [
+            7.15571,
+            3.34509
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76751,
+          "name": "Ado Odo",
+          "latlng": [
+            6.6,
+            2.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76912,
+          "name": "Idi Iroko",
+          "latlng": [
+            6.63333,
+            2.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76914,
+          "name": "Ifo",
+          "latlng": [
+            6.81491,
+            3.19518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76926,
+          "name": "Ijebu-Ife",
+          "latlng": [
+            6.77837,
+            4.03386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76927,
+          "name": "Ijebu-Igbo",
+          "latlng": [
+            6.97198,
+            3.99938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76929,
+          "name": "Ijebu-Ode",
+          "latlng": [
+            6.81944,
+            3.91731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76940,
+          "name": "Ilaro",
+          "latlng": [
+            6.88901,
+            3.01416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76947,
+          "name": "Imeko",
+          "latlng": [
+            7.44888,
+            2.84289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76949,
+          "name": "Iperu",
+          "latlng": [
+            6.91002,
+            3.66557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76952,
+          "name": "Isara",
+          "latlng": [
+            6.99345,
+            3.68148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77080,
+          "name": "Owode",
+          "latlng": [
+            6.94851,
+            3.50561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Ondo",
+      "code": "ON",
+      "shortName": "ON",
+      "cities": [
+        {
+          "id": 76755,
+          "name": "Agbabu",
+          "latlng": [
+            6.58862,
+            4.8343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76765,
+          "name": "Akure",
+          "latlng": [
+            7.25256,
+            5.19312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76911,
+          "name": "Idanre",
+          "latlng": [
+            7.1127,
+            5.1159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76915,
+          "name": "Ifon",
+          "latlng": [
+            6.92973,
+            5.77368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76939,
+          "name": "Ilare",
+          "latlng": [
+            7.35067,
+            5.11333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77050,
+          "name": "Ode",
+          "latlng": [
+            7.7899,
+            5.7117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77067,
+          "name": "Ondo",
+          "latlng": [
+            7.09316,
+            4.83528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77070,
+          "name": "Ore",
+          "latlng": [
+            6.74716,
+            4.8761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77079,
+          "name": "Owo",
+          "latlng": [
+            7.1962,
+            5.58681
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Osun",
+      "code": "OS",
+      "shortName": "OS",
+      "cities": [
+        {
+          "id": 76776,
+          "name": "Apomu",
+          "latlng": [
+            7.35156,
+            4.18335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76856,
+          "name": "Ejigbo",
+          "latlng": [
+            7.90292,
+            4.31419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76881,
+          "name": "Gbongan",
+          "latlng": [
+            7.47734,
+            4.35351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76928,
+          "name": "Ijebu-Jesa",
+          "latlng": [
+            7.68287,
+            4.81769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76935,
+          "name": "Ikire",
+          "latlng": [
+            7.36983,
+            4.1863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76936,
+          "name": "Ikirun",
+          "latlng": [
+            7.91283,
+            4.66741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76938,
+          "name": "Ila Orangun",
+          "latlng": [
+            8.01714,
+            4.90421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76941,
+          "name": "Ile-Ife",
+          "latlng": [
+            7.4824,
+            4.56032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76942,
+          "name": "Ilesa",
+          "latlng": [
+            7.62789,
+            4.74161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76945,
+          "name": "Ilobu",
+          "latlng": [
+            7.84036,
+            4.48557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76948,
+          "name": "Inisa",
+          "latlng": [
+            7.85,
+            4.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76956,
+          "name": "Iwo",
+          "latlng": [
+            7.63527,
+            4.18156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77032,
+          "name": "Modakeke",
+          "latlng": [
+            7.38299,
+            4.26031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77059,
+          "name": "Oke Mesi",
+          "latlng": [
+            7.81667,
+            4.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77064,
+          "name": "Olupona",
+          "latlng": [
+            7.6,
+            4.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77075,
+          "name": "Osogbo",
+          "latlng": [
+            7.77104,
+            4.55698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77076,
+          "name": "Otan Ayegbaju",
+          "latlng": [
+            7.94783,
+            4.78836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77081,
+          "name": "Oyan",
+          "latlng": [
+            8.05,
+            4.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Oyo",
+      "code": "OY",
+      "shortName": "OY",
+      "cities": [
+        {
+          "id": 76758,
+          "name": "Ago Are",
+          "latlng": [
+            8.5,
+            3.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76766,
+          "name": "Alapa",
+          "latlng": [
+            8.61667,
+            4.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76868,
+          "name": "Fiditi",
+          "latlng": [
+            7.71361,
+            3.91722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76906,
+          "name": "Ibadan",
+          "latlng": [
+            7.37756,
+            3.90591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76918,
+          "name": "Igbeti",
+          "latlng": [
+            8.74921,
+            4.13113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76919,
+          "name": "Igbo-Ora",
+          "latlng": [
+            7.43383,
+            3.28788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76921,
+          "name": "Igboho",
+          "latlng": [
+            8.83784,
+            3.75628
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76984,
+          "name": "Kisi",
+          "latlng": [
+            9.08297,
+            3.85196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77004,
+          "name": "Lalupon",
+          "latlng": [
+            7.46791,
+            4.06594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77053,
+          "name": "Ogbomoso",
+          "latlng": [
+            8.13373,
+            4.24014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77060,
+          "name": "Okeho",
+          "latlng": [
+            8.03386,
+            3.34759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77072,
+          "name": "Orita Eruwa",
+          "latlng": [
+            7.55,
+            3.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77082,
+          "name": "Oyo",
+          "latlng": [
+            7.85257,
+            3.93125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77096,
+          "name": "Saki",
+          "latlng": [
+            8.66762,
+            3.39393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Plateau",
+      "code": "PL",
+      "shortName": "PL",
+      "cities": [
+        {
+          "id": 76771,
+          "name": "Amper",
+          "latlng": [
+            9.35509,
+            9.70121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76817,
+          "name": "Bukuru",
+          "latlng": [
+            9.79399,
+            8.86397
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76841,
+          "name": "Dengi",
+          "latlng": [
+            9.36872,
+            9.96223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76963,
+          "name": "Jos",
+          "latlng": [
+            9.92849,
+            8.89212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76999,
+          "name": "Kwolla",
+          "latlng": [
+            8.90361,
+            9.29086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77006,
+          "name": "Langtang",
+          "latlng": [
+            9.14164,
+            9.79101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77084,
+          "name": "Pankshin",
+          "latlng": [
+            9.32541,
+            9.4352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77085,
+          "name": "Panyam",
+          "latlng": [
+            9.40756,
+            9.21481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77130,
+          "name": "Vom",
+          "latlng": [
+            9.7291,
+            8.79138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77144,
+          "name": "Yelwa",
+          "latlng": [
+            8.83333,
+            9.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4926,
+      "name": "Rivers",
+      "code": "RI",
+      "shortName": "RI",
+      "cities": [
+        {
+          "id": 148541,
+          "name": "Abalama",
+          "latlng": [
+            4.76305556,
+            6.84027778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148542,
+          "name": "Abonnema",
+          "latlng": [
+            4.7231169,
+            6.7788461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148543,
+          "name": "Ahoada",
+          "latlng": [
+            5.08333333,
+            6.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148544,
+          "name": "Bori",
+          "latlng": [
+            4.67277778,
+            7.37027778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148545,
+          "name": "Buguma",
+          "latlng": [
+            4.73333333,
+            6.86666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148546,
+          "name": "Chokocho",
+          "latlng": [
+            4.990833,
+            7.054444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148547,
+          "name": "Elele",
+          "latlng": [
+            5.10184167,
+            6.81902222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148548,
+          "name": "Obonoma",
+          "latlng": [
+            4.71138889,
+            6.79083333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148549,
+          "name": "Omoku",
+          "latlng": [
+            5.342,
+            6.656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148550,
+          "name": "Onne",
+          "latlng": [
+            4.74444444,
+            7.03611111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148551,
+          "name": "Opobo",
+          "latlng": [
+            4.51138889,
+            7.54
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148552,
+          "name": "Port Harcourt",
+          "latlng": [
+            4.75,
+            7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 148553,
+          "name": "Rumuokoro",
+          "latlng": [
+            4.86666667,
+            6.98333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Sokoto",
+      "code": "SO",
+      "shortName": "SO",
+      "cities": [
+        {
+          "id": 76804,
+          "name": "Binji",
+          "latlng": [
+            13.22294,
+            4.90888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76830,
+          "name": "Dange",
+          "latlng": [
+            12.85313,
+            5.34572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76875,
+          "name": "Gandi",
+          "latlng": [
+            12.96358,
+            5.74337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76889,
+          "name": "Goronyo",
+          "latlng": [
+            13.44226,
+            5.67234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76895,
+          "name": "Gwadabawa",
+          "latlng": [
+            13.35819,
+            5.23812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76943,
+          "name": "Illela",
+          "latlng": [
+            13.73064,
+            5.29777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77090,
+          "name": "Rabah",
+          "latlng": [
+            13.12257,
+            5.50762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77107,
+          "name": "Sokoto",
+          "latlng": [
+            13.06269,
+            5.24322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77111,
+          "name": "Tambuwal",
+          "latlng": [
+            12.40592,
+            4.64605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77137,
+          "name": "Wurno",
+          "latlng": [
+            13.29048,
+            5.42373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Taraba",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 76792,
+          "name": "Baissa",
+          "latlng": [
+            7.23087,
+            10.62444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76797,
+          "name": "Beli",
+          "latlng": [
+            7.85868,
+            10.97187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76879,
+          "name": "Gassol",
+          "latlng": [
+            8.53535,
+            10.44615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76883,
+          "name": "Gembu",
+          "latlng": [
+            6.72556,
+            11.25652
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76908,
+          "name": "Ibi",
+          "latlng": [
+            8.18122,
+            9.74431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76957,
+          "name": "Jalingo",
+          "latlng": [
+            8.89367,
+            11.3596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77008,
+          "name": "Lau",
+          "latlng": [
+            9.20827,
+            11.27541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77036,
+          "name": "Mutum Biyu",
+          "latlng": [
+            8.64138,
+            10.77355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77092,
+          "name": "Riti",
+          "latlng": [
+            7.90844,
+            9.61688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77136,
+          "name": "Wukari",
+          "latlng": [
+            7.87139,
+            9.77786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "name": "Yobe",
+      "code": "YO",
+      "shortName": "YO",
+      "cities": [
+        {
+          "id": 76826,
+          "name": "Damaturu",
+          "latlng": [
+            11.74697,
+            11.96083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76832,
+          "name": "Dankalwa",
+          "latlng": [
+            11.74449,
+            12.18545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76834,
+          "name": "Dapchi",
+          "latlng": [
+            12.49536,
+            11.49977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76837,
+          "name": "Daura",
+          "latlng": [
+            11.5541,
+            11.406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76869,
+          "name": "Fika",
+          "latlng": [
+            11.377,
+            11.23746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76878,
+          "name": "Gashua",
+          "latlng": [
+            12.87398,
+            11.04057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76882,
+          "name": "Geidam",
+          "latlng": [
+            12.89439,
+            11.92649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76886,
+          "name": "Goniri",
+          "latlng": [
+            11.48451,
+            12.31264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76888,
+          "name": "Gorgoram",
+          "latlng": [
+            12.63958,
+            10.70422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76890,
+          "name": "Gujba",
+          "latlng": [
+            11.49959,
+            11.93396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76900,
+          "name": "Gwio Kura",
+          "latlng": [
+            12.67479,
+            11.0669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76992,
+          "name": "Kumagunnam",
+          "latlng": [
+            13.15498,
+            10.63468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77003,
+          "name": "Lajere",
+          "latlng": [
+            11.98022,
+            11.44002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77012,
+          "name": "Machina",
+          "latlng": [
+            13.13639,
+            10.04924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77042,
+          "name": "Nguru",
+          "latlng": [
+            12.87695,
+            10.45536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77089,
+          "name": "Potiskum",
+          "latlng": [
+            11.71391,
+            11.08108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Zamfara",
+      "code": "ZA",
+      "shortName": "ZA",
+      "cities": [
+        {
+          "id": 76773,
+          "name": "Anka",
+          "latlng": [
+            12.11347,
+            5.92681
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76829,
+          "name": "Dan Sadau",
+          "latlng": [
+            11.29621,
+            6.4952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76893,
+          "name": "Gummi",
+          "latlng": [
+            12.14484,
+            5.11776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76894,
+          "name": "Gusau",
+          "latlng": [
+            12.17024,
+            6.66412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76980,
+          "name": "Kaura Namoda",
+          "latlng": [
+            12.59371,
+            6.58648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76998,
+          "name": "Kwatarkwashi",
+          "latlng": [
+            12.14082,
+            6.82196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77025,
+          "name": "Maru",
+          "latlng": [
+            12.3336,
+            6.40372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77034,
+          "name": "Moriki",
+          "latlng": [
+            12.87405,
+            6.48754
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77100,
+          "name": "Sauri",
+          "latlng": [
+            11.72655,
+            6.78374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77115,
+          "name": "Tsafe",
+          "latlng": [
+            11.95775,
+            6.92083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

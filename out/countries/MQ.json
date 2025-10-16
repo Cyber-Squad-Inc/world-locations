@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Martinique",
+    "official": "Martinique"
+  },
+  "iso2": "MQ",
+  "iso3": "MTQ",
+  "numericCode": "474",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".mq",
+  "phoneCode": "596",
+  "capital": "Fort-de-France",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Martinique",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mq.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mq.svg",
+  "states": []
+}

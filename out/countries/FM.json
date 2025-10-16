@@ -1,0 +1,967 @@
+{
+  "name": {
+    "common": "Micronesia",
+    "official": "Micronesia"
+  },
+  "iso2": "FM",
+  "iso3": "FSM",
+  "numericCode": "583",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".fm",
+  "phoneCode": "691",
+  "capital": "Palikir",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Chuuk",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "CHUT",
+      "tzName": "Chuuk Time"
+    },
+    {
+      "zoneName": "Pacific/Kosrae",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "KOST",
+      "tzName": "Kosrae Time"
+    },
+    {
+      "zoneName": "Pacific/Pohnpei",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "PONT",
+      "tzName": "Pohnpei Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/fm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/fm.svg",
+  "states": [
+    {
+      "id": 2580,
+      "name": "Chuuk",
+      "code": "TRK",
+      "shortName": "TRK",
+      "cities": [
+        {
+          "id": 39155,
+          "name": "Eot Municipality",
+          "latlng": [
+            7.3854,
+            151.7392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39156,
+          "name": "Ettal Municipality",
+          "latlng": [
+            5.592,
+            153.56
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39159,
+          "name": "Fananu Municipality",
+          "latlng": [
+            8.55811,
+            151.90822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39160,
+          "name": "Fanapanges Municipality",
+          "latlng": [
+            7.353,
+            151.6676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39163,
+          "name": "Fefen Municipality",
+          "latlng": [
+            7.353,
+            151.831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39164,
+          "name": "Fonoton Municipality",
+          "latlng": [
+            7.486,
+            151.8794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39167,
+          "name": "Houk Municipality",
+          "latlng": [
+            6.683,
+            149.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39173,
+          "name": "Kuttu Municipality",
+          "latlng": [
+            5.453,
+            153.456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39175,
+          "name": "Lekinioch Municipality",
+          "latlng": [
+            5.507,
+            153.819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39177,
+          "name": "Losap Municipality",
+          "latlng": [
+            6.894,
+            152.739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39180,
+          "name": "Makur Municipality",
+          "latlng": [
+            8.985,
+            150.126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39182,
+          "name": "Moch Municipality",
+          "latlng": [
+            5.4918,
+            153.5385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39184,
+          "name": "Murilo",
+          "latlng": [
+            8.69242,
+            152.33934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39185,
+          "name": "Murilo Municipality",
+          "latlng": [
+            8.692,
+            152.342
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39186,
+          "name": "Namoluk Municipality",
+          "latlng": [
+            5.915,
+            153.136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39187,
+          "name": "Nema",
+          "latlng": [
+            6.98922,
+            152.57377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39188,
+          "name": "Nema Municipality",
+          "latlng": [
+            6.993,
+            152.574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39192,
+          "name": "Nomwin Municipality",
+          "latlng": [
+            8.43,
+            151.745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39194,
+          "name": "Oneop Municipality",
+          "latlng": [
+            5.5066,
+            153.709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39195,
+          "name": "Onou Municipality",
+          "latlng": [
+            8.799,
+            150.29
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39196,
+          "name": "Onoun Municipality",
+          "latlng": [
+            8.575,
+            149.6855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39197,
+          "name": "Paata-Tupunion Municipality",
+          "latlng": [
+            7.376,
+            151.583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39199,
+          "name": "Parem Municipality",
+          "latlng": [
+            7.362,
+            151.789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39200,
+          "name": "Piherarh Municipality",
+          "latlng": [
+            8.569,
+            150.418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39201,
+          "name": "Piis-Emwar Municipality",
+          "latlng": [
+            6.834,
+            152.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39202,
+          "name": "Piis-Panewu Municipality",
+          "latlng": [
+            7.678,
+            151.7634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39204,
+          "name": "Pollap Municipality",
+          "latlng": [
+            7.63971,
+            149.43011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39205,
+          "name": "Polowat Municipality",
+          "latlng": [
+            7.355,
+            149.182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39206,
+          "name": "Pwene Municipality",
+          "latlng": [
+            7.337,
+            151.584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39207,
+          "name": "Ramanum Municipality",
+          "latlng": [
+            7.4135,
+            151.6646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39210,
+          "name": "Ruo Municipality",
+          "latlng": [
+            8.609,
+            152.244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39213,
+          "name": "Satowan Municipality",
+          "latlng": [
+            5.334,
+            153.7365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39214,
+          "name": "Siis Municipality",
+          "latlng": [
+            7.295,
+            151.8246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39216,
+          "name": "Ta Municipality",
+          "latlng": [
+            5.2842,
+            153.6465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39218,
+          "name": "Tamatam Municipality",
+          "latlng": [
+            7.53898,
+            149.41175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39220,
+          "name": "Tolensom Municipality",
+          "latlng": [
+            7.333,
+            151.623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39222,
+          "name": "Tonoas Municipality",
+          "latlng": [
+            7.381,
+            151.89
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39224,
+          "name": "Udot-Fonuweisom Municipality",
+          "latlng": [
+            7.389,
+            151.708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39226,
+          "name": "Uman-Fonuweisom Municipality",
+          "latlng": [
+            7.299,
+            151.877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39227,
+          "name": "Unanu Municipality",
+          "latlng": [
+            8.75,
+            150.3395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39230,
+          "name": "Weno",
+          "latlng": [
+            7.44648,
+            151.84135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39231,
+          "name": "Weno Municipality",
+          "latlng": [
+            7.44,
+            151.881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39233,
+          "name": "Wonei Municipality",
+          "latlng": [
+            7.387,
+            151.601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2583,
+      "name": "Kosrae",
+      "code": "KSA",
+      "shortName": "KSA",
+      "cities": [
+        {
+          "id": 39176,
+          "name": "Lelu Municipality",
+          "latlng": [
+            5.34865,
+            163.01917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39181,
+          "name": "Malem Municipality",
+          "latlng": [
+            5.27507,
+            163.01685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39217,
+          "name": "Tafunsak Municipality",
+          "latlng": [
+            5.34993,
+            162.96965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39219,
+          "name": "Tofol",
+          "latlng": [
+            5.32479,
+            163.00781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39228,
+          "name": "Utwe Municipality",
+          "latlng": [
+            5.27511,
+            162.95617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2581,
+      "name": "Pohnpei",
+      "code": "PNI",
+      "shortName": "PNI",
+      "cities": [
+        {
+          "id": 39169,
+          "name": "Kitti Municipality",
+          "latlng": [
+            6.8249,
+            158.16081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39170,
+          "name": "Kolonia",
+          "latlng": [
+            6.964,
+            158.2062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39171,
+          "name": "Kolonia Municipality",
+          "latlng": [
+            6.964,
+            158.2058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39172,
+          "name": "Kolonia Town",
+          "latlng": [
+            6.964,
+            158.206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39179,
+          "name": "Madolenihm Municipality",
+          "latlng": [
+            6.86759,
+            158.31277
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39183,
+          "name": "Mokil Municipality",
+          "latlng": [
+            6.68916,
+            159.7661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39189,
+          "name": "Nett Municipality",
+          "latlng": [
+            6.95152,
+            158.22437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39190,
+          "name": "Ngatik",
+          "latlng": [
+            5.78849,
+            157.15954
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39193,
+          "name": "Nukuoro Municipality",
+          "latlng": [
+            3.841,
+            154.93
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39198,
+          "name": "Palikir - National Government Center",
+          "latlng": [
+            6.92477,
+            158.16109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39203,
+          "name": "Pingelap Municipality",
+          "latlng": [
+            6.20908,
+            160.71033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39211,
+          "name": "Sapwuahfik Municipality",
+          "latlng": [
+            5.815,
+            157.28
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39215,
+          "name": "Sokehs Municipality",
+          "latlng": [
+            6.93273,
+            158.1427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39223,
+          "name": "U Municipality",
+          "latlng": [
+            6.94972,
+            158.27361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2582,
+      "name": "Yap",
+      "code": "YAP",
+      "shortName": "YAP",
+      "cities": [
+        {
+          "id": 39153,
+          "name": "Colonia",
+          "latlng": [
+            9.51638,
+            138.12167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39154,
+          "name": "Dalipebinaw Municipality",
+          "latlng": [
+            9.52229,
+            138.0854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39157,
+          "name": "Fais",
+          "latlng": [
+            9.766,
+            140.52
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39158,
+          "name": "Fais Municipality",
+          "latlng": [
+            9.766,
+            140.519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39161,
+          "name": "Fanif Municipality",
+          "latlng": [
+            9.56056,
+            138.11333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39162,
+          "name": "Faraulep Municipality",
+          "latlng": [
+            8.588,
+            144.5065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39165,
+          "name": "Gagil Municipality",
+          "latlng": [
+            9.54722,
+            138.19028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39166,
+          "name": "Gilman Municipality",
+          "latlng": [
+            9.44611,
+            138.06389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39168,
+          "name": "Kanifay Municipality",
+          "latlng": [
+            9.46735,
+            138.05935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39174,
+          "name": "Lamotrek Municipality",
+          "latlng": [
+            7.491,
+            146.303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39178,
+          "name": "Maap Municipality",
+          "latlng": [
+            9.58975,
+            138.17119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39191,
+          "name": "Ngulu Municipality",
+          "latlng": [
+            8.45,
+            137.481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39208,
+          "name": "Rull Municipality",
+          "latlng": [
+            9.50773,
+            138.1154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39209,
+          "name": "Rumung Municipality",
+          "latlng": [
+            9.62428,
+            138.15745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39212,
+          "name": "Satawal Municipality",
+          "latlng": [
+            7.382,
+            147.0318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39221,
+          "name": "Tomil Municipality",
+          "latlng": [
+            9.52517,
+            138.15488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39225,
+          "name": "Ulithi Municipality",
+          "latlng": [
+            9.9,
+            139.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39229,
+          "name": "Weloy Municipality",
+          "latlng": [
+            9.52712,
+            138.11909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39232,
+          "name": "Woleai Municipality",
+          "latlng": [
+            7.345,
+            143.857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

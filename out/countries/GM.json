@@ -1,0 +1,1222 @@
+{
+  "name": {
+    "common": "The Gambia",
+    "official": "The Gambia"
+  },
+  "iso2": "GM",
+  "iso3": "GMB",
+  "numericCode": "270",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".gm",
+  "phoneCode": "220",
+  "capital": "Banjul",
+  "currencies": {
+    "GMD": "Gambian dalasi"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Banjul",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gm.svg",
+  "states": [
+    {
+      "id": 2666,
+      "name": "Banjul",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 52219,
+          "name": "Bakau",
+          "latlng": [
+            13.47806,
+            -16.68194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52221,
+          "name": "Banjul",
+          "latlng": [
+            13.45274,
+            -16.57803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52277,
+          "name": "Kombo Saint Mary District",
+          "latlng": [
+            13.44389,
+            -16.64583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52304,
+          "name": "Serekunda",
+          "latlng": [
+            13.43833,
+            -16.67806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2669,
+      "name": "Central River",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 52222,
+          "name": "Bansang",
+          "latlng": [
+            13.43333,
+            -14.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52228,
+          "name": "Brikama Nding",
+          "latlng": [
+            13.53333,
+            -14.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52233,
+          "name": "Dankunku",
+          "latlng": [
+            13.56667,
+            -15.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52236,
+          "name": "Denton",
+          "latlng": [
+            13.5,
+            -14.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52246,
+          "name": "Fulladu West",
+          "latlng": [
+            13.5,
+            -14.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52247,
+          "name": "Galleh Manda",
+          "latlng": [
+            13.43333,
+            -14.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52248,
+          "name": "Georgetown",
+          "latlng": [
+            13.54039,
+            -14.76374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52252,
+          "name": "Jakhaly",
+          "latlng": [
+            13.55,
+            -14.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52254,
+          "name": "Janjanbureh",
+          "latlng": [
+            13.53564,
+            -14.76515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52258,
+          "name": "Jarreng",
+          "latlng": [
+            13.61667,
+            -15.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52265,
+          "name": "Karantaba",
+          "latlng": [
+            13.66667,
+            -15.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52266,
+          "name": "Kass Wollof",
+          "latlng": [
+            13.78333,
+            -14.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52280,
+          "name": "Kuntaur",
+          "latlng": [
+            13.67085,
+            -14.88977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52281,
+          "name": "Kunting",
+          "latlng": [
+            13.53333,
+            -14.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52285,
+          "name": "Lower Saloum",
+          "latlng": [
+            13.71667,
+            -15.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52287,
+          "name": "Niamina East District",
+          "latlng": [
+            13.63333,
+            -15.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52288,
+          "name": "Niamina West District",
+          "latlng": [
+            13.58333,
+            -15.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52289,
+          "name": "Niani",
+          "latlng": [
+            13.66667,
+            -14.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52290,
+          "name": "Nianija District",
+          "latlng": [
+            13.729,
+            -15.091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52294,
+          "name": "Pateh Sam",
+          "latlng": [
+            13.61667,
+            -15.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52298,
+          "name": "Sami",
+          "latlng": [
+            13.58333,
+            -15.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52299,
+          "name": "Sami District",
+          "latlng": [
+            13.58333,
+            -14.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52303,
+          "name": "Saruja",
+          "latlng": [
+            13.55,
+            -14.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52309,
+          "name": "Sukuta",
+          "latlng": [
+            13.61667,
+            -14.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52317,
+          "name": "Upper Saloum",
+          "latlng": [
+            13.75,
+            -15.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52318,
+          "name": "Wassu",
+          "latlng": [
+            13.69094,
+            -14.87884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2670,
+      "name": "Lower River",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 52223,
+          "name": "Baro Kunda",
+          "latlng": [
+            13.48333,
+            -15.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52229,
+          "name": "Bureng",
+          "latlng": [
+            13.41667,
+            -15.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52253,
+          "name": "Jali",
+          "latlng": [
+            13.35,
+            -15.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52255,
+          "name": "Jarra Central",
+          "latlng": [
+            13.41667,
+            -15.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52256,
+          "name": "Jarra East",
+          "latlng": [
+            13.41667,
+            -15.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52257,
+          "name": "Jarra West",
+          "latlng": [
+            13.41667,
+            -15.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52259,
+          "name": "Jenoi",
+          "latlng": [
+            13.48333,
+            -15.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52260,
+          "name": "Jifarong",
+          "latlng": [
+            13.3,
+            -15.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52262,
+          "name": "Kaiaf",
+          "latlng": [
+            13.4,
+            -15.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52264,
+          "name": "Karantaba",
+          "latlng": [
+            13.43333,
+            -15.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52268,
+          "name": "Keneba",
+          "latlng": [
+            13.32889,
+            -16.015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52270,
+          "name": "Kiang Central",
+          "latlng": [
+            13.4,
+            -15.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52271,
+          "name": "Kiang East",
+          "latlng": [
+            13.41667,
+            -15.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52272,
+          "name": "Kiang West District",
+          "latlng": [
+            13.33333,
+            -16
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52286,
+          "name": "Mansa Konko",
+          "latlng": [
+            13.44325,
+            -15.5357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52291,
+          "name": "Nioro",
+          "latlng": [
+            13.35,
+            -15.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52301,
+          "name": "Sankwia",
+          "latlng": [
+            13.46667,
+            -15.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52305,
+          "name": "Si Kunda",
+          "latlng": [
+            13.43333,
+            -15.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52306,
+          "name": "Soma",
+          "latlng": [
+            13.43333,
+            -15.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52313,
+          "name": "Sutukung",
+          "latlng": [
+            13.46667,
+            -15.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52314,
+          "name": "Toniataba",
+          "latlng": [
+            13.43333,
+            -15.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52319,
+          "name": "Wellingara Ba",
+          "latlng": [
+            13.41667,
+            -15.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2671,
+      "name": "North Bank",
+      "code": "N",
+      "shortName": "N",
+      "cities": [
+        {
+          "id": 52220,
+          "name": "Bambali",
+          "latlng": [
+            13.48333,
+            -15.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52224,
+          "name": "Barra",
+          "latlng": [
+            13.48278,
+            -16.54556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52230,
+          "name": "Central Baddibu",
+          "latlng": [
+            13.53333,
+            -15.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52231,
+          "name": "Chilla",
+          "latlng": [
+            13.55,
+            -16.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52234,
+          "name": "Daru Rilwan",
+          "latlng": [
+            13.55,
+            -15.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52239,
+          "name": "Essau",
+          "latlng": [
+            13.48389,
+            -16.53472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52240,
+          "name": "Farafenni",
+          "latlng": [
+            13.56667,
+            -15.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52250,
+          "name": "Gunjur",
+          "latlng": [
+            13.52278,
+            -16.02778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52261,
+          "name": "Jokadu",
+          "latlng": [
+            13.53333,
+            -16.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52267,
+          "name": "Katchang",
+          "latlng": [
+            13.5,
+            -15.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52269,
+          "name": "Kerewan",
+          "latlng": [
+            13.4898,
+            -16.08879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52282,
+          "name": "Lamin",
+          "latlng": [
+            13.35222,
+            -16.43389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52283,
+          "name": "Lower Baddibu District",
+          "latlng": [
+            13.5,
+            -16.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52284,
+          "name": "Lower Niumi District",
+          "latlng": [
+            13.53333,
+            -16.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52292,
+          "name": "No Kunda",
+          "latlng": [
+            13.56667,
+            -15.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52296,
+          "name": "Saba",
+          "latlng": [
+            13.51639,
+            -16.04917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52302,
+          "name": "Sara Kunda",
+          "latlng": [
+            13.53333,
+            -15.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52315,
+          "name": "Upper Baddibu",
+          "latlng": [
+            13.55,
+            -15.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52316,
+          "name": "Upper Niumi District",
+          "latlng": [
+            13.4,
+            -16.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2668,
+      "name": "Upper River",
+      "code": "U",
+      "shortName": "U",
+      "cities": [
+        {
+          "id": 52218,
+          "name": "Bakadagy",
+          "latlng": [
+            13.3,
+            -14.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52225,
+          "name": "Basse Santa Su",
+          "latlng": [
+            13.30995,
+            -14.21373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52226,
+          "name": "Brifu",
+          "latlng": [
+            13.5,
+            -13.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52232,
+          "name": "Daba Kunda",
+          "latlng": [
+            13.31667,
+            -14.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52235,
+          "name": "Demba Kunda",
+          "latlng": [
+            13.25,
+            -14.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52237,
+          "name": "Diabugu",
+          "latlng": [
+            13.38333,
+            -14.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52238,
+          "name": "Diabugu Basilla",
+          "latlng": [
+            13.33333,
+            -13.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52245,
+          "name": "Fulladu East",
+          "latlng": [
+            13.33333,
+            -14.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52251,
+          "name": "Gunjur Kuta",
+          "latlng": [
+            13.53333,
+            -14.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52263,
+          "name": "Kantora",
+          "latlng": [
+            13.41667,
+            -13.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52273,
+          "name": "Koina",
+          "latlng": [
+            13.48333,
+            -13.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52279,
+          "name": "Kumbija",
+          "latlng": [
+            13.26667,
+            -14.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52293,
+          "name": "Nyamanari",
+          "latlng": [
+            13.33333,
+            -13.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52295,
+          "name": "Perai",
+          "latlng": [
+            13.38333,
+            -14.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52297,
+          "name": "Sabi",
+          "latlng": [
+            13.23333,
+            -14.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52300,
+          "name": "Sandu",
+          "latlng": [
+            13.41667,
+            -14.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52308,
+          "name": "Sudowol",
+          "latlng": [
+            13.36667,
+            -13.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52311,
+          "name": "Sun Kunda",
+          "latlng": [
+            13.38333,
+            -13.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52312,
+          "name": "Sutukoba",
+          "latlng": [
+            13.5,
+            -14.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52320,
+          "name": "Wuli",
+          "latlng": [
+            13.5,
+            -14.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2667,
+      "name": "West Coast",
+      "code": "W",
+      "shortName": "W",
+      "cities": [
+        {
+          "id": 52217,
+          "name": "Abuko",
+          "latlng": [
+            13.40417,
+            -16.65583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52227,
+          "name": "Brikama",
+          "latlng": [
+            13.27136,
+            -16.64944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52241,
+          "name": "Foni Bondali",
+          "latlng": [
+            13.21667,
+            -15.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52242,
+          "name": "Foni Brefet",
+          "latlng": [
+            13.21667,
+            -16.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52243,
+          "name": "Foni Jarrol",
+          "latlng": [
+            13.23333,
+            -15.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52244,
+          "name": "Foni Kansala",
+          "latlng": [
+            13.21667,
+            -16.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52249,
+          "name": "Gunjur",
+          "latlng": [
+            13.20194,
+            -16.73389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52274,
+          "name": "Kombo Central District",
+          "latlng": [
+            13.25,
+            -16.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52275,
+          "name": "Kombo East District",
+          "latlng": [
+            13.21667,
+            -16.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52276,
+          "name": "Kombo North District",
+          "latlng": [
+            13.36667,
+            -16.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52278,
+          "name": "Kombo South District",
+          "latlng": [
+            13.25,
+            -16.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52307,
+          "name": "Somita",
+          "latlng": [
+            13.20583,
+            -16.30556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52310,
+          "name": "Sukuta",
+          "latlng": [
+            13.41033,
+            -16.70815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

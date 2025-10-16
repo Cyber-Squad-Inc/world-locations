@@ -1,0 +1,669 @@
+{
+  "name": {
+    "common": "Namibia",
+    "official": "Namibia"
+  },
+  "iso2": "NA",
+  "iso3": "NAM",
+  "numericCode": "516",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "tld": ".na",
+  "phoneCode": "264",
+  "capital": "Windhoek",
+  "currencies": {
+    "NAD": "Namibian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Windhoek",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "WAST",
+      "tzName": "West Africa Summer Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/na.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/na.svg",
+  "states": [
+    {
+      "id": 43,
+      "name": "Erongo",
+      "code": "ER",
+      "shortName": "ER",
+      "cities": [
+        {
+          "id": 76626,
+          "name": "Arandis",
+          "latlng": [
+            -22.41667,
+            14.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76633,
+          "name": "Hentiesbaai",
+          "latlng": [
+            -22.11667,
+            14.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76636,
+          "name": "Karibib",
+          "latlng": [
+            -21.93333,
+            15.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76648,
+          "name": "Omaruru",
+          "latlng": [
+            -21.43333,
+            15.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76659,
+          "name": "Otjimbingwe",
+          "latlng": [
+            -22.35,
+            16.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76666,
+          "name": "Swakopmund",
+          "latlng": [
+            -22.67842,
+            14.52663
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76667,
+          "name": "Swakopmund Constituency",
+          "latlng": [
+            -22.63199,
+            14.60119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76670,
+          "name": "Usakos",
+          "latlng": [
+            -22,
+            15.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76671,
+          "name": "Walvis Bay",
+          "latlng": [
+            -22.9575,
+            14.50528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Hardap",
+      "code": "HA",
+      "shortName": "HA",
+      "cities": [
+        {
+          "id": 76627,
+          "name": "Aranos",
+          "latlng": [
+            -24.13333,
+            19.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76634,
+          "name": "Hoachanas",
+          "latlng": [
+            -23.91667,
+            18.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76643,
+          "name": "Maltahöhe",
+          "latlng": [
+            -24.83333,
+            16.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76644,
+          "name": "Mariental",
+          "latlng": [
+            -24.63333,
+            17.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76663,
+          "name": "Rehoboth",
+          "latlng": [
+            -23.317,
+            17.09
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Karas",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": [
+        {
+          "id": 76629,
+          "name": "Bethanie",
+          "latlng": [
+            -26.48333,
+            17.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76635,
+          "name": "Karasburg",
+          "latlng": [
+            -28.01667,
+            18.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76639,
+          "name": "Keetmanshoop",
+          "latlng": [
+            -26.58333,
+            18.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76642,
+          "name": "Lüderitz",
+          "latlng": [
+            -26.64807,
+            15.15383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76655,
+          "name": "Oranjemund",
+          "latlng": [
+            -28.55,
+            16.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76668,
+          "name": "Tses",
+          "latlng": [
+            -25.88333,
+            18
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76672,
+          "name": "Warmbad",
+          "latlng": [
+            -28.45,
+            18.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Kavango East",
+      "code": "KE",
+      "shortName": "KE",
+      "cities": [
+        {
+          "id": 76664,
+          "name": "Rundu",
+          "latlng": [
+            -17.93333,
+            19.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kavango West",
+      "code": "KW",
+      "shortName": "KW",
+      "cities": []
+    },
+    {
+      "id": 44,
+      "name": "Khomas",
+      "code": "KH",
+      "shortName": "KH",
+      "cities": [
+        {
+          "id": 76638,
+          "name": "Katutura",
+          "latlng": [
+            -22.52306,
+            17.06028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76673,
+          "name": "Windhoek",
+          "latlng": [
+            -22.55941,
+            17.08323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Kunene",
+      "code": "KU",
+      "shortName": "KU",
+      "cities": [
+        {
+          "id": 76630,
+          "name": "Epupa Constituency",
+          "latlng": [
+            -17.00388,
+            13.24825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76640,
+          "name": "Khorixas",
+          "latlng": [
+            -20.36667,
+            14.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76641,
+          "name": "Khorixas Constituency",
+          "latlng": [
+            -20.36792,
+            14.95996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76653,
+          "name": "Opuwo",
+          "latlng": [
+            -18.06068,
+            13.83998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76654,
+          "name": "Opuwo Constituency",
+          "latlng": [
+            -18.54247,
+            13.51617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76662,
+          "name": "Outjo",
+          "latlng": [
+            -20.11667,
+            16.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76665,
+          "name": "Sesfontein Constituency",
+          "latlng": [
+            -19.56106,
+            13.7653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Ohangwena",
+      "code": "OW",
+      "shortName": "OW",
+      "cities": [
+        {
+          "id": 76657,
+          "name": "Oshikango",
+          "latlng": [
+            -17.4,
+            15.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Omaheke",
+      "code": "OH",
+      "shortName": "OH",
+      "cities": [
+        {
+          "id": 76631,
+          "name": "Gobabis",
+          "latlng": [
+            -22.45,
+            18.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Omusati",
+      "code": "OS",
+      "shortName": "OS",
+      "cities": [
+        {
+          "id": 76646,
+          "name": "Okahao",
+          "latlng": [
+            -17.88758,
+            15.06677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76651,
+          "name": "Ongandjera",
+          "latlng": [
+            -17.88333,
+            15.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76661,
+          "name": "Outapi",
+          "latlng": [
+            -17.5,
+            14.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Oshana",
+      "code": "ON",
+      "shortName": "ON",
+      "cities": [
+        {
+          "id": 76650,
+          "name": "Ondangwa",
+          "latlng": [
+            -17.91667,
+            15.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76652,
+          "name": "Ongwediva",
+          "latlng": [
+            -17.78333,
+            15.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76656,
+          "name": "Oshakati",
+          "latlng": [
+            -17.78833,
+            15.70436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Oshikoto",
+      "code": "OT",
+      "shortName": "OT",
+      "cities": [
+        {
+          "id": 76649,
+          "name": "Omuthiya",
+          "latlng": [
+            -18.36463,
+            16.58146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76669,
+          "name": "Tsumeb",
+          "latlng": [
+            -19.23333,
+            17.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Otjozondjupa",
+      "code": "OD",
+      "shortName": "OD",
+      "cities": [
+        {
+          "id": 76632,
+          "name": "Grootfontein",
+          "latlng": [
+            -19.56667,
+            18.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76645,
+          "name": "Okahandja",
+          "latlng": [
+            -21.98333,
+            16.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76647,
+          "name": "Okakarara",
+          "latlng": [
+            -20.58333,
+            17.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76658,
+          "name": "Otavi",
+          "latlng": [
+            -19.65,
+            17.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76660,
+          "name": "Otjiwarongo",
+          "latlng": [
+            -20.46369,
+            16.64772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Zambezi",
+      "code": "CA",
+      "shortName": "CA",
+      "cities": [
+        {
+          "id": 76628,
+          "name": "Bagani",
+          "latlng": [
+            -18.11065,
+            21.61645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76637,
+          "name": "Katima Mulilo",
+          "latlng": [
+            -17.5,
+            24.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

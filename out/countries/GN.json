@@ -1,0 +1,911 @@
+{
+  "name": {
+    "common": "Guinea",
+    "official": "Guinea"
+  },
+  "iso2": "GN",
+  "iso3": "GIN",
+  "numericCode": "324",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".gn",
+  "phoneCode": "224",
+  "capital": "Conakry",
+  "currencies": {
+    "GNF": "Guinean franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Conakry",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gn.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gn.svg",
+  "states": [
+    {
+      "id": 2672,
+      "name": "Beyla",
+      "code": "BE",
+      "shortName": "BE",
+      "cities": []
+    },
+    {
+      "id": 2699,
+      "name": "Boffa",
+      "code": "BF",
+      "shortName": "BF",
+      "cities": []
+    },
+    {
+      "id": 2676,
+      "name": "Boké",
+      "code": "B",
+      "shortName": "B",
+      "cities": [
+        {
+          "id": 52323,
+          "name": "Boffa",
+          "latlng": [
+            10.33333,
+            -14.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52325,
+          "name": "Boké",
+          "latlng": [
+            10.93217,
+            -14.29055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52324,
+          "name": "Boke Prefecture",
+          "latlng": [
+            11.08333,
+            -14.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52332,
+          "name": "Fria",
+          "latlng": [
+            10.41667,
+            -13.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52333,
+          "name": "Gaoual",
+          "latlng": [
+            11.75,
+            -13.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52334,
+          "name": "Gaoual Prefecture",
+          "latlng": [
+            11.75,
+            -13.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52339,
+          "name": "Kimbo",
+          "latlng": [
+            10.4,
+            -13.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52342,
+          "name": "Koundara",
+          "latlng": [
+            12.48333,
+            -13.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52343,
+          "name": "Koundara Prefecture",
+          "latlng": [
+            12.41667,
+            -13.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52364,
+          "name": "Sanguéya",
+          "latlng": [
+            10.7,
+            -14.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52374,
+          "name": "Youkounkoun",
+          "latlng": [
+            12.5311,
+            -13.1224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2709,
+      "name": "Boké",
+      "code": "BK",
+      "shortName": "BK",
+      "cities": []
+    },
+    {
+      "id": 2686,
+      "name": "Conakry",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 52326,
+          "name": "Camayenne",
+          "latlng": [
+            9.535,
+            -13.68778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52327,
+          "name": "Conakry",
+          "latlng": [
+            9.53795,
+            -13.67729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2705,
+      "name": "Coyah",
+      "code": "CO",
+      "shortName": "CO",
+      "cities": []
+    },
+    {
+      "id": 2679,
+      "name": "Dabola",
+      "code": "DB",
+      "shortName": "DB",
+      "cities": []
+    },
+    {
+      "id": 2706,
+      "name": "Dalaba",
+      "code": "DL",
+      "shortName": "DL",
+      "cities": []
+    },
+    {
+      "id": 2688,
+      "name": "Dinguiraye",
+      "code": "DI",
+      "shortName": "DI",
+      "cities": []
+    },
+    {
+      "id": 2681,
+      "name": "Dubréka",
+      "code": "DU",
+      "shortName": "DU",
+      "cities": []
+    },
+    {
+      "id": 2682,
+      "name": "Faranah",
+      "code": "FA",
+      "shortName": "FA",
+      "cities": []
+    },
+    {
+      "id": 2683,
+      "name": "Forécariah",
+      "code": "FO",
+      "shortName": "FO",
+      "cities": []
+    },
+    {
+      "id": 2675,
+      "name": "Fria",
+      "code": "FR",
+      "shortName": "FR",
+      "cities": []
+    },
+    {
+      "id": 2685,
+      "name": "Gaoual",
+      "code": "GA",
+      "shortName": "GA",
+      "cities": []
+    },
+    {
+      "id": 2711,
+      "name": "Guéckédou",
+      "code": "GU",
+      "shortName": "GU",
+      "cities": []
+    },
+    {
+      "id": 2704,
+      "name": "Kankan",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": []
+    },
+    {
+      "id": 2697,
+      "name": "Kankan",
+      "code": "K",
+      "shortName": "K",
+      "cities": [
+        {
+          "id": 52336,
+          "name": "Kankan",
+          "latlng": [
+            10.38542,
+            -9.30568
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52337,
+          "name": "Kankan Prefecture",
+          "latlng": [
+            10.271,
+            -9.178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52345,
+          "name": "Kérouané",
+          "latlng": [
+            9.26667,
+            -9.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52338,
+          "name": "Kerouane Prefecture",
+          "latlng": [
+            9.16667,
+            -9.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52344,
+          "name": "Kouroussa",
+          "latlng": [
+            10.66667,
+            -9.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52356,
+          "name": "Mandiana",
+          "latlng": [
+            10.62577,
+            -8.69413
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52357,
+          "name": "Mandiana Prefecture",
+          "latlng": [
+            10.658,
+            -8.615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52365,
+          "name": "Siguiri",
+          "latlng": [
+            11.42282,
+            -9.16852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52366,
+          "name": "Siguiri Prefecture",
+          "latlng": [
+            11.66667,
+            -9.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52368,
+          "name": "Tokonou",
+          "latlng": [
+            9.65,
+            -9.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2710,
+      "name": "Kérouané",
+      "code": "KE",
+      "shortName": "KE",
+      "cities": []
+    },
+    {
+      "id": 2701,
+      "name": "Kindia",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 52328,
+          "name": "Coyah",
+          "latlng": [
+            9.75,
+            -13.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52330,
+          "name": "Dubréka",
+          "latlng": [
+            9.79111,
+            -13.52333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52331,
+          "name": "Forécariah",
+          "latlng": [
+            9.43056,
+            -13.08806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52340,
+          "name": "Kindia",
+          "latlng": [
+            10.08333,
+            -12.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52361,
+          "name": "Préfecture de Dubréka",
+          "latlng": [
+            10.25,
+            -13.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52362,
+          "name": "Préfecture de Forécariah",
+          "latlng": [
+            9.43333,
+            -13.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52372,
+          "name": "Télimélé",
+          "latlng": [
+            10.9,
+            -13.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52367,
+          "name": "Telimele Prefecture",
+          "latlng": [
+            10.91667,
+            -13.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52369,
+          "name": "Tondon",
+          "latlng": [
+            10.36667,
+            -13.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2693,
+      "name": "Kindia",
+      "code": "KD",
+      "shortName": "KD",
+      "cities": []
+    },
+    {
+      "id": 2691,
+      "name": "Kissidougou",
+      "code": "KS",
+      "shortName": "KS",
+      "cities": []
+    },
+    {
+      "id": 2692,
+      "name": "Koubia",
+      "code": "KB",
+      "shortName": "KB",
+      "cities": []
+    },
+    {
+      "id": 2703,
+      "name": "Koundara",
+      "code": "KN",
+      "shortName": "KN",
+      "cities": []
+    },
+    {
+      "id": 2695,
+      "name": "Kouroussa",
+      "code": "KO",
+      "shortName": "KO",
+      "cities": []
+    },
+    {
+      "id": 2680,
+      "name": "Labé",
+      "code": "LA",
+      "shortName": "LA",
+      "cities": []
+    },
+    {
+      "id": 2677,
+      "name": "Labé",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 52341,
+          "name": "Koubia",
+          "latlng": [
+            11.58333,
+            -11.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52347,
+          "name": "Labé",
+          "latlng": [
+            11.31823,
+            -12.28332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52346,
+          "name": "Labe Prefecture",
+          "latlng": [
+            11.366,
+            -12.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52350,
+          "name": "Lélouma",
+          "latlng": [
+            11.42383,
+            -12.68183
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52348,
+          "name": "Lelouma Prefecture",
+          "latlng": [
+            11.41667,
+            -12.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52352,
+          "name": "Mali",
+          "latlng": [
+            12.079,
+            -12.2982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52353,
+          "name": "Mali Prefecture",
+          "latlng": [
+            12.08333,
+            -12.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52371,
+          "name": "Tougué",
+          "latlng": [
+            11.44503,
+            -11.66422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52370,
+          "name": "Tougue Prefecture",
+          "latlng": [
+            11.46667,
+            -11.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2690,
+      "name": "Lélouma",
+      "code": "LE",
+      "shortName": "LE",
+      "cities": []
+    },
+    {
+      "id": 2708,
+      "name": "Lola",
+      "code": "LO",
+      "shortName": "LO",
+      "cities": []
+    },
+    {
+      "id": 2702,
+      "name": "Macenta",
+      "code": "MC",
+      "shortName": "MC",
+      "cities": []
+    },
+    {
+      "id": 2700,
+      "name": "Mali",
+      "code": "ML",
+      "shortName": "ML",
+      "cities": []
+    },
+    {
+      "id": 2698,
+      "name": "Mamou",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 52329,
+          "name": "Dalaba",
+          "latlng": [
+            10.75,
+            -12.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52354,
+          "name": "Mamou",
+          "latlng": [
+            10.37546,
+            -12.09148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52355,
+          "name": "Mamou Prefecture",
+          "latlng": [
+            10.459,
+            -11.815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52360,
+          "name": "Pita",
+          "latlng": [
+            10.83333,
+            -12.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2689,
+      "name": "Mamou",
+      "code": "MM",
+      "shortName": "MM",
+      "cities": []
+    },
+    {
+      "id": 2673,
+      "name": "Mandiana",
+      "code": "MD",
+      "shortName": "MD",
+      "cities": []
+    },
+    {
+      "id": 2684,
+      "name": "Nzérékoré",
+      "code": "N",
+      "shortName": "N",
+      "cities": [
+        {
+          "id": 52321,
+          "name": "Beyla",
+          "latlng": [
+            8.69011,
+            -8.64869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52322,
+          "name": "Beyla Prefecture",
+          "latlng": [
+            8.91667,
+            -8.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52335,
+          "name": "Gueckedou",
+          "latlng": [
+            8.56744,
+            -10.1336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52349,
+          "name": "Lola",
+          "latlng": [
+            7.83333,
+            -8.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52351,
+          "name": "Macenta",
+          "latlng": [
+            8.5,
+            -9.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52359,
+          "name": "Nzérékoré",
+          "latlng": [
+            7.75624,
+            -8.8179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52358,
+          "name": "Nzerekore Prefecture",
+          "latlng": [
+            7.945,
+            -8.783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52363,
+          "name": "Préfecture de Guékédou",
+          "latlng": [
+            8.66667,
+            -10.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52373,
+          "name": "Yomou",
+          "latlng": [
+            7.5,
+            -9.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2678,
+      "name": "Nzérékoré",
+      "code": "NZ",
+      "shortName": "NZ",
+      "cities": []
+    },
+    {
+      "id": 2694,
+      "name": "Pita",
+      "code": "PI",
+      "shortName": "PI",
+      "cities": []
+    },
+    {
+      "id": 2707,
+      "name": "Siguiri",
+      "code": "SI",
+      "shortName": "SI",
+      "cities": []
+    },
+    {
+      "id": 2687,
+      "name": "Télimélé",
+      "code": "TE",
+      "shortName": "TE",
+      "cities": []
+    },
+    {
+      "id": 2696,
+      "name": "Tougué",
+      "code": "TO",
+      "shortName": "TO",
+      "cities": []
+    },
+    {
+      "id": 2674,
+      "name": "Yomou",
+      "code": "YO",
+      "shortName": "YO",
+      "cities": []
+    }
+  ]
+}

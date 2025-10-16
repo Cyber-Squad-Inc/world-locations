@@ -1,0 +1,817 @@
+{
+  "name": {
+    "common": "Bhutan",
+    "official": "Bhutan"
+  },
+  "iso2": "BT",
+  "iso3": "BTN",
+  "numericCode": "064",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".bt",
+  "phoneCode": "975",
+  "capital": "Thimphu",
+  "currencies": {
+    "BTN": "Bhutanese ngultrum"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Thimphu",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "BTT",
+      "tzName": "Bhutan Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bt.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bt.svg",
+  "states": [
+    {
+      "id": 240,
+      "name": "Bumthang",
+      "code": "33",
+      "shortName": "33",
+      "cities": [
+        {
+          "id": 15709,
+          "name": "Jakar",
+          "latlng": [
+            27.54918,
+            90.7525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153824,
+          "name": "Tang Valley",
+          "latlng": [
+            27.5025242,
+            90.7449544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Chukha",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 153825,
+          "name": "Chapchha",
+          "latlng": [
+            27.2,
+            89.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15706,
+          "name": "Daphu",
+          "latlng": [
+            26.9667,
+            89.3833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153827,
+          "name": "Khitokha",
+          "latlng": [
+            26.9,
+            89.6167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153826,
+          "name": "Lobnig",
+          "latlng": [
+            27.15,
+            89.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15726,
+          "name": "Pachu",
+          "latlng": [
+            26.9,
+            89.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15716,
+          "name": "Phuntsholing",
+          "latlng": [
+            26.85164,
+            89.38837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Dagana",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 15705,
+          "name": "Daga",
+          "latlng": [
+            27.07529,
+            89.87688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15728,
+          "name": "Sibsu",
+          "latlng": [
+            27,
+            88.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153828,
+          "name": "Thumgaon",
+          "latlng": [
+            26.9833,
+            89.9667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Gasa",
+      "code": "GA",
+      "shortName": "GA",
+      "cities": [
+        {
+          "id": 15707,
+          "name": "Gasa",
+          "latlng": [
+            27.90372,
+            89.72689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Haa",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 15708,
+          "name": "Ha",
+          "latlng": [
+            27.38747,
+            89.28074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153829,
+          "name": "Naktsang",
+          "latlng": [
+            27.3833,
+            89.2667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153830,
+          "name": "Sangkari",
+          "latlng": [
+            27.3,
+            89.3167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Lhuntse",
+      "code": "44",
+      "shortName": "44",
+      "cities": [
+        {
+          "id": 15710,
+          "name": "Lhuentse",
+          "latlng": [
+            27.66787,
+            91.18393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Mongar",
+      "code": "42",
+      "shortName": "42",
+      "cities": [
+        {
+          "id": 153832,
+          "name": "Kengkhar",
+          "latlng": [
+            27.1,
+            91.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15711,
+          "name": "Mongar",
+          "latlng": [
+            27.27471,
+            91.23963
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153831,
+          "name": "Thebong",
+          "latlng": [
+            27.2667,
+            91.2667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Paro",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 15714,
+          "name": "Paro",
+          "latlng": [
+            27.4305,
+            89.41334
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153834,
+          "name": "Suchha",
+          "latlng": [
+            27.2333,
+            89.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153833,
+          "name": "Tshalunang",
+          "latlng": [
+            27.4333,
+            89.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Pemagatshel",
+      "code": "43",
+      "shortName": "43",
+      "cities": [
+        {
+          "id": 153835,
+          "name": "Nganglam",
+          "latlng": [
+            26.841811,
+            91.2424849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15715,
+          "name": "Pemagatshel",
+          "latlng": [
+            27.03795,
+            91.40305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Punakha",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 15712,
+          "name": "Pajo",
+          "latlng": [
+            27.53333,
+            89.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15717,
+          "name": "Punākha",
+          "latlng": [
+            27.59137,
+            89.87743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Samdrup Jongkhar",
+      "code": "45",
+      "shortName": "45",
+      "cities": [
+        {
+          "id": 15718,
+          "name": "Samdrup Jongkhar",
+          "latlng": [
+            26.80069,
+            91.50519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Samtse",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 153838,
+          "name": "Denchukha",
+          "latlng": [
+            27.0167,
+            89.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153837,
+          "name": "Dorokha",
+          "latlng": [
+            27.0167,
+            89.2167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15719,
+          "name": "Samtse",
+          "latlng": [
+            26.89903,
+            89.09951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153836,
+          "name": "Tendu",
+          "latlng": [
+            27.1333,
+            88.8833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Sarpang",
+      "code": "31",
+      "shortName": "31",
+      "cities": [
+        {
+          "id": 153841,
+          "name": "Bhurgaon",
+          "latlng": [
+            26.9,
+            90.4333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153840,
+          "name": "Galechugaon",
+          "latlng": [
+            27,
+            90.5333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153839,
+          "name": "Geylegphug",
+          "latlng": [
+            26.8706,
+            90.4856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15720,
+          "name": "Sarpang",
+          "latlng": [
+            26.86395,
+            90.26745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Thimphu",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 15722,
+          "name": "Thimphu",
+          "latlng": [
+            27.46609,
+            89.64191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5242,
+      "name": "Trashi Yangtse",
+      "code": "TY",
+      "shortName": "TY",
+      "cities": [
+        {
+          "id": 153842,
+          "name": "Shali",
+          "latlng": [
+            27.4833,
+            91.5667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153843,
+          "name": "Trashi Yangtse",
+          "latlng": [
+            27.5833,
+            91.4667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153844,
+          "name": "Yalang",
+          "latlng": [
+            27.4333,
+            91.6333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Trashigang",
+      "code": "41",
+      "shortName": "41",
+      "cities": [
+        {
+          "id": 153850,
+          "name": "Balfai",
+          "latlng": [
+            27.2167032,
+            91.4794003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153846,
+          "name": "Ghunkarah",
+          "latlng": [
+            27.4,
+            91.5667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153845,
+          "name": "Ngalangkang",
+          "latlng": [
+            27.4528233,
+            91.5647771
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153847,
+          "name": "Rungzyung",
+          "latlng": [
+            27.35,
+            91.6667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153851,
+          "name": "Sassi",
+          "latlng": [
+            27.1333,
+            91.4333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153849,
+          "name": "Thrimshing",
+          "latlng": [
+            27.1333,
+            91.6167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15724,
+          "name": "Trashigang",
+          "latlng": [
+            27.3331,
+            91.55424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153848,
+          "name": "Wamrong",
+          "latlng": [
+            27.1378453,
+            91.5604447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Trongsa",
+      "code": "32",
+      "shortName": "32",
+      "cities": [
+        {
+          "id": 153852,
+          "name": "Trongsa",
+          "latlng": [
+            27.4994,
+            90.5047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Tsirang",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 153854,
+          "name": "Beteni",
+          "latlng": [
+            27.0333,
+            90.2333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153853,
+          "name": "Dagapela",
+          "latlng": [
+            26.9333,
+            89.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15725,
+          "name": "Damphu",
+          "latlng": [
+            27.0167,
+            90.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15727,
+          "name": "Tsirang",
+          "latlng": [
+            27.0219,
+            90.12291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Wangdue Phodrang",
+      "code": "24",
+      "shortName": "24",
+      "cities": [
+        {
+          "id": 153856,
+          "name": "Manikyangsa",
+          "latlng": [
+            27.5333,
+            90.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153855,
+          "name": "Ritang",
+          "latlng": [
+            27.55,
+            90.1667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15723,
+          "name": "Wangdue Phodrang",
+          "latlng": [
+            27.4833,
+            89.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Zhemgang",
+      "code": "34",
+      "shortName": "34",
+      "cities": [
+        {
+          "id": 15713,
+          "name": "Panbang",
+          "latlng": [
+            26.86667,
+            90.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15721,
+          "name": "Zhemgang",
+          "latlng": [
+            27.21689,
+            90.65793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

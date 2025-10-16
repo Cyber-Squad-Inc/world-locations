@@ -1,0 +1,5543 @@
+{
+  "name": {
+    "common": "Peru",
+    "official": "Peru"
+  },
+  "iso2": "PE",
+  "iso3": "PER",
+  "numericCode": "604",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".pe",
+  "phoneCode": "51",
+  "capital": "Lima",
+  "currencies": {
+    "PEN": "Peruvian sol"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Lima",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "PET",
+      "tzName": "Peru Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pe.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pe.svg",
+  "states": [
+    {
+      "id": 3685,
+      "name": "Amazonas",
+      "code": "AMA",
+      "shortName": "AMA",
+      "cities": [
+        {
+          "id": 80572,
+          "name": "Bagua Grande",
+          "latlng": [
+            -5.75611,
+            -78.44111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80582,
+          "name": "Cajaruro",
+          "latlng": [
+            -5.73639,
+            -78.42556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80602,
+          "name": "Chachapoyas",
+          "latlng": [
+            -6.23169,
+            -77.86903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80632,
+          "name": "Condorcanqui",
+          "latlng": [
+            -4.16515,
+            -78.0384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80689,
+          "name": "La Peca",
+          "latlng": [
+            -5.61111,
+            -78.435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80781,
+          "name": "Provincia de Bagua",
+          "latlng": [
+            -5.09006,
+            -78.39972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80784,
+          "name": "Provincia de Bongará",
+          "latlng": [
+            -5.68341,
+            -77.87308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80803,
+          "name": "Provincia de Chachapoyas",
+          "latlng": [
+            -6.2748,
+            -77.81067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80857,
+          "name": "Provincia de Luya",
+          "latlng": [
+            -6.41667,
+            -78
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80885,
+          "name": "Provincia de Rodríguez de Mendoza",
+          "latlng": [
+            -6.33333,
+            -77.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81006,
+          "name": "Utcubamba",
+          "latlng": [
+            -5.77031,
+            -78.3285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3680,
+      "name": "Áncash",
+      "code": "ANC",
+      "shortName": "ANC",
+      "cities": [
+        {
+          "id": 80564,
+          "name": "Asuncion",
+          "latlng": [
+            -9.18987,
+            -77.39878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80594,
+          "name": "Carás",
+          "latlng": [
+            -9.04692,
+            -77.80901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80592,
+          "name": "Carhuaz",
+          "latlng": [
+            -9.28194,
+            -77.64472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80593,
+          "name": "Carlos Fermin Fitzcarrald",
+          "latlng": [
+            -9.04415,
+            -77.24168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80615,
+          "name": "Chimbote",
+          "latlng": [
+            -9.08528,
+            -78.57833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80628,
+          "name": "Coishco",
+          "latlng": [
+            -9.02306,
+            -78.61556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80656,
+          "name": "Huaraz",
+          "latlng": [
+            -9.52779,
+            -77.52778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80658,
+          "name": "Huarmey",
+          "latlng": [
+            -10.06806,
+            -78.15222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80766,
+          "name": "Pomabamba",
+          "latlng": [
+            -8.83333,
+            -77.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80770,
+          "name": "Provincia de Aija",
+          "latlng": [
+            -9.83333,
+            -77.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80776,
+          "name": "Provincia de Antonio Raymondi",
+          "latlng": [
+            -9.08333,
+            -77.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80782,
+          "name": "Provincia de Bolognesi",
+          "latlng": [
+            -10.10723,
+            -77.14804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80796,
+          "name": "Provincia de Carhuaz",
+          "latlng": [
+            -9.317,
+            -77.551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80797,
+          "name": "Provincia de Casma",
+          "latlng": [
+            -9.47638,
+            -78.24738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80816,
+          "name": "Provincia de Corongo",
+          "latlng": [
+            -8.58333,
+            -77.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80837,
+          "name": "Provincia de Huaraz",
+          "latlng": [
+            -9.56109,
+            -77.64605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80838,
+          "name": "Provincia de Huari",
+          "latlng": [
+            -9.33333,
+            -77.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80839,
+          "name": "Provincia de Huarmey",
+          "latlng": [
+            -9.91667,
+            -78
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80841,
+          "name": "Provincia de Huaylas",
+          "latlng": [
+            -8.91667,
+            -77.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80861,
+          "name": "Provincia de Mariscal Luzuriaga",
+          "latlng": [
+            -8.83333,
+            -77.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80871,
+          "name": "Provincia de Pallasca",
+          "latlng": [
+            -8.33333,
+            -77.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80880,
+          "name": "Provincia de Pomabamba",
+          "latlng": [
+            -8.82311,
+            -77.47559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80883,
+          "name": "Provincia de Recuay",
+          "latlng": [
+            -10,
+            -77.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80890,
+          "name": "Provincia de Santa",
+          "latlng": [
+            -9,
+            -78.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80894,
+          "name": "Provincia de Sihuas",
+          "latlng": [
+            -8.5,
+            -77.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80911,
+          "name": "Provincia de Yungay",
+          "latlng": [
+            -9.16667,
+            -77.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80919,
+          "name": "Puerto Santa",
+          "latlng": [
+            -8.98772,
+            -78.64727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81017,
+          "name": "Yauya",
+          "latlng": [
+            -8.98333,
+            -77.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81018,
+          "name": "Yungay",
+          "latlng": [
+            -9.13833,
+            -77.74361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3699,
+      "name": "Apurímac",
+      "code": "APU",
+      "shortName": "APU",
+      "cities": [
+        {
+          "id": 80554,
+          "name": "Abancay",
+          "latlng": [
+            -13.63389,
+            -72.88139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80559,
+          "name": "Andahuaylas",
+          "latlng": [
+            -13.65556,
+            -73.38722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80767,
+          "name": "Provincia de Abancay",
+          "latlng": [
+            -13.66667,
+            -72.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80772,
+          "name": "Provincia de Andahuaylas",
+          "latlng": [
+            -13.66667,
+            -73.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80775,
+          "name": "Provincia de Antabamba",
+          "latlng": [
+            -14.41667,
+            -72.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80779,
+          "name": "Provincia de Aymaraes",
+          "latlng": [
+            -14.41667,
+            -73.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80817,
+          "name": "Provincia de Cotabambas",
+          "latlng": [
+            -14,
+            -72.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80825,
+          "name": "Provincia de Grau",
+          "latlng": [
+            -14,
+            -72.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80946,
+          "name": "San Jerónimo",
+          "latlng": [
+            -13.65138,
+            -73.36388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80984,
+          "name": "Talavera",
+          "latlng": [
+            -13.65306,
+            -73.42917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3681,
+      "name": "Arequipa",
+      "code": "ARE",
+      "shortName": "ARE",
+      "cities": [
+        {
+          "id": 80555,
+          "name": "Acarí",
+          "latlng": [
+            -15.42393,
+            -74.61361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80561,
+          "name": "Arequipa",
+          "latlng": [
+            -16.39889,
+            -71.535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80588,
+          "name": "Camaná",
+          "latlng": [
+            -16.62375,
+            -72.71055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80598,
+          "name": "Ccolo",
+          "latlng": [
+            -15.50611,
+            -71.49184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80619,
+          "name": "Chivay",
+          "latlng": [
+            -15.63833,
+            -71.60111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80627,
+          "name": "Cocachacra",
+          "latlng": [
+            -17.08833,
+            -71.7575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80634,
+          "name": "Cotahuasi",
+          "latlng": [
+            -15.21306,
+            -72.88861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80655,
+          "name": "Huarancante",
+          "latlng": [
+            -15.76803,
+            -71.45952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80657,
+          "name": "Huarichancara",
+          "latlng": [
+            -15.63972,
+            -71.06111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80673,
+          "name": "Jatun Orcochiri",
+          "latlng": [
+            -15.75003,
+            -71.34641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80677,
+          "name": "Jayune",
+          "latlng": [
+            -15.56277,
+            -71.30312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80704,
+          "name": "Llongasora",
+          "latlng": [
+            -15.63951,
+            -71.29921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80705,
+          "name": "Lluta",
+          "latlng": [
+            -16.01472,
+            -72.01417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80717,
+          "name": "Mollendo",
+          "latlng": [
+            -17.02306,
+            -72.01472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80733,
+          "name": "Orcopampa",
+          "latlng": [
+            -15.26611,
+            -72.34167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80777,
+          "name": "Provincia de Arequipa",
+          "latlng": [
+            -16.33333,
+            -71.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80789,
+          "name": "Provincia de Camaná",
+          "latlng": [
+            -16.41667,
+            -72.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80795,
+          "name": "Provincia de Caravelí",
+          "latlng": [
+            -15.58333,
+            -74
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80798,
+          "name": "Provincia de Castilla",
+          "latlng": [
+            -15.58333,
+            -72.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80800,
+          "name": "Provincia de Caylloma",
+          "latlng": [
+            -15.66667,
+            -71.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80812,
+          "name": "Provincia de Condesuyos",
+          "latlng": [
+            -15.58333,
+            -72.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80845,
+          "name": "Provincia de Islay",
+          "latlng": [
+            -17,
+            -71.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80851,
+          "name": "Provincia de La Unión",
+          "latlng": [
+            -15,
+            -72.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80914,
+          "name": "Pucara",
+          "latlng": [
+            -15.97993,
+            -71.45988
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80923,
+          "name": "Punta de Bombón",
+          "latlng": [
+            -17.1719,
+            -71.7924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81012,
+          "name": "Vizcachane",
+          "latlng": [
+            -15.80861,
+            -71.20111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81020,
+          "name": "Yura",
+          "latlng": [
+            -16.25223,
+            -71.67969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3692,
+      "name": "Ayacucho",
+      "code": "AYA",
+      "shortName": "AYA",
+      "cities": [
+        {
+          "id": 80568,
+          "name": "Ayacucho",
+          "latlng": [
+            -13.15878,
+            -74.22321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80570,
+          "name": "Ayna",
+          "latlng": [
+            -12.65,
+            -73.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80633,
+          "name": "Coracora",
+          "latlng": [
+            -15.03333,
+            -73.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80653,
+          "name": "Huanta",
+          "latlng": [
+            -12.93333,
+            -74.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80755,
+          "name": "Paucar Del Sara Sara",
+          "latlng": [
+            -15.12275,
+            -73.26177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80792,
+          "name": "Provincia de Cangallo",
+          "latlng": [
+            -13.573,
+            -74.389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80829,
+          "name": "Provincia de Huamanga",
+          "latlng": [
+            -13.2,
+            -74.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80830,
+          "name": "Provincia de Huanca Sancos",
+          "latlng": [
+            -14.076,
+            -74.428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80835,
+          "name": "Provincia de Huanta",
+          "latlng": [
+            -12.5,
+            -74.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80850,
+          "name": "Provincia de La Mar",
+          "latlng": [
+            -12.91667,
+            -73.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80856,
+          "name": "Provincia de Lucanas",
+          "latlng": [
+            -14.5,
+            -74.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80873,
+          "name": "Provincia de Parinacochas",
+          "latlng": [
+            -15.02965,
+            -73.63487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80895,
+          "name": "Provincia de Sucre",
+          "latlng": [
+            -14.103,
+            -73.786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80908,
+          "name": "Provincia de Víctor Fajardo",
+          "latlng": [
+            -13.75,
+            -74.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80907,
+          "name": "Provincia de Vilcas Huamán",
+          "latlng": [
+            -13.632,
+            -73.888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80924,
+          "name": "Puquio",
+          "latlng": [
+            -14.7,
+            -74.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80951,
+          "name": "San Miguel",
+          "latlng": [
+            -13.0125,
+            -73.98083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80985,
+          "name": "Tambo",
+          "latlng": [
+            -14.79847,
+            -73.92438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3688,
+      "name": "Cajamarca",
+      "code": "CAJ",
+      "shortName": "CAJ",
+      "cities": [
+        {
+          "id": 80573,
+          "name": "Bambamarca",
+          "latlng": [
+            -6.68333,
+            -78.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80575,
+          "name": "Bellavista",
+          "latlng": [
+            -5.66417,
+            -78.67722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80580,
+          "name": "Cajabamba",
+          "latlng": [
+            -7.61667,
+            -78.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80581,
+          "name": "Cajamarca",
+          "latlng": [
+            -7.16378,
+            -78.50027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80600,
+          "name": "Celendín",
+          "latlng": [
+            -6.8659,
+            -78.14585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80623,
+          "name": "Chota",
+          "latlng": [
+            -6.55,
+            -78.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80678,
+          "name": "Jaén",
+          "latlng": [
+            -5.70729,
+            -78.80785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80785,
+          "name": "Provincia de Cajabamba",
+          "latlng": [
+            -7.5,
+            -78.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80786,
+          "name": "Provincia de Cajamarca",
+          "latlng": [
+            -7.33333,
+            -78.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80802,
+          "name": "Provincia de Celendín",
+          "latlng": [
+            -6.83333,
+            -78.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80806,
+          "name": "Provincia de Chota",
+          "latlng": [
+            -6.38332,
+            -79.18055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80814,
+          "name": "Provincia de Contumazá",
+          "latlng": [
+            -7.33333,
+            -78.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80819,
+          "name": "Provincia de Cutervo",
+          "latlng": [
+            -6.36667,
+            -78.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80826,
+          "name": "Provincia de Hualgayoc",
+          "latlng": [
+            -6.68,
+            -78.53
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80847,
+          "name": "Provincia de Jaén",
+          "latlng": [
+            -5.71074,
+            -79.00438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80886,
+          "name": "Provincia de San Ignacio",
+          "latlng": [
+            -5.08333,
+            -79
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80888,
+          "name": "Provincia de San Miguel",
+          "latlng": [
+            -7,
+            -79
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80891,
+          "name": "Provincia de Santa Cruz",
+          "latlng": [
+            -6.83333,
+            -79
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80944,
+          "name": "San Ignacio",
+          "latlng": [
+            -5.14583,
+            -79.00139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3701,
+      "name": "Callao",
+      "code": "CAL",
+      "shortName": "CAL",
+      "cities": [
+        {
+          "id": 80587,
+          "name": "Callao",
+          "latlng": [
+            -12.05659,
+            -77.11814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3691,
+      "name": "Cusco",
+      "code": "CUS",
+      "shortName": "CUS",
+      "cities": [
+        {
+          "id": 80560,
+          "name": "Anta",
+          "latlng": [
+            -13.47056,
+            -72.14833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80579,
+          "name": "Cahuanuyo",
+          "latlng": [
+            -14.34147,
+            -71.46311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80584,
+          "name": "Calca",
+          "latlng": [
+            -13.33333,
+            -71.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80586,
+          "name": "Callanca",
+          "latlng": [
+            -14.18137,
+            -71.1407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80597,
+          "name": "Ccaquiracunca",
+          "latlng": [
+            -14.27683,
+            -71.45026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80599,
+          "name": "Ccuntuma",
+          "latlng": [
+            -14.1254,
+            -71.41216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80607,
+          "name": "Checacupe",
+          "latlng": [
+            -14.02694,
+            -71.45278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80608,
+          "name": "Checca",
+          "latlng": [
+            -14.47278,
+            -71.39389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80613,
+          "name": "Chignayhua",
+          "latlng": [
+            -14.2461,
+            -71.44442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80617,
+          "name": "Chinchero",
+          "latlng": [
+            -13.39222,
+            -72.04778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80629,
+          "name": "Combapata",
+          "latlng": [
+            -14.10111,
+            -71.42944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80631,
+          "name": "Conchopata",
+          "latlng": [
+            -14.46968,
+            -71.19843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80635,
+          "name": "Cullcuyre",
+          "latlng": [
+            -14.09272,
+            -71.33119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80636,
+          "name": "Cusco",
+          "latlng": [
+            -13.52264,
+            -71.96734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80661,
+          "name": "Huayna Alcalde",
+          "latlng": [
+            -14.26989,
+            -71.09599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80676,
+          "name": "Jayobamba",
+          "latlng": [
+            -14.09425,
+            -71.33922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80696,
+          "name": "Langui",
+          "latlng": [
+            -14.43194,
+            -71.27306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80700,
+          "name": "Layo",
+          "latlng": [
+            -14.49361,
+            -71.155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80702,
+          "name": "Lima Pampa",
+          "latlng": [
+            -14.08976,
+            -71.33664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80709,
+          "name": "Maranganí",
+          "latlng": [
+            -14.35672,
+            -71.16924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80710,
+          "name": "Maras",
+          "latlng": [
+            -13.335,
+            -72.15667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80723,
+          "name": "Mosoc Cancha",
+          "latlng": [
+            -14.28514,
+            -71.08773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80724,
+          "name": "Mosoc Llacta",
+          "latlng": [
+            -14.12,
+            -71.47278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80731,
+          "name": "Ollantaytambo",
+          "latlng": [
+            -13.25722,
+            -72.26306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80735,
+          "name": "Oropesa",
+          "latlng": [
+            -13.59278,
+            -71.77194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80748,
+          "name": "Pampamarca",
+          "latlng": [
+            -14.14639,
+            -71.45944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80750,
+          "name": "Pangoa",
+          "latlng": [
+            -12.11667,
+            -73
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80756,
+          "name": "Paucartambo",
+          "latlng": [
+            -13.31522,
+            -71.59364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80763,
+          "name": "Pisac",
+          "latlng": [
+            -13.4225,
+            -71.84667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80769,
+          "name": "Provincia de Acomayo",
+          "latlng": [
+            -13.91667,
+            -71.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80774,
+          "name": "Provincia de Anta",
+          "latlng": [
+            -13.5,
+            -72.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80788,
+          "name": "Provincia de Calca",
+          "latlng": [
+            -13,
+            -72.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80790,
+          "name": "Provincia de Canas",
+          "latlng": [
+            -14.41083,
+            -71.33694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80791,
+          "name": "Provincia de Canchis",
+          "latlng": [
+            -14.08194,
+            -71.18556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80808,
+          "name": "Provincia de Chumbivilcas",
+          "latlng": [
+            -14.41667,
+            -72
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80818,
+          "name": "Provincia de Cusco",
+          "latlng": [
+            -13.5,
+            -72
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80822,
+          "name": "Provincia de Espinar",
+          "latlng": [
+            -14.75,
+            -71.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80849,
+          "name": "Provincia de La Convención",
+          "latlng": [
+            -12,
+            -73
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80874,
+          "name": "Provincia de Paruro",
+          "latlng": [
+            -13.91667,
+            -71.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80877,
+          "name": "Provincia de Paucartambo",
+          "latlng": [
+            -13.16667,
+            -71.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80882,
+          "name": "Provincia de Quispicanchis",
+          "latlng": [
+            -13.41667,
+            -71
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80906,
+          "name": "Provincia de Urubamba",
+          "latlng": [
+            -13.25,
+            -72.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80926,
+          "name": "Qquea",
+          "latlng": [
+            -14.05417,
+            -71.38583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80928,
+          "name": "Queromarca",
+          "latlng": [
+            -14.18391,
+            -71.38343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80953,
+          "name": "San Pablo",
+          "latlng": [
+            -14.20278,
+            -71.31556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80960,
+          "name": "Santa Ana",
+          "latlng": [
+            -12.86667,
+            -72.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80968,
+          "name": "Santo Tomas",
+          "latlng": [
+            -14.44556,
+            -72.08417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80975,
+          "name": "Sicuani",
+          "latlng": [
+            -14.26944,
+            -71.22611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80993,
+          "name": "Tinta",
+          "latlng": [
+            -14.145,
+            -71.40694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81000,
+          "name": "Tungasuca",
+          "latlng": [
+            -14.16389,
+            -71.47667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81004,
+          "name": "Urcos",
+          "latlng": [
+            -13.68611,
+            -71.62278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81005,
+          "name": "Urubamba",
+          "latlng": [
+            -13.30472,
+            -72.11583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81015,
+          "name": "Yanaoca",
+          "latlng": [
+            -14.21806,
+            -71.43167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3679,
+      "name": "Huancavelica",
+      "code": "HUV",
+      "shortName": "HUV",
+      "cities": [
+        {
+          "id": 80651,
+          "name": "Huancavelica",
+          "latlng": [
+            -12.78261,
+            -74.97266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80662,
+          "name": "Huaytara",
+          "latlng": [
+            -13.65616,
+            -75.09234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80749,
+          "name": "Pampas",
+          "latlng": [
+            -12.3949,
+            -74.86687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80768,
+          "name": "Provincia de Acobamba",
+          "latlng": [
+            -12.75,
+            -74.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80773,
+          "name": "Provincia de Angaraes",
+          "latlng": [
+            -13,
+            -74.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80799,
+          "name": "Provincia de Castrovirreyna",
+          "latlng": [
+            -13.14535,
+            -75.40598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80810,
+          "name": "Provincia de Churcampa",
+          "latlng": [
+            -12.6,
+            -74.52
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80833,
+          "name": "Provincia de Huancavelica",
+          "latlng": [
+            -12.66667,
+            -75.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80903,
+          "name": "Provincia de Tayacaja",
+          "latlng": [
+            -12.25,
+            -74.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3687,
+      "name": "Huanuco",
+      "code": "HUC",
+      "shortName": "HUC",
+      "cities": [
+        {
+          "id": 80558,
+          "name": "Ambo",
+          "latlng": [
+            -10.13083,
+            -76.20472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80646,
+          "name": "Huacaybamba",
+          "latlng": [
+            -8.9948,
+            -76.81027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80665,
+          "name": "Huánuco",
+          "latlng": [
+            -9.93062,
+            -76.24223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80691,
+          "name": "La Unión",
+          "latlng": [
+            -9.82702,
+            -76.80199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80699,
+          "name": "Lauricocha",
+          "latlng": [
+            -10.20055,
+            -76.70359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80703,
+          "name": "Llata",
+          "latlng": [
+            -9.41667,
+            -76.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80771,
+          "name": "Provincia de Ambo",
+          "latlng": [
+            -10.16667,
+            -76.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80821,
+          "name": "Provincia de Dos de Mayo",
+          "latlng": [
+            -9.91667,
+            -76.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80828,
+          "name": "Provincia de Huamalíes",
+          "latlng": [
+            -9.25,
+            -76.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80842,
+          "name": "Provincia de Huánuco",
+          "latlng": [
+            -9.66667,
+            -76.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80855,
+          "name": "Provincia de Leoncio Prado",
+          "latlng": [
+            -9.16667,
+            -76
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80859,
+          "name": "Provincia de Marañón",
+          "latlng": [
+            -8.75,
+            -76.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80869,
+          "name": "Provincia de Pachitea",
+          "latlng": [
+            -9.95262,
+            -75.8139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80917,
+          "name": "Puerto Inca",
+          "latlng": [
+            -9.36696,
+            -75.08958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80952,
+          "name": "San Miguel de Cauri",
+          "latlng": [
+            -10.13818,
+            -76.62288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80992,
+          "name": "Tingo María",
+          "latlng": [
+            -9.29532,
+            -75.99574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81014,
+          "name": "Yanacancha",
+          "latlng": [
+            -10.24111,
+            -76.64556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81016,
+          "name": "Yarowilca",
+          "latlng": [
+            -9.80263,
+            -76.59516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3700,
+      "name": "Ica",
+      "code": "ICA",
+      "shortName": "ICA",
+      "cities": [
+        {
+          "id": 80616,
+          "name": "Chincha Alta",
+          "latlng": [
+            -13.40985,
+            -76.13235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80667,
+          "name": "Ica",
+          "latlng": [
+            -14.06777,
+            -75.72861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80706,
+          "name": "Los Aquijes",
+          "latlng": [
+            -14.09667,
+            -75.69083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80714,
+          "name": "Minas de Marcona",
+          "latlng": [
+            -15.21194,
+            -75.11028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80729,
+          "name": "Nazca",
+          "latlng": [
+            -14.83098,
+            -74.93895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80747,
+          "name": "Palpa",
+          "latlng": [
+            -14.53361,
+            -75.18556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80752,
+          "name": "Paracas",
+          "latlng": [
+            -13.86667,
+            -76.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80764,
+          "name": "Pisco",
+          "latlng": [
+            -13.71029,
+            -76.20538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80805,
+          "name": "Provincia de Chincha",
+          "latlng": [
+            -13.31791,
+            -75.9393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80843,
+          "name": "Provincia de Ica",
+          "latlng": [
+            -14.33861,
+            -75.64833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80865,
+          "name": "Provincia de Nazca",
+          "latlng": [
+            -15,
+            -75.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80872,
+          "name": "Provincia de Palpa",
+          "latlng": [
+            -14.41667,
+            -75.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80878,
+          "name": "Provincia de Pisco",
+          "latlng": [
+            -13.80377,
+            -75.94264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80935,
+          "name": "Río Grande",
+          "latlng": [
+            -14.516,
+            -75.19933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80943,
+          "name": "San Clemente",
+          "latlng": [
+            -13.66667,
+            -76.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80949,
+          "name": "San Juan Bautista",
+          "latlng": [
+            -14.01083,
+            -75.73583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80964,
+          "name": "Santiago",
+          "latlng": [
+            -14.18469,
+            -75.71124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80978,
+          "name": "Subtanjalla",
+          "latlng": [
+            -14.01889,
+            -75.75806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81009,
+          "name": "Villa Tupac Amaru",
+          "latlng": [
+            -13.71135,
+            -76.1498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3693,
+      "name": "Junín",
+      "code": "JUN",
+      "shortName": "JUN",
+      "cities": [
+        {
+          "id": 80556,
+          "name": "Acolla",
+          "latlng": [
+            -11.73193,
+            -75.54634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80591,
+          "name": "Carhuamayo",
+          "latlng": [
+            -10.91667,
+            -76.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80604,
+          "name": "Chanchamayo",
+          "latlng": [
+            -11.05,
+            -75.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80625,
+          "name": "Chupaca",
+          "latlng": [
+            -12.06667,
+            -75.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80630,
+          "name": "Concepción",
+          "latlng": [
+            -11.91762,
+            -75.31401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80652,
+          "name": "Huancayo",
+          "latlng": [
+            -12.06513,
+            -75.20486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80659,
+          "name": "Huasahuasi",
+          "latlng": [
+            -11.26527,
+            -75.64722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80663,
+          "name": "Huayucachi",
+          "latlng": [
+            -12.13333,
+            -75.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80674,
+          "name": "Jauja",
+          "latlng": [
+            -11.77584,
+            -75.49656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80685,
+          "name": "Junín",
+          "latlng": [
+            -11.15895,
+            -75.99304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80688,
+          "name": "La Oroya",
+          "latlng": [
+            -11.51893,
+            -75.89935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80713,
+          "name": "Mazamari",
+          "latlng": [
+            -11.32583,
+            -74.53083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80720,
+          "name": "Morococha",
+          "latlng": [
+            -11.59972,
+            -76.14111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80734,
+          "name": "Orcotuna",
+          "latlng": [
+            -11.96886,
+            -75.3078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80758,
+          "name": "Perené",
+          "latlng": [
+            -10.9451,
+            -75.22394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80761,
+          "name": "Pilcomay",
+          "latlng": [
+            -12.04722,
+            -75.24931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80809,
+          "name": "Provincia de Chupaca",
+          "latlng": [
+            -12.3,
+            -75.433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80811,
+          "name": "Provincia de Concepción",
+          "latlng": [
+            -11.75,
+            -75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80834,
+          "name": "Provincia de Huancayo",
+          "latlng": [
+            -12.17319,
+            -75.16169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80846,
+          "name": "Provincia de Jauja",
+          "latlng": [
+            -11.726,
+            -75.547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80848,
+          "name": "Provincia de Junín",
+          "latlng": [
+            -11.08333,
+            -76
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80893,
+          "name": "Provincia de Satipo",
+          "latlng": [
+            -11.5,
+            -74.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80902,
+          "name": "Provincia de Tarma",
+          "latlng": [
+            -11.40562,
+            -75.69129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80909,
+          "name": "Provincia de Yauli",
+          "latlng": [
+            -11.66667,
+            -76.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80940,
+          "name": "San Agustin",
+          "latlng": [
+            -11.97195,
+            -75.25562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80947,
+          "name": "San Jerónimo",
+          "latlng": [
+            -11.95591,
+            -75.28411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80954,
+          "name": "San Pedro de Cajas",
+          "latlng": [
+            -11.25061,
+            -75.86116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80956,
+          "name": "San Ramón",
+          "latlng": [
+            -11.12417,
+            -75.35733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80970,
+          "name": "Satipo",
+          "latlng": [
+            -11.25222,
+            -74.63861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80974,
+          "name": "Sicaya",
+          "latlng": [
+            -12.03333,
+            -75.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80991,
+          "name": "Tarma",
+          "latlng": [
+            -11.41899,
+            -75.68992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3683,
+      "name": "La Libertad",
+      "code": "LAL",
+      "shortName": "LAL",
+      "cities": [
+        {
+          "id": 80562,
+          "name": "Ascope",
+          "latlng": [
+            -7.71444,
+            -79.10778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80595,
+          "name": "Cascas",
+          "latlng": [
+            -7.48333,
+            -78.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80609,
+          "name": "Chepen",
+          "latlng": [
+            -7.14367,
+            -79.45674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80611,
+          "name": "Chicama",
+          "latlng": [
+            -7.84472,
+            -79.14694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80620,
+          "name": "Chocope",
+          "latlng": [
+            -7.79139,
+            -79.22167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80643,
+          "name": "Gran Chimu",
+          "latlng": [
+            -7.57976,
+            -78.64718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80644,
+          "name": "Guadalupe",
+          "latlng": [
+            -7.25,
+            -79.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80649,
+          "name": "Huamachuco",
+          "latlng": [
+            -7.8,
+            -78.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80682,
+          "name": "Julcan",
+          "latlng": [
+            -8.17238,
+            -78.46356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80697,
+          "name": "Laredo",
+          "latlng": [
+            -8.08965,
+            -78.9602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80715,
+          "name": "Moche",
+          "latlng": [
+            -8.17111,
+            -79.00917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80736,
+          "name": "Otuzco",
+          "latlng": [
+            -7.9,
+            -78.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80741,
+          "name": "Pacanga",
+          "latlng": [
+            -7.16667,
+            -79.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80742,
+          "name": "Pacasmayo",
+          "latlng": [
+            -7.40056,
+            -79.57139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80745,
+          "name": "Paiján",
+          "latlng": [
+            -7.73291,
+            -79.3015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80783,
+          "name": "Provincia de Bolívar",
+          "latlng": [
+            -7.33333,
+            -77.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80866,
+          "name": "Provincia de Otuzco",
+          "latlng": [
+            -7.90457,
+            -78.56362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80868,
+          "name": "Provincia de Pacasmayo",
+          "latlng": [
+            -7.25,
+            -79.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80876,
+          "name": "Provincia de Pataz",
+          "latlng": [
+            -8.25,
+            -77.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80892,
+          "name": "Provincia de Santiago de Chuco",
+          "latlng": [
+            -8.33333,
+            -78.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80904,
+          "name": "Provincia de Trujillo",
+          "latlng": [
+            -8.08333,
+            -78.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80915,
+          "name": "Pueblo Nuevo",
+          "latlng": [
+            -7.18806,
+            -79.51528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80931,
+          "name": "Quiruvilca",
+          "latlng": [
+            -7.96667,
+            -78.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80936,
+          "name": "Salaverry",
+          "latlng": [
+            -8.221,
+            -78.97698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80955,
+          "name": "San Pedro de Lloc",
+          "latlng": [
+            -7.4289,
+            -79.50416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80959,
+          "name": "Sanchez Carrion",
+          "latlng": [
+            -7.78538,
+            -77.92586
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80965,
+          "name": "Santiago de Cao",
+          "latlng": [
+            -7.95889,
+            -79.23917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80966,
+          "name": "Santiago de Chuco",
+          "latlng": [
+            -8.14099,
+            -78.17329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80998,
+          "name": "Trujillo",
+          "latlng": [
+            -8.11599,
+            -79.02998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81010,
+          "name": "Viru",
+          "latlng": [
+            -8.52199,
+            -78.60355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3702,
+      "name": "Lambayeque",
+      "code": "LAM",
+      "shortName": "LAM",
+      "cities": [
+        {
+          "id": 80612,
+          "name": "Chiclayo",
+          "latlng": [
+            -6.77137,
+            -79.84088
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80621,
+          "name": "Chongoyape",
+          "latlng": [
+            -6.64056,
+            -79.38917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80641,
+          "name": "Eten",
+          "latlng": [
+            -6.90806,
+            -79.86417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80642,
+          "name": "Ferreñafe",
+          "latlng": [
+            -6.63889,
+            -79.78889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80675,
+          "name": "Jayanca",
+          "latlng": [
+            -6.39083,
+            -79.82194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80694,
+          "name": "Lambayeque",
+          "latlng": [
+            -6.70111,
+            -79.90611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80716,
+          "name": "Mochumí",
+          "latlng": [
+            -6.54364,
+            -79.86217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80718,
+          "name": "Monsefú",
+          "latlng": [
+            -6.87431,
+            -79.86871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80728,
+          "name": "Mórrope",
+          "latlng": [
+            -6.53536,
+            -80.01104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80725,
+          "name": "Motupe",
+          "latlng": [
+            -6.15194,
+            -79.71417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80732,
+          "name": "Olmos",
+          "latlng": [
+            -5.98472,
+            -79.74528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80739,
+          "name": "Oyotún",
+          "latlng": [
+            -6.84438,
+            -79.30093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80760,
+          "name": "Picsi",
+          "latlng": [
+            -6.71778,
+            -79.76972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80762,
+          "name": "Pimentel",
+          "latlng": [
+            -6.83667,
+            -79.93417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80804,
+          "name": "Provincia de Chiclayo",
+          "latlng": [
+            -6.76667,
+            -79.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80823,
+          "name": "Provincia de Ferreñafe",
+          "latlng": [
+            -6.33333,
+            -79.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80853,
+          "name": "Provincia de Lambayeque",
+          "latlng": [
+            -6.08333,
+            -80.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80916,
+          "name": "Pueblo Nuevo",
+          "latlng": [
+            -5.71667,
+            -79.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80932,
+          "name": "Reque",
+          "latlng": [
+            -6.86556,
+            -79.81778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80948,
+          "name": "San José",
+          "latlng": [
+            -6.73813,
+            -79.8275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80972,
+          "name": "Saña",
+          "latlng": [
+            -6.91888,
+            -79.582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80963,
+          "name": "Santa Rosa",
+          "latlng": [
+            -6.75772,
+            -79.82747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81001,
+          "name": "Túcume",
+          "latlng": [
+            -6.50637,
+            -79.85725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3695,
+      "name": "Lima",
+      "code": "LIM",
+      "shortName": "LIM",
+      "cities": [
+        {
+          "id": 80563,
+          "name": "Asentamiento Humano Nicolas de Pierola",
+          "latlng": [
+            -11.93573,
+            -76.70611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80574,
+          "name": "Barranca",
+          "latlng": [
+            -10.75,
+            -77.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80585,
+          "name": "Caleta de Carquín",
+          "latlng": [
+            -11.0925,
+            -77.62667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80603,
+          "name": "Chancay",
+          "latlng": [
+            -11.57139,
+            -77.26722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80614,
+          "name": "Chilca",
+          "latlng": [
+            -12.52111,
+            -76.73722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80622,
+          "name": "Chosica",
+          "latlng": [
+            -11.94306,
+            -76.70944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80647,
+          "name": "Huacho",
+          "latlng": [
+            -11.10667,
+            -77.605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80648,
+          "name": "Hualmay",
+          "latlng": [
+            -11.09639,
+            -77.61389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80654,
+          "name": "Huaral",
+          "latlng": [
+            -11.495,
+            -77.20778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80660,
+          "name": "Huaura",
+          "latlng": [
+            -11.07,
+            -77.59944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80671,
+          "name": "Imperial",
+          "latlng": [
+            -13.05927,
+            -76.35269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80672,
+          "name": "Independencia",
+          "latlng": [
+            -11.99,
+            -77.04583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80701,
+          "name": "Lima",
+          "latlng": [
+            -12.04318,
+            -77.02824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80708,
+          "name": "Mala",
+          "latlng": [
+            -12.65806,
+            -76.63083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80712,
+          "name": "Matucana",
+          "latlng": [
+            -11.85,
+            -76.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80730,
+          "name": "Nuevo Imperial",
+          "latlng": [
+            -13.07541,
+            -76.31719
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80738,
+          "name": "Oyon",
+          "latlng": [
+            -10.75869,
+            -76.87634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80753,
+          "name": "Paramonga",
+          "latlng": [
+            -10.66667,
+            -77.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80754,
+          "name": "Pativilca",
+          "latlng": [
+            -10.7,
+            -77.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80787,
+          "name": "Provincia de Cajatambo",
+          "latlng": [
+            -10.66667,
+            -77
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80801,
+          "name": "Provincia de Cañete",
+          "latlng": [
+            -12.75,
+            -76.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80793,
+          "name": "Provincia de Canta",
+          "latlng": [
+            -11.46667,
+            -76.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80836,
+          "name": "Provincia de Huaral",
+          "latlng": [
+            -11.25,
+            -76.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80840,
+          "name": "Provincia de Huarochirí",
+          "latlng": [
+            -11.91667,
+            -76.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80910,
+          "name": "Provincia de Yauyos",
+          "latlng": [
+            -12.41667,
+            -76
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80920,
+          "name": "Puerto Supe",
+          "latlng": [
+            -10.80135,
+            -77.74333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80930,
+          "name": "Quilmaná",
+          "latlng": [
+            -12.9486,
+            -76.38112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80933,
+          "name": "Ricardo Palma",
+          "latlng": [
+            -11.91978,
+            -76.6561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80942,
+          "name": "San Bartolo",
+          "latlng": [
+            -12.38333,
+            -76.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80945,
+          "name": "San Isidro",
+          "latlng": [
+            -12.11667,
+            -77.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80950,
+          "name": "San Luis",
+          "latlng": [
+            -12.07674,
+            -76.99435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80958,
+          "name": "San Vicente de Cañete",
+          "latlng": [
+            -13.07556,
+            -76.38528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80962,
+          "name": "Santa María",
+          "latlng": [
+            -12.00538,
+            -76.89329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80967,
+          "name": "Santiago de Surco",
+          "latlng": [
+            -12.13588,
+            -77.00742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80971,
+          "name": "Sayán",
+          "latlng": [
+            -11.13333,
+            -77.1946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80980,
+          "name": "Supe",
+          "latlng": [
+            -10.7975,
+            -77.71306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81003,
+          "name": "Urb. Santo Domingo",
+          "latlng": [
+            -11.87655,
+            -77.03345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81013,
+          "name": "Végueta",
+          "latlng": [
+            -11.02253,
+            -77.64378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4922,
+      "name": "Loreto",
+      "code": "LOR",
+      "shortName": "LOR",
+      "cities": [
+        {
+          "id": 147944,
+          "name": "Andoas",
+          "latlng": [
+            -2.9025,
+            -76.4025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147941,
+          "name": "Borja",
+          "latlng": [
+            -4.43333333,
+            -77.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147949,
+          "name": "Caballococha",
+          "latlng": [
+            -3.90583333,
+            -70.51638889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147947,
+          "name": "Cape Pantoja",
+          "latlng": [
+            -0.96435,
+            -75.18144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147952,
+          "name": "Indiana",
+          "latlng": [
+            -3.501427,
+            -73.048096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147940,
+          "name": "Iquitos",
+          "latlng": [
+            -3.73333333,
+            -73.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147945,
+          "name": "Jeberos",
+          "latlng": [
+            -5.28333,
+            -76.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147946,
+          "name": "Jenaro Herrera",
+          "latlng": [
+            -4.90741,
+            -73.66779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147948,
+          "name": "Lagunas",
+          "latlng": [
+            -5.22694,
+            -75.67528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147942,
+          "name": "Nauta",
+          "latlng": [
+            -4.50833333,
+            -73.58333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147953,
+          "name": "Punchana",
+          "latlng": [
+            -3.71666667,
+            -73.23333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147954,
+          "name": "Requena",
+          "latlng": [
+            -6.74797,
+            -75.05491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147955,
+          "name": "San Antonio del Estrecho",
+          "latlng": [
+            -2.45012,
+            -72.66896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147950,
+          "name": "San Lorenzo",
+          "latlng": [
+            -4.81667,
+            -76.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147943,
+          "name": "San Pablo",
+          "latlng": [
+            -4.01922,
+            -71.10281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147951,
+          "name": "Tamshiyacu",
+          "latlng": [
+            -4.0032,
+            -73.1585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147956,
+          "name": "Yurimaguas",
+          "latlng": [
+            -5.9,
+            -76.08333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3678,
+      "name": "Madre de Dios",
+      "code": "MDD",
+      "shortName": "MDD",
+      "cities": [
+        {
+          "id": 80666,
+          "name": "Iberia",
+          "latlng": [
+            -11.35,
+            -69.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80858,
+          "name": "Provincia de Manú",
+          "latlng": [
+            -12.25,
+            -71
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80898,
+          "name": "Provincia de Tahuamanú",
+          "latlng": [
+            -11.25,
+            -70.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80900,
+          "name": "Provincia de Tambopata",
+          "latlng": [
+            -12.19948,
+            -70.05006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80918,
+          "name": "Puerto Maldonado",
+          "latlng": [
+            -12.59331,
+            -69.18913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80939,
+          "name": "Salvación",
+          "latlng": [
+            -12.83605,
+            -71.3649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80987,
+          "name": "Tambopata",
+          "latlng": [
+            -12.67191,
+            -69.35547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3698,
+      "name": "Moquegua",
+      "code": "MOQ",
+      "shortName": "MOQ",
+      "cities": [
+        {
+          "id": 80670,
+          "name": "Ilo",
+          "latlng": [
+            -17.63185,
+            -71.34108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80719,
+          "name": "Moquegua",
+          "latlng": [
+            -17.19832,
+            -70.93567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80743,
+          "name": "Pacocha",
+          "latlng": [
+            -17.64604,
+            -71.34481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80824,
+          "name": "Provincia de General Sánchez Cerro",
+          "latlng": [
+            -16.5,
+            -70.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80844,
+          "name": "Provincia de Ilo",
+          "latlng": [
+            -17.49694,
+            -71.16722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80862,
+          "name": "Provincia de Mariscal Nieto",
+          "latlng": [
+            -17.08361,
+            -71.00333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80996,
+          "name": "Torata",
+          "latlng": [
+            -17.07694,
+            -70.84333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3686,
+      "name": "Pasco",
+      "code": "PAS",
+      "shortName": "PAS",
+      "cities": [
+        {
+          "id": 80601,
+          "name": "Cerro de Pasco",
+          "latlng": [
+            -10.66748,
+            -76.25668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80605,
+          "name": "Chaupimarca",
+          "latlng": [
+            -10.40696,
+            -76.46168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80737,
+          "name": "Oxapampa",
+          "latlng": [
+            -10.5775,
+            -75.40167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80757,
+          "name": "Paucartambo",
+          "latlng": [
+            -10.77326,
+            -75.81109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80820,
+          "name": "Provincia de Daniel Carrión",
+          "latlng": [
+            -10.5,
+            -76.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80867,
+          "name": "Provincia de Oxapampa",
+          "latlng": [
+            -10.33333,
+            -75.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80875,
+          "name": "Provincia de Pasco",
+          "latlng": [
+            -10.66667,
+            -76.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80994,
+          "name": "Tinyahuarco",
+          "latlng": [
+            -10.76771,
+            -76.27523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81008,
+          "name": "Villa Rica",
+          "latlng": [
+            -10.73944,
+            -75.26972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3697,
+      "name": "Piura",
+      "code": "PIU",
+      "shortName": "PIU",
+      "cities": [
+        {
+          "id": 80567,
+          "name": "Ayabaca",
+          "latlng": [
+            -4.63983,
+            -79.71491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80577,
+          "name": "Bernal",
+          "latlng": [
+            -5.45,
+            -80.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80578,
+          "name": "Buenos Aires",
+          "latlng": [
+            -5.26083,
+            -79.96417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80596,
+          "name": "Catacaos",
+          "latlng": [
+            -5.26667,
+            -80.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80624,
+          "name": "Chulucanas",
+          "latlng": [
+            -5.0925,
+            -80.1625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80638,
+          "name": "El Alto",
+          "latlng": [
+            -4.26851,
+            -81.21719
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80650,
+          "name": "Huancabamba",
+          "latlng": [
+            -5.23861,
+            -79.45056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80686,
+          "name": "La Breita",
+          "latlng": [
+            -4.25691,
+            -80.88599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80687,
+          "name": "La Huaca",
+          "latlng": [
+            -4.91167,
+            -80.96
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80692,
+          "name": "La Unión",
+          "latlng": [
+            -5.40232,
+            -80.74224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80698,
+          "name": "Las Lomas",
+          "latlng": [
+            -4.65333,
+            -80.24667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80727,
+          "name": "Máncora",
+          "latlng": [
+            -4.10778,
+            -81.0475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80711,
+          "name": "Marcavelica",
+          "latlng": [
+            -4.87778,
+            -80.70528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80721,
+          "name": "Morropon",
+          "latlng": [
+            -5.25,
+            -80
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80746,
+          "name": "Paita",
+          "latlng": [
+            -5.08917,
+            -81.11444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80765,
+          "name": "Piura",
+          "latlng": [
+            -5.19449,
+            -80.63282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80778,
+          "name": "Provincia de Ayabaca",
+          "latlng": [
+            -4.75,
+            -79.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80831,
+          "name": "Provincia de Huancabamba",
+          "latlng": [
+            -5.5,
+            -79.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80870,
+          "name": "Provincia de Paita",
+          "latlng": [
+            -5.10189,
+            -81.09695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80879,
+          "name": "Provincia de Piura",
+          "latlng": [
+            -5.21416,
+            -80.40617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80896,
+          "name": "Provincia de Sullana",
+          "latlng": [
+            -4.5,
+            -80.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80899,
+          "name": "Provincia de Talara",
+          "latlng": [
+            -4.41667,
+            -81.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80927,
+          "name": "Querecotillo",
+          "latlng": [
+            -4.83778,
+            -80.64556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80937,
+          "name": "Salinera Colán",
+          "latlng": [
+            -5.03333,
+            -81.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80938,
+          "name": "Salitral",
+          "latlng": [
+            -4.85722,
+            -80.68111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80973,
+          "name": "Sechura",
+          "latlng": [
+            -5.55694,
+            -80.82222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80979,
+          "name": "Sullana",
+          "latlng": [
+            -4.90389,
+            -80.68528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80983,
+          "name": "Talara",
+          "latlng": [
+            -4.57722,
+            -81.27194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80986,
+          "name": "Tambo Grande",
+          "latlng": [
+            -4.92694,
+            -80.34472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81007,
+          "name": "Vice",
+          "latlng": [
+            -5.41667,
+            -80.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3682,
+      "name": "Puno",
+      "code": "PUN",
+      "shortName": "PUN",
+      "cities": [
+        {
+          "id": 80566,
+          "name": "Atuncolla",
+          "latlng": [
+            -15.68333,
+            -70.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80569,
+          "name": "Ayaviri",
+          "latlng": [
+            -14.88639,
+            -70.58889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80571,
+          "name": "Azángaro",
+          "latlng": [
+            -14.90843,
+            -70.19616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80637,
+          "name": "Desaguadero",
+          "latlng": [
+            -16.56556,
+            -69.04167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80639,
+          "name": "El Collao",
+          "latlng": [
+            -16.72641,
+            -69.75515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80645,
+          "name": "Hacienda Huancane",
+          "latlng": [
+            -15.82327,
+            -70.8854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80669,
+          "name": "Ilave",
+          "latlng": [
+            -16.08333,
+            -69.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80683,
+          "name": "Juli",
+          "latlng": [
+            -16.21667,
+            -69.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80684,
+          "name": "Juliaca",
+          "latlng": [
+            -15.5,
+            -70.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80690,
+          "name": "La Rinconada",
+          "latlng": [
+            -14.63126,
+            -69.44638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80695,
+          "name": "Lampa",
+          "latlng": [
+            -15.35,
+            -70.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80707,
+          "name": "Macusani",
+          "latlng": [
+            -14.08333,
+            -70.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81023,
+          "name": "Ñuñoa",
+          "latlng": [
+            -14.47788,
+            -70.63583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80780,
+          "name": "Provincia de Azángaro",
+          "latlng": [
+            -14.83333,
+            -70.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80794,
+          "name": "Provincia de Carabaya",
+          "latlng": [
+            -13.83333,
+            -70.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80807,
+          "name": "Provincia de Chucuito",
+          "latlng": [
+            -16.60545,
+            -69.35761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80832,
+          "name": "Provincia de Huancané",
+          "latlng": [
+            -15.16667,
+            -69.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80854,
+          "name": "Provincia de Lampa",
+          "latlng": [
+            -15.41667,
+            -70.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80863,
+          "name": "Provincia de Melgar",
+          "latlng": [
+            -14.75,
+            -70.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80881,
+          "name": "Provincia de Puno",
+          "latlng": [
+            -16,
+            -70
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80889,
+          "name": "Provincia de Sandia",
+          "latlng": [
+            -13.83333,
+            -69.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80922,
+          "name": "Puno",
+          "latlng": [
+            -15.8422,
+            -70.0199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80941,
+          "name": "San Antonio De Putina",
+          "latlng": [
+            -14.71175,
+            -69.61559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80957,
+          "name": "San Roman",
+          "latlng": [
+            -15.83333,
+            -70.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80961,
+          "name": "Santa Lucía",
+          "latlng": [
+            -15.69788,
+            -70.6061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80988,
+          "name": "Taquile",
+          "latlng": [
+            -15.76667,
+            -69.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81019,
+          "name": "Yunguyo",
+          "latlng": [
+            -16.25,
+            -69.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3694,
+      "name": "San Martín",
+      "code": "SAM",
+      "shortName": "SAM",
+      "cities": [
+        {
+          "id": 80576,
+          "name": "Bellavista",
+          "latlng": [
+            -7.05614,
+            -76.5911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80606,
+          "name": "Chazuta",
+          "latlng": [
+            -6.57087,
+            -76.13753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80640,
+          "name": "El Dorado",
+          "latlng": [
+            -6.56298,
+            -76.7413
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80664,
+          "name": "Huicungo",
+          "latlng": [
+            -7.3186,
+            -76.77556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80679,
+          "name": "Jepelacio",
+          "latlng": [
+            -6.11667,
+            -76.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80681,
+          "name": "Juanjuí",
+          "latlng": [
+            -7.17697,
+            -76.72774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80693,
+          "name": "Lamas",
+          "latlng": [
+            -6.41667,
+            -76.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80726,
+          "name": "Moyobamba",
+          "latlng": [
+            -6.03416,
+            -76.97168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80759,
+          "name": "Picota",
+          "latlng": [
+            -6.92033,
+            -76.33142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80827,
+          "name": "Provincia de Huallaga",
+          "latlng": [
+            -6.75664,
+            -76.90143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80852,
+          "name": "Provincia de Lamas",
+          "latlng": [
+            -6.33333,
+            -76.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80860,
+          "name": "Provincia de Mariscal Cáceres",
+          "latlng": [
+            -7.2739,
+            -77.18216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80864,
+          "name": "Provincia de Moyobamba",
+          "latlng": [
+            -5.75,
+            -77.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80884,
+          "name": "Provincia de Rioja",
+          "latlng": [
+            -6,
+            -77.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80887,
+          "name": "Provincia de San Martín",
+          "latlng": [
+            -6.58333,
+            -76.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80934,
+          "name": "Rioja",
+          "latlng": [
+            -6.05675,
+            -77.16651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80969,
+          "name": "Saposoa",
+          "latlng": [
+            -6.93395,
+            -76.77158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80976,
+          "name": "Sisa",
+          "latlng": [
+            -6.61085,
+            -76.69302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80977,
+          "name": "Soritor",
+          "latlng": [
+            -6.13917,
+            -77.10389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80981,
+          "name": "Tabalosos",
+          "latlng": [
+            -6.35,
+            -76.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80989,
+          "name": "Tarapoto",
+          "latlng": [
+            -6.50139,
+            -76.36556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80995,
+          "name": "Tocache",
+          "latlng": [
+            -8.1877,
+            -76.52046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81002,
+          "name": "Uchiza",
+          "latlng": [
+            -8.45917,
+            -76.46333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3696,
+      "name": "Tacna",
+      "code": "TAC",
+      "shortName": "TAC",
+      "cities": [
+        {
+          "id": 80583,
+          "name": "Calana",
+          "latlng": [
+            -17.94167,
+            -70.18694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80590,
+          "name": "Candarave",
+          "latlng": [
+            -17.26778,
+            -70.24944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80618,
+          "name": "Chipispaya",
+          "latlng": [
+            -17.4979,
+            -70.21714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80626,
+          "name": "Chuquitira",
+          "latlng": [
+            -17.28891,
+            -70.04363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80668,
+          "name": "Ilabaya",
+          "latlng": [
+            -17.42083,
+            -70.51333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80680,
+          "name": "Jorge Basadre",
+          "latlng": [
+            -17.57919,
+            -70.73083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80897,
+          "name": "Provincia de Tacna",
+          "latlng": [
+            -17.83333,
+            -70.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80901,
+          "name": "Provincia de Tarata",
+          "latlng": [
+            -17.41667,
+            -70.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80921,
+          "name": "Pujocucho",
+          "latlng": [
+            -17.15778,
+            -70.35222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80929,
+          "name": "Quilahuani",
+          "latlng": [
+            -17.31778,
+            -70.25806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80982,
+          "name": "Tacna",
+          "latlng": [
+            -18.01465,
+            -70.25362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80990,
+          "name": "Tarata",
+          "latlng": [
+            -17.47444,
+            -70.03278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80997,
+          "name": "Totoral",
+          "latlng": [
+            -17.4062,
+            -70.36464
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3689,
+      "name": "Tumbes",
+      "code": "TUM",
+      "shortName": "TUM",
+      "cities": [
+        {
+          "id": 80557,
+          "name": "Aguas Verdes",
+          "latlng": [
+            -3.48139,
+            -80.245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80751,
+          "name": "Papayal",
+          "latlng": [
+            -4.07771,
+            -80.7369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80813,
+          "name": "Provincia de Contralmirante Villar",
+          "latlng": [
+            -4,
+            -80.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80905,
+          "name": "Provincia de Tumbes",
+          "latlng": [
+            -3.75,
+            -80.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80912,
+          "name": "Provincia de Zarumilla",
+          "latlng": [
+            -3.66667,
+            -80.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80999,
+          "name": "Tumbes",
+          "latlng": [
+            -3.56694,
+            -80.45153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81021,
+          "name": "Zarumilla",
+          "latlng": [
+            -3.50306,
+            -80.27306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81022,
+          "name": "Zorritos",
+          "latlng": [
+            -3.68046,
+            -80.67819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3684,
+      "name": "Ucayali",
+      "code": "UCA",
+      "shortName": "UCA",
+      "cities": [
+        {
+          "id": 80565,
+          "name": "Atalaya",
+          "latlng": [
+            -10.3898,
+            -73.21977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80589,
+          "name": "Campoverde",
+          "latlng": [
+            -8.47533,
+            -74.80709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80744,
+          "name": "Padre Abad",
+          "latlng": [
+            -8.7968,
+            -75.4285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80815,
+          "name": "Provincia de Coronel Portillo",
+          "latlng": [
+            -9.5,
+            -73.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80913,
+          "name": "Pucallpa",
+          "latlng": [
+            -8.37915,
+            -74.55387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80925,
+          "name": "Purus",
+          "latlng": [
+            -10.37331,
+            -71.58231
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

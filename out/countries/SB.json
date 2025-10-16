@@ -1,0 +1,184 @@
+{
+  "name": {
+    "common": "Solomon Islands",
+    "official": "Solomon Islands"
+  },
+  "iso2": "SB",
+  "iso3": "SLB",
+  "numericCode": "090",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "tld": ".sb",
+  "phoneCode": "677",
+  "capital": "Honiara",
+  "currencies": {
+    "SBD": "Solomon Islands dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Guadalcanal",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "SBT",
+      "tzName": "Solomon Islands Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sb.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sb.svg",
+  "states": [
+    {
+      "id": 4784,
+      "name": "Central",
+      "code": "CE",
+      "shortName": "CE",
+      "cities": [
+        {
+          "id": 102905,
+          "name": "Tulagi",
+          "latlng": [
+            -9.10306,
+            160.15056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4781,
+      "name": "Choiseul",
+      "code": "CH",
+      "shortName": "CH",
+      "cities": []
+    },
+    {
+      "id": 4785,
+      "name": "Guadalcanal",
+      "code": "GU",
+      "shortName": "GU",
+      "cities": [
+        {
+          "id": 102902,
+          "name": "Honiara",
+          "latlng": [
+            -9.43333,
+            159.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4778,
+      "name": "Honiara",
+      "code": "CT",
+      "shortName": "CT",
+      "cities": []
+    },
+    {
+      "id": 4780,
+      "name": "Isabel",
+      "code": "IS",
+      "shortName": "IS",
+      "cities": [
+        {
+          "id": 102900,
+          "name": "Buala",
+          "latlng": [
+            -8.14497,
+            159.59212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4782,
+      "name": "Makira-Ulawa",
+      "code": "MK",
+      "shortName": "MK",
+      "cities": [
+        {
+          "id": 102903,
+          "name": "Kirakira",
+          "latlng": [
+            -10.45442,
+            161.92045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4783,
+      "name": "Malaita",
+      "code": "ML",
+      "shortName": "ML",
+      "cities": [
+        {
+          "id": 102899,
+          "name": "Auki",
+          "latlng": [
+            -8.76778,
+            160.69778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4787,
+      "name": "Rennell and Bellona",
+      "code": "RB",
+      "shortName": "RB",
+      "cities": []
+    },
+    {
+      "id": 4779,
+      "name": "Temotu",
+      "code": "TE",
+      "shortName": "TE",
+      "cities": [
+        {
+          "id": 102904,
+          "name": "Lata",
+          "latlng": [
+            -10.725,
+            165.79722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4786,
+      "name": "Western",
+      "code": "WE",
+      "shortName": "WE",
+      "cities": [
+        {
+          "id": 102901,
+          "name": "Gizo",
+          "latlng": [
+            -8.10303,
+            156.84186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Tokelau",
+    "official": "Tokelau"
+  },
+  "iso2": "TK",
+  "iso3": "TKL",
+  "numericCode": "772",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".tk",
+  "phoneCode": "690",
+  "capital": "",
+  "currencies": {
+    "NZD": "New Zealand dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Fakaofo",
+      "gmtOffset": 46800,
+      "gmtOffsetName": "UTC+13:00",
+      "abbreviation": "TKT",
+      "tzName": "Tokelau Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tk.svg",
+  "states": []
+}

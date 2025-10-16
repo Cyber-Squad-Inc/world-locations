@@ -1,0 +1,1748 @@
+{
+  "name": {
+    "common": "Latvia",
+    "official": "Latvia"
+  },
+  "iso2": "LV",
+  "iso3": "LVA",
+  "numericCode": "428",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".lv",
+  "phoneCode": "371",
+  "capital": "Riga",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Riga",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/lv.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/lv.svg",
+  "states": [
+    {
+      "id": 4454,
+      "name": "Ādaži",
+      "code": "011",
+      "shortName": "011",
+      "cities": [
+        {
+          "id": 66885,
+          "name": "Carnikava",
+          "latlng": [
+            57.12935,
+            24.28423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4472,
+      "name": "Aizkraukle",
+      "code": "002",
+      "shortName": "002",
+      "cities": [
+        {
+          "id": 66870,
+          "name": "Aizkraukle",
+          "latlng": [
+            56.60477,
+            25.25534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66904,
+          "name": "Jaunjelgava",
+          "latlng": [
+            56.61319,
+            25.08316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66913,
+          "name": "Koknese",
+          "latlng": [
+            56.65163,
+            25.43637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66933,
+          "name": "Nereta",
+          "latlng": [
+            56.20279,
+            25.30752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66945,
+          "name": "Pļaviņas",
+          "latlng": [
+            56.6178,
+            25.72552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66963,
+          "name": "Skrīveri",
+          "latlng": [
+            56.645,
+            25.12058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4487,
+      "name": "Alūksne",
+      "code": "007",
+      "shortName": "007",
+      "cities": [
+        {
+          "id": 66875,
+          "name": "Alūksne",
+          "latlng": [
+            57.42162,
+            27.04662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4492,
+      "name": "Augšdaugava",
+      "code": "111",
+      "shortName": "111",
+      "cities": [
+        {
+          "id": 66891,
+          "name": "Daugavpils",
+          "latlng": [
+            55.88333,
+            26.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66900,
+          "name": "Ilūkste",
+          "latlng": [
+            55.97754,
+            26.29655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4505,
+      "name": "Balvi",
+      "code": "015",
+      "shortName": "015",
+      "cities": [
+        {
+          "id": 66880,
+          "name": "Baltinava",
+          "latlng": [
+            56.94394,
+            27.64401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66881,
+          "name": "Balvi",
+          "latlng": [
+            57.1313,
+            27.26583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66952,
+          "name": "Rugāji",
+          "latlng": [
+            57.00325,
+            27.13371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66986,
+          "name": "Viļaka",
+          "latlng": [
+            57.18458,
+            27.6722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4465,
+      "name": "Bauska",
+      "code": "016",
+      "shortName": "016",
+      "cities": [
+        {
+          "id": 66882,
+          "name": "Bauska",
+          "latlng": [
+            56.40794,
+            24.19443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66898,
+          "name": "Iecava",
+          "latlng": [
+            56.59766,
+            24.20763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66938,
+          "name": "Pilsrundāle",
+          "latlng": [
+            56.41812,
+            24.01625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66982,
+          "name": "Vecumnieki",
+          "latlng": [
+            56.60608,
+            24.52232
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4469,
+      "name": "Cēsis",
+      "code": "022",
+      "shortName": "022",
+      "cities": [
+        {
+          "id": 66888,
+          "name": "Cēsis",
+          "latlng": [
+            57.31188,
+            25.27456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66924,
+          "name": "Līgatne",
+          "latlng": [
+            57.23429,
+            25.04059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66943,
+          "name": "Priekuļi",
+          "latlng": [
+            57.315,
+            25.36147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66967,
+          "name": "Stalbe",
+          "latlng": [
+            57.37065,
+            25.03106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66981,
+          "name": "Vecpiebalga",
+          "latlng": [
+            57.0609,
+            25.81624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4463,
+      "name": "Daugavpils",
+      "code": "DGV",
+      "shortName": "DGV",
+      "cities": []
+    },
+    {
+      "id": 4508,
+      "name": "Dienvidkurzemes",
+      "code": "112",
+      "shortName": "112",
+      "cities": [
+        {
+          "id": 66871,
+          "name": "Aizpute",
+          "latlng": [
+            56.72108,
+            21.60156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66896,
+          "name": "Grobiņa",
+          "latlng": [
+            56.53521,
+            21.16782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66920,
+          "name": "Lieģi",
+          "latlng": [
+            56.58173,
+            21.33399
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66934,
+          "name": "Nīca",
+          "latlng": [
+            56.34601,
+            21.06401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66944,
+          "name": "Pāvilosta",
+          "latlng": [
+            56.88791,
+            21.18593
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66942,
+          "name": "Priekule",
+          "latlng": [
+            56.44679,
+            21.58968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66951,
+          "name": "Rucava",
+          "latlng": [
+            56.16314,
+            21.16156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66975,
+          "name": "Vaiņode",
+          "latlng": [
+            56.41848,
+            21.85405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4437,
+      "name": "Dobele",
+      "code": "026",
+      "shortName": "026",
+      "cities": [
+        {
+          "id": 66877,
+          "name": "Auce",
+          "latlng": [
+            56.45981,
+            22.90169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66892,
+          "name": "Dobele",
+          "latlng": [
+            56.62372,
+            23.2751
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66972,
+          "name": "Tērvete",
+          "latlng": [
+            56.47989,
+            23.38895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66988,
+          "name": "Zelmeņi",
+          "latlng": [
+            56.45167,
+            23.35194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4400,
+      "name": "Gulbene",
+      "code": "033",
+      "shortName": "033",
+      "cities": [
+        {
+          "id": 66897,
+          "name": "Gulbene",
+          "latlng": [
+            57.17767,
+            26.75291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4438,
+      "name": "Jēkabpils",
+      "code": "042",
+      "shortName": "042",
+      "cities": [
+        {
+          "id": 66872,
+          "name": "Aknīste",
+          "latlng": [
+            56.16152,
+            25.74783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66908,
+          "name": "Jēkabpils",
+          "latlng": [
+            56.49903,
+            25.85735
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66914,
+          "name": "Krustpils",
+          "latlng": [
+            56.51068,
+            25.86117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66985,
+          "name": "Viesīte",
+          "latlng": [
+            56.34751,
+            25.55514
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4424,
+      "name": "Jelgava",
+      "code": "041",
+      "shortName": "041",
+      "cities": [
+        {
+          "id": 66937,
+          "name": "Ozolnieki",
+          "latlng": [
+            56.68986,
+            23.7761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66973,
+          "name": "Tīreļi",
+          "latlng": [
+            56.83991,
+            23.58902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4500,
+      "name": "Jelgava",
+      "code": "JEL",
+      "shortName": "JEL",
+      "cities": [
+        {
+          "id": 66906,
+          "name": "Jelgava",
+          "latlng": [
+            56.65,
+            23.71278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4446,
+      "name": "Jūrmala",
+      "code": "JUR",
+      "shortName": "JUR",
+      "cities": [
+        {
+          "id": 66909,
+          "name": "Jūrmala",
+          "latlng": [
+            56.968,
+            23.77038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4435,
+      "name": "Ķekava",
+      "code": "052",
+      "shortName": "052",
+      "cities": [
+        {
+          "id": 66878,
+          "name": "Baldone",
+          "latlng": [
+            56.74451,
+            24.40078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66879,
+          "name": "Baloži",
+          "latlng": [
+            56.87643,
+            24.11825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66992,
+          "name": "Ķekava",
+          "latlng": [
+            56.82662,
+            24.23
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4474,
+      "name": "Krāslava",
+      "code": "047",
+      "shortName": "047",
+      "cities": [
+        {
+          "id": 66889,
+          "name": "Dagda",
+          "latlng": [
+            56.09512,
+            27.53723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66915,
+          "name": "Krāslava",
+          "latlng": [
+            55.89514,
+            27.16799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4490,
+      "name": "Kuldīga",
+      "code": "050",
+      "shortName": "050",
+      "cities": [
+        {
+          "id": 66874,
+          "name": "Alsunga",
+          "latlng": [
+            56.98194,
+            21.55938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66916,
+          "name": "Kuldīga",
+          "latlng": [
+            56.97399,
+            21.95721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66962,
+          "name": "Skrunda",
+          "latlng": [
+            56.67749,
+            22.01649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4460,
+      "name": "Liepāja",
+      "code": "LPX",
+      "shortName": "LPX",
+      "cities": [
+        {
+          "id": 66911,
+          "name": "Karosta",
+          "latlng": [
+            56.55128,
+            21.01287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66919,
+          "name": "Liepāja",
+          "latlng": [
+            56.50474,
+            21.01085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4418,
+      "name": "Limbaži",
+      "code": "054",
+      "shortName": "054",
+      "cities": [
+        {
+          "id": 66869,
+          "name": "Ainaži",
+          "latlng": [
+            57.86348,
+            24.35853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66873,
+          "name": "Aloja",
+          "latlng": [
+            57.76723,
+            24.87743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66921,
+          "name": "Limbaži",
+          "latlng": [
+            57.51287,
+            24.71941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66956,
+          "name": "Salacgrīva",
+          "latlng": [
+            57.75312,
+            24.35895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66966,
+          "name": "Staicele",
+          "latlng": [
+            57.83579,
+            24.74706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4401,
+      "name": "Līvāni",
+      "code": "056",
+      "shortName": "056",
+      "cities": [
+        {
+          "id": 66925,
+          "name": "Līvāni",
+          "latlng": [
+            56.35431,
+            26.17579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4501,
+      "name": "Ludza",
+      "code": "058",
+      "shortName": "058",
+      "cities": [
+        {
+          "id": 66887,
+          "name": "Cibla",
+          "latlng": [
+            56.5498,
+            27.8837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66917,
+          "name": "Kārsava",
+          "latlng": [
+            56.78405,
+            27.68829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66923,
+          "name": "Ludza",
+          "latlng": [
+            56.53958,
+            27.71891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66989,
+          "name": "Zilupe",
+          "latlng": [
+            56.38616,
+            28.12165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4433,
+      "name": "Madona",
+      "code": "059",
+      "shortName": "059",
+      "cities": [
+        {
+          "id": 66886,
+          "name": "Cesvaine",
+          "latlng": [
+            56.96754,
+            26.30764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66990,
+          "name": "Ērgļi",
+          "latlng": [
+            56.89752,
+            25.63668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66922,
+          "name": "Lubāna",
+          "latlng": [
+            56.90425,
+            26.71606
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66926,
+          "name": "Madona",
+          "latlng": [
+            56.85329,
+            26.21698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4450,
+      "name": "Mārupe",
+      "code": "062",
+      "shortName": "062",
+      "cities": [
+        {
+          "id": 66930,
+          "name": "Mārupe",
+          "latlng": [
+            56.90544,
+            24.05113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66940,
+          "name": "Piņķi",
+          "latlng": [
+            56.94189,
+            23.91365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4416,
+      "name": "Ogre",
+      "code": "067",
+      "shortName": "067",
+      "cities": [
+        {
+          "id": 66899,
+          "name": "Ikšķile",
+          "latlng": [
+            56.83399,
+            24.49679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66907,
+          "name": "Jumprava",
+          "latlng": [
+            56.67613,
+            24.9721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66991,
+          "name": "Ķegums",
+          "latlng": [
+            56.7451,
+            24.72439
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66918,
+          "name": "Lielvārde",
+          "latlng": [
+            56.72066,
+            24.80743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66935,
+          "name": "Ogre",
+          "latlng": [
+            56.8162,
+            24.61401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4417,
+      "name": "Olaine",
+      "code": "068",
+      "shortName": "068",
+      "cities": [
+        {
+          "id": 66936,
+          "name": "Olaine",
+          "latlng": [
+            56.79472,
+            23.9358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4483,
+      "name": "Preiļi",
+      "code": "073",
+      "shortName": "073",
+      "cities": [
+        {
+          "id": 66868,
+          "name": "Aglona",
+          "latlng": [
+            56.13274,
+            27.00682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66902,
+          "name": "Jaunaglona",
+          "latlng": [
+            56.16066,
+            27.00714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66941,
+          "name": "Preiļi",
+          "latlng": [
+            56.29444,
+            26.72459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66947,
+          "name": "Riebiņi",
+          "latlng": [
+            56.3428,
+            26.79995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66983,
+          "name": "Vecvārkava",
+          "latlng": [
+            56.19838,
+            26.50811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4509,
+      "name": "Rēzekne",
+      "code": "REZ",
+      "shortName": "REZ",
+      "cities": [
+        {
+          "id": 66953,
+          "name": "Rēzekne",
+          "latlng": [
+            56.51028,
+            27.34
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4455,
+      "name": "Rēzekne",
+      "code": "077",
+      "shortName": "077",
+      "cities": [
+        {
+          "id": 66987,
+          "name": "Viļāni",
+          "latlng": [
+            56.55253,
+            26.92449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4491,
+      "name": "Riga",
+      "code": "RIX",
+      "shortName": "RIX",
+      "cities": [
+        {
+          "id": 66883,
+          "name": "Bolderaja",
+          "latlng": [
+            57.03132,
+            24.05571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66890,
+          "name": "Daugavgrīva",
+          "latlng": [
+            57.04315,
+            24.03613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66903,
+          "name": "Jaunciems",
+          "latlng": [
+            57.0391,
+            24.17413
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66928,
+          "name": "Mežaparks",
+          "latlng": [
+            57.00008,
+            24.15997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66948,
+          "name": "Riga",
+          "latlng": [
+            56.946,
+            24.10589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4493,
+      "name": "Ropaži",
+      "code": "080",
+      "shortName": "080",
+      "cities": [
+        {
+          "id": 66895,
+          "name": "Garkalne",
+          "latlng": [
+            57.04486,
+            24.41951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66950,
+          "name": "Ropaži",
+          "latlng": [
+            56.9747,
+            24.63295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66974,
+          "name": "Ulbroka",
+          "latlng": [
+            56.9363,
+            24.30387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66979,
+          "name": "Vangaži",
+          "latlng": [
+            57.09358,
+            24.54468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4402,
+      "name": "Salaspils",
+      "code": "087",
+      "shortName": "087",
+      "cities": [
+        {
+          "id": 66957,
+          "name": "Salaspils",
+          "latlng": [
+            56.86014,
+            24.36544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4439,
+      "name": "Saldus",
+      "code": "088",
+      "shortName": "088",
+      "cities": [
+        {
+          "id": 66884,
+          "name": "Brocēni",
+          "latlng": [
+            56.6789,
+            22.56945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66958,
+          "name": "Saldus",
+          "latlng": [
+            56.66363,
+            22.48807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4443,
+      "name": "Saulkrasti",
+      "code": "089",
+      "shortName": "089",
+      "cities": [
+        {
+          "id": 66959,
+          "name": "Saulkrasti",
+          "latlng": [
+            57.26224,
+            24.41471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4476,
+      "name": "Sigulda",
+      "code": "091",
+      "shortName": "091",
+      "cities": [
+        {
+          "id": 66901,
+          "name": "Inčukalns",
+          "latlng": [
+            57.09867,
+            24.6863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66929,
+          "name": "Mālpils",
+          "latlng": [
+            57.0101,
+            24.95783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66961,
+          "name": "Sigulda",
+          "latlng": [
+            57.15375,
+            24.85953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4462,
+      "name": "Smiltene",
+      "code": "094",
+      "shortName": "094",
+      "cities": [
+        {
+          "id": 66876,
+          "name": "Ape",
+          "latlng": [
+            57.53928,
+            26.69291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66946,
+          "name": "Rauna",
+          "latlng": [
+            57.33173,
+            25.60947
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66964,
+          "name": "Smiltene",
+          "latlng": [
+            57.42444,
+            25.90164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4459,
+      "name": "Talsi",
+      "code": "097",
+      "shortName": "097",
+      "cities": [
+        {
+          "id": 66893,
+          "name": "Dundaga",
+          "latlng": [
+            57.50498,
+            22.35041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66949,
+          "name": "Roja",
+          "latlng": [
+            57.50146,
+            22.80881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66955,
+          "name": "Sabile",
+          "latlng": [
+            57.04577,
+            22.57261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66968,
+          "name": "Stende",
+          "latlng": [
+            57.14497,
+            22.53482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66970,
+          "name": "Talsi",
+          "latlng": [
+            57.24562,
+            22.58137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66976,
+          "name": "Valdemārpils",
+          "latlng": [
+            57.37068,
+            22.59188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4409,
+      "name": "Tukums",
+      "code": "099",
+      "shortName": "099",
+      "cities": [
+        {
+          "id": 66894,
+          "name": "Engure",
+          "latlng": [
+            57.16061,
+            23.22527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66905,
+          "name": "Jaunpils",
+          "latlng": [
+            56.73137,
+            23.01247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66910,
+          "name": "Kandava",
+          "latlng": [
+            57.04087,
+            22.77466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66965,
+          "name": "Smārde",
+          "latlng": [
+            56.9542,
+            23.33736
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66971,
+          "name": "Tukums",
+          "latlng": [
+            56.96764,
+            23.15554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4425,
+      "name": "Valka",
+      "code": "101",
+      "shortName": "101",
+      "cities": [
+        {
+          "id": 66977,
+          "name": "Valka",
+          "latlng": [
+            57.7752,
+            26.01013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4473,
+      "name": "Valmiera",
+      "code": "113",
+      "shortName": "113",
+      "cities": [
+        {
+          "id": 66912,
+          "name": "Kocēni",
+          "latlng": [
+            57.52057,
+            25.33821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66927,
+          "name": "Mazsalaca",
+          "latlng": [
+            57.86329,
+            25.05475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66931,
+          "name": "Mūrmuiža",
+          "latlng": [
+            57.47312,
+            25.49174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66932,
+          "name": "Naukšēni",
+          "latlng": [
+            57.88349,
+            25.45609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66954,
+          "name": "Rūjiena",
+          "latlng": [
+            57.89752,
+            25.33155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66960,
+          "name": "Seda",
+          "latlng": [
+            57.65042,
+            25.75089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66969,
+          "name": "Strenči",
+          "latlng": [
+            57.62574,
+            25.68535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66978,
+          "name": "Valmiera",
+          "latlng": [
+            57.54108,
+            25.42751
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4431,
+      "name": "Varakļāni",
+      "code": "102",
+      "shortName": "102",
+      "cities": [
+        {
+          "id": 66980,
+          "name": "Varakļāni",
+          "latlng": [
+            56.60826,
+            26.75377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4421,
+      "name": "Ventspils",
+      "code": "VEN",
+      "shortName": "VEN",
+      "cities": [
+        {
+          "id": 66984,
+          "name": "Ventspils",
+          "latlng": [
+            57.38988,
+            21.57288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4403,
+      "name": "Ventspils",
+      "code": "106",
+      "shortName": "106",
+      "cities": [
+        {
+          "id": 66939,
+          "name": "Piltene",
+          "latlng": [
+            57.22426,
+            21.67439
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

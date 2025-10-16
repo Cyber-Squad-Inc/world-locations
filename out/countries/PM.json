@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Saint Pierre and Miquelon",
+    "official": "Saint Pierre and Miquelon"
+  },
+  "iso2": "PM",
+  "iso3": "SPM",
+  "numericCode": "666",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "tld": ".pm",
+  "phoneCode": "508",
+  "capital": "Saint-Pierre",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Miquelon",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "PMDT",
+      "tzName": "Pierre & Miquelon Daylight Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pm.svg",
+  "states": []
+}

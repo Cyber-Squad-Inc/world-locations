@@ -1,0 +1,43 @@
+{
+  "name": {
+    "common": "French Polynesia",
+    "official": "French Polynesia"
+  },
+  "iso2": "PF",
+  "iso3": "PYF",
+  "numericCode": "258",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".pf",
+  "phoneCode": "689",
+  "capital": "Papeete",
+  "currencies": {
+    "XPF": "CFP franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Gambier",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "GAMT",
+      "tzName": "Gambier Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Marquesas",
+      "gmtOffset": -34200,
+      "gmtOffsetName": "UTC-09:30",
+      "abbreviation": "MART",
+      "tzName": "Marquesas Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Tahiti",
+      "gmtOffset": -36000,
+      "gmtOffsetName": "UTC-10:00",
+      "abbreviation": "TAHT",
+      "tzName": "Tahiti Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pf.svg",
+  "states": []
+}

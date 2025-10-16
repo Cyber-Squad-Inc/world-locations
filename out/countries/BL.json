@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Saint-Barthelemy",
+    "official": "Saint-Barthelemy"
+  },
+  "iso2": "BL",
+  "iso3": "BLM",
+  "numericCode": "652",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".bl",
+  "phoneCode": "590",
+  "capital": "Gustavia",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/St_Barthelemy",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bl.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bl.svg",
+  "states": []
+}

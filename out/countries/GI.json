@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Gibraltar",
+    "official": "Gibraltar"
+  },
+  "iso2": "GI",
+  "iso3": "GIB",
+  "numericCode": "292",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".gi",
+  "phoneCode": "350",
+  "capital": "Gibraltar",
+  "currencies": {
+    "GIP": "Gibraltar pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Gibraltar",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gi.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gi.svg",
+  "states": []
+}

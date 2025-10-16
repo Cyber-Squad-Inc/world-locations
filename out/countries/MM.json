@@ -1,0 +1,964 @@
+{
+  "name": {
+    "common": "Myanmar",
+    "official": "Myanmar"
+  },
+  "iso2": "MM",
+  "iso3": "MMR",
+  "numericCode": "104",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "tld": ".mm",
+  "phoneCode": "95",
+  "capital": "Nay Pyi Taw",
+  "currencies": {
+    "MMK": "Burmese kyat"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Yangon",
+      "gmtOffset": 23400,
+      "gmtOffsetName": "UTC+06:30",
+      "abbreviation": "MMT",
+      "tzName": "Myanmar Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mm.svg",
+  "states": [
+    {
+      "id": 2142,
+      "name": "Ayeyarwady",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 67633,
+          "name": "Bogale",
+          "latlng": [
+            16.29415,
+            95.39742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67639,
+          "name": "Hinthada",
+          "latlng": [
+            17.64944,
+            95.45705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67646,
+          "name": "Kyaiklat",
+          "latlng": [
+            16.44502,
+            95.72373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67656,
+          "name": "Maubin",
+          "latlng": [
+            16.73148,
+            95.65441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67659,
+          "name": "Mawlamyinegyunn",
+          "latlng": [
+            16.3772,
+            95.26488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67666,
+          "name": "Myanaung",
+          "latlng": [
+            18.28651,
+            95.32014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67673,
+          "name": "Nyaungdon",
+          "latlng": [
+            17.04459,
+            95.63957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67677,
+          "name": "Pathein",
+          "latlng": [
+            16.77919,
+            94.73212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67680,
+          "name": "Pyapon",
+          "latlng": [
+            16.28543,
+            95.67882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67701,
+          "name": "Wakema",
+          "latlng": [
+            16.60333,
+            95.18278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2141,
+      "name": "Bago",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 67631,
+          "name": "Bago",
+          "latlng": [
+            17.33521,
+            96.48135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67651,
+          "name": "Letpandan",
+          "latlng": [
+            17.78664,
+            95.75076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67674,
+          "name": "Nyaunglebin",
+          "latlng": [
+            17.95363,
+            96.72247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67678,
+          "name": "Paungde",
+          "latlng": [
+            18.49167,
+            95.50591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67681,
+          "name": "Pyay",
+          "latlng": [
+            18.82464,
+            95.22216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67684,
+          "name": "Pyu",
+          "latlng": [
+            18.4813,
+            96.43742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67694,
+          "name": "Taungoo",
+          "latlng": [
+            18.94291,
+            96.43408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67695,
+          "name": "Thanatpin",
+          "latlng": [
+            17.29136,
+            96.57523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67696,
+          "name": "Tharyarwady",
+          "latlng": [
+            17.65399,
+            95.78813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2137,
+      "name": "Chin",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 67637,
+          "name": "Falam",
+          "latlng": [
+            22.91335,
+            93.67779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67638,
+          "name": "Hakha",
+          "latlng": [
+            22.64452,
+            93.61076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2143,
+      "name": "Kachin",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 67632,
+          "name": "Bhamo",
+          "latlng": [
+            24.25256,
+            97.23357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67671,
+          "name": "Myitkyina",
+          "latlng": [
+            25.38327,
+            97.39637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2144,
+      "name": "Kayah",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 67652,
+          "name": "Loikaw",
+          "latlng": [
+            19.67798,
+            97.20975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2133,
+      "name": "Kayin",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 67636,
+          "name": "Dellok",
+          "latlng": [
+            16.04072,
+            97.91773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67640,
+          "name": "Hpa-An",
+          "latlng": [
+            16.88953,
+            97.63482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67644,
+          "name": "Klonhtoug",
+          "latlng": [
+            15.95411,
+            98.4325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67648,
+          "name": "Kyain Seikgyi Township",
+          "latlng": [
+            15.82288,
+            98.25257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67661,
+          "name": "Mikenaungea",
+          "latlng": [
+            15.95846,
+            98.42721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67667,
+          "name": "Myawadi",
+          "latlng": [
+            16.68911,
+            98.50893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67679,
+          "name": "Pulei",
+          "latlng": [
+            16.06243,
+            97.8828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67690,
+          "name": "Tagondaing",
+          "latlng": [
+            16.0675,
+            97.90694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67691,
+          "name": "Tamoowoug",
+          "latlng": [
+            16.03447,
+            97.91458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2136,
+      "name": "Magway",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 67634,
+          "name": "Chauk",
+          "latlng": [
+            20.89921,
+            94.81784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67653,
+          "name": "Magway",
+          "latlng": [
+            20.14956,
+            94.93246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67662,
+          "name": "Minbu",
+          "latlng": [
+            20.18059,
+            94.87595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67668,
+          "name": "Myaydo",
+          "latlng": [
+            19.36838,
+            95.21512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67676,
+          "name": "Pakokku",
+          "latlng": [
+            21.33489,
+            95.08438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67692,
+          "name": "Taungdwingyi",
+          "latlng": [
+            20.0065,
+            95.54531
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67698,
+          "name": "Thayetmyo",
+          "latlng": [
+            19.32076,
+            95.18272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67704,
+          "name": "Yenangyaung",
+          "latlng": [
+            20.46504,
+            94.8712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2134,
+      "name": "Mandalay",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 67649,
+          "name": "Kyaukse",
+          "latlng": [
+            21.6056,
+            96.13508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67654,
+          "name": "Mandalay",
+          "latlng": [
+            21.97473,
+            96.08359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67660,
+          "name": "Meiktila",
+          "latlng": [
+            20.87776,
+            95.85844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67663,
+          "name": "Mogok",
+          "latlng": [
+            22.91766,
+            96.50982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67670,
+          "name": "Myingyan",
+          "latlng": [
+            21.46002,
+            95.3884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67675,
+          "name": "Nyaungshwe",
+          "latlng": [
+            20.66084,
+            96.93405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67682,
+          "name": "Pyin Oo Lwin",
+          "latlng": [
+            22.03501,
+            96.45683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67702,
+          "name": "Yamethin",
+          "latlng": [
+            20.43189,
+            96.13875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2147,
+      "name": "Mon State",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 67645,
+          "name": "Kyaikkami",
+          "latlng": [
+            16.07686,
+            97.56388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67647,
+          "name": "Kyaikto",
+          "latlng": [
+            17.30858,
+            97.01124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67655,
+          "name": "Martaban",
+          "latlng": [
+            16.52834,
+            97.6157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67658,
+          "name": "Mawlamyine",
+          "latlng": [
+            16.49051,
+            97.62825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67665,
+          "name": "Mudon",
+          "latlng": [
+            16.25624,
+            97.7246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67697,
+          "name": "Thaton",
+          "latlng": [
+            16.91867,
+            97.37001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2146,
+      "name": "Naypyidaw",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 67672,
+          "name": "Nay Pyi Taw",
+          "latlng": [
+            19.745,
+            96.12972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67683,
+          "name": "Pyinmana",
+          "latlng": [
+            19.7381,
+            96.20742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2138,
+      "name": "Rakhine",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 67687,
+          "name": "Sittwe",
+          "latlng": [
+            20.14624,
+            92.89835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2145,
+      "name": "Sagaing",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 67657,
+          "name": "Mawlaik",
+          "latlng": [
+            23.64254,
+            94.40478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67664,
+          "name": "Monywa",
+          "latlng": [
+            22.10856,
+            95.13583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67685,
+          "name": "Sagaing",
+          "latlng": [
+            21.8787,
+            95.97965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67686,
+          "name": "Shwebo",
+          "latlng": [
+            22.56925,
+            95.69818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2139,
+      "name": "Shan",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 67650,
+          "name": "Lashio",
+          "latlng": [
+            22.9359,
+            97.7498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67689,
+          "name": "Tachilek",
+          "latlng": [
+            20.4475,
+            99.88083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67693,
+          "name": "Taunggyi",
+          "latlng": [
+            20.78919,
+            97.03776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2140,
+      "name": "Tanintharyi",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 67635,
+          "name": "Dawei",
+          "latlng": [
+            14.0823,
+            98.19151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67642,
+          "name": "Kawthoung",
+          "latlng": [
+            9.98238,
+            98.55034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67669,
+          "name": "Myeik",
+          "latlng": [
+            12.43954,
+            98.60028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2135,
+      "name": "Yangon",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 67641,
+          "name": "Kanbe",
+          "latlng": [
+            16.70728,
+            96.00168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67643,
+          "name": "Kayan",
+          "latlng": [
+            16.90802,
+            96.56037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67688,
+          "name": "Syriam",
+          "latlng": [
+            16.76887,
+            96.24503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67699,
+          "name": "Thongwa",
+          "latlng": [
+            16.75998,
+            96.52498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67700,
+          "name": "Twante",
+          "latlng": [
+            16.71047,
+            95.92866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67703,
+          "name": "Yangon",
+          "latlng": [
+            16.80528,
+            96.15611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

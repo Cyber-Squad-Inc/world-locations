@@ -1,0 +1,1889 @@
+{
+  "name": {
+    "common": "Sri Lanka",
+    "official": "Sri Lanka"
+  },
+  "iso2": "LK",
+  "iso3": "LKA",
+  "numericCode": "144",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".lk",
+  "phoneCode": "94",
+  "capital": "Colombo",
+  "currencies": {
+    "LKR": "Sri Lankan rupee"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Colombo",
+      "gmtOffset": 19800,
+      "gmtOffsetName": "UTC+05:30",
+      "abbreviation": "IST",
+      "tzName": "Indian Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/lk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/lk.svg",
+  "states": [
+    {
+      "id": 2799,
+      "name": "Ampara",
+      "code": "52",
+      "shortName": "52",
+      "cities": []
+    },
+    {
+      "id": 2816,
+      "name": "Anuradhapura",
+      "code": "71",
+      "shortName": "71",
+      "cities": []
+    },
+    {
+      "id": 2790,
+      "name": "Badulla",
+      "code": "81",
+      "shortName": "81",
+      "cities": []
+    },
+    {
+      "id": 2818,
+      "name": "Batticaloa",
+      "code": "51",
+      "shortName": "51",
+      "cities": []
+    },
+    {
+      "id": 2798,
+      "name": "Central",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 66463,
+          "name": "Dambulla",
+          "latlng": [
+            7.86,
+            80.65167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66476,
+          "name": "Hatton",
+          "latlng": [
+            6.8916,
+            80.5955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66489,
+          "name": "Kandy",
+          "latlng": [
+            7.2906,
+            80.6336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66490,
+          "name": "Kandy District",
+          "latlng": [
+            7.3044,
+            80.7073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66505,
+          "name": "Matale",
+          "latlng": [
+            7.4698,
+            80.6217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66506,
+          "name": "Matale District",
+          "latlng": [
+            7.6598,
+            80.7073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66517,
+          "name": "Nuwara Eliya",
+          "latlng": [
+            6.97078,
+            80.78286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66518,
+          "name": "Nuwara Eliya District",
+          "latlng": [
+            6.9785,
+            80.7133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66529,
+          "name": "Sigiriya",
+          "latlng": [
+            7.94946,
+            80.75037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66531,
+          "name": "Talawakele",
+          "latlng": [
+            6.9371,
+            80.6581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2815,
+      "name": "Colombo",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 66464,
+          "name": "Dehiwala-Mount Lavinia",
+          "latlng": [
+            6.84019,
+            79.87116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66479,
+          "name": "Homagama",
+          "latlng": [
+            6.84879896,
+            80.004673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146181,
+          "name": "Kaduwela",
+          "latlng": [
+            6.9310626,
+            79.9794422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146180,
+          "name": "Kesbewa",
+          "latlng": [
+            6.78425894,
+            79.94665276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66499,
+          "name": "Kolonnawa",
+          "latlng": [
+            6.92893463,
+            79.89495168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146176,
+          "name": "Kotte",
+          "latlng": [
+            6.88932048,
+            79.90359501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66504,
+          "name": "Maharagama",
+          "latlng": [
+            6.84954886,
+            79.92507313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66514,
+          "name": "Moratuwa",
+          "latlng": [
+            6.78149272,
+            79.88347117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146179,
+          "name": "Padukka",
+          "latlng": [
+            6.8479468,
+            80.10153292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146178,
+          "name": "Ratmalana",
+          "latlng": [
+            6.82105987,
+            79.88023083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146177,
+          "name": "Seethawaka",
+          "latlng": [
+            6.92959912,
+            80.14979867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146175,
+          "name": "Thimbirigasyaya",
+          "latlng": [
+            6.90214217,
+            79.86957578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2808,
+      "name": "Eastern",
+      "code": "5",
+      "shortName": "5",
+      "cities": [
+        {
+          "id": 66449,
+          "name": "Ampara",
+          "latlng": [
+            7.29754,
+            81.68202
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66450,
+          "name": "Ampara District",
+          "latlng": [
+            7.0833,
+            81.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66456,
+          "name": "Batticaloa",
+          "latlng": [
+            7.7102,
+            81.6924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66457,
+          "name": "Batticaloa District",
+          "latlng": [
+            7.75,
+            81.4997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66467,
+          "name": "Eravur Town",
+          "latlng": [
+            7.7782,
+            81.6038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66486,
+          "name": "Kalmunai",
+          "latlng": [
+            7.40902,
+            81.83472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66534,
+          "name": "Trincomalee",
+          "latlng": [
+            8.5778,
+            81.2289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66535,
+          "name": "Trincomalee District",
+          "latlng": [
+            8.58333,
+            81.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66537,
+          "name": "Vakarai",
+          "latlng": [
+            8.13333,
+            81.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2792,
+      "name": "Galle",
+      "code": "31",
+      "shortName": "31",
+      "cities": []
+    },
+    {
+      "id": 2804,
+      "name": "Gampaha",
+      "code": "12",
+      "shortName": "12",
+      "cities": []
+    },
+    {
+      "id": 2791,
+      "name": "Hambantota",
+      "code": "33",
+      "shortName": "33",
+      "cities": []
+    },
+    {
+      "id": 2787,
+      "name": "Jaffna",
+      "code": "41",
+      "shortName": "41",
+      "cities": []
+    },
+    {
+      "id": 2789,
+      "name": "Kalutara",
+      "code": "13",
+      "shortName": "13",
+      "cities": []
+    },
+    {
+      "id": 2788,
+      "name": "Kandy",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 146174,
+          "name": "Akurana",
+          "latlng": [
+            7.365,
+            80.617222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146150,
+          "name": "Alawatugoda",
+          "latlng": [
+            7.41048962,
+            80.60918933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146149,
+          "name": "Ambatenna",
+          "latlng": [
+            7.35252855,
+            80.61378113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146148,
+          "name": "Daskara",
+          "latlng": [
+            7.20902217,
+            80.57764643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146147,
+          "name": "Daulagala",
+          "latlng": [
+            7.22882494,
+            80.57756073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146173,
+          "name": "Delthota",
+          "latlng": [
+            7.18491721,
+            80.70488697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146172,
+          "name": "Doluwa",
+          "latlng": [
+            7.18518536,
+            80.6057345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146146,
+          "name": "Galagedara",
+          "latlng": [
+            7.368333,
+            80.5275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146145,
+          "name": "Galhinna",
+          "latlng": [
+            7.416142,
+            80.568842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66472,
+          "name": "Gampola",
+          "latlng": [
+            7.1643,
+            80.5696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146171,
+          "name": "Ganga Ihala Korale",
+          "latlng": [
+            7.11455516,
+            80.5144881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146144,
+          "name": "Hanguranketa",
+          "latlng": [
+            7.166667,
+            80.783333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146143,
+          "name": "Hapugastalawa",
+          "latlng": [
+            7.05872498,
+            80.57137014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146170,
+          "name": "Harispattuwa",
+          "latlng": [
+            7.33016007,
+            80.58765149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146169,
+          "name": "Hatharaliyadda",
+          "latlng": [
+            7.33032982,
+            80.47875881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66485,
+          "name": "Kadugannawa",
+          "latlng": [
+            7.2547,
+            80.5242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146168,
+          "name": "Kandy Four Gravets",
+          "latlng": [
+            7.28318748,
+            80.63527585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146153,
+          "name": "Katugastota",
+          "latlng": [
+            7.333333,
+            80.616667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146167,
+          "name": "Kundasale",
+          "latlng": [
+            7.30391594,
+            80.71230408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146142,
+          "name": "Madawala",
+          "latlng": [
+            7.328331,
+            80.673552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146166,
+          "name": "Medadumbara",
+          "latlng": [
+            7.30425996,
+            80.77519844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146141,
+          "name": "Menikdiwela",
+          "latlng": [
+            7.083333,
+            80.733333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146165,
+          "name": "Minipe",
+          "latlng": [
+            7.22638754,
+            81.00116732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146151,
+          "name": "Nawalapitiya",
+          "latlng": [
+            7.03696481,
+            80.51626688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146152,
+          "name": "Pallekele",
+          "latlng": [
+            7.283333,
+            80.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146164,
+          "name": "Panvila",
+          "latlng": [
+            7.4092975,
+            80.73966228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146163,
+          "name": "Pasbage Korale",
+          "latlng": [
+            7.0151045,
+            80.54078073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146162,
+          "name": "Pathadumbara",
+          "latlng": [
+            7.34931196,
+            80.66303689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146161,
+          "name": "Pathahewaheta",
+          "latlng": [
+            7.23139207,
+            80.70848937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146154,
+          "name": "Peradeniya",
+          "latlng": [
+            7.266667,
+            80.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146140,
+          "name": "Pilimathalawa",
+          "latlng": [
+            7.27,
+            80.57
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146160,
+          "name": "Poojapitiya",
+          "latlng": [
+            7.38093796,
+            80.58913708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146139,
+          "name": "Pussellawa",
+          "latlng": [
+            7.105333,
+            80.636667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146138,
+          "name": "Talatuoya",
+          "latlng": [
+            7.25,
+            80.683333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146137,
+          "name": "Teldeniya",
+          "latlng": [
+            7.3,
+            80.766667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146159,
+          "name": "Thumpane",
+          "latlng": [
+            7.36616728,
+            80.51587048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146133,
+          "name": "Udadumbara",
+          "latlng": [
+            7.35,
+            80.833333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146158,
+          "name": "Udapalatha",
+          "latlng": [
+            7.11515526,
+            80.6024834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146157,
+          "name": "Ududumbara",
+          "latlng": [
+            7.31434839,
+            80.87707756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146156,
+          "name": "Udunuwara",
+          "latlng": [
+            7.22777866,
+            80.55894578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146136,
+          "name": "Ulapane",
+          "latlng": [
+            7.102778,
+            80.561111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146135,
+          "name": "Watadeniya",
+          "latlng": [
+            7.195011,
+            80.552494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66542,
+          "name": "Wattegama",
+          "latlng": [
+            7.350278,
+            80.6825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146134,
+          "name": "Welamboda",
+          "latlng": [
+            7.2,
+            80.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146155,
+          "name": "Yatinuwara",
+          "latlng": [
+            7.28584509,
+            80.53516168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2797,
+      "name": "Kegalle",
+      "code": "92",
+      "shortName": "92",
+      "cities": []
+    },
+    {
+      "id": 2793,
+      "name": "Kilinochchi",
+      "code": "42",
+      "shortName": "42",
+      "cities": []
+    },
+    {
+      "id": 2805,
+      "name": "Mannar",
+      "code": "43",
+      "shortName": "43",
+      "cities": []
+    },
+    {
+      "id": 2810,
+      "name": "Matale",
+      "code": "22",
+      "shortName": "22",
+      "cities": []
+    },
+    {
+      "id": 2806,
+      "name": "Matara",
+      "code": "32",
+      "shortName": "32",
+      "cities": []
+    },
+    {
+      "id": 2819,
+      "name": "Monaragala",
+      "code": "82",
+      "shortName": "82",
+      "cities": []
+    },
+    {
+      "id": 2814,
+      "name": "Mullaitivu",
+      "code": "45",
+      "shortName": "45",
+      "cities": []
+    },
+    {
+      "id": 2800,
+      "name": "North Central",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 66451,
+          "name": "Anuradhapura",
+          "latlng": [
+            8.31223,
+            80.41306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66452,
+          "name": "Anuradhapura District",
+          "latlng": [
+            8.33333,
+            80.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66509,
+          "name": "Mihintale",
+          "latlng": [
+            8.3593,
+            80.5103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66523,
+          "name": "Polonnaruwa",
+          "latlng": [
+            7.93965,
+            81.00274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66524,
+          "name": "Polonnaruwa District",
+          "latlng": [
+            8,
+            81
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2817,
+      "name": "North Western",
+      "code": "6",
+      "shortName": "6",
+      "cities": [
+        {
+          "id": 66460,
+          "name": "Chilaw",
+          "latlng": [
+            7.57583,
+            79.79528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66501,
+          "name": "Kuliyapitiya",
+          "latlng": [
+            7.4688,
+            80.0401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66502,
+          "name": "Kurunegala",
+          "latlng": [
+            7.4839,
+            80.3683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66503,
+          "name": "Kurunegala District",
+          "latlng": [
+            7.75,
+            80.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66525,
+          "name": "Puttalam",
+          "latlng": [
+            8.0362,
+            79.8283
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66526,
+          "name": "Puttalam District",
+          "latlng": [
+            8.0454,
+            79.9319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2813,
+      "name": "Northern",
+      "code": "4",
+      "shortName": "4",
+      "cities": [
+        {
+          "id": 66483,
+          "name": "Jaffna",
+          "latlng": [
+            9.66845,
+            80.00742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66484,
+          "name": "Jaffna District",
+          "latlng": [
+            9.75,
+            80.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66496,
+          "name": "Kilinochchi",
+          "latlng": [
+            9.3961,
+            80.3982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66497,
+          "name": "Kilinochchi District",
+          "latlng": [
+            9.39487,
+            80.40894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66522,
+          "name": "Point Pedro",
+          "latlng": [
+            9.81667,
+            80.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66538,
+          "name": "Valvedditturai",
+          "latlng": [
+            9.81667,
+            80.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66539,
+          "name": "Vavuniya",
+          "latlng": [
+            8.7514,
+            80.4971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66540,
+          "name": "Vavuniya District",
+          "latlng": [
+            8.86134,
+            80.47576
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2794,
+      "name": "Nuwara Eliya",
+      "code": "23",
+      "shortName": "23",
+      "cities": []
+    },
+    {
+      "id": 2812,
+      "name": "Polonnaruwa",
+      "code": "72",
+      "shortName": "72",
+      "cities": []
+    },
+    {
+      "id": 2796,
+      "name": "Puttalam",
+      "code": "62",
+      "shortName": "62",
+      "cities": []
+    },
+    {
+      "id": 2807,
+      "name": "Ratnapura",
+      "code": "91",
+      "shortName": "91",
+      "cities": []
+    },
+    {
+      "id": 2803,
+      "name": "Sabaragamuwa",
+      "code": "9",
+      "shortName": "9",
+      "cities": [
+        {
+          "id": 66493,
+          "name": "Kegalle",
+          "latlng": [
+            7.2523,
+            80.3436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66494,
+          "name": "Kegalle District",
+          "latlng": [
+            7.1167,
+            80.3333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66527,
+          "name": "Ratnapura",
+          "latlng": [
+            6.6858,
+            80.4036
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66528,
+          "name": "Ratnapura District",
+          "latlng": [
+            6.5831,
+            80.5833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2801,
+      "name": "Southern",
+      "code": "3",
+      "shortName": "3",
+      "cities": [
+        {
+          "id": 66448,
+          "name": "Ambalangoda",
+          "latlng": [
+            6.2355,
+            80.0538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66458,
+          "name": "Bentota",
+          "latlng": [
+            6.42598,
+            79.99575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66465,
+          "name": "Devinuwara",
+          "latlng": [
+            5.92825,
+            80.5888
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66468,
+          "name": "Galle",
+          "latlng": [
+            6.0461,
+            80.2103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66469,
+          "name": "Galle District",
+          "latlng": [
+            6.25,
+            80.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66473,
+          "name": "Hambantota District",
+          "latlng": [
+            6.2544,
+            81.1111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66478,
+          "name": "Hikkaduwa",
+          "latlng": [
+            6.1407,
+            80.1012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66498,
+          "name": "Koggala",
+          "latlng": [
+            5.9886,
+            80.3286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66507,
+          "name": "Matara",
+          "latlng": [
+            5.94851,
+            80.53528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66508,
+          "name": "Matara District",
+          "latlng": [
+            6.1329,
+            80.528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66511,
+          "name": "Mirissa city",
+          "latlng": [
+            5.94655,
+            80.45831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66532,
+          "name": "Talpe",
+          "latlng": [
+            5.9999,
+            80.2787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66533,
+          "name": "Tangalle",
+          "latlng": [
+            6.02338,
+            80.79738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66536,
+          "name": "Unawatuna",
+          "latlng": [
+            6.0212,
+            80.2503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66543,
+          "name": "Weligama",
+          "latlng": [
+            5.97501,
+            80.42968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2795,
+      "name": "Trincomalee",
+      "code": "53",
+      "shortName": "53",
+      "cities": []
+    },
+    {
+      "id": 2811,
+      "name": "Uva",
+      "code": "8",
+      "shortName": "8",
+      "cities": [
+        {
+          "id": 66453,
+          "name": "Badulla",
+          "latlng": [
+            6.9802,
+            81.0577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66454,
+          "name": "Badulla District",
+          "latlng": [
+            6.98472,
+            81.05639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66466,
+          "name": "Ella Town",
+          "latlng": [
+            6.8756,
+            81.0463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66475,
+          "name": "Haputale",
+          "latlng": [
+            6.76566,
+            80.95104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66491,
+          "name": "Kataragama",
+          "latlng": [
+            6.4134,
+            81.3346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66512,
+          "name": "Monaragala",
+          "latlng": [
+            6.8714,
+            81.3487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66513,
+          "name": "Moneragala District",
+          "latlng": [
+            6.66667,
+            81.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66545,
+          "name": "Wellawaya",
+          "latlng": [
+            6.73694,
+            81.10279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2809,
+      "name": "Vavuniya",
+      "code": "44",
+      "shortName": "44",
+      "cities": []
+    },
+    {
+      "id": 2802,
+      "name": "Western",
+      "code": "1",
+      "shortName": "1",
+      "cities": [
+        {
+          "id": 66455,
+          "name": "Battaramulla South",
+          "latlng": [
+            6.8964,
+            79.9181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66459,
+          "name": "Beruwala",
+          "latlng": [
+            6.4788,
+            79.9828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66461,
+          "name": "Colombo",
+          "latlng": [
+            6.93548,
+            79.84868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66462,
+          "name": "Colombo District",
+          "latlng": [
+            6.8664,
+            80.0166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66470,
+          "name": "Gampaha",
+          "latlng": [
+            7.0897,
+            79.9925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66471,
+          "name": "Gampaha District",
+          "latlng": [
+            7.1333,
+            80
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66474,
+          "name": "Hanwella Ihala",
+          "latlng": [
+            6.9012,
+            80.0852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66477,
+          "name": "Hendala",
+          "latlng": [
+            6.9909,
+            79.883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66480,
+          "name": "Horana South",
+          "latlng": [
+            6.7159,
+            80.0626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66481,
+          "name": "Horawala Junction",
+          "latlng": [
+            6.48088,
+            80.12708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66482,
+          "name": "Ja Ela",
+          "latlng": [
+            7.0744,
+            79.8919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66487,
+          "name": "Kalutara",
+          "latlng": [
+            6.5831,
+            79.9593
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66488,
+          "name": "Kandana",
+          "latlng": [
+            7.048,
+            79.8937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66492,
+          "name": "Katunayaka",
+          "latlng": [
+            7.16992,
+            79.88837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66495,
+          "name": "Kelaniya",
+          "latlng": [
+            6.9553,
+            79.922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66500,
+          "name": "Kotikawatta",
+          "latlng": [
+            6.9269,
+            79.9095
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66510,
+          "name": "Minuwangoda",
+          "latlng": [
+            7.1663,
+            79.9533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66515,
+          "name": "Mulleriyawa",
+          "latlng": [
+            6.933,
+            79.9297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66516,
+          "name": "Negombo",
+          "latlng": [
+            7.2083,
+            79.8358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66519,
+          "name": "Panadura",
+          "latlng": [
+            6.7132,
+            79.9026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66520,
+          "name": "Peliyagoda",
+          "latlng": [
+            6.9685,
+            79.8836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66521,
+          "name": "Pita Kotte",
+          "latlng": [
+            6.8905,
+            79.9015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66530,
+          "name": "Sri Jayewardenepura Kotte",
+          "latlng": [
+            6.88297,
+            79.90708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66541,
+          "name": "Wattala",
+          "latlng": [
+            6.98918,
+            79.89167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66544,
+          "name": "Welisara",
+          "latlng": [
+            7.0281,
+            79.9014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

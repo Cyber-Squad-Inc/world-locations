@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Curaçao",
+    "official": "Curaçao"
+  },
+  "iso2": "CW",
+  "iso3": "CUW",
+  "numericCode": "531",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".cw",
+  "phoneCode": "599",
+  "capital": "Willemstad",
+  "currencies": {
+    "ANG": "Netherlands Antillean guilder"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Curacao",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cw.svg",
+  "states": []
+}

@@ -1,0 +1,128 @@
+{
+  "name": {
+    "common": "Anguilla",
+    "official": "Anguilla"
+  },
+  "iso2": "AI",
+  "iso3": "AIA",
+  "numericCode": "660",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".ai",
+  "phoneCode": "1",
+  "capital": "The Valley",
+  "currencies": {
+    "XCD": "Eastern Caribbean dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Anguilla",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ai.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ai.svg",
+  "states": [
+    {
+      "id": 5273,
+      "name": "Blowing Point",
+      "code": null,
+      "shortName": "Blowing Point",
+      "cities": []
+    },
+    {
+      "id": 5274,
+      "name": "East End",
+      "code": null,
+      "shortName": "East End",
+      "cities": []
+    },
+    {
+      "id": 5275,
+      "name": "George Hill",
+      "code": null,
+      "shortName": "George Hill",
+      "cities": []
+    },
+    {
+      "id": 5276,
+      "name": "Island Harbour",
+      "code": null,
+      "shortName": "Island Harbour",
+      "cities": []
+    },
+    {
+      "id": 5277,
+      "name": "North Hill",
+      "code": null,
+      "shortName": "North Hill",
+      "cities": []
+    },
+    {
+      "id": 5278,
+      "name": "North Side",
+      "code": null,
+      "shortName": "North Side",
+      "cities": []
+    },
+    {
+      "id": 5279,
+      "name": "Sandy Ground",
+      "code": null,
+      "shortName": "Sandy Ground",
+      "cities": []
+    },
+    {
+      "id": 5280,
+      "name": "Sandy Hill",
+      "code": null,
+      "shortName": "Sandy Hill",
+      "cities": []
+    },
+    {
+      "id": 5281,
+      "name": "South Hill",
+      "code": null,
+      "shortName": "South Hill",
+      "cities": []
+    },
+    {
+      "id": 5282,
+      "name": "Stoney Ground",
+      "code": null,
+      "shortName": "Stoney Ground",
+      "cities": []
+    },
+    {
+      "id": 5283,
+      "name": "The Farrington",
+      "code": null,
+      "shortName": "The Farrington",
+      "cities": []
+    },
+    {
+      "id": 5284,
+      "name": "The Quarter",
+      "code": null,
+      "shortName": "The Quarter",
+      "cities": []
+    },
+    {
+      "id": 5285,
+      "name": "The Valley",
+      "code": null,
+      "shortName": "The Valley",
+      "cities": []
+    },
+    {
+      "id": 5286,
+      "name": "West End",
+      "code": null,
+      "shortName": "West End",
+      "cities": []
+    }
+  ]
+}

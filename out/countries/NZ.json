@@ -1,0 +1,1922 @@
+{
+  "name": {
+    "common": "New Zealand",
+    "official": "New Zealand"
+  },
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "numericCode": "554",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "tld": ".nz",
+  "phoneCode": "64",
+  "capital": "Wellington",
+  "currencies": {
+    "NZD": "New Zealand dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Auckland",
+      "gmtOffset": 46800,
+      "gmtOffsetName": "UTC+13:00",
+      "abbreviation": "NZDT",
+      "tzName": "New Zealand Daylight Time"
+    },
+    {
+      "zoneName": "Pacific/Chatham",
+      "gmtOffset": 49500,
+      "gmtOffsetName": "UTC+13:45",
+      "abbreviation": "CHAST",
+      "tzName": "Chatham Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/nz.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/nz.svg",
+  "states": [
+    {
+      "id": 4072,
+      "name": "Auckland",
+      "code": "AUK",
+      "shortName": "AUK",
+      "cities": [
+        {
+          "id": 79773,
+          "name": "Auckland",
+          "latlng": [
+            -36.84853,
+            174.76349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79823,
+          "name": "Mangere",
+          "latlng": [
+            -36.96807,
+            174.79875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79824,
+          "name": "Manukau City",
+          "latlng": [
+            -36.99282,
+            174.87986
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79833,
+          "name": "Muriwai Beach",
+          "latlng": [
+            -36.81667,
+            174.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79834,
+          "name": "Murrays Bay",
+          "latlng": [
+            -36.72819,
+            174.75019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79843,
+          "name": "North Shore",
+          "latlng": [
+            -36.8,
+            174.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79852,
+          "name": "Pakuranga",
+          "latlng": [
+            -36.88333,
+            174.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79854,
+          "name": "Papakura",
+          "latlng": [
+            -37.06573,
+            174.94393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79856,
+          "name": "Parakai",
+          "latlng": [
+            -36.65,
+            174.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79865,
+          "name": "Pukekohe East",
+          "latlng": [
+            -37.2,
+            174.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79869,
+          "name": "Red Hill",
+          "latlng": [
+            -37.0582,
+            174.97019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79873,
+          "name": "Rosebank",
+          "latlng": [
+            -36.87495,
+            174.66991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79874,
+          "name": "Rothesay Bay",
+          "latlng": [
+            -36.72602,
+            174.74064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79885,
+          "name": "Takanini",
+          "latlng": [
+            -37.0482,
+            174.90019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79886,
+          "name": "Tamaki",
+          "latlng": [
+            -36.8882,
+            174.86019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79896,
+          "name": "Titirangi",
+          "latlng": [
+            -36.93754,
+            174.65584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79907,
+          "name": "Waitakere",
+          "latlng": [
+            -36.91754,
+            174.65773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79910,
+          "name": "Waiuku",
+          "latlng": [
+            -37.24806,
+            174.73489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79914,
+          "name": "Warkworth",
+          "latlng": [
+            -36.4,
+            174.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79917,
+          "name": "Wellsford",
+          "latlng": [
+            -36.28333,
+            174.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79924,
+          "name": "Wiri",
+          "latlng": [
+            -36.9982,
+            174.86019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4074,
+      "name": "Bay of Plenty",
+      "code": "BOP",
+      "shortName": "BOP",
+      "cities": [
+        {
+          "id": 79791,
+          "name": "Edgecumbe",
+          "latlng": [
+            -37.98333,
+            176.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79809,
+          "name": "Katikati",
+          "latlng": [
+            -37.55,
+            175.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79811,
+          "name": "Kawerau",
+          "latlng": [
+            -38.1,
+            176.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79821,
+          "name": "Maketu",
+          "latlng": [
+            -37.76667,
+            176.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79835,
+          "name": "Murupara",
+          "latlng": [
+            -38.46667,
+            176.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79845,
+          "name": "Opotiki",
+          "latlng": [
+            -38.00915,
+            177.28706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79875,
+          "name": "Rotorua",
+          "latlng": [
+            -38.13874,
+            176.24516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79889,
+          "name": "Tauranga",
+          "latlng": [
+            -37.68611,
+            176.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79901,
+          "name": "Waihi Beach",
+          "latlng": [
+            -37.4,
+            175.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79919,
+          "name": "Whakatane",
+          "latlng": [
+            -37.95855,
+            176.98545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4066,
+      "name": "Canterbury",
+      "code": "CAN",
+      "shortName": "CAN",
+      "cities": [
+        {
+          "id": 79769,
+          "name": "Amberley",
+          "latlng": [
+            -43.15589,
+            172.72975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79771,
+          "name": "Ashburton",
+          "latlng": [
+            -43.89834,
+            171.73011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79772,
+          "name": "Ashburton District",
+          "latlng": [
+            -43.9,
+            171.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79780,
+          "name": "Burnham",
+          "latlng": [
+            -43.61667,
+            172.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79783,
+          "name": "Christchurch",
+          "latlng": [
+            -43.53333,
+            172.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79784,
+          "name": "Christchurch City",
+          "latlng": [
+            -43.64578,
+            172.74586
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79788,
+          "name": "Darfield",
+          "latlng": [
+            -43.48333,
+            172.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79795,
+          "name": "Geraldine",
+          "latlng": [
+            -44.09061,
+            171.24458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79805,
+          "name": "Kaiapoi",
+          "latlng": [
+            -43.37832,
+            172.64013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79816,
+          "name": "Leeston",
+          "latlng": [
+            -43.76667,
+            172.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79818,
+          "name": "Lincoln",
+          "latlng": [
+            -43.65,
+            172.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79820,
+          "name": "Mackenzie District",
+          "latlng": [
+            -43.93987,
+            170.51913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79829,
+          "name": "Methven",
+          "latlng": [
+            -43.63333,
+            171.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79849,
+          "name": "Oxford",
+          "latlng": [
+            -43.3,
+            172.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79861,
+          "name": "Pleasant Point",
+          "latlng": [
+            -44.26667,
+            171.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79864,
+          "name": "Prebbleton",
+          "latlng": [
+            -43.58333,
+            172.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79868,
+          "name": "Rakaia",
+          "latlng": [
+            -43.75,
+            172.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79872,
+          "name": "Rolleston",
+          "latlng": [
+            -43.58333,
+            172.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79877,
+          "name": "Selwyn District",
+          "latlng": [
+            -43.32226,
+            171.87064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79893,
+          "name": "Timaru",
+          "latlng": [
+            -44.39672,
+            171.25364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79894,
+          "name": "Timaru District",
+          "latlng": [
+            -44.4,
+            171.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79895,
+          "name": "Tinwald",
+          "latlng": [
+            -43.91667,
+            171.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79902,
+          "name": "Waimakariri District",
+          "latlng": [
+            -43.2075,
+            172.33286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79925,
+          "name": "Woodend",
+          "latlng": [
+            -43.31667,
+            172.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4067,
+      "name": "Chatham Islands",
+      "code": "CIT",
+      "shortName": "CIT",
+      "cities": [
+        {
+          "id": 79908,
+          "name": "Waitangi",
+          "latlng": [
+            -43.95353,
+            -176.55973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4068,
+      "name": "Gisborne",
+      "code": "GIS",
+      "shortName": "GIS",
+      "cities": [
+        {
+          "id": 79796,
+          "name": "Gisborne",
+          "latlng": [
+            -38.65333,
+            178.00417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4075,
+      "name": "Hawke's Bay",
+      "code": "HKB",
+      "shortName": "HKB",
+      "cities": [
+        {
+          "id": 79800,
+          "name": "Hastings",
+          "latlng": [
+            -39.6381,
+            176.84918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79836,
+          "name": "Napier",
+          "latlng": [
+            -39.4926,
+            176.91233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79887,
+          "name": "Taradale",
+          "latlng": [
+            -39.53333,
+            176.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79906,
+          "name": "Wairoa",
+          "latlng": [
+            -39.03333,
+            177.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4060,
+      "name": "Manawatu-Wanganui",
+      "code": "MWT",
+      "shortName": "MWT",
+      "cities": [
+        {
+          "id": 79779,
+          "name": "Bulls",
+          "latlng": [
+            -40.17487,
+            175.38463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79794,
+          "name": "Foxton",
+          "latlng": [
+            -40.46667,
+            175.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79803,
+          "name": "Horowhenua District",
+          "latlng": [
+            -40.57733,
+            175.38071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79817,
+          "name": "Levin",
+          "latlng": [
+            -40.63333,
+            175.275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79822,
+          "name": "Manawatu District",
+          "latlng": [
+            -40.11979,
+            175.67426
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79853,
+          "name": "Palmerston North",
+          "latlng": [
+            -40.35636,
+            175.61113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79904,
+          "name": "Waiouru",
+          "latlng": [
+            -39.47753,
+            175.66834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79913,
+          "name": "Wanganui",
+          "latlng": [
+            -39.93333,
+            175.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4063,
+      "name": "Marlborough",
+      "code": "MBH",
+      "shortName": "MBH",
+      "cities": [
+        {
+          "id": 79775,
+          "name": "Blenheim",
+          "latlng": [
+            -41.51603,
+            173.9528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79860,
+          "name": "Picton",
+          "latlng": [
+            -41.29067,
+            174.00801
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4070,
+      "name": "Nelson",
+      "code": "NSN",
+      "shortName": "NSN",
+      "cities": [
+        {
+          "id": 79837,
+          "name": "Nelson",
+          "latlng": [
+            -41.27078,
+            173.28404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4059,
+      "name": "Northland",
+      "code": "NTL",
+      "shortName": "NTL",
+      "cities": [
+        {
+          "id": 79768,
+          "name": "Ahipara",
+          "latlng": [
+            -35.16667,
+            173.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79789,
+          "name": "Dargaville",
+          "latlng": [
+            -35.93333,
+            173.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79793,
+          "name": "Far North District",
+          "latlng": [
+            -35.03359,
+            173.48841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79806,
+          "name": "Kaipara District",
+          "latlng": [
+            -35.99546,
+            174.04688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79807,
+          "name": "Kaitaia",
+          "latlng": [
+            -35.11485,
+            173.26366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79810,
+          "name": "Kawakawa",
+          "latlng": [
+            -35.38333,
+            174.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79813,
+          "name": "Kerikeri",
+          "latlng": [
+            -35.22676,
+            173.94739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79828,
+          "name": "Maungatapere",
+          "latlng": [
+            -35.75,
+            174.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79831,
+          "name": "Moerewa",
+          "latlng": [
+            -35.38333,
+            174.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79842,
+          "name": "Ngunguru",
+          "latlng": [
+            -35.61667,
+            174.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79851,
+          "name": "Paihia",
+          "latlng": [
+            -35.28067,
+            174.09103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79876,
+          "name": "Ruakaka",
+          "latlng": [
+            -35.90818,
+            174.45019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79882,
+          "name": "Taipa",
+          "latlng": [
+            -34.99604,
+            173.46665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79903,
+          "name": "Waimate North",
+          "latlng": [
+            -35.31667,
+            173.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79921,
+          "name": "Whangarei",
+          "latlng": [
+            -35.73167,
+            174.32391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4062,
+      "name": "Otago",
+      "code": "OTA",
+      "shortName": "OTA",
+      "cities": [
+        {
+          "id": 79770,
+          "name": "Arrowtown",
+          "latlng": [
+            -44.93837,
+            168.81007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79774,
+          "name": "Balclutha",
+          "latlng": [
+            -46.23389,
+            169.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79785,
+          "name": "Clutha District",
+          "latlng": [
+            -46.03883,
+            169.60617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79787,
+          "name": "Cromwell",
+          "latlng": [
+            -45.03837,
+            169.20008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79790,
+          "name": "Dunedin",
+          "latlng": [
+            -45.87416,
+            170.50361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79815,
+          "name": "Kingston",
+          "latlng": [
+            -45.33288,
+            168.71476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79830,
+          "name": "Milton",
+          "latlng": [
+            -46.12083,
+            169.96944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79844,
+          "name": "Oamaru",
+          "latlng": [
+            -45.09758,
+            170.97087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79855,
+          "name": "Papatowai",
+          "latlng": [
+            -46.56069,
+            169.47068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79863,
+          "name": "Portobello",
+          "latlng": [
+            -45.85,
+            170.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79866,
+          "name": "Queenstown",
+          "latlng": [
+            -45.03023,
+            168.66271
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79912,
+          "name": "Wanaka",
+          "latlng": [
+            -44.7,
+            169.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4071,
+      "name": "Southland",
+      "code": "STL",
+      "shortName": "STL",
+      "cities": [
+        {
+          "id": 79776,
+          "name": "Bluff",
+          "latlng": [
+            -46.6,
+            168.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79797,
+          "name": "Gore",
+          "latlng": [
+            -46.10282,
+            168.94357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79804,
+          "name": "Invercargill",
+          "latlng": [
+            -46.4,
+            168.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79871,
+          "name": "Riverton",
+          "latlng": [
+            -46.35,
+            168.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79881,
+          "name": "Southland District",
+          "latlng": [
+            -45.77256,
+            167.85266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79890,
+          "name": "Te Anau",
+          "latlng": [
+            -45.41667,
+            167.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79923,
+          "name": "Winton",
+          "latlng": [
+            -46.15,
+            168.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4069,
+      "name": "Taranaki",
+      "code": "TKI",
+      "shortName": "TKI",
+      "cities": [
+        {
+          "id": 79792,
+          "name": "Eltham",
+          "latlng": [
+            -39.42917,
+            174.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79801,
+          "name": "Hawera",
+          "latlng": [
+            -39.59167,
+            174.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79838,
+          "name": "New Plymouth",
+          "latlng": [
+            -39.06667,
+            174.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79839,
+          "name": "New Plymouth District",
+          "latlng": [
+            -39.05865,
+            174.10309
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79846,
+          "name": "Opunake",
+          "latlng": [
+            -39.45556,
+            173.85833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79858,
+          "name": "Patea",
+          "latlng": [
+            -39.75833,
+            174.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79878,
+          "name": "South Taranaki District",
+          "latlng": [
+            -39.52156,
+            174.3716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153921,
+          "name": "Stratford",
+          "latlng": [
+            -39.3221517,
+            174.2629816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79909,
+          "name": "Waitara",
+          "latlng": [
+            -39.00158,
+            174.23836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4073,
+      "name": "Tasman",
+      "code": "TAS",
+      "shortName": "TAS",
+      "cities": [
+        {
+          "id": 79777,
+          "name": "Brightwater",
+          "latlng": [
+            -41.38333,
+            173.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79825,
+          "name": "Mapua",
+          "latlng": [
+            -41.25,
+            173.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79832,
+          "name": "Motueka",
+          "latlng": [
+            -41.13333,
+            173.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79870,
+          "name": "Richmond",
+          "latlng": [
+            -41.33333,
+            173.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79884,
+          "name": "Takaka",
+          "latlng": [
+            -40.85,
+            172.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79911,
+          "name": "Wakefield",
+          "latlng": [
+            -41.4,
+            173.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4061,
+      "name": "Waikato",
+      "code": "WKO",
+      "shortName": "WKO",
+      "cities": [
+        {
+          "id": 79781,
+          "name": "Cambridge",
+          "latlng": [
+            -37.87822,
+            175.4402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79786,
+          "name": "Coromandel",
+          "latlng": [
+            -36.7611,
+            175.49634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79799,
+          "name": "Hamilton",
+          "latlng": [
+            -37.78333,
+            175.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79827,
+          "name": "Matamata",
+          "latlng": [
+            -37.8106,
+            175.76237
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79840,
+          "name": "Ngaruawahia",
+          "latlng": [
+            -37.66738,
+            175.15554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79841,
+          "name": "Ngatea",
+          "latlng": [
+            -37.28333,
+            175.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79848,
+          "name": "Otorohanga",
+          "latlng": [
+            -38.18333,
+            175.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79850,
+          "name": "Paeroa",
+          "latlng": [
+            -37.36667,
+            175.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79867,
+          "name": "Raglan",
+          "latlng": [
+            -37.8,
+            174.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79879,
+          "name": "South Waikato District",
+          "latlng": [
+            -38.16797,
+            175.88624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79883,
+          "name": "Tairua",
+          "latlng": [
+            -37.01667,
+            175.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79888,
+          "name": "Taupo",
+          "latlng": [
+            -38.68333,
+            176.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79891,
+          "name": "Te Kauwhata",
+          "latlng": [
+            -37.4,
+            175.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79892,
+          "name": "Thames",
+          "latlng": [
+            -37.13832,
+            175.54011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79897,
+          "name": "Tokoroa",
+          "latlng": [
+            -38.23333,
+            175.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79898,
+          "name": "Turangi",
+          "latlng": [
+            -38.99037,
+            175.80837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79900,
+          "name": "Waihi",
+          "latlng": [
+            -37.38333,
+            175.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79920,
+          "name": "Whangamata",
+          "latlng": [
+            -37.2,
+            175.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79922,
+          "name": "Whitianga",
+          "latlng": [
+            -36.83333,
+            175.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4065,
+      "name": "Wellington",
+      "code": "WGN",
+      "shortName": "WGN",
+      "cities": [
+        {
+          "id": 79778,
+          "name": "Brooklyn",
+          "latlng": [
+            -41.30586,
+            174.76257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79782,
+          "name": "Castlepoint",
+          "latlng": [
+            -40.9,
+            176.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79808,
+          "name": "Kapiti Coast District",
+          "latlng": [
+            -40.85682,
+            175.1469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79812,
+          "name": "Kelburn",
+          "latlng": [
+            -41.28333,
+            174.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79814,
+          "name": "Khandallah",
+          "latlng": [
+            -41.245,
+            174.79422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79819,
+          "name": "Lower Hutt",
+          "latlng": [
+            -41.21667,
+            174.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79826,
+          "name": "Masterton",
+          "latlng": [
+            -40.95972,
+            175.6575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79847,
+          "name": "Otaki",
+          "latlng": [
+            -40.75833,
+            175.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79857,
+          "name": "Paraparaumu",
+          "latlng": [
+            -40.91667,
+            175.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79859,
+          "name": "Petone",
+          "latlng": [
+            -41.22827,
+            174.87019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79862,
+          "name": "Porirua",
+          "latlng": [
+            -41.13333,
+            174.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79880,
+          "name": "South Wairarapa District",
+          "latlng": [
+            -41.26731,
+            175.38442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79899,
+          "name": "Upper Hutt",
+          "latlng": [
+            -41.13827,
+            175.0502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79905,
+          "name": "Waipawa",
+          "latlng": [
+            -41.41222,
+            175.51528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79915,
+          "name": "Wellington",
+          "latlng": [
+            -41.28664,
+            174.77557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79916,
+          "name": "Wellington City",
+          "latlng": [
+            -41.253,
+            174.75424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4064,
+      "name": "West Coast",
+      "code": "WTC",
+      "shortName": "WTC",
+      "cities": [
+        {
+          "id": 79798,
+          "name": "Greymouth",
+          "latlng": [
+            -42.46667,
+            171.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79802,
+          "name": "Hokitika",
+          "latlng": [
+            -42.71667,
+            170.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 79918,
+          "name": "Westport",
+          "latlng": [
+            -41.75262,
+            171.6037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

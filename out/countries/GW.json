@@ -1,0 +1,269 @@
+{
+  "name": {
+    "common": "Guinea-Bissau",
+    "official": "Guinea-Bissau"
+  },
+  "iso2": "GW",
+  "iso3": "GNB",
+  "numericCode": "624",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".gw",
+  "phoneCode": "245",
+  "capital": "Bissau",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Bissau",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gw.svg",
+  "states": [
+    {
+      "id": 2720,
+      "name": "Bafatá",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 53807,
+          "name": "Bafatá",
+          "latlng": [
+            12.16583,
+            -14.66167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53815,
+          "name": "Contuboel Sector",
+          "latlng": [
+            12.555,
+            -14.641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2714,
+      "name": "Biombo",
+      "code": "BM",
+      "shortName": "BM",
+      "cities": [
+        {
+          "id": 53820,
+          "name": "Quinhámel",
+          "latlng": [
+            11.88694,
+            -15.85556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2722,
+      "name": "Bolama",
+      "code": "BL",
+      "shortName": "BL",
+      "cities": [
+        {
+          "id": 53809,
+          "name": "Bolama",
+          "latlng": [
+            11.57694,
+            -15.47611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53811,
+          "name": "Bubaque",
+          "latlng": [
+            11.28333,
+            -15.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2713,
+      "name": "Cacheu",
+      "code": "CA",
+      "shortName": "CA",
+      "cities": [
+        {
+          "id": 53812,
+          "name": "Cacheu",
+          "latlng": [
+            12.27444,
+            -16.16528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53813,
+          "name": "Canchungo",
+          "latlng": [
+            12.06722,
+            -16.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2719,
+      "name": "Gabú",
+      "code": "GA",
+      "shortName": "GA",
+      "cities": [
+        {
+          "id": 53817,
+          "name": "Gabú",
+          "latlng": [
+            12.28,
+            -14.22222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2721,
+      "name": "Leste",
+      "code": "L",
+      "shortName": "L",
+      "cities": []
+    },
+    {
+      "id": 2717,
+      "name": "Norte",
+      "code": "N",
+      "shortName": "N",
+      "cities": []
+    },
+    {
+      "id": 2718,
+      "name": "Oio",
+      "code": "OI",
+      "shortName": "OI",
+      "cities": [
+        {
+          "id": 53808,
+          "name": "Bissorã",
+          "latlng": [
+            12.22306,
+            -15.4475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53816,
+          "name": "Farim",
+          "latlng": [
+            12.48389,
+            -15.22167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53818,
+          "name": "Mansôa",
+          "latlng": [
+            12.07333,
+            -15.31889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2715,
+      "name": "Quinara",
+      "code": "QU",
+      "shortName": "QU",
+      "cities": [
+        {
+          "id": 53810,
+          "name": "Buba",
+          "latlng": [
+            11.58889,
+            -14.99583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2716,
+      "name": "Sul",
+      "code": "S",
+      "shortName": "S",
+      "cities": []
+    },
+    {
+      "id": 2712,
+      "name": "Tombali",
+      "code": "TO",
+      "shortName": "TO",
+      "cities": [
+        {
+          "id": 53814,
+          "name": "Catió",
+          "latlng": [
+            11.2825,
+            -15.25472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 53819,
+          "name": "Quebo",
+          "latlng": [
+            11.33333,
+            -14.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

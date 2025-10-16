@@ -1,0 +1,1617 @@
+{
+  "name": {
+    "common": "Palestinian Territory Occupied",
+    "official": "Palestinian Territory Occupied"
+  },
+  "iso2": "PS",
+  "iso3": "PSE",
+  "numericCode": "275",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".ps",
+  "phoneCode": "970",
+  "capital": "East Jerusalem",
+  "currencies": {
+    "ILS": "Israeli new shekel"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Gaza",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    },
+    {
+      "zoneName": "Asia/Hebron",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ps.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ps.svg",
+  "states": [
+    {
+      "id": 5118,
+      "name": "Bethlehem",
+      "code": "BTH",
+      "shortName": "BTH",
+      "cities": [
+        {
+          "id": 153955,
+          "name": "Al-Dawha",
+          "latlng": [
+            31.6977399,
+            35.1459545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153957,
+          "name": "al-Khader",
+          "latlng": [
+            31.6948454,
+            35.1501453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153960,
+          "name": "al-Ubeidiya",
+          "latlng": [
+            31.7238643,
+            35.2712213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153950,
+          "name": "Battir",
+          "latlng": [
+            31.7282154,
+            35.1174323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153951,
+          "name": "Beit Fajjar",
+          "latlng": [
+            31.6216699,
+            35.1343033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153952,
+          "name": "Beit Jala",
+          "latlng": [
+            31.7160334,
+            35.1665493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153953,
+          "name": "Beit Sahour",
+          "latlng": [
+            31.6978704,
+            35.2079303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153954,
+          "name": "Bethlehem",
+          "latlng": [
+            31.7054165,
+            35.1818428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153956,
+          "name": "Husan",
+          "latlng": [
+            31.7084604,
+            35.1128253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153958,
+          "name": "Nahalin",
+          "latlng": [
+            31.6856424,
+            35.0997623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153959,
+          "name": "Tuqu'",
+          "latlng": [
+            31.6391274,
+            35.1918903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153961,
+          "name": "Za'atara",
+          "latlng": [
+            31.6744784,
+            35.2344913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5119,
+      "name": "Deir El Balah",
+      "code": "DEB",
+      "shortName": "DEB",
+      "cities": [
+        {
+          "id": 153963,
+          "name": "az-Zawayda",
+          "latlng": [
+            31.4297975,
+            34.3501423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153962,
+          "name": "Deir al-Balah",
+          "latlng": [
+            31.4171735,
+            34.3303313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5120,
+      "name": "Gaza",
+      "code": "GZA",
+      "shortName": "GZA",
+      "cities": [
+        {
+          "id": 153965,
+          "name": "Al-Zahra",
+          "latlng": [
+            31.4724675,
+            34.3778293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153964,
+          "name": "Gaza City",
+          "latlng": [
+            31.5017295,
+            34.4462448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5121,
+      "name": "Hebron",
+      "code": "HBN",
+      "shortName": "HBN",
+      "cities": [
+        {
+          "id": 153970,
+          "name": "ad-Dhahiriya",
+          "latlng": [
+            31.4096725,
+            34.9549083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153980,
+          "name": "as-Samu",
+          "latlng": [
+            31.3986445,
+            35.0446883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153971,
+          "name": "Bani Na'im",
+          "latlng": [
+            31.5149005,
+            35.1447403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153972,
+          "name": "Beit 'Awwa",
+          "latlng": [
+            31.5067524,
+            34.9295613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153973,
+          "name": "Beit Ula",
+          "latlng": [
+            31.5984564,
+            35.0057753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153974,
+          "name": "Beit Ummar",
+          "latlng": [
+            31.6228464,
+            35.0815993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153975,
+          "name": "Deir Sammit",
+          "latlng": [
+            31.5199634,
+            34.9520713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153966,
+          "name": "Dura",
+          "latlng": [
+            31.5051274,
+            35.0069273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153967,
+          "name": "Halhul",
+          "latlng": [
+            31.5799242,
+            35.0793045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153968,
+          "name": "Hebron",
+          "latlng": [
+            31.5326035,
+            35.0792263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153976,
+          "name": "Idhna",
+          "latlng": [
+            31.5572864,
+            34.9586433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153977,
+          "name": "Kharas",
+          "latlng": [
+            31.6122524,
+            35.0236513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153978,
+          "name": "Nuba",
+          "latlng": [
+            31.6138208,
+            35.005792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153979,
+          "name": "Sa'ir",
+          "latlng": [
+            31.5824895,
+            35.1231763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153981,
+          "name": "Surif",
+          "latlng": [
+            31.6495864,
+            35.0441123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153983,
+          "name": "Taffuh",
+          "latlng": [
+            31.5384825,
+            35.0303733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153982,
+          "name": "Tarqumiya",
+          "latlng": [
+            31.5773644,
+            34.9935743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153969,
+          "name": "Yatta",
+          "latlng": [
+            31.4441845,
+            35.0695053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5122,
+      "name": "Jenin",
+      "code": "JEN",
+      "shortName": "JEN",
+      "cities": [
+        {
+          "id": 153986,
+          "name": "Ajjah",
+          "latlng": [
+            32.3600171,
+            35.1773943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153997,
+          "name": "al-Yamun",
+          "latlng": [
+            32.4867111,
+            35.2129923
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153987,
+          "name": "Arrabah",
+          "latlng": [
+            32.4033101,
+            35.1853143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153988,
+          "name": "Burqin",
+          "latlng": [
+            32.456169,
+            35.2410883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153989,
+          "name": "Deir Abu Da'if",
+          "latlng": [
+            32.4560951,
+            35.3443223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153990,
+          "name": "Jaba",
+          "latlng": [
+            32.3250611,
+            35.1995643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153984,
+          "name": "Jenin",
+          "latlng": [
+            32.457284,
+            35.2816144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153991,
+          "name": "Kafr Dan",
+          "latlng": [
+            32.4780111,
+            35.2331873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153992,
+          "name": "Kafr Rai",
+          "latlng": [
+            32.3734521,
+            35.1349363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153993,
+          "name": "Meithalun",
+          "latlng": [
+            32.3492441,
+            35.2508843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153985,
+          "name": "Qabatiya",
+          "latlng": [
+            32.4096171,
+            35.2594933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153995,
+          "name": "Silat ad-Dhahr",
+          "latlng": [
+            32.3175321,
+            35.1666323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153994,
+          "name": "Silat al-Harithiya",
+          "latlng": [
+            32.509797,
+            35.2068473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153996,
+          "name": "Ya'bad",
+          "latlng": [
+            32.446868,
+            35.1466743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153998,
+          "name": "Zababdeh",
+          "latlng": [
+            32.3852361,
+            35.3028793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5123,
+      "name": "Jericho",
+      "code": "JRH",
+      "shortName": "JRH",
+      "cities": [
+        {
+          "id": 154000,
+          "name": "al-Auja",
+          "latlng": [
+            31.9480993,
+            35.4505643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154001,
+          "name": "al-Jiftlik",
+          "latlng": [
+            32.1414323,
+            35.4466025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153999,
+          "name": "Jericho",
+          "latlng": [
+            31.859507,
+            35.4439082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5124,
+      "name": "Jerusalem (Quds)",
+      "code": "JEM",
+      "shortName": "JEM",
+      "cities": [
+        {
+          "id": 154003,
+          "name": "Abu Dis",
+          "latlng": [
+            31.7636163,
+            35.2371223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154004,
+          "name": "Ar-Ram",
+          "latlng": [
+            31.8492863,
+            35.2128893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154006,
+          "name": "Beit 'Anan",
+          "latlng": [
+            31.8510993,
+            35.0911193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154005,
+          "name": "Biddu",
+          "latlng": [
+            31.8344582,
+            35.0744173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154007,
+          "name": "Bir Nabala",
+          "latlng": [
+            31.8512163,
+            35.1802353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154002,
+          "name": "East Jerusalem",
+          "latlng": [
+            31.7965043,
+            35.0105434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154008,
+          "name": "Hizma",
+          "latlng": [
+            31.8364954,
+            35.2426313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154009,
+          "name": "Kafr Aqab",
+          "latlng": [
+            31.8747227,
+            35.21724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154011,
+          "name": "Qalandiya",
+          "latlng": [
+            31.8616313,
+            35.1873143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154010,
+          "name": "Qatanna",
+          "latlng": [
+            31.8269573,
+            35.0896003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5125,
+      "name": "Khan Yunis",
+      "code": "KYS",
+      "shortName": "KYS",
+      "cities": [
+        {
+          "id": 154012,
+          "name": "Abasan al-Kabira",
+          "latlng": [
+            31.3231605,
+            34.3234253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154015,
+          "name": "Abasan al-Saghira",
+          "latlng": [
+            31.3397435,
+            34.3260333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154017,
+          "name": "Al-Qarara",
+          "latlng": [
+            31.3713465,
+            34.3146603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154013,
+          "name": "Bani Suheila",
+          "latlng": [
+            31.3421385,
+            34.3046543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154014,
+          "name": "Khan Yunis",
+          "latlng": [
+            31.3462351,
+            34.2833989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154016,
+          "name": "Khuzaʽa",
+          "latlng": [
+            31.3070566,
+            34.3394473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5126,
+      "name": "Nablus",
+      "code": "NBS",
+      "shortName": "NBS",
+      "cities": [
+        {
+          "id": 154019,
+          "name": "Aqraba",
+          "latlng": [
+            32.1276202,
+            35.3221353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154020,
+          "name": "Asira ash-Shamaliya",
+          "latlng": [
+            32.2518691,
+            35.2475713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154026,
+          "name": "Beit Furik",
+          "latlng": [
+            32.1754902,
+            35.3158843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154021,
+          "name": "Beita",
+          "latlng": [
+            32.1413742,
+            35.2657993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154022,
+          "name": "Huwara",
+          "latlng": [
+            32.1513472,
+            35.2361993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154023,
+          "name": "Jammain",
+          "latlng": [
+            32.1321142,
+            35.1827423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154018,
+          "name": "Nablus",
+          "latlng": [
+            32.2243755,
+            35.2064793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154024,
+          "name": "Qabalan",
+          "latlng": [
+            32.1018542,
+            35.2671293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154025,
+          "name": "Sebastia",
+          "latlng": [
+            32.2782751,
+            35.1780333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5127,
+      "name": "North Gaza",
+      "code": "NGZ",
+      "shortName": "NGZ",
+      "cities": [
+        {
+          "id": 154027,
+          "name": "Beit Hanoun",
+          "latlng": [
+            31.5385174,
+            34.5161703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154028,
+          "name": "Beit Lahia",
+          "latlng": [
+            31.5513234,
+            34.4886223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154029,
+          "name": "Izbat Beit Hanoun",
+          "latlng": [
+            31.5472895,
+            34.5019722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154030,
+          "name": "Jabalia",
+          "latlng": [
+            31.5294305,
+            34.4591413
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5128,
+      "name": "Qalqilya",
+      "code": "QQA",
+      "shortName": "QQA",
+      "cities": [
+        {
+          "id": 154031,
+          "name": "Azzun",
+          "latlng": [
+            32.1771352,
+            35.0353573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154032,
+          "name": "Hableh",
+          "latlng": [
+            32.1638782,
+            34.9576803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154034,
+          "name": "Kafr Thulth",
+          "latlng": [
+            32.1528332,
+            35.0246903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154033,
+          "name": "Qalqilya",
+          "latlng": [
+            32.1960491,
+            34.9609133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5129,
+      "name": "Rafah",
+      "code": "RFH",
+      "shortName": "RFH",
+      "cities": [
+        {
+          "id": 154037,
+          "name": "Al Qarya as Suwaydiya",
+          "latlng": [
+            31.3231655,
+            34.2015753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154035,
+          "name": "Al-Bayuk",
+          "latlng": [
+            31.2634786,
+            34.2609813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154036,
+          "name": "Al-Mawasi",
+          "latlng": [
+            31.3484496,
+            34.2355363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154038,
+          "name": "Rafah",
+          "latlng": [
+            31.2968145,
+            34.2228823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154039,
+          "name": "Shokat as-Sufi",
+          "latlng": [
+            31.2509125,
+            34.2451672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5130,
+      "name": "Ramallah",
+      "code": "RBH",
+      "shortName": "RBH",
+      "cities": [
+        {
+          "id": 154040,
+          "name": "Al-Bireh",
+          "latlng": [
+            31.9125973,
+            35.2011173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154050,
+          "name": "al-Mazra'a ash-Sharqiya",
+          "latlng": [
+            32.0032722,
+            35.2555323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154044,
+          "name": "Bani Zeid al-Sharqiya",
+          "latlng": [
+            32.0407432,
+            35.1532783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154045,
+          "name": "Beit Liqya",
+          "latlng": [
+            31.8699713,
+            35.0446023
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154042,
+          "name": "Beitunia",
+          "latlng": [
+            31.8893153,
+            35.1492133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154046,
+          "name": "Bir Zeit",
+          "latlng": [
+            31.9753483,
+            35.1754423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154047,
+          "name": "Deir Dibwan",
+          "latlng": [
+            31.9112393,
+            35.2483883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154048,
+          "name": "Deir Jarir",
+          "latlng": [
+            31.9656463,
+            35.2731763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154049,
+          "name": "Kharbatha al-Misbah",
+          "latlng": [
+            31.8853003,
+            35.0514733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154051,
+          "name": "Ni'lin",
+          "latlng": [
+            31.9468773,
+            35.0008613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154041,
+          "name": "Ramallah",
+          "latlng": [
+            31.9074171,
+            35.164682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154043,
+          "name": "Rawabi",
+          "latlng": [
+            32.0102157,
+            35.1712941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154052,
+          "name": "Silwad",
+          "latlng": [
+            31.9794242,
+            35.2412653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154053,
+          "name": "Sinjil",
+          "latlng": [
+            32.0336413,
+            35.2433353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154054,
+          "name": "Turmus Ayya",
+          "latlng": [
+            32.0327602,
+            35.2677753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5131,
+      "name": "Salfit",
+      "code": "SLT",
+      "shortName": "SLT",
+      "cities": [
+        {
+          "id": 154071,
+          "name": "az-Zawiya",
+          "latlng": [
+            32.0947052,
+            35.0186763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154055,
+          "name": "Biddya",
+          "latlng": [
+            32.1134002,
+            35.0568653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154056,
+          "name": "Bruqin",
+          "latlng": [
+            32.0726472,
+            35.0778063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154057,
+          "name": "Deir Ballut",
+          "latlng": [
+            32.0650672,
+            35.0049493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154058,
+          "name": "Deir Istiya",
+          "latlng": [
+            32.1307962,
+            35.1195363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154059,
+          "name": "Farkha",
+          "latlng": [
+            32.0687772,
+            35.1302763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154060,
+          "name": "Haris",
+          "latlng": [
+            32.1134492,
+            35.1231163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154061,
+          "name": "Iskaka",
+          "latlng": [
+            32.1029552,
+            35.2039493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154062,
+          "name": "Kafr ad-Dik",
+          "latlng": [
+            32.0686354,
+            35.0605081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154063,
+          "name": "Kifl Hares",
+          "latlng": [
+            32.1169242,
+            35.1363643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154064,
+          "name": "Marda",
+          "latlng": [
+            32.1142512,
+            35.1752513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154065,
+          "name": "Mas-ha",
+          "latlng": [
+            32.1072982,
+            35.0303743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154066,
+          "name": "Qarawat Bani Hassan",
+          "latlng": [
+            32.1285392,
+            35.0787783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154067,
+          "name": "Qira",
+          "latlng": [
+            32.1221342,
+            35.1506323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154068,
+          "name": "Rafat",
+          "latlng": [
+            32.0787202,
+            35.0246873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154069,
+          "name": "Sarta",
+          "latlng": [
+            32.1033692,
+            35.0712383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154070,
+          "name": "Yasuf",
+          "latlng": [
+            32.1094052,
+            35.2191153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5132,
+      "name": "Tubas",
+      "code": "TBS",
+      "shortName": "TBS",
+      "cities": [
+        {
+          "id": 154073,
+          "name": "'Aqqaba",
+          "latlng": [
+            32.3525706,
+            35.3267476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154074,
+          "name": "Tammun",
+          "latlng": [
+            32.2831551,
+            35.3651893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154072,
+          "name": "Tubas",
+          "latlng": [
+            32.3211201,
+            35.3493533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5133,
+      "name": "Tulkarm",
+      "code": "TKM",
+      "shortName": "TKM",
+      "cities": [
+        {
+          "id": 154075,
+          "name": "Anabta",
+          "latlng": [
+            32.3072871,
+            35.0988783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154076,
+          "name": "Attil",
+          "latlng": [
+            32.3701031,
+            35.0519383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154077,
+          "name": "Bal'a",
+          "latlng": [
+            32.3325561,
+            35.0893533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154078,
+          "name": "Baqa ash-Sharqiyya",
+          "latlng": [
+            32.4111751,
+            35.0505933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154079,
+          "name": "Beit Lid",
+          "latlng": [
+            32.2615821,
+            35.1096803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154080,
+          "name": "Qaffin",
+          "latlng": [
+            32.433412,
+            35.0637003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154081,
+          "name": "Tulkarm",
+          "latlng": [
+            32.3079648,
+            35.0080289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "name": {
+    "common": "The Bahamas",
+    "official": "The Bahamas"
+  },
+  "iso2": "BS",
+  "iso3": "BHS",
+  "numericCode": "044",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".bs",
+  "phoneCode": "1",
+  "capital": "Nassau",
+  "currencies": {
+    "BSD": "Bahamian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Nassau",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America)"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bs.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bs.svg",
+  "states": [
+    {
+      "id": 3601,
+      "name": "Acklins",
+      "code": "AK",
+      "shortName": "AK",
+      "cities": []
+    },
+    {
+      "id": 3628,
+      "name": "Acklins and Crooked Islands",
+      "code": "AC",
+      "shortName": "AC",
+      "cities": []
+    },
+    {
+      "id": 3593,
+      "name": "Berry Islands",
+      "code": "BY",
+      "shortName": "BY",
+      "cities": []
+    },
+    {
+      "id": 3629,
+      "name": "Bimini",
+      "code": "BI",
+      "shortName": "BI",
+      "cities": [
+        {
+          "id": 15686,
+          "name": "Alice Town",
+          "latlng": [
+            25.728,
+            -79.29721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3605,
+      "name": "Black Point",
+      "code": "BP",
+      "shortName": "BP",
+      "cities": []
+    },
+    {
+      "id": 3611,
+      "name": "Cat Island",
+      "code": "CI",
+      "shortName": "CI",
+      "cities": [
+        {
+          "id": 15688,
+          "name": "Arthur’s Town",
+          "latlng": [
+            24.6224,
+            -75.67151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3603,
+      "name": "Central Abaco",
+      "code": "CO",
+      "shortName": "CO",
+      "cities": [
+        {
+          "id": 15699,
+          "name": "Marsh Harbour",
+          "latlng": [
+            26.54124,
+            -77.0636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3631,
+      "name": "Central Andros",
+      "code": "CS",
+      "shortName": "CS",
+      "cities": []
+    },
+    {
+      "id": 3596,
+      "name": "Central Eleuthera",
+      "code": "CE",
+      "shortName": "CE",
+      "cities": []
+    },
+    {
+      "id": 3621,
+      "name": "Crooked Island",
+      "code": "CK",
+      "shortName": "CK",
+      "cities": [
+        {
+          "id": 15691,
+          "name": "Colonel Hill",
+          "latlng": [
+            22.7545,
+            -74.20415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3614,
+      "name": "East Grand Bahama",
+      "code": "EG",
+      "shortName": "EG",
+      "cities": [
+        {
+          "id": 15697,
+          "name": "High Rock",
+          "latlng": [
+            26.60999,
+            -78.27863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3612,
+      "name": "Exuma",
+      "code": "EX",
+      "shortName": "EX",
+      "cities": [
+        {
+          "id": 15696,
+          "name": "George Town",
+          "latlng": [
+            23.51616,
+            -75.78665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3626,
+      "name": "Freeport",
+      "code": "FP",
+      "shortName": "FP",
+      "cities": [
+        {
+          "id": 15695,
+          "name": "Freeport",
+          "latlng": [
+            26.53333,
+            -78.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15698,
+          "name": "Lucaya",
+          "latlng": [
+            26.53333,
+            -78.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3619,
+      "name": "Fresh Creek",
+      "code": "FC",
+      "shortName": "FC",
+      "cities": []
+    },
+    {
+      "id": 3597,
+      "name": "Governor's Harbour",
+      "code": "GH",
+      "shortName": "GH",
+      "cities": []
+    },
+    {
+      "id": 3632,
+      "name": "Grand Cay",
+      "code": "GC",
+      "shortName": "GC",
+      "cities": []
+    },
+    {
+      "id": 3595,
+      "name": "Green Turtle Cay",
+      "code": "GT",
+      "shortName": "GT",
+      "cities": []
+    },
+    {
+      "id": 3613,
+      "name": "Harbour Island",
+      "code": "HI",
+      "shortName": "HI",
+      "cities": [
+        {
+          "id": 15694,
+          "name": "Dunmore Town",
+          "latlng": [
+            25.50216,
+            -76.63633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3598,
+      "name": "High Rock",
+      "code": "HR",
+      "shortName": "HR",
+      "cities": []
+    },
+    {
+      "id": 3624,
+      "name": "Hope Town",
+      "code": "HT",
+      "shortName": "HT",
+      "cities": []
+    },
+    {
+      "id": 3609,
+      "name": "Inagua",
+      "code": "IN",
+      "shortName": "IN",
+      "cities": [
+        {
+          "id": 15700,
+          "name": "Matthew Town",
+          "latlng": [
+            20.94982,
+            -73.67346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3618,
+      "name": "Kemps Bay",
+      "code": "KB",
+      "shortName": "KB",
+      "cities": []
+    },
+    {
+      "id": 3610,
+      "name": "Long Island",
+      "code": "LI",
+      "shortName": "LI",
+      "cities": [
+        {
+          "id": 15689,
+          "name": "Clarence Town",
+          "latlng": [
+            23.1,
+            -74.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3625,
+      "name": "Mangrove Cay",
+      "code": "MC",
+      "shortName": "MC",
+      "cities": []
+    },
+    {
+      "id": 3604,
+      "name": "Marsh Harbour",
+      "code": "MH",
+      "shortName": "MH",
+      "cities": []
+    },
+    {
+      "id": 3633,
+      "name": "Mayaguana",
+      "code": "MG",
+      "shortName": "MG",
+      "cities": [
+        {
+          "id": 15685,
+          "name": "Abraham’s Bay",
+          "latlng": [
+            22.36667,
+            -72.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4881,
+      "name": "New Providence",
+      "code": "NP",
+      "shortName": "NP",
+      "cities": [
+        {
+          "id": 143913,
+          "name": "Nassau",
+          "latlng": [
+            25.06666667,
+            -77.33333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3594,
+      "name": "Nichollstown and Berry Islands",
+      "code": "NB",
+      "shortName": "NB",
+      "cities": []
+    },
+    {
+      "id": 3616,
+      "name": "North Abaco",
+      "code": "NO",
+      "shortName": "NO",
+      "cities": [
+        {
+          "id": 15692,
+          "name": "Cooper’s Town",
+          "latlng": [
+            26.87137,
+            -77.51131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3617,
+      "name": "North Andros",
+      "code": "NS",
+      "shortName": "NS",
+      "cities": [
+        {
+          "id": 15687,
+          "name": "Andros Town",
+          "latlng": [
+            24.70502,
+            -77.76912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15702,
+          "name": "San Andros",
+          "latlng": [
+            25.06667,
+            -78.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3602,
+      "name": "North Eleuthera",
+      "code": "NE",
+      "shortName": "NE",
+      "cities": []
+    },
+    {
+      "id": 3615,
+      "name": "Ragged Island",
+      "code": "RI",
+      "shortName": "RI",
+      "cities": [
+        {
+          "id": 15693,
+          "name": "Duncan Town",
+          "latlng": [
+            22.19083,
+            -75.72583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3623,
+      "name": "Rock Sound",
+      "code": "RS",
+      "shortName": "RS",
+      "cities": []
+    },
+    {
+      "id": 3600,
+      "name": "Rum Cay",
+      "code": "RC",
+      "shortName": "RC",
+      "cities": [
+        {
+          "id": 15701,
+          "name": "Port Nelson",
+          "latlng": [
+            23.64967,
+            -74.84157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3620,
+      "name": "San Salvador and Rum Cay",
+      "code": "SR",
+      "shortName": "SR",
+      "cities": []
+    },
+    {
+      "id": 3627,
+      "name": "San Salvador Island",
+      "code": "SS",
+      "shortName": "SS",
+      "cities": [
+        {
+          "id": 15690,
+          "name": "Cockburn Town",
+          "latlng": [
+            24.05179,
+            -74.53138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3606,
+      "name": "Sandy Point",
+      "code": "SP",
+      "shortName": "SP",
+      "cities": []
+    },
+    {
+      "id": 3608,
+      "name": "South Abaco",
+      "code": "SO",
+      "shortName": "SO",
+      "cities": []
+    },
+    {
+      "id": 3622,
+      "name": "South Andros",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": []
+    },
+    {
+      "id": 3607,
+      "name": "South Eleuthera",
+      "code": "SE",
+      "shortName": "SE",
+      "cities": []
+    },
+    {
+      "id": 3630,
+      "name": "Spanish Wells",
+      "code": "SW",
+      "shortName": "SW",
+      "cities": [
+        {
+          "id": 15703,
+          "name": "Spanish Wells",
+          "latlng": [
+            25.54717,
+            -76.76405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3599,
+      "name": "West Grand Bahama",
+      "code": "WG",
+      "shortName": "WG",
+      "cities": [
+        {
+          "id": 15704,
+          "name": "West End",
+          "latlng": [
+            26.68711,
+            -78.97702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

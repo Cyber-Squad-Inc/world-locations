@@ -1,0 +1,1052 @@
+{
+  "name": {
+    "common": "Sierra Leone",
+    "official": "Sierra Leone"
+  },
+  "iso2": "SL",
+  "iso3": "SLE",
+  "numericCode": "694",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".sl",
+  "phoneCode": "232",
+  "capital": "Freetown",
+  "currencies": {
+    "SLL": "Sierra Leonean leone"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Freetown",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sl.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sl.svg",
+  "states": [
+    {
+      "id": 914,
+      "name": "Eastern",
+      "code": "E",
+      "shortName": "E",
+      "cities": [
+        {
+          "id": 104606,
+          "name": "Barma",
+          "latlng": [
+            8.34959,
+            -11.33059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104609,
+          "name": "Blama",
+          "latlng": [
+            7.87481,
+            -11.34548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104612,
+          "name": "Boajibu",
+          "latlng": [
+            8.18763,
+            -11.34026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104617,
+          "name": "Buedu",
+          "latlng": [
+            8.2796,
+            -10.37135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104620,
+          "name": "Bunumbu",
+          "latlng": [
+            8.17421,
+            -10.86432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104621,
+          "name": "Daru",
+          "latlng": [
+            7.98976,
+            -10.84223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104627,
+          "name": "Giehun",
+          "latlng": [
+            7.88405,
+            -11.04908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104628,
+          "name": "Gorahun",
+          "latlng": [
+            7.46439,
+            -11.23952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104629,
+          "name": "Hangha",
+          "latlng": [
+            7.93974,
+            -11.14132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104631,
+          "name": "Jojoima",
+          "latlng": [
+            7.87815,
+            -10.78976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104633,
+          "name": "Kailahun",
+          "latlng": [
+            8.2789,
+            -10.573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104634,
+          "name": "Kailahun District",
+          "latlng": [
+            8.10768,
+            -10.75146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104638,
+          "name": "Kayima",
+          "latlng": [
+            8.8879,
+            -11.15932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104639,
+          "name": "Kenema",
+          "latlng": [
+            7.87687,
+            -11.19025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104640,
+          "name": "Kenema District",
+          "latlng": [
+            7.95171,
+            -11.19004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104642,
+          "name": "Koidu",
+          "latlng": [
+            8.64387,
+            -10.9714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104645,
+          "name": "Kono District",
+          "latlng": [
+            8.70687,
+            -10.93368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104647,
+          "name": "Koyima",
+          "latlng": [
+            8.70552,
+            -11.02241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104658,
+          "name": "Manowa",
+          "latlng": [
+            8.17392,
+            -10.74834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104662,
+          "name": "Mobai",
+          "latlng": [
+            7.99343,
+            -10.75355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104664,
+          "name": "Motema",
+          "latlng": [
+            8.61427,
+            -11.01252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104668,
+          "name": "Panguma",
+          "latlng": [
+            8.18507,
+            -11.1329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104669,
+          "name": "Pendembu",
+          "latlng": [
+            8.09807,
+            -10.69429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104677,
+          "name": "Segbwema",
+          "latlng": [
+            7.99471,
+            -10.9502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104680,
+          "name": "Simbakoro",
+          "latlng": [
+            8.61243,
+            -11.00755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104682,
+          "name": "Tefeya",
+          "latlng": [
+            8.70395,
+            -11.2126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104684,
+          "name": "Tombodu",
+          "latlng": [
+            8.13526,
+            -10.6196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104685,
+          "name": "Tombu",
+          "latlng": [
+            8.53991,
+            -10.73132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104689,
+          "name": "Wima",
+          "latlng": [
+            8.30052,
+            -11.20455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104690,
+          "name": "Yengema",
+          "latlng": [
+            8.71441,
+            -11.17057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 911,
+      "name": "Northern",
+      "code": "N",
+      "shortName": "N",
+      "cities": [
+        {
+          "id": 104603,
+          "name": "Alikalia",
+          "latlng": [
+            9.15356,
+            -11.38712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104607,
+          "name": "Bindi",
+          "latlng": [
+            9.91376,
+            -11.44669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104608,
+          "name": "Binkolo",
+          "latlng": [
+            8.95225,
+            -11.98029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104613,
+          "name": "Bombali District",
+          "latlng": [
+            9.28444,
+            -12.16449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104618,
+          "name": "Bumbuna",
+          "latlng": [
+            9.04466,
+            -11.74576
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104625,
+          "name": "Gberia Fotombu",
+          "latlng": [
+            9.87852,
+            -11.16548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104632,
+          "name": "Kabala",
+          "latlng": [
+            9.58893,
+            -11.55256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104635,
+          "name": "Kamakwie",
+          "latlng": [
+            9.49689,
+            -12.24061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104636,
+          "name": "Kambia",
+          "latlng": [
+            9.12504,
+            -12.91816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104637,
+          "name": "Kassiri",
+          "latlng": [
+            8.93814,
+            -13.11541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104643,
+          "name": "Koinadugu District",
+          "latlng": [
+            9.50991,
+            -11.34601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104644,
+          "name": "Konakridee",
+          "latlng": [
+            8.69778,
+            -13.23917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104648,
+          "name": "Kukuna",
+          "latlng": [
+            9.39841,
+            -12.66476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104650,
+          "name": "Loma",
+          "latlng": [
+            9.75931,
+            -12.03383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104651,
+          "name": "Lunsar",
+          "latlng": [
+            8.68439,
+            -12.53499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104652,
+          "name": "Magburaka",
+          "latlng": [
+            8.72306,
+            -11.9488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104653,
+          "name": "Makali",
+          "latlng": [
+            8.62964,
+            -11.66168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104654,
+          "name": "Makeni",
+          "latlng": [
+            8.88605,
+            -12.04417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104655,
+          "name": "Mambolo",
+          "latlng": [
+            8.9186,
+            -13.03674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104657,
+          "name": "Mange",
+          "latlng": [
+            8.92262,
+            -12.85688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104659,
+          "name": "Masaka",
+          "latlng": [
+            8.66492,
+            -11.8026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104660,
+          "name": "Masingbi",
+          "latlng": [
+            8.78197,
+            -11.95171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104661,
+          "name": "Masoyila",
+          "latlng": [
+            8.61119,
+            -13.19101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104670,
+          "name": "Pepel",
+          "latlng": [
+            8.58611,
+            -13.05444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104674,
+          "name": "Rokupr",
+          "latlng": [
+            8.67121,
+            -12.38497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104676,
+          "name": "Sawkta",
+          "latlng": [
+            8.6323,
+            -13.2025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104678,
+          "name": "Seidu",
+          "latlng": [
+            9.01801,
+            -10.59496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104683,
+          "name": "Tintafor",
+          "latlng": [
+            8.62667,
+            -13.215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104687,
+          "name": "Tonkolili District",
+          "latlng": [
+            8.61885,
+            -11.84173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104691,
+          "name": "Yonibana",
+          "latlng": [
+            8.44347,
+            -12.23929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 912,
+      "name": "Southern",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 104604,
+          "name": "Baiima",
+          "latlng": [
+            8.10826,
+            -11.84772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104605,
+          "name": "Baoma",
+          "latlng": [
+            7.99344,
+            -11.71468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104610,
+          "name": "Bo",
+          "latlng": [
+            7.96472,
+            -11.73833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104611,
+          "name": "Bo District",
+          "latlng": [
+            7.98877,
+            -11.6734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104614,
+          "name": "Bomi",
+          "latlng": [
+            7.24611,
+            -11.52583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104615,
+          "name": "Bonthe",
+          "latlng": [
+            7.52639,
+            -12.505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104616,
+          "name": "Bonthe District",
+          "latlng": [
+            7.51622,
+            -12.33591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104619,
+          "name": "Bumpe",
+          "latlng": [
+            7.89209,
+            -11.90541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104622,
+          "name": "Foindu",
+          "latlng": [
+            7.40906,
+            -11.54328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104624,
+          "name": "Gandorhun",
+          "latlng": [
+            7.55502,
+            -11.6926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104626,
+          "name": "Gbewebu",
+          "latlng": [
+            7.55091,
+            -11.6075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104646,
+          "name": "Koribundu",
+          "latlng": [
+            7.70952,
+            -11.69354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104649,
+          "name": "Largo",
+          "latlng": [
+            8.27903,
+            -12.1578
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104656,
+          "name": "Mamboma",
+          "latlng": [
+            8.08742,
+            -11.68841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104663,
+          "name": "Mogbwemo",
+          "latlng": [
+            7.76237,
+            -12.30864
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104665,
+          "name": "Moyamba",
+          "latlng": [
+            8.15898,
+            -12.43168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104666,
+          "name": "Moyamba District",
+          "latlng": [
+            8.0629,
+            -12.44401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104667,
+          "name": "Palima",
+          "latlng": [
+            8.11996,
+            -11.50702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104671,
+          "name": "Potoru",
+          "latlng": [
+            7.50596,
+            -11.47897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104672,
+          "name": "Pujehun",
+          "latlng": [
+            7.35806,
+            -11.72083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104673,
+          "name": "Pujehun District",
+          "latlng": [
+            7.31855,
+            -11.5792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104675,
+          "name": "Rotifunk",
+          "latlng": [
+            8.22591,
+            -12.6776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104679,
+          "name": "Serabu",
+          "latlng": [
+            7.79311,
+            -12.05294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104681,
+          "name": "Sumbuya",
+          "latlng": [
+            7.64789,
+            -11.9606
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104686,
+          "name": "Tongole",
+          "latlng": [
+            7.45092,
+            -11.90071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104692,
+          "name": "Zimmi",
+          "latlng": [
+            7.31356,
+            -11.30818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 913,
+      "name": "Western",
+      "code": "W",
+      "shortName": "W",
+      "cities": [
+        {
+          "id": 104623,
+          "name": "Freetown",
+          "latlng": [
+            8.48714,
+            -13.2356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104630,
+          "name": "Hastings",
+          "latlng": [
+            8.37994,
+            -13.13693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104641,
+          "name": "Kent",
+          "latlng": [
+            8.33333,
+            -13.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104688,
+          "name": "Waterloo",
+          "latlng": [
+            8.3389,
+            -13.07091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "name": {
+    "common": "Faroe Islands",
+    "official": "Faroe Islands"
+  },
+  "iso2": "FO",
+  "iso3": "FRO",
+  "numericCode": "234",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".fo",
+  "phoneCode": "298",
+  "capital": "Torshavn",
+  "currencies": {
+    "DKK": "Danish krone"
+  },
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Faroe",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "WET",
+      "tzName": "Western European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/fo.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/fo.svg",
+  "states": [
+    {
+      "id": 5229,
+      "name": "Eysturoy",
+      "code": "EY",
+      "shortName": "EY",
+      "cities": [
+        {
+          "id": 153758,
+          "name": "Eiði",
+          "latlng": [
+            62.2789,
+            -7.0123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153748,
+          "name": "Eystur",
+          "latlng": [
+            62.1567,
+            -6.8233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153752,
+          "name": "Fuglafjørður",
+          "latlng": [
+            62.2101,
+            -6.8123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153754,
+          "name": "Nes",
+          "latlng": [
+            62.0987,
+            -6.7654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153747,
+          "name": "Runavík",
+          "latlng": [
+            62.1323,
+            -6.789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153757,
+          "name": "Sjóvar",
+          "latlng": [
+            62.1234,
+            -6.8765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5230,
+      "name": "Northern Isles",
+      "code": "NO",
+      "shortName": "NO",
+      "cities": [
+        {
+          "id": 153773,
+          "name": "Fugloy",
+          "latlng": [
+            62.4567,
+            -6.7234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153763,
+          "name": "Hvannasund",
+          "latlng": [
+            62.3456,
+            -6.789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153746,
+          "name": "Klaksvík",
+          "latlng": [
+            62.221,
+            -6.58
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153767,
+          "name": "Kunoy",
+          "latlng": [
+            62.3456,
+            -6.8901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153765,
+          "name": "Viðareiði",
+          "latlng": [
+            62.4567,
+            -6.7234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5231,
+      "name": "Sandoy",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 153769,
+          "name": "Húsavík",
+          "latlng": [
+            61.9012,
+            -6.8456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153761,
+          "name": "Sandur",
+          "latlng": [
+            61.9012,
+            -6.8456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153768,
+          "name": "Skálavík",
+          "latlng": [
+            61.9876,
+            -6.7654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153762,
+          "name": "Skopun",
+          "latlng": [
+            62.0123,
+            -6.9876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153772,
+          "name": "Skúvoy",
+          "latlng": [
+            61.9876,
+            -6.7654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5232,
+      "name": "Streymoy",
+      "code": "ST",
+      "shortName": "ST",
+      "cities": [
+        {
+          "id": 153760,
+          "name": "Kvívík",
+          "latlng": [
+            62.1456,
+            -7.2098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153750,
+          "name": "Sunda",
+          "latlng": [
+            62.1345,
+            -7.0987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153745,
+          "name": "Tórshavn",
+          "latlng": [
+            62,
+            -7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153755,
+          "name": "Vestmanna",
+          "latlng": [
+            62.1567,
+            -7.2345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5233,
+      "name": "Suðuroy",
+      "code": "SU",
+      "shortName": "SU",
+      "cities": [
+        {
+          "id": 153771,
+          "name": "Fámjin",
+          "latlng": [
+            61.4567,
+            -6.8901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153770,
+          "name": "Hov",
+          "latlng": [
+            61.4567,
+            -6.8901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153759,
+          "name": "Hvalba",
+          "latlng": [
+            61.5987,
+            -6.9876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153766,
+          "name": "Porkeri",
+          "latlng": [
+            61.5432,
+            -6.9876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153764,
+          "name": "Sumba",
+          "latlng": [
+            61.4567,
+            -6.8901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153751,
+          "name": "Tvøroyri",
+          "latlng": [
+            61.5623,
+            -6.778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153753,
+          "name": "Vágur",
+          "latlng": [
+            61.4789,
+            -6.8101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5234,
+      "name": "Vágar",
+      "code": "VA",
+      "shortName": "VA",
+      "cities": [
+        {
+          "id": 153756,
+          "name": "Sørvágur",
+          "latlng": [
+            62.0654,
+            -7.3787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153749,
+          "name": "Vágar",
+          "latlng": [
+            62.0667,
+            -7.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

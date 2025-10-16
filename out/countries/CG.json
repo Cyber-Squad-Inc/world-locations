@@ -1,0 +1,312 @@
+{
+  "name": {
+    "common": "Congo",
+    "official": "Congo"
+  },
+  "iso2": "CG",
+  "iso3": "COG",
+  "numericCode": "178",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".cg",
+  "phoneCode": "242",
+  "capital": "Brazzaville",
+  "currencies": {
+    "XAF": "Congolese Franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Brazzaville",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cg.svg",
+  "states": [
+    {
+      "id": 2866,
+      "name": "Bouenza",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 17345,
+          "name": "Kayes",
+          "latlng": [
+            -4.20493,
+            13.28608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17348,
+          "name": "Madingou",
+          "latlng": [
+            -4.15361,
+            13.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2870,
+      "name": "Brazzaville",
+      "code": "BZV",
+      "shortName": "BZV",
+      "cities": [
+        {
+          "id": 17339,
+          "name": "Brazzaville",
+          "latlng": [
+            -4.26613,
+            15.28318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2864,
+      "name": "Cuvette",
+      "code": "8",
+      "shortName": "8",
+      "cities": [
+        {
+          "id": 17349,
+          "name": "Makoua",
+          "latlng": [
+            0.00694,
+            15.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17352,
+          "name": "Owando",
+          "latlng": [
+            -0.48193,
+            15.89988
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2869,
+      "name": "Cuvette-Ouest",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 17342,
+          "name": "Ewo",
+          "latlng": [
+            -0.8725,
+            14.82056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2867,
+      "name": "Kouilou",
+      "code": "5",
+      "shortName": "5",
+      "cities": []
+    },
+    {
+      "id": 2868,
+      "name": "Lékoumou",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 17354,
+          "name": "Sibiti",
+          "latlng": [
+            -3.68192,
+            13.34985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2865,
+      "name": "Likouala",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 17344,
+          "name": "Impfondo",
+          "latlng": [
+            1.61804,
+            18.05981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2872,
+      "name": "Niari",
+      "code": "9",
+      "shortName": "9",
+      "cities": [
+        {
+          "id": 17341,
+          "name": "Dolisie",
+          "latlng": [
+            -4.19834,
+            12.66664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17350,
+          "name": "Mossendjo",
+          "latlng": [
+            -2.94968,
+            12.70423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2862,
+      "name": "Plateaux",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 17340,
+          "name": "Djambala",
+          "latlng": [
+            -2.54472,
+            14.75333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17343,
+          "name": "Gamboma",
+          "latlng": [
+            -1.87639,
+            15.86444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2863,
+      "name": "Pointe-Noire",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 17347,
+          "name": "Loandjili",
+          "latlng": [
+            -4.75611,
+            11.85778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17353,
+          "name": "Pointe-Noire",
+          "latlng": [
+            -4.77609,
+            11.86352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2873,
+      "name": "Pool",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 17346,
+          "name": "Kinkala",
+          "latlng": [
+            -4.36139,
+            14.76444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2871,
+      "name": "Sangha",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 17351,
+          "name": "Ouésso",
+          "latlng": [
+            1.61361,
+            16.05167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17355,
+          "name": "Sémbé",
+          "latlng": [
+            1.64806,
+            14.58056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

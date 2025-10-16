@@ -1,0 +1,2037 @@
+{
+  "name": {
+    "common": "Tunisia",
+    "official": "Tunisia"
+  },
+  "iso2": "TN",
+  "iso3": "TUN",
+  "numericCode": "788",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "tld": ".tn",
+  "phoneCode": "216",
+  "capital": "Tunis",
+  "currencies": {
+    "TND": "Tunisian dinar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Tunis",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tn.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tn.svg",
+  "states": [
+    {
+      "id": 2550,
+      "name": "Ariana",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 106915,
+          "name": "Ariana",
+          "latlng": [
+            36.86012,
+            10.19337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153381,
+          "name": "Ettadhamen-Mnihla",
+          "latlng": [
+            36.8625,
+            10.1703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106955,
+          "name": "Kalaat el-Andalous",
+          "latlng": [
+            36.8811,
+            10.2622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153380,
+          "name": "La Soukra",
+          "latlng": [
+            36.8535,
+            10.2525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153382,
+          "name": "Mnihla",
+          "latlng": [
+            36.8369,
+            10.2002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153378,
+          "name": "Raoued",
+          "latlng": [
+            36.885,
+            10.2465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153379,
+          "name": "Sidi Thabet",
+          "latlng": [
+            36.8399,
+            10.0403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2572,
+      "name": "Béja",
+      "code": "31",
+      "shortName": "31",
+      "cities": [
+        {
+          "id": 153377,
+          "name": "Amdoun",
+          "latlng": [
+            36.7442,
+            9.0513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106930,
+          "name": "Béja",
+          "latlng": [
+            36.72564,
+            9.18169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106956,
+          "name": "Goubellat",
+          "latlng": [
+            36.5956,
+            9.2078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106986,
+          "name": "Medjez el Bab",
+          "latlng": [
+            36.7064,
+            9.6106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106940,
+          "name": "Nefza",
+          "latlng": [
+            36.6049,
+            8.9702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107031,
+          "name": "Tabursuq",
+          "latlng": [
+            36.45692,
+            9.24751
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153376,
+          "name": "Téboursouk",
+          "latlng": [
+            36.7104,
+            9.0008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107035,
+          "name": "Testour",
+          "latlng": [
+            36.5014,
+            9.6664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153375,
+          "name": "Thibar",
+          "latlng": [
+            36.4656,
+            9.0622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2566,
+      "name": "Ben Arous",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 106920,
+          "name": "Ben Arous",
+          "latlng": [
+            36.7531,
+            10.2294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106959,
+          "name": "Hammam Lif",
+          "latlng": [
+            36.7203,
+            10.3261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106977,
+          "name": "Mornag",
+          "latlng": [
+            36.6616,
+            10.1463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106961,
+          "name": "Mornaguia",
+          "latlng": [
+            36.7214,
+            10.0494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107007,
+          "name": "Radès",
+          "latlng": [
+            36.76946,
+            10.27468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2551,
+      "name": "Bizerte",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 106913,
+          "name": "Al Matlīn",
+          "latlng": [
+            37.24516,
+            10.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106926,
+          "name": "Bizerte",
+          "latlng": [
+            37.27442,
+            9.87391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106927,
+          "name": "Bizerte Sud",
+          "latlng": [
+            37.25528,
+            9.67915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106938,
+          "name": "Douar Tindja",
+          "latlng": [
+            37.16667,
+            9.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106941,
+          "name": "El Alia",
+          "latlng": [
+            37.16911,
+            10.03478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106983,
+          "name": "Mateur",
+          "latlng": [
+            37.04045,
+            9.66557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106988,
+          "name": "Menzel Abderhaman",
+          "latlng": [
+            37.23737,
+            9.86313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106989,
+          "name": "Menzel Bourguiba",
+          "latlng": [
+            37.15368,
+            9.78594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106990,
+          "name": "Menzel Jemil",
+          "latlng": [
+            37.23618,
+            9.91448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107008,
+          "name": "Rafrāf",
+          "latlng": [
+            37.19043,
+            10.18365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107010,
+          "name": "Rhar el Melah",
+          "latlng": [
+            37.16939,
+            10.19064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107017,
+          "name": "Sejenane",
+          "latlng": [
+            37.05722,
+            9.23806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107041,
+          "name": "Zahānah",
+          "latlng": [
+            37.03959,
+            10.03876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2558,
+      "name": "Gabès",
+      "code": "81",
+      "shortName": "81",
+      "cities": [
+        {
+          "id": 106929,
+          "name": "Bou Attouche",
+          "latlng": [
+            33.89927,
+            9.78496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106945,
+          "name": "El Hamma",
+          "latlng": [
+            33.89152,
+            9.79629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106952,
+          "name": "Gabès",
+          "latlng": [
+            33.88146,
+            10.0982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106984,
+          "name": "Matmata",
+          "latlng": [
+            33.54445,
+            9.97157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2556,
+      "name": "Gafsa",
+      "code": "71",
+      "shortName": "71",
+      "cities": [
+        {
+          "id": 106914,
+          "name": "Ar Rudayyif",
+          "latlng": [
+            34.3827,
+            8.15549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106916,
+          "name": "As Sanad",
+          "latlng": [
+            34.4628,
+            9.26404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106954,
+          "name": "Gafsa",
+          "latlng": [
+            34.425,
+            8.78417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106994,
+          "name": "Metlaoui",
+          "latlng": [
+            34.32081,
+            8.40157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107000,
+          "name": "Mu‘tamadīyat ar Rudayyif",
+          "latlng": [
+            34.40081,
+            8.17057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2552,
+      "name": "Jendouba",
+      "code": "32",
+      "shortName": "32",
+      "cities": [
+        {
+          "id": 106951,
+          "name": "Fernana",
+          "latlng": [
+            36.65547,
+            8.69602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106965,
+          "name": "Jendouba",
+          "latlng": [
+            36.48519,
+            8.82325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107005,
+          "name": "Oued Meliz",
+          "latlng": [
+            36.46813,
+            8.54951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107030,
+          "name": "Tabarka",
+          "latlng": [
+            36.95442,
+            8.75801
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2564,
+      "name": "Kairouan",
+      "code": "41",
+      "shortName": "41",
+      "cities": [
+        {
+          "id": 106958,
+          "name": "Haffouz",
+          "latlng": [
+            35.63235,
+            9.67624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106968,
+          "name": "Kairouan",
+          "latlng": [
+            35.6781,
+            10.09633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107016,
+          "name": "Sbikha",
+          "latlng": [
+            35.93325,
+            10.02081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2570,
+      "name": "Kasserine",
+      "code": "42",
+      "shortName": "42",
+      "cities": [
+        {
+          "id": 106969,
+          "name": "Kasserine",
+          "latlng": [
+            35.16758,
+            8.83651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107011,
+          "name": "Rohia",
+          "latlng": [
+            35.65129,
+            9.05306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107015,
+          "name": "Sbiba",
+          "latlng": [
+            35.54332,
+            9.0737
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107036,
+          "name": "Thala",
+          "latlng": [
+            35.57244,
+            8.67031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2562,
+      "name": "Kebili",
+      "code": "73",
+      "shortName": "73",
+      "cities": [
+        {
+          "id": 106939,
+          "name": "Douz",
+          "latlng": [
+            33.46632,
+            9.0203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106944,
+          "name": "El Golaa",
+          "latlng": [
+            33.48485,
+            9.00678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106964,
+          "name": "Jemna",
+          "latlng": [
+            33.57778,
+            9.01472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106970,
+          "name": "Kebili",
+          "latlng": [
+            33.70439,
+            8.96903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2561,
+      "name": "Kef",
+      "code": "33",
+      "shortName": "33",
+      "cities": [
+        {
+          "id": 106917,
+          "name": "As Sars",
+          "latlng": [
+            36.0764,
+            9.02117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106947,
+          "name": "El Kef",
+          "latlng": [
+            36.17424,
+            8.70486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106948,
+          "name": "El Ksour",
+          "latlng": [
+            35.89607,
+            8.88493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106992,
+          "name": "Menzel Salem",
+          "latlng": [
+            35.85673,
+            8.47654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107002,
+          "name": "Nibbar",
+          "latlng": [
+            36.29411,
+            8.76657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107013,
+          "name": "Sakiet Sidi Youssef",
+          "latlng": [
+            36.22292,
+            8.35547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107032,
+          "name": "Tajerouine",
+          "latlng": [
+            35.89174,
+            8.55276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2568,
+      "name": "Mahdia",
+      "code": "53",
+      "shortName": "53",
+      "cities": [
+        {
+          "id": 106932,
+          "name": "Chebba",
+          "latlng": [
+            35.23722,
+            11.115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106934,
+          "name": "Chorbane",
+          "latlng": [
+            35.28581,
+            10.3858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106946,
+          "name": "El Jem",
+          "latlng": [
+            35.3,
+            10.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106974,
+          "name": "Ksour Essaf",
+          "latlng": [
+            35.41808,
+            10.99475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106980,
+          "name": "Mahdia",
+          "latlng": [
+            35.50472,
+            11.06222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106987,
+          "name": "Melloulèche",
+          "latlng": [
+            35.16617,
+            11.03504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107014,
+          "name": "Salakta",
+          "latlng": [
+            35.39444,
+            11.04361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107020,
+          "name": "Sidi Alouane",
+          "latlng": [
+            35.37505,
+            10.93899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107043,
+          "name": "Zouila",
+          "latlng": [
+            35.50056,
+            11.06056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2555,
+      "name": "Manouba",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 106942,
+          "name": "El Battan",
+          "latlng": [
+            36.80368,
+            9.84424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106982,
+          "name": "Manouba",
+          "latlng": [
+            36.81006,
+            10.09557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106999,
+          "name": "Mu‘tamadīyat Manūbah",
+          "latlng": [
+            36.80907,
+            10.09467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107004,
+          "name": "Oued Lill",
+          "latlng": [
+            36.83408,
+            10.04057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2560,
+      "name": "Medenine",
+      "code": "82",
+      "shortName": "82",
+      "cities": [
+        {
+          "id": 106921,
+          "name": "Ben Gardane",
+          "latlng": [
+            33.13783,
+            11.21965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106923,
+          "name": "Beni Kheddache",
+          "latlng": [
+            33.25279,
+            10.19883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106950,
+          "name": "Erriadh",
+          "latlng": [
+            33.82063,
+            10.85394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106963,
+          "name": "Houmt El Souk",
+          "latlng": [
+            33.87576,
+            10.85745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106966,
+          "name": "Jerba Midoun",
+          "latlng": [
+            33.77918,
+            10.95215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106985,
+          "name": "Medenine",
+          "latlng": [
+            33.35495,
+            10.50548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106996,
+          "name": "Midoun",
+          "latlng": [
+            33.80813,
+            10.99228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107042,
+          "name": "Zarzis",
+          "latlng": [
+            33.50398,
+            11.11215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2553,
+      "name": "Monastir",
+      "code": "52",
+      "shortName": "52",
+      "cities": [
+        {
+          "id": 106918,
+          "name": "Banbalah",
+          "latlng": [
+            35.7,
+            10.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106919,
+          "name": "Bekalta",
+          "latlng": [
+            35.61739,
+            10.99466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106922,
+          "name": "Beni Hassane",
+          "latlng": [
+            35.5672,
+            10.80869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106937,
+          "name": "Djemmal",
+          "latlng": [
+            35.62231,
+            10.75696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106972,
+          "name": "Ksar Hellal",
+          "latlng": [
+            35.64773,
+            10.89046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106973,
+          "name": "Ksibet el Mediouni",
+          "latlng": [
+            35.68561,
+            10.84256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106979,
+          "name": "Lemta",
+          "latlng": [
+            35.66667,
+            10.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106991,
+          "name": "Menzel Kamel",
+          "latlng": [
+            35.62477,
+            10.66727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106993,
+          "name": "Mesdour",
+          "latlng": [
+            35.68206,
+            10.72746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106997,
+          "name": "Monastir",
+          "latlng": [
+            35.77799,
+            10.82617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107003,
+          "name": "Ouardenine",
+          "latlng": [
+            35.70915,
+            10.67397
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107012,
+          "name": "Sahline",
+          "latlng": [
+            35.75166,
+            10.71109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107018,
+          "name": "Seïada",
+          "latlng": [
+            35.66887,
+            10.89246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107021,
+          "name": "Sidi Ben Nour",
+          "latlng": [
+            35.53333,
+            10.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107027,
+          "name": "Skanes",
+          "latlng": [
+            35.78333,
+            10.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107037,
+          "name": "Touza",
+          "latlng": [
+            35.63544,
+            10.82732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5116,
+      "name": "Nabeul",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 153265,
+          "name": "Azmour",
+          "latlng": [
+            36.9244,
+            11.0069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153266,
+          "name": "Beni Khalled",
+          "latlng": [
+            36.65038,
+            10.59004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153268,
+          "name": "Béni Khiar",
+          "latlng": [
+            36.46666667,
+            10.78333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153267,
+          "name": "Bou Argoub",
+          "latlng": [
+            36.53853,
+            10.55093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153269,
+          "name": "Dar Chaabane",
+          "latlng": [
+            36.47,
+            10.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153270,
+          "name": "El Haouaria",
+          "latlng": [
+            37.05,
+            11.01111111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153271,
+          "name": "El Maâmoura",
+          "latlng": [
+            36.46666667,
+            10.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153272,
+          "name": "El Mida",
+          "latlng": [
+            36.73333333,
+            10.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153273,
+          "name": "El Mrezga",
+          "latlng": [
+            36.42163,
+            10.66411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153274,
+          "name": "Grombalia",
+          "latlng": [
+            36.61,
+            10.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153275,
+          "name": "Hammamet",
+          "latlng": [
+            36.41666667,
+            10.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153276,
+          "name": "Kelibia",
+          "latlng": [
+            36.8475,
+            11.09388889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153277,
+          "name": "Korba",
+          "latlng": [
+            36.56666667,
+            10.86666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153278,
+          "name": "Korbous",
+          "latlng": [
+            36.81638889,
+            10.56861111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153279,
+          "name": "Menzel Bouzelfa",
+          "latlng": [
+            36.6817,
+            10.5847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153280,
+          "name": "Menzel Horr",
+          "latlng": [
+            36.73333333,
+            10.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153281,
+          "name": "Menzel Temime",
+          "latlng": [
+            36.78333333,
+            10.98333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153282,
+          "name": "Nabeul",
+          "latlng": [
+            36.451389,
+            10.736111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153283,
+          "name": "Soliman",
+          "latlng": [
+            36.695126,
+            10.491257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153284,
+          "name": "Takelsa",
+          "latlng": [
+            36.79,
+            10.63
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153285,
+          "name": "Tazerka",
+          "latlng": [
+            36.55,
+            10.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153286,
+          "name": "Zaouiet Djedidi",
+          "latlng": [
+            36.65,
+            10.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153287,
+          "name": "Zriba",
+          "latlng": [
+            36.35585,
+            10.206034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2557,
+      "name": "Sfax",
+      "code": "61",
+      "shortName": "61",
+      "cities": [
+        {
+          "id": 106910,
+          "name": "Agareb",
+          "latlng": [
+            34.74406,
+            10.4611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106924,
+          "name": "Bir Ali Ben Khalifa",
+          "latlng": [
+            34.73592,
+            10.0924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106936,
+          "name": "Djebeniana",
+          "latlng": [
+            35.035,
+            10.90809
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106957,
+          "name": "Gremda",
+          "latlng": [
+            34.75,
+            10.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107019,
+          "name": "Sfax",
+          "latlng": [
+            34.74056,
+            10.76028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107028,
+          "name": "Skhira",
+          "latlng": [
+            34.2992,
+            10.06999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2567,
+      "name": "Sidi Bouzid",
+      "code": "43",
+      "shortName": "43",
+      "cities": [
+        {
+          "id": 106925,
+          "name": "Bir el Hafey",
+          "latlng": [
+            34.93212,
+            9.19321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106949,
+          "name": "Er Regueb",
+          "latlng": [
+            34.85932,
+            9.78654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106967,
+          "name": "Jilma",
+          "latlng": [
+            35.27311,
+            9.42385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106995,
+          "name": "Mezzouna",
+          "latlng": [
+            34.57758,
+            9.84193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107024,
+          "name": "Sidi Bouzid",
+          "latlng": [
+            35.03823,
+            9.48494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2563,
+      "name": "Siliana",
+      "code": "34",
+      "shortName": "34",
+      "cities": [
+        {
+          "id": 106928,
+          "name": "Bou Arada",
+          "latlng": [
+            36.35251,
+            9.62175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106953,
+          "name": "Gafour",
+          "latlng": [
+            36.32045,
+            9.32424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106971,
+          "name": "Kesra",
+          "latlng": [
+            35.81363,
+            9.36434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106978,
+          "name": "Le Krib",
+          "latlng": [
+            36.32802,
+            9.13613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106981,
+          "name": "Maktar",
+          "latlng": [
+            35.85798,
+            9.20072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107026,
+          "name": "Siliana",
+          "latlng": [
+            36.08497,
+            9.37082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2571,
+      "name": "Sousse",
+      "code": "51",
+      "shortName": "51",
+      "cities": [
+        {
+          "id": 106911,
+          "name": "Akouda",
+          "latlng": [
+            35.8691,
+            10.5653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106960,
+          "name": "Hammam Sousse",
+          "latlng": [
+            35.8609,
+            10.60313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106962,
+          "name": "Harqalah",
+          "latlng": [
+            36.03027,
+            10.50904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106998,
+          "name": "Msaken",
+          "latlng": [
+            35.72917,
+            10.58082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107006,
+          "name": "Port el Kantaoui",
+          "latlng": [
+            35.89239,
+            10.59434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107022,
+          "name": "Sidi Bou Ali",
+          "latlng": [
+            35.95667,
+            10.47306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107025,
+          "name": "Sidi el Hani",
+          "latlng": [
+            35.67139,
+            10.31583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107029,
+          "name": "Sousse",
+          "latlng": [
+            35.82539,
+            10.63699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2559,
+      "name": "Tataouine",
+      "code": "83",
+      "shortName": "83",
+      "cities": [
+        {
+          "id": 107009,
+          "name": "Remada",
+          "latlng": [
+            32.31662,
+            10.39551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107034,
+          "name": "Tataouine",
+          "latlng": [
+            32.92967,
+            10.45177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2569,
+      "name": "Tozeur",
+      "code": "72",
+      "shortName": "72",
+      "cities": [
+        {
+          "id": 106933,
+          "name": "Chebika",
+          "latlng": [
+            34.31909,
+            7.93519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106935,
+          "name": "Degache",
+          "latlng": [
+            33.97606,
+            8.2081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107001,
+          "name": "Nefta",
+          "latlng": [
+            33.87309,
+            7.87765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107033,
+          "name": "Tamaghzah",
+          "latlng": [
+            34.38849,
+            7.94313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107038,
+          "name": "Tozeur",
+          "latlng": [
+            33.91968,
+            8.13352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2554,
+      "name": "Tunis",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 106912,
+          "name": "Al Marsá",
+          "latlng": [
+            36.87818,
+            10.32466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106931,
+          "name": "Carthage",
+          "latlng": [
+            36.85961,
+            10.32978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106975,
+          "name": "La Goulette",
+          "latlng": [
+            36.81825,
+            10.3052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106976,
+          "name": "La Mohammedia",
+          "latlng": [
+            36.67446,
+            10.15633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107023,
+          "name": "Sidi Bou Saïd",
+          "latlng": [
+            36.8687,
+            10.34174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107039,
+          "name": "Tunis",
+          "latlng": [
+            36.81897,
+            10.16579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2565,
+      "name": "Zaghouan",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 106943,
+          "name": "El Fahs",
+          "latlng": [
+            36.37419,
+            9.90651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107040,
+          "name": "Zaghouan",
+          "latlng": [
+            36.40291,
+            10.14292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Sint Maarten (Dutch part)",
+    "official": "Sint Maarten (Dutch part)"
+  },
+  "iso2": "SX",
+  "iso3": "SXM",
+  "numericCode": "534",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".sx",
+  "phoneCode": "1721",
+  "capital": "Philipsburg",
+  "currencies": {
+    "ANG": "Netherlands Antillean guilder"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Anguilla",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sx.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sx.svg",
+  "states": []
+}

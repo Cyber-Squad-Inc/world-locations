@@ -1,0 +1,453 @@
+{
+  "name": {
+    "common": "Maldives",
+    "official": "Maldives"
+  },
+  "iso2": "MV",
+  "iso3": "MDV",
+  "numericCode": "462",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".mv",
+  "phoneCode": "960",
+  "capital": "Male",
+  "currencies": {
+    "MVR": "Maldivian rufiyaa"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Maldives",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "MVT",
+      "tzName": "Maldives Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mv.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mv.svg",
+  "states": [
+    {
+      "id": 2594,
+      "name": "Addu",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 67929,
+          "name": "Hithadhoo",
+          "latlng": [
+            -0.6,
+            73.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67937,
+          "name": "Meedhoo",
+          "latlng": [
+            -0.58333,
+            73.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2587,
+      "name": "Alif Alif",
+      "code": "02",
+      "shortName": "02",
+      "cities": []
+    },
+    {
+      "id": 2600,
+      "name": "Alif Dhaal",
+      "code": "00",
+      "shortName": "00",
+      "cities": []
+    },
+    {
+      "id": 2604,
+      "name": "Central",
+      "code": "CE",
+      "shortName": "CE",
+      "cities": []
+    },
+    {
+      "id": 2590,
+      "name": "Dhaalu",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 67931,
+          "name": "Kudahuvadhoo",
+          "latlng": [
+            2.67075,
+            72.89437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2599,
+      "name": "Faafu",
+      "code": "14",
+      "shortName": "14",
+      "cities": []
+    },
+    {
+      "id": 2598,
+      "name": "Gaafu Alif",
+      "code": "27",
+      "shortName": "27",
+      "cities": [
+        {
+          "id": 67943,
+          "name": "Viligili",
+          "latlng": [
+            0.75906,
+            73.43296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2603,
+      "name": "Gaafu Dhaalu",
+      "code": "28",
+      "shortName": "28",
+      "cities": [
+        {
+          "id": 67940,
+          "name": "Thinadhoo",
+          "latlng": [
+            0.5306,
+            72.99969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2595,
+      "name": "Gnaviyani",
+      "code": "29",
+      "shortName": "29",
+      "cities": [
+        {
+          "id": 67927,
+          "name": "Fuvahmulah",
+          "latlng": [
+            -0.29878,
+            73.42403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2586,
+      "name": "Haa Alif",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 67923,
+          "name": "Dhidhdhoo",
+          "latlng": [
+            6.88744,
+            73.11402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2597,
+      "name": "Haa Dhaalu",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 67932,
+          "name": "Kulhudhuffushi",
+          "latlng": [
+            6.62207,
+            73.06998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2596,
+      "name": "Kaafu",
+      "code": "26",
+      "shortName": "26",
+      "cities": [
+        {
+          "id": 67928,
+          "name": "Guraidhoo",
+          "latlng": [
+            3.90045,
+            73.46623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67930,
+          "name": "Hulhumale",
+          "latlng": [
+            4.21169,
+            73.54008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67933,
+          "name": "Maafushi",
+          "latlng": [
+            3.94231,
+            73.4907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67935,
+          "name": "Male",
+          "latlng": [
+            4.17521,
+            73.50916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2601,
+      "name": "Laamu",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 67925,
+          "name": "Fonadhoo",
+          "latlng": [
+            1.83243,
+            73.50257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2607,
+      "name": "Lhaviyani",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 67939,
+          "name": "Naifaru",
+          "latlng": [
+            5.44438,
+            73.36571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2609,
+      "name": "Malé",
+      "code": "MLE",
+      "shortName": "MLE",
+      "cities": []
+    },
+    {
+      "id": 2608,
+      "name": "Meemu",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 67938,
+          "name": "Muli",
+          "latlng": [
+            2.91667,
+            73.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2592,
+      "name": "Noonu",
+      "code": "25",
+      "shortName": "25",
+      "cities": [
+        {
+          "id": 67936,
+          "name": "Manadhoo",
+          "latlng": [
+            5.76687,
+            73.4136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2589,
+      "name": "North Central",
+      "code": "NC",
+      "shortName": "NC",
+      "cities": []
+    },
+    {
+      "id": 2602,
+      "name": "Raa",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 67941,
+          "name": "Ugoofaaru",
+          "latlng": [
+            5.66812,
+            73.03017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2585,
+      "name": "Shaviyani",
+      "code": "24",
+      "shortName": "24",
+      "cities": [
+        {
+          "id": 67926,
+          "name": "Funadhoo",
+          "latlng": [
+            6.15091,
+            73.29013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2605,
+      "name": "South",
+      "code": "SU",
+      "shortName": "SU",
+      "cities": []
+    },
+    {
+      "id": 2606,
+      "name": "South Central",
+      "code": "SC",
+      "shortName": "SC",
+      "cities": [
+        {
+          "id": 67934,
+          "name": "Mahibadhoo",
+          "latlng": [
+            3.75713,
+            72.96893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2591,
+      "name": "Thaa",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 67942,
+          "name": "Veymandoo",
+          "latlng": [
+            2.18772,
+            73.09556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2593,
+      "name": "Upper South",
+      "code": "US",
+      "shortName": "US",
+      "cities": []
+    },
+    {
+      "id": 2584,
+      "name": "Vaavu",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 67924,
+          "name": "Felidhoo",
+          "latlng": [
+            3.47182,
+            73.54699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

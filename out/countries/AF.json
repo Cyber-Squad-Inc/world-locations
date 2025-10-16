@@ -1,0 +1,1306 @@
+{
+  "name": {
+    "common": "Afghanistan",
+    "official": "Afghanistan"
+  },
+  "iso2": "AF",
+  "iso3": "AFG",
+  "numericCode": "004",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".af",
+  "phoneCode": "93",
+  "capital": "Kabul",
+  "currencies": {
+    "AFN": "Afghan afghani"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Kabul",
+      "gmtOffset": 16200,
+      "gmtOffsetName": "UTC+04:30",
+      "abbreviation": "AFT",
+      "tzName": "Afghanistan Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/af.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/af.svg",
+  "states": [
+    {
+      "id": 3901,
+      "name": "Badakhshan",
+      "code": "BDS",
+      "shortName": "BDS",
+      "cities": [
+        {
+          "id": 52,
+          "name": "Ashkāsham",
+          "latlng": [
+            36.68333,
+            71.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 68,
+          "name": "Fayzabad",
+          "latlng": [
+            37.11664,
+            70.58002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 78,
+          "name": "Jurm",
+          "latlng": [
+            36.86477,
+            70.83421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 84,
+          "name": "Khandūd",
+          "latlng": [
+            36.95127,
+            72.318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 115,
+          "name": "Rāghistān",
+          "latlng": [
+            37.66079,
+            70.67346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131,
+          "name": "Wākhān",
+          "latlng": [
+            37.0571,
+            73.34928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3871,
+      "name": "Badghis",
+      "code": "BDG",
+      "shortName": "BDG",
+      "cities": [
+        {
+          "id": 72,
+          "name": "Ghormach",
+          "latlng": [
+            35.73062,
+            63.78264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108,
+          "name": "Qala i Naw",
+          "latlng": [
+            34.98735,
+            63.12891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3875,
+      "name": "Baghlan",
+      "code": "BGL",
+      "shortName": "BGL",
+      "cities": [
+        {
+          "id": 54,
+          "name": "Baghlān",
+          "latlng": [
+            36.13068,
+            68.70829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 140,
+          "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+          "latlng": [
+            35.90617,
+            68.48869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 101,
+          "name": "Nahrīn",
+          "latlng": [
+            36.0649,
+            69.13343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105,
+          "name": "Pul-e Khumrī",
+          "latlng": [
+            35.94458,
+            68.71512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3884,
+      "name": "Balkh",
+      "code": "BAL",
+      "shortName": "BAL",
+      "cities": [
+        {
+          "id": 55,
+          "name": "Balkh",
+          "latlng": [
+            36.75635,
+            66.8972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65,
+          "name": "Dowlatābād",
+          "latlng": [
+            36.98821,
+            66.82069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85,
+          "name": "Khulm",
+          "latlng": [
+            36.69736,
+            67.69826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 91,
+          "name": "Lab-Sar",
+          "latlng": [
+            36.02634,
+            66.83799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 97,
+          "name": "Mazār-e Sharīf",
+          "latlng": [
+            36.70904,
+            67.11087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 112,
+          "name": "Qarchī Gak",
+          "latlng": [
+            37.03999,
+            66.78891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3872,
+      "name": "Bamyan",
+      "code": "BAM",
+      "shortName": "BAM",
+      "cities": [
+        {
+          "id": 57,
+          "name": "Bāmyān",
+          "latlng": [
+            34.82156,
+            67.82734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104,
+          "name": "Panjāb",
+          "latlng": [
+            34.38795,
+            67.02327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3892,
+      "name": "Daykundi",
+      "code": "DAY",
+      "shortName": "DAY",
+      "cities": [
+        {
+          "id": 102,
+          "name": "Nīlī",
+          "latlng": [
+            33.76329,
+            66.07617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3899,
+      "name": "Farah",
+      "code": "FRA",
+      "shortName": "FRA",
+      "cities": [
+        {
+          "id": 66,
+          "name": "Farah",
+          "latlng": [
+            32.37451,
+            62.11638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3889,
+      "name": "Faryab",
+      "code": "FYB",
+      "shortName": "FYB",
+      "cities": [
+        {
+          "id": 50,
+          "name": "Andkhoy",
+          "latlng": [
+            36.95293,
+            65.12376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 96,
+          "name": "Maymana",
+          "latlng": [
+            35.92139,
+            64.78361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3870,
+      "name": "Ghazni",
+      "code": "GHA",
+      "shortName": "GHA",
+      "cities": [
+        {
+          "id": 71,
+          "name": "Ghazni",
+          "latlng": [
+            33.55391,
+            68.42096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3888,
+      "name": "Ghōr",
+      "code": "GHO",
+      "shortName": "GHO",
+      "cities": [
+        {
+          "id": 67,
+          "name": "Fayrōz Kōh",
+          "latlng": [
+            34.51952,
+            65.25093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 121,
+          "name": "Shahrak",
+          "latlng": [
+            34.10737,
+            64.3052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3873,
+      "name": "Helmand",
+      "code": "HEL",
+      "shortName": "HEL",
+      "cities": [
+        {
+          "id": 141,
+          "name": "‘Alāqahdārī Dīshū",
+          "latlng": [
+            30.43206,
+            63.29802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 70,
+          "name": "Gereshk",
+          "latlng": [
+            31.82089,
+            64.57005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 93,
+          "name": "Lashkar Gāh",
+          "latlng": [
+            31.59382,
+            64.37161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 95,
+          "name": "Markaz-e Ḩukūmat-e Darwēshān",
+          "latlng": [
+            31.13231,
+            64.1934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 118,
+          "name": "Sangīn",
+          "latlng": [
+            32.07275,
+            64.8359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3887,
+      "name": "Herat",
+      "code": "HER",
+      "shortName": "HER",
+      "cities": [
+        {
+          "id": 60,
+          "name": "Chahār Burj",
+          "latlng": [
+            34.24475,
+            62.19165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 73,
+          "name": "Ghōriyān",
+          "latlng": [
+            34.3448,
+            61.49321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 74,
+          "name": "Herāt",
+          "latlng": [
+            34.34817,
+            62.19967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 80,
+          "name": "Kafir Qala",
+          "latlng": [
+            34.66667,
+            61.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 82,
+          "name": "Karukh",
+          "latlng": [
+            34.48108,
+            62.5863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 88,
+          "name": "Kuhsān",
+          "latlng": [
+            34.65389,
+            61.19778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 90,
+          "name": "Kushk",
+          "latlng": [
+            33.29565,
+            61.95221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 111,
+          "name": "Qarah Bāgh",
+          "latlng": [
+            34.94023,
+            61.77589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 123,
+          "name": "Shīnḏanḏ",
+          "latlng": [
+            33.30294,
+            62.1474
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 129,
+          "name": "Tīr Pul",
+          "latlng": [
+            34.59431,
+            61.26895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 135,
+          "name": "Zindah Jān",
+          "latlng": [
+            34.34264,
+            61.74675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3886,
+      "name": "Jowzjan",
+      "code": "JOW",
+      "shortName": "JOW",
+      "cities": [
+        {
+          "id": 136,
+          "name": "Āqchah",
+          "latlng": [
+            36.905,
+            66.18341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 63,
+          "name": "Darzāb",
+          "latlng": [
+            35.97744,
+            65.37828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 113,
+          "name": "Qarqīn",
+          "latlng": [
+            37.41853,
+            66.04358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 122,
+          "name": "Shibirghān",
+          "latlng": [
+            36.66757,
+            65.7529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3902,
+      "name": "Kabul",
+      "code": "KAB",
+      "shortName": "KAB",
+      "cities": [
+        {
+          "id": 79,
+          "name": "Kabul",
+          "latlng": [
+            34.52813,
+            69.17233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 99,
+          "name": "Mīr Bachah Kōṯ",
+          "latlng": [
+            34.74999,
+            69.11899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 103,
+          "name": "Paghmān",
+          "latlng": [
+            34.58787,
+            68.95091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3890,
+      "name": "Kandahar",
+      "code": "KAN",
+      "shortName": "KAN",
+      "cities": [
+        {
+          "id": 81,
+          "name": "Kandahār",
+          "latlng": [
+            31.61332,
+            65.71013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3879,
+      "name": "Kapisa",
+      "code": "KAP",
+      "shortName": "KAP",
+      "cities": [
+        {
+          "id": 124,
+          "name": "Sidqābād",
+          "latlng": [
+            35.02298,
+            69.35112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3878,
+      "name": "Khost",
+      "code": "KHO",
+      "shortName": "KHO",
+      "cities": [
+        {
+          "id": 87,
+          "name": "Khōst",
+          "latlng": [
+            33.33951,
+            69.92041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3876,
+      "name": "Kunar",
+      "code": "KNR",
+      "shortName": "KNR",
+      "cities": [
+        {
+          "id": 51,
+          "name": "Asadabad",
+          "latlng": [
+            34.87311,
+            71.14697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 138,
+          "name": "Āsmār",
+          "latlng": [
+            35.03333,
+            71.35809
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3900,
+      "name": "Kunduz Province",
+      "code": "KDZ",
+      "shortName": "KDZ",
+      "cities": [
+        {
+          "id": 64,
+          "name": "Dasht-e Archī",
+          "latlng": [
+            37.13333,
+            69.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 75,
+          "name": "Imām Şāḩib",
+          "latlng": [
+            37.18897,
+            68.93644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 83,
+          "name": "Khanabad",
+          "latlng": [
+            36.6825,
+            69.11556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 89,
+          "name": "Kunduz",
+          "latlng": [
+            36.72895,
+            68.857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 114,
+          "name": "Qarāwul",
+          "latlng": [
+            37.21959,
+            68.7802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3891,
+      "name": "Laghman",
+      "code": "LAG",
+      "shortName": "LAG",
+      "cities": [
+        {
+          "id": 98,
+          "name": "Mehtar Lām",
+          "latlng": [
+            34.67139,
+            70.20944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3897,
+      "name": "Logar",
+      "code": "LOG",
+      "shortName": "LOG",
+      "cities": [
+        {
+          "id": 56,
+          "name": "Baraki Barak",
+          "latlng": [
+            33.96744,
+            68.9492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 139,
+          "name": "Ḩukūmatī Azrah",
+          "latlng": [
+            34.17355,
+            69.64573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106,
+          "name": "Pul-e ‘Alam",
+          "latlng": [
+            33.99529,
+            69.02274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3882,
+      "name": "Nangarhar",
+      "code": "NAN",
+      "shortName": "NAN",
+      "cities": [
+        {
+          "id": 58,
+          "name": "Bāsawul",
+          "latlng": [
+            34.24749,
+            70.87218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 77,
+          "name": "Jalālābād",
+          "latlng": [
+            34.42647,
+            70.45153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 94,
+          "name": "Markaz-e Woluswalī-ye Āchīn",
+          "latlng": [
+            34.12583,
+            70.70778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3896,
+      "name": "Nimruz",
+      "code": "NIM",
+      "shortName": "NIM",
+      "cities": [
+        {
+          "id": 86,
+          "name": "Khāsh",
+          "latlng": [
+            31.52919,
+            62.79055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 100,
+          "name": "Mīrābād",
+          "latlng": [
+            30.43624,
+            61.8383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 116,
+          "name": "Rūdbār",
+          "latlng": [
+            30.15,
+            62.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 132,
+          "name": "Zaranj",
+          "latlng": [
+            30.95962,
+            61.86037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3880,
+      "name": "Nuristan",
+      "code": "NUR",
+      "shortName": "NUR",
+      "cities": [
+        {
+          "id": 107,
+          "name": "Pārūn",
+          "latlng": [
+            35.42064,
+            70.92261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3894,
+      "name": "Paktia",
+      "code": "PIA",
+      "shortName": "PIA",
+      "cities": [
+        {
+          "id": 69,
+          "name": "Gardez",
+          "latlng": [
+            33.59744,
+            69.22592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3877,
+      "name": "Paktika",
+      "code": "PKA",
+      "shortName": "PKA",
+      "cities": [
+        {
+          "id": 120,
+          "name": "Saṟōbī",
+          "latlng": [
+            32.75221,
+            69.04587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 134,
+          "name": "Zaṟah Sharan",
+          "latlng": [
+            33.14641,
+            68.79213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 133,
+          "name": "Zarghūn Shahr",
+          "latlng": [
+            32.84734,
+            68.44573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3881,
+      "name": "Panjshir",
+      "code": "PAN",
+      "shortName": "PAN",
+      "cities": [
+        {
+          "id": 59,
+          "name": "Bāzārak",
+          "latlng": [
+            35.31292,
+            69.51519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3895,
+      "name": "Parwan",
+      "code": "PAR",
+      "shortName": "PAR",
+      "cities": [
+        {
+          "id": 61,
+          "name": "Charikar",
+          "latlng": [
+            35.01361,
+            69.17139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 76,
+          "name": "Jabal os Saraj",
+          "latlng": [
+            35.11833,
+            69.23778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3883,
+      "name": "Samangan",
+      "code": "SAM",
+      "shortName": "SAM",
+      "cities": [
+        {
+          "id": 53,
+          "name": "Aībak",
+          "latlng": [
+            36.26468,
+            68.01551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3885,
+      "name": "Sar-e Pol",
+      "code": "SAR",
+      "shortName": "SAR",
+      "cities": [
+        {
+          "id": 62,
+          "name": "Chīras",
+          "latlng": [
+            35.41674,
+            65.98234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 92,
+          "name": "Larkird",
+          "latlng": [
+            35.48936,
+            66.66409
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 110,
+          "name": "Qal‘ah-ye Shahr",
+          "latlng": [
+            35.54729,
+            65.5676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 117,
+          "name": "Sang-e Chārak",
+          "latlng": [
+            35.84972,
+            66.43694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 119,
+          "name": "Sar-e Pul",
+          "latlng": [
+            36.21544,
+            65.93249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 125,
+          "name": "Tagāw-Bāy",
+          "latlng": [
+            35.69941,
+            66.06164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 128,
+          "name": "Tukzār",
+          "latlng": [
+            35.94831,
+            66.42132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3893,
+      "name": "Takhar",
+      "code": "TAK",
+      "shortName": "TAK",
+      "cities": [
+        {
+          "id": 137,
+          "name": "Ārt Khwājah",
+          "latlng": [
+            37.08571,
+            69.47958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 126,
+          "name": "Taloqan",
+          "latlng": [
+            36.73605,
+            69.53451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3898,
+      "name": "Urozgan",
+      "code": "URU",
+      "shortName": "URU",
+      "cities": [
+        {
+          "id": 127,
+          "name": "Tarinkot",
+          "latlng": [
+            32.62998,
+            65.87806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130,
+          "name": "Uruzgān",
+          "latlng": [
+            32.92775,
+            66.63253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3874,
+      "name": "Zabul",
+      "code": "ZAB",
+      "shortName": "ZAB",
+      "cities": [
+        {
+          "id": 109,
+          "name": "Qalāt",
+          "latlng": [
+            32.10575,
+            66.90833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

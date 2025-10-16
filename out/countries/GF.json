@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "French Guiana",
+    "official": "French Guiana"
+  },
+  "iso2": "GF",
+  "iso3": "GUF",
+  "numericCode": "254",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".gf",
+  "phoneCode": "594",
+  "capital": "Cayenne",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Cayenne",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "GFT",
+      "tzName": "French Guiana Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gf.svg",
+  "states": []
+}

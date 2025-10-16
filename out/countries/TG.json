@@ -1,0 +1,312 @@
+{
+  "name": {
+    "common": "Togo",
+    "official": "Togo"
+  },
+  "iso2": "TG",
+  "iso3": "TGO",
+  "numericCode": "768",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".tg",
+  "phoneCode": "228",
+  "capital": "Lome",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Lome",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tg.svg",
+  "states": [
+    {
+      "id": 2575,
+      "name": "Centrale",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 105173,
+          "name": "Sokodé",
+          "latlng": [
+            8.98333,
+            1.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105174,
+          "name": "Sotouboua",
+          "latlng": [
+            8.5634,
+            0.98399
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105176,
+          "name": "Tchamba",
+          "latlng": [
+            9.03333,
+            1.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2579,
+      "name": "Kara",
+      "code": "K",
+      "shortName": "K",
+      "cities": [
+        {
+          "id": 105161,
+          "name": "Bafilo",
+          "latlng": [
+            9.35,
+            1.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105162,
+          "name": "Bassar",
+          "latlng": [
+            9.25025,
+            0.78213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105164,
+          "name": "Kandé",
+          "latlng": [
+            9.95778,
+            1.04472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105165,
+          "name": "Kara",
+          "latlng": [
+            9.55111,
+            1.18611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105168,
+          "name": "Niamtougou",
+          "latlng": [
+            9.76806,
+            1.10528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105170,
+          "name": "Pagouda",
+          "latlng": [
+            9.7525,
+            1.32778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105171,
+          "name": "Préfecture de Bassar",
+          "latlng": [
+            9.25,
+            0.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2576,
+      "name": "Maritime",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 105158,
+          "name": "Aného",
+          "latlng": [
+            6.22798,
+            1.5919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105167,
+          "name": "Lomé",
+          "latlng": [
+            6.12874,
+            1.22154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105175,
+          "name": "Tabligbo",
+          "latlng": [
+            6.58333,
+            1.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105177,
+          "name": "Tsévié",
+          "latlng": [
+            6.42611,
+            1.21333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105178,
+          "name": "Vogan",
+          "latlng": [
+            6.33333,
+            1.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2577,
+      "name": "Plateaux",
+      "code": "P",
+      "shortName": "P",
+      "cities": [
+        {
+          "id": 105157,
+          "name": "Amlamé",
+          "latlng": [
+            7.46667,
+            0.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105159,
+          "name": "Atakpamé",
+          "latlng": [
+            7.53333,
+            1.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105160,
+          "name": "Badou",
+          "latlng": [
+            7.58333,
+            0.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105166,
+          "name": "Kpalimé",
+          "latlng": [
+            6.9,
+            0.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105169,
+          "name": "Notsé",
+          "latlng": [
+            6.95,
+            1.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2578,
+      "name": "Savanes",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 105163,
+          "name": "Dapaong",
+          "latlng": [
+            10.86225,
+            0.20762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105172,
+          "name": "Sansanné-Mango",
+          "latlng": [
+            10.35917,
+            0.47083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

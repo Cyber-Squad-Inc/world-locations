@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Niue",
+    "official": "Niue"
+  },
+  "iso2": "NU",
+  "iso3": "NIU",
+  "numericCode": "570",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".nu",
+  "phoneCode": "683",
+  "capital": "Alofi",
+  "currencies": {
+    "NZD": "New Zealand dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Niue",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "NUT",
+      "tzName": "Niue Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/nu.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/nu.svg",
+  "states": []
+}

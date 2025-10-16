@@ -1,0 +1,168 @@
+{
+  "name": {
+    "common": "Bahrain",
+    "official": "Bahrain"
+  },
+  "iso2": "BH",
+  "iso3": "BHR",
+  "numericCode": "048",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".bh",
+  "phoneCode": "973",
+  "capital": "Manama",
+  "currencies": {
+    "BHD": "Bahraini dinar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Bahrain",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bh.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bh.svg",
+  "states": [
+    {
+      "id": 1992,
+      "name": "Capital",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 9757,
+          "name": "Jidd Ḩafş",
+          "latlng": [
+            26.21861,
+            50.54778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9760,
+          "name": "Manama",
+          "latlng": [
+            26.22787,
+            50.58565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9761,
+          "name": "Sitrah",
+          "latlng": [
+            26.15472,
+            50.62056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1996,
+      "name": "Central",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 9758,
+          "name": "Madīnat Ḩamad",
+          "latlng": [
+            26.11528,
+            50.50694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1995,
+      "name": "Muharraq",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 9754,
+          "name": "Al Ḩadd",
+          "latlng": [
+            26.24556,
+            50.65417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9753,
+          "name": "Al Muharraq",
+          "latlng": [
+            26.25722,
+            50.61194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1994,
+      "name": "Northern",
+      "code": "17",
+      "shortName": "17",
+      "cities": []
+    },
+    {
+      "id": 1993,
+      "name": "Southern",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 9755,
+          "name": "Ar Rifā‘",
+          "latlng": [
+            26.13,
+            50.555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9756,
+          "name": "Dār Kulayb",
+          "latlng": [
+            26.06861,
+            50.50389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9759,
+          "name": "Madīnat ‘Īsá",
+          "latlng": [
+            26.17361,
+            50.54778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "South Georgia",
+    "official": "South Georgia"
+  },
+  "iso2": "GS",
+  "iso3": "SGS",
+  "numericCode": "239",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".gs",
+  "phoneCode": "500",
+  "capital": "Grytviken",
+  "currencies": {
+    "GBP": "British pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Atlantic/South_Georgia",
+      "gmtOffset": -7200,
+      "gmtOffsetName": "UTC-02:00",
+      "abbreviation": "GST",
+      "tzName": "South Georgia and the South Sandwich Islands Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gs.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gs.svg",
+  "states": []
+}

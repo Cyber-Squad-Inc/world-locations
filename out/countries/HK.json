@@ -1,0 +1,468 @@
+{
+  "name": {
+    "common": "Hong Kong S.A.R.",
+    "official": "Hong Kong S.A.R."
+  },
+  "iso2": "HK",
+  "iso3": "HKG",
+  "numericCode": "344",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "tld": ".hk",
+  "phoneCode": "852",
+  "capital": "Hong Kong",
+  "currencies": {
+    "HKD": "Hong Kong dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Hong_Kong",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "HKT",
+      "tzName": "Hong Kong Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/hk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/hk.svg",
+  "states": [
+    {
+      "id": 4889,
+      "name": "Central and Western",
+      "code": "HCW",
+      "shortName": "HCW",
+      "cities": [
+        {
+          "id": 153484,
+          "name": "Admiralty",
+          "latlng": [
+            22.278,
+            114.164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153483,
+          "name": "Central",
+          "latlng": [
+            22.281,
+            114.159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4891,
+      "name": "Eastern",
+      "code": "HEA",
+      "shortName": "HEA",
+      "cities": []
+    },
+    {
+      "id": 4888,
+      "name": "Islands",
+      "code": "NIS",
+      "shortName": "NIS",
+      "cities": [
+        {
+          "id": 153508,
+          "name": "Tai O",
+          "latlng": [
+            22.247,
+            113.869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4895,
+      "name": "Kowloon City",
+      "code": "KKC",
+      "shortName": "KKC",
+      "cities": [
+        {
+          "id": 153500,
+          "name": "Kowloon Tong",
+          "latlng": [
+            22.337,
+            114.179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4898,
+      "name": "Kwai Tsing",
+      "code": "NKT",
+      "shortName": "NKT",
+      "cities": []
+    },
+    {
+      "id": 4897,
+      "name": "Kwun Tong",
+      "code": "KKT",
+      "shortName": "KKT",
+      "cities": [
+        {
+          "id": 153505,
+          "name": "Kwun Tong",
+          "latlng": [
+            22.31,
+            114.225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153504,
+          "name": "Lam Tin",
+          "latlng": [
+            22.307,
+            114.235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4900,
+      "name": "North",
+      "code": "NNO",
+      "shortName": "NNO",
+      "cities": [
+        {
+          "id": 153497,
+          "name": "Sheung Shui",
+          "latlng": [
+            22.501,
+            114.123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4887,
+      "name": "Sai Kung",
+      "code": "NSK",
+      "shortName": "NSK",
+      "cities": [
+        {
+          "id": 153493,
+          "name": "Sai Kung",
+          "latlng": [
+            22.384,
+            114.273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153498,
+          "name": "Tseung Kwan O",
+          "latlng": [
+            22.319,
+            114.263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4901,
+      "name": "Sha Tin",
+      "code": "NST",
+      "shortName": "NST",
+      "cities": [
+        {
+          "id": 153494,
+          "name": "Ma On Shan",
+          "latlng": [
+            22.422,
+            114.23
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153489,
+          "name": "Sha Tin",
+          "latlng": [
+            22.383,
+            114.188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153499,
+          "name": "Sha Tin Wai",
+          "latlng": [
+            22.38,
+            114.191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4894,
+      "name": "Sham Shui Po",
+      "code": "KSS",
+      "shortName": "KSS",
+      "cities": [
+        {
+          "id": 153501,
+          "name": "Cheung Sha Wan",
+          "latlng": [
+            22.336,
+            114.151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153502,
+          "name": "Lai Chi Kok",
+          "latlng": [
+            22.337,
+            114.146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4892,
+      "name": "Southern",
+      "code": "HSO",
+      "shortName": "HSO",
+      "cities": [
+        {
+          "id": 153506,
+          "name": "Aberdeen",
+          "latlng": [
+            22.247,
+            114.152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153496,
+          "name": "Stanley",
+          "latlng": [
+            22.22,
+            114.214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153507,
+          "name": "Stanley Peninsula",
+          "latlng": [
+            22.21,
+            114.217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4885,
+      "name": "Tai Po",
+      "code": "NTP",
+      "shortName": "NTP",
+      "cities": [
+        {
+          "id": 153509,
+          "name": "Tai Mei Tuk",
+          "latlng": [
+            22.457,
+            114.184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153495,
+          "name": "Tai Po",
+          "latlng": [
+            22.449,
+            114.16
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4884,
+      "name": "Tsuen Wan",
+      "code": "NTW",
+      "shortName": "NTW",
+      "cities": [
+        {
+          "id": 153490,
+          "name": "Tsuen Wan",
+          "latlng": [
+            22.371,
+            114.114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153491,
+          "name": "Tuen Mun",
+          "latlng": [
+            22.395,
+            113.973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4899,
+      "name": "Tuen Mun",
+      "code": "NTM",
+      "shortName": "NTM",
+      "cities": []
+    },
+    {
+      "id": 4890,
+      "name": "Wan Chai",
+      "code": "HWC",
+      "shortName": "HWC",
+      "cities": [
+        {
+          "id": 153486,
+          "name": "Causeway Bay",
+          "latlng": [
+            22.28,
+            114.185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153485,
+          "name": "Wan Chai",
+          "latlng": [
+            22.278,
+            114.182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4896,
+      "name": "Wong Tai Sin",
+      "code": "KWT",
+      "shortName": "KWT",
+      "cities": [
+        {
+          "id": 153503,
+          "name": "Wong Tai Sin",
+          "latlng": [
+            22.341,
+            114.193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4893,
+      "name": "Yau Tsim Mong",
+      "code": "KYT",
+      "shortName": "KYT",
+      "cities": [
+        {
+          "id": 153488,
+          "name": "Mong Kok",
+          "latlng": [
+            22.319,
+            114.169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153487,
+          "name": "Tsim Sha Tsui",
+          "latlng": [
+            22.298,
+            114.172
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4883,
+      "name": "Yuen Long",
+      "code": "NYL",
+      "shortName": "NYL",
+      "cities": [
+        {
+          "id": 153492,
+          "name": "Yuen Long",
+          "latlng": [
+            22.444,
+            114.027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

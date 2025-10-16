@@ -1,0 +1,832 @@
+{
+  "name": {
+    "common": "Tajikistan",
+    "official": "Tajikistan"
+  },
+  "iso2": "TJ",
+  "iso3": "TJK",
+  "numericCode": "762",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "tld": ".tj",
+  "phoneCode": "992",
+  "capital": "Dushanbe",
+  "currencies": {
+    "TJS": "Tajikistani somoni"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Dushanbe",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TJT",
+      "tzName": "Tajikistan Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tj.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tj.svg",
+  "states": [
+    {
+      "id": 3399,
+      "name": "Gorno-Badakhshan",
+      "code": "GB",
+      "shortName": "GB",
+      "cities": [
+        {
+          "id": 106776,
+          "name": "Ishqoshim",
+          "latlng": [
+            36.72484,
+            71.61331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106781,
+          "name": "Khorugh",
+          "latlng": [
+            37.48974,
+            71.55304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106790,
+          "name": "Murghob",
+          "latlng": [
+            38.17023,
+            73.96674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106796,
+          "name": "Nohiyai Shughnon",
+          "latlng": [
+            37.70004,
+            72.16748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3398,
+      "name": "Khatlon",
+      "code": "KT",
+      "shortName": "KT",
+      "cities": [
+        {
+          "id": 106760,
+          "name": "Abdurahmoni Jomí",
+          "latlng": [
+            37.94636,
+            68.80878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106763,
+          "name": "Boshchorbogh",
+          "latlng": [
+            37.52027,
+            68.12825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106765,
+          "name": "Bŭstonqal’a",
+          "latlng": [
+            37.84783,
+            68.83125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106767,
+          "name": "Chubek",
+          "latlng": [
+            37.61453,
+            69.70525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106768,
+          "name": "Danghara",
+          "latlng": [
+            38.09578,
+            69.33998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106770,
+          "name": "Dŭstí",
+          "latlng": [
+            37.34812,
+            68.66398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106771,
+          "name": "Farkhor",
+          "latlng": [
+            37.49219,
+            69.40356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106773,
+          "name": "Gharavŭtí",
+          "latlng": [
+            37.56703,
+            68.44668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106778,
+          "name": "Jilikŭl",
+          "latlng": [
+            37.49167,
+            68.53106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106784,
+          "name": "Kirov",
+          "latlng": [
+            37.81908,
+            68.85905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106785,
+          "name": "Kolkhozobod",
+          "latlng": [
+            37.58823,
+            68.65886
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106788,
+          "name": "Kŭlob",
+          "latlng": [
+            37.91459,
+            69.78454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106789,
+          "name": "Moskovskiy",
+          "latlng": [
+            37.60931,
+            68.58094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106791,
+          "name": "Mŭ’minobod",
+          "latlng": [
+            38.10714,
+            70.03213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106793,
+          "name": "Nohiyai Kolkhozobod",
+          "latlng": [
+            37.57277,
+            68.81528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106795,
+          "name": "Nohiyai Panj",
+          "latlng": [
+            37.31611,
+            69.16679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106797,
+          "name": "Nohiyai Vakhsh",
+          "latlng": [
+            37.75602,
+            68.94138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106798,
+          "name": "Norak",
+          "latlng": [
+            38.38917,
+            69.32272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106803,
+          "name": "Orzu",
+          "latlng": [
+            37.5582,
+            68.81952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106806,
+          "name": "Panj",
+          "latlng": [
+            37.23634,
+            69.09911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106810,
+          "name": "Qŭrghonteppa",
+          "latlng": [
+            37.83399,
+            68.78186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106814,
+          "name": "Shahritus",
+          "latlng": [
+            37.26206,
+            68.13849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106817,
+          "name": "Sovet",
+          "latlng": [
+            38.0467,
+            69.58822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106820,
+          "name": "Tartiki",
+          "latlng": [
+            37.58221,
+            68.13347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106824,
+          "name": "Vakhsh",
+          "latlng": [
+            37.71485,
+            68.83456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106828,
+          "name": "Vose’",
+          "latlng": [
+            37.80396,
+            69.64417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106829,
+          "name": "Yovon",
+          "latlng": [
+            38.31408,
+            69.03784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3397,
+      "name": "Nohiyahoi Tobei Jumhurí",
+      "code": "RA",
+      "shortName": "RA",
+      "cities": [
+        {
+          "id": 106769,
+          "name": "Darband",
+          "latlng": [
+            38.86776,
+            69.96642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106774,
+          "name": "Hisor",
+          "latlng": [
+            38.52504,
+            68.55124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106779,
+          "name": "Karakenja",
+          "latlng": [
+            39.23585,
+            71.52412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106780,
+          "name": "Khodzha-Maston",
+          "latlng": [
+            38.74457,
+            68.62702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106800,
+          "name": "Novobod",
+          "latlng": [
+            39.01084,
+            70.15082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106801,
+          "name": "Obigarm",
+          "latlng": [
+            38.71731,
+            69.70885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106811,
+          "name": "Rasht",
+          "latlng": [
+            39.02871,
+            70.37446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106812,
+          "name": "Roghun",
+          "latlng": [
+            38.69331,
+            69.73692
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106813,
+          "name": "Shahrinav",
+          "latlng": [
+            38.57085,
+            68.33498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106819,
+          "name": "Tagob",
+          "latlng": [
+            38.83827,
+            68.89847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106821,
+          "name": "Tursunzoda",
+          "latlng": [
+            38.51271,
+            68.23163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106822,
+          "name": "Vahdat",
+          "latlng": [
+            38.55632,
+            69.01354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106823,
+          "name": "Vahdat District",
+          "latlng": [
+            38.83333,
+            69.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106825,
+          "name": "Varzob",
+          "latlng": [
+            38.77369,
+            68.81776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106826,
+          "name": "Varzob District",
+          "latlng": [
+            38.75,
+            68.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3400,
+      "name": "Sughd",
+      "code": "SU",
+      "shortName": "SU",
+      "cities": [
+        {
+          "id": 106761,
+          "name": "Adrasmon",
+          "latlng": [
+            40.64928,
+            69.98472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106762,
+          "name": "Ayní",
+          "latlng": [
+            39.39406,
+            68.53766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106764,
+          "name": "Bŭston",
+          "latlng": [
+            40.52286,
+            69.33307
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106766,
+          "name": "Chkalov",
+          "latlng": [
+            40.23417,
+            69.69481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106772,
+          "name": "Ghafurov",
+          "latlng": [
+            40.21571,
+            69.72867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106775,
+          "name": "Isfara",
+          "latlng": [
+            40.12649,
+            70.62526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106777,
+          "name": "Istaravshan",
+          "latlng": [
+            39.9142,
+            69.00328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106782,
+          "name": "Khŭjand",
+          "latlng": [
+            40.28256,
+            69.62216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106783,
+          "name": "Kim",
+          "latlng": [
+            40.20798,
+            70.46882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106786,
+          "name": "Konibodom",
+          "latlng": [
+            40.29414,
+            70.43122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106787,
+          "name": "Konsoy",
+          "latlng": [
+            40.49155,
+            69.70245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106792,
+          "name": "Neftobod",
+          "latlng": [
+            40.21524,
+            70.57193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106794,
+          "name": "Nohiyai Konibodom",
+          "latlng": [
+            40.26877,
+            70.33057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106799,
+          "name": "Nov",
+          "latlng": [
+            40.1522,
+            69.37076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106802,
+          "name": "Oltintopkan",
+          "latlng": [
+            40.65425,
+            69.59811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106804,
+          "name": "Pakhtakoron",
+          "latlng": [
+            40.15709,
+            68.74659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106805,
+          "name": "Palos",
+          "latlng": [
+            40.31628,
+            69.73743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106807,
+          "name": "Panjakent",
+          "latlng": [
+            39.49524,
+            67.60931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106808,
+          "name": "Proletar",
+          "latlng": [
+            40.16713,
+            69.50163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106809,
+          "name": "Quruqsoy",
+          "latlng": [
+            40.57648,
+            69.37962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106815,
+          "name": "Shaydon",
+          "latlng": [
+            40.66992,
+            70.3502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106816,
+          "name": "Shŭrob",
+          "latlng": [
+            40.04605,
+            70.54117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106818,
+          "name": "Taboshar",
+          "latlng": [
+            40.57017,
+            69.64175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 106827,
+          "name": "Vorukh",
+          "latlng": [
+            39.85125,
+            70.58012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

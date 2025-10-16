@@ -1,0 +1,210 @@
+{
+  "name": {
+    "common": "Djibouti",
+    "official": "Djibouti"
+  },
+  "iso2": "DJ",
+  "iso3": "DJI",
+  "numericCode": "262",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".dj",
+  "phoneCode": "253",
+  "capital": "Djibouti",
+  "currencies": {
+    "DJF": "Djiboutian franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Djibouti",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/dj.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/dj.svg",
+  "states": [
+    {
+      "id": 2933,
+      "name": "Ali Sabieh",
+      "code": "AS",
+      "shortName": "AS",
+      "cities": [
+        {
+          "id": 30561,
+          "name": "'Ali Sabieh",
+          "latlng": [
+            11.15583,
+            42.7125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30567,
+          "name": "Goubétto",
+          "latlng": [
+            11.42389,
+            43.00028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30569,
+          "name": "Holhol",
+          "latlng": [
+            11.31028,
+            42.92944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2932,
+      "name": "Arta",
+      "code": "AR",
+      "shortName": "AR",
+      "cities": [
+        {
+          "id": 30563,
+          "name": "Arta",
+          "latlng": [
+            11.52639,
+            42.85194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2930,
+      "name": "Dikhil",
+      "code": "DI",
+      "shortName": "DI",
+      "cities": [
+        {
+          "id": 30564,
+          "name": "Dikhil",
+          "latlng": [
+            11.10454,
+            42.36971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30568,
+          "name": "Gâlâfi",
+          "latlng": [
+            11.71583,
+            41.83611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2929,
+      "name": "Djibouti",
+      "code": "DJ",
+      "shortName": "DJ",
+      "cities": [
+        {
+          "id": 30565,
+          "name": "Djibouti",
+          "latlng": [
+            11.58901,
+            43.14503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30570,
+          "name": "Loyada",
+          "latlng": [
+            11.46111,
+            43.25278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2928,
+      "name": "Obock",
+      "code": "OB",
+      "shortName": "OB",
+      "cities": [
+        {
+          "id": 30562,
+          "name": "Alaïli Ḏaḏḏa‘",
+          "latlng": [
+            12.42167,
+            42.89556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30571,
+          "name": "Obock",
+          "latlng": [
+            11.96693,
+            43.28835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2931,
+      "name": "Tadjourah",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 30566,
+          "name": "Dorra",
+          "latlng": [
+            12.15028,
+            42.47624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30572,
+          "name": "Tadjourah",
+          "latlng": [
+            11.78778,
+            42.88222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

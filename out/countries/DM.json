@@ -1,0 +1,297 @@
+{
+  "name": {
+    "common": "Dominica",
+    "official": "Dominica"
+  },
+  "iso2": "DM",
+  "iso3": "DMA",
+  "numericCode": "212",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".dm",
+  "phoneCode": "1",
+  "capital": "Roseau",
+  "currencies": {
+    "XCD": "Eastern Caribbean dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Dominica",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/dm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/dm.svg",
+  "states": [
+    {
+      "id": 4082,
+      "name": "Saint Andrew",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 31003,
+          "name": "Calibishie",
+          "latlng": [
+            15.59297,
+            -61.34901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31008,
+          "name": "Marigot",
+          "latlng": [
+            15.53886,
+            -61.28375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31017,
+          "name": "Wesley",
+          "latlng": [
+            15.56667,
+            -61.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31018,
+          "name": "Woodford Hill",
+          "latlng": [
+            15.58093,
+            -61.33149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4078,
+      "name": "Saint David",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 31004,
+          "name": "Castle Bruce",
+          "latlng": [
+            15.44397,
+            -61.25723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31012,
+          "name": "Rosalie",
+          "latlng": [
+            15.36667,
+            -61.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4079,
+      "name": "Saint George",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 31013,
+          "name": "Roseau",
+          "latlng": [
+            15.30174,
+            -61.38808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4076,
+      "name": "Saint John",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 31011,
+          "name": "Portsmouth",
+          "latlng": [
+            15.58333,
+            -61.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4085,
+      "name": "Saint Joseph",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 31014,
+          "name": "Saint Joseph",
+          "latlng": [
+            15.4,
+            -61.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31015,
+          "name": "Salisbury",
+          "latlng": [
+            15.43689,
+            -61.43637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4083,
+      "name": "Saint Luke",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 31009,
+          "name": "Pointe Michel",
+          "latlng": [
+            15.25976,
+            -61.37452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4077,
+      "name": "Saint Mark",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 31016,
+          "name": "Soufrière",
+          "latlng": [
+            15.23374,
+            -61.35881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4080,
+      "name": "Saint Patrick",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 31002,
+          "name": "Berekua",
+          "latlng": [
+            15.23333,
+            -61.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31006,
+          "name": "La Plaine",
+          "latlng": [
+            15.32768,
+            -61.24753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4084,
+      "name": "Saint Paul",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 31007,
+          "name": "Mahaut",
+          "latlng": [
+            15.36357,
+            -61.39701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31010,
+          "name": "Pont Cassé",
+          "latlng": [
+            15.36667,
+            -61.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4081,
+      "name": "Saint Peter",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 31005,
+          "name": "Colihaut",
+          "latlng": [
+            15.48478,
+            -61.46215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

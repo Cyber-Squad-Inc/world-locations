@@ -1,0 +1,1489 @@
+{
+  "name": {
+    "common": "Ghana",
+    "official": "Ghana"
+  },
+  "iso2": "GH",
+  "iso3": "GHA",
+  "numericCode": "288",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".gh",
+  "phoneCode": "233",
+  "capital": "Accra",
+  "currencies": {
+    "GHS": "Ghanaian cedi"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Accra",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gh.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gh.svg",
+  "states": [
+    {
+      "id": 53,
+      "name": "Ahafo",
+      "code": "AF",
+      "shortName": "AF",
+      "cities": [
+        {
+          "id": 149070,
+          "name": "Asunafo North",
+          "latlng": [
+            6.8196891,
+            -2.807705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149071,
+          "name": "Asunafo South",
+          "latlng": [
+            6.6480138,
+            -2.6887437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149072,
+          "name": "Asutifi North",
+          "latlng": [
+            6.9477486,
+            -2.7675716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149073,
+          "name": "Asutifi South",
+          "latlng": [
+            6.6480138,
+            -2.6887437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149069,
+          "name": "Tano North",
+          "latlng": [
+            7.2260301,
+            -2.3045656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149068,
+          "name": "Tano South",
+          "latlng": [
+            7.1953793,
+            -2.1258661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Ashanti",
+      "code": "AH",
+      "shortName": "AH",
+      "cities": [
+        {
+          "id": 52151,
+          "name": "Agogo",
+          "latlng": [
+            6.80004,
+            -1.08193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52164,
+          "name": "Bekwai",
+          "latlng": [
+            6.45195,
+            -1.57866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52172,
+          "name": "Ejura",
+          "latlng": [
+            7.38558,
+            -1.35617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52185,
+          "name": "Konongo",
+          "latlng": [
+            6.61667,
+            -1.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52188,
+          "name": "Kumasi",
+          "latlng": [
+            6.68848,
+            -1.62443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52189,
+          "name": "Mampong",
+          "latlng": [
+            7.06273,
+            -1.4001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52196,
+          "name": "Obuase",
+          "latlng": [
+            6.20228,
+            -1.66796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52206,
+          "name": "Tafo",
+          "latlng": [
+            6.73156,
+            -1.6137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4959,
+      "name": "Bono",
+      "code": "BO",
+      "shortName": "BO",
+      "cities": [
+        {
+          "id": 149086,
+          "name": "Banda",
+          "latlng": [
+            8.1495671,
+            -2.366395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149087,
+          "name": "Berekum East",
+          "latlng": [
+            7.5111758,
+            -2.7599831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149088,
+          "name": "Berekum West",
+          "latlng": [
+            7.5111758,
+            -2.7599831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149089,
+          "name": "Dormaa Central",
+          "latlng": [
+            7.2775,
+            -2.878333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149090,
+          "name": "Dormaa East",
+          "latlng": [
+            7.3,
+            -2.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149091,
+          "name": "Dormaa West",
+          "latlng": [
+            7.016667,
+            -3.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149092,
+          "name": "Jaman North",
+          "latlng": [
+            7.9883234,
+            -2.9685869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149093,
+          "name": "Jaman South",
+          "latlng": [
+            7.7084375,
+            -3.075017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149094,
+          "name": "Sunyani",
+          "latlng": [
+            7.3380332,
+            -2.3487146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149095,
+          "name": "Sunyani West",
+          "latlng": [
+            7.3566052,
+            -2.4461862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149096,
+          "name": "Tain",
+          "latlng": [
+            8.1811411,
+            -2.8648762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149097,
+          "name": "Wenchi",
+          "latlng": [
+            7.7405992,
+            -2.1226788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4958,
+      "name": "Bono East",
+      "code": "BE",
+      "shortName": "BE",
+      "cities": [
+        {
+          "id": 149076,
+          "name": "Atebubu-Amantin",
+          "latlng": [
+            7.70237,
+            -1.2197943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149077,
+          "name": "Kintampo North",
+          "latlng": [
+            8.3963579,
+            -1.8200007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149078,
+          "name": "Kintampo South",
+          "latlng": [
+            7.9897132,
+            -2.0071115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149079,
+          "name": "Nkoranza North",
+          "latlng": [
+            7.5660331,
+            -1.723652
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149080,
+          "name": "Nkoranza South",
+          "latlng": [
+            7.6240512,
+            -1.7997446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149082,
+          "name": "Pru East",
+          "latlng": [
+            8.2262,
+            -0.6536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149081,
+          "name": "Pru West",
+          "latlng": [
+            8.0735993,
+            -1.2905541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149083,
+          "name": "Sene East",
+          "latlng": [
+            7.783,
+            -0.217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149084,
+          "name": "Sene West",
+          "latlng": [
+            7.7342,
+            -0.6818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149074,
+          "name": "Techiman",
+          "latlng": [
+            7.5896856,
+            -1.9512214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149075,
+          "name": "Techiman North",
+          "latlng": [
+            7.7042802,
+            -2.0814057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Central",
+      "code": "CP",
+      "shortName": "CP",
+      "cities": [
+        {
+          "id": 52157,
+          "name": "Apam",
+          "latlng": [
+            5.28483,
+            -0.73711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52168,
+          "name": "Cape Coast",
+          "latlng": [
+            5.10535,
+            -1.2466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52171,
+          "name": "Dunkwa",
+          "latlng": [
+            5.95996,
+            -1.77792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52173,
+          "name": "Elmina",
+          "latlng": [
+            5.0847,
+            -1.35093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52174,
+          "name": "Foso",
+          "latlng": [
+            5.70119,
+            -1.28657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52179,
+          "name": "Kasoa",
+          "latlng": [
+            5.53449,
+            -0.41679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52192,
+          "name": "Mumford",
+          "latlng": [
+            5.26176,
+            -0.75897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52199,
+          "name": "Saltpond",
+          "latlng": [
+            5.20913,
+            -1.06058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52205,
+          "name": "Swedru",
+          "latlng": [
+            5.53711,
+            -0.69984
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52215,
+          "name": "Winneba",
+          "latlng": [
+            5.35113,
+            -0.62313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Eastern",
+      "code": "EP",
+      "shortName": "EP",
+      "cities": [
+        {
+          "id": 52148,
+          "name": "Aburi",
+          "latlng": [
+            5.84802,
+            -0.17449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52152,
+          "name": "Akim Oda",
+          "latlng": [
+            5.92665,
+            -0.98577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52153,
+          "name": "Akim Swedru",
+          "latlng": [
+            5.8938,
+            -1.01636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52154,
+          "name": "Akropong",
+          "latlng": [
+            5.97462,
+            -0.08542
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52155,
+          "name": "Akwatia",
+          "latlng": [
+            6.04024,
+            -0.80876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52158,
+          "name": "Asamankese",
+          "latlng": [
+            5.86006,
+            -0.6635
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52163,
+          "name": "Begoro",
+          "latlng": [
+            6.38706,
+            -0.37738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52182,
+          "name": "Kibi",
+          "latlng": [
+            6.16494,
+            -0.55376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52184,
+          "name": "Koforidua",
+          "latlng": [
+            6.09408,
+            -0.25913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52191,
+          "name": "Mpraeso",
+          "latlng": [
+            6.59321,
+            -0.73462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52194,
+          "name": "Nsawam",
+          "latlng": [
+            5.80893,
+            -0.35026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52203,
+          "name": "Suhum",
+          "latlng": [
+            6.04089,
+            -0.45004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Greater Accra",
+      "code": "AA",
+      "shortName": "AA",
+      "cities": [
+        {
+          "id": 52149,
+          "name": "Accra",
+          "latlng": [
+            5.55602,
+            -0.1969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52159,
+          "name": "Atsiaman",
+          "latlng": [
+            5.69775,
+            -0.32824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52169,
+          "name": "Dome",
+          "latlng": [
+            5.65003,
+            -0.2361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52175,
+          "name": "Gbawe",
+          "latlng": [
+            5.57692,
+            -0.31038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52190,
+          "name": "Medina Estates",
+          "latlng": [
+            5.6658,
+            -0.16307
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52195,
+          "name": "Nungua",
+          "latlng": [
+            5.60105,
+            -0.07713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52211,
+          "name": "Tema",
+          "latlng": [
+            5.6698,
+            -0.01657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52212,
+          "name": "Teshi Old Town",
+          "latlng": [
+            5.58365,
+            -0.10722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4960,
+      "name": "North East",
+      "code": "NE",
+      "shortName": "NE",
+      "cities": [
+        {
+          "id": 149098,
+          "name": "Bunkpurugu-Nyakpanduri",
+          "latlng": [
+            10.4660917,
+            -0.2271195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149099,
+          "name": "Chereponi",
+          "latlng": [
+            10.1382772,
+            0.2824258
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149100,
+          "name": "East Mamprusi",
+          "latlng": [
+            10.4293186,
+            -0.5307885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149101,
+          "name": "Mamprugu-Moagduri",
+          "latlng": [
+            10.2329,
+            -1.2836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149102,
+          "name": "West Mamprusi",
+          "latlng": [
+            10.2990606,
+            -1.367501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149103,
+          "name": "Yunyoo-Nasuan",
+          "latlng": [
+            10.484,
+            -0.009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Northern",
+      "code": "NP",
+      "shortName": "NP",
+      "cities": [
+        {
+          "id": 52186,
+          "name": "Kpandae",
+          "latlng": [
+            8.46885,
+            -0.01127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52198,
+          "name": "Salaga",
+          "latlng": [
+            8.55083,
+            -0.51875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52200,
+          "name": "Savelugu",
+          "latlng": [
+            9.62441,
+            -0.8253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52208,
+          "name": "Tamale",
+          "latlng": [
+            9.40079,
+            -0.8393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52216,
+          "name": "Yendi",
+          "latlng": [
+            9.44272,
+            -0.00991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4961,
+      "name": "Oti",
+      "code": "OT",
+      "shortName": "OT",
+      "cities": [
+        {
+          "id": 149104,
+          "name": "Biakoye",
+          "latlng": [
+            7.1169869,
+            0.323243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149105,
+          "name": "Jasikan",
+          "latlng": [
+            7.4094088,
+            0.443015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149106,
+          "name": "Kadjebi",
+          "latlng": [
+            7.5263192,
+            0.4670477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149107,
+          "name": "Krachi East",
+          "latlng": [
+            7.7719698,
+            -0.0776376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149108,
+          "name": "Krachi Nchumuru",
+          "latlng": [
+            8.148498,
+            -0.1634988
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149109,
+          "name": "Krachi West",
+          "latlng": [
+            7.9828216,
+            -0.3488627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149110,
+          "name": "Nkwanta North",
+          "latlng": [
+            8.3518076,
+            0.1221762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149111,
+          "name": "Nkwanta South",
+          "latlng": [
+            8.2593134,
+            0.5018519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4962,
+      "name": "Savannah",
+      "code": "SV",
+      "shortName": "SV",
+      "cities": [
+        {
+          "id": 149112,
+          "name": "Bole",
+          "latlng": [
+            9.0299664,
+            -2.506943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149113,
+          "name": "Central Gonja",
+          "latlng": [
+            8.9278432,
+            -1.9536972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149115,
+          "name": "East Gonja",
+          "latlng": [
+            8.725684,
+            -1.0713579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149116,
+          "name": "North East Gonja",
+          "latlng": [
+            9.1174669,
+            -0.5557936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149114,
+          "name": "North Gonja",
+          "latlng": [
+            9.5413085,
+            -1.3976692
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149117,
+          "name": "Sawla-Tuna-Kalba",
+          "latlng": [
+            9.3911457,
+            -2.7061166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149118,
+          "name": "West Gonja",
+          "latlng": [
+            9.5751317,
+            -2.2644041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Upper East",
+      "code": "UE",
+      "shortName": "UE",
+      "cities": [
+        {
+          "id": 52161,
+          "name": "Bawku",
+          "latlng": [
+            11.0616,
+            -0.24169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52167,
+          "name": "Bolgatanga",
+          "latlng": [
+            10.78556,
+            -0.85139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52193,
+          "name": "Navrongo",
+          "latlng": [
+            10.89557,
+            -1.0921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Upper West",
+      "code": "UW",
+      "shortName": "UW",
+      "cities": [
+        {
+          "id": 52213,
+          "name": "Wa",
+          "latlng": [
+            10.06069,
+            -2.50192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Volta",
+      "code": "TV",
+      "shortName": "TV",
+      "cities": [
+        {
+          "id": 52150,
+          "name": "Aflao",
+          "latlng": [
+            6.11982,
+            1.19012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52156,
+          "name": "Anloga",
+          "latlng": [
+            5.79473,
+            0.89728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52176,
+          "name": "Ho",
+          "latlng": [
+            6.60084,
+            0.4713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52177,
+          "name": "Hohoe",
+          "latlng": [
+            7.15181,
+            0.47362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52180,
+          "name": "Keta",
+          "latlng": [
+            5.91793,
+            0.98789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52181,
+          "name": "Kete Krachi",
+          "latlng": [
+            7.79391,
+            -0.0498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52187,
+          "name": "Kpandu",
+          "latlng": [
+            6.99536,
+            0.29306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Western",
+      "code": "WP",
+      "shortName": "WP",
+      "cities": [
+        {
+          "id": 52147,
+          "name": "Aboso",
+          "latlng": [
+            5.36073,
+            -1.94856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52160,
+          "name": "Axim",
+          "latlng": [
+            4.86641,
+            -2.24181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52166,
+          "name": "Bibiani",
+          "latlng": [
+            6.46346,
+            -2.31938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52197,
+          "name": "Prestea",
+          "latlng": [
+            5.43385,
+            -2.14295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52201,
+          "name": "Sekondi-Takoradi",
+          "latlng": [
+            4.92678,
+            -1.75773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52202,
+          "name": "Shama Junction",
+          "latlng": [
+            5.01806,
+            -1.66437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52207,
+          "name": "Takoradi",
+          "latlng": [
+            4.89816,
+            -1.76029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52209,
+          "name": "Tarkwa",
+          "latlng": [
+            5.30383,
+            -1.98956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4963,
+      "name": "Western North",
+      "code": "WN",
+      "shortName": "WN",
+      "cities": [
+        {
+          "id": 149119,
+          "name": "Aowin",
+          "latlng": [
+            5.7530928,
+            -3.0751887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149120,
+          "name": "Bia East",
+          "latlng": [
+            6.768604,
+            -3.3330241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149121,
+          "name": "Bia West",
+          "latlng": [
+            6.768604,
+            -3.3330241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149122,
+          "name": "Bibiani-Anhwiaso-Bekwai",
+          "latlng": [
+            6.3021004,
+            -2.3567507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149123,
+          "name": "Bodi",
+          "latlng": [
+            6.2224091,
+            -2.7661515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149124,
+          "name": "Juaboso",
+          "latlng": [
+            6.3333157,
+            -2.8420614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149125,
+          "name": "Sefwi-Akontombra",
+          "latlng": [
+            6.0428548,
+            -2.8813362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149126,
+          "name": "Sefwi-Wiawso",
+          "latlng": [
+            6.2196567,
+            -2.5005915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149127,
+          "name": "Suaman",
+          "latlng": [
+            5.7530928,
+            -3.0751887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

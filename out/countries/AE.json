@@ -1,0 +1,515 @@
+{
+  "name": {
+    "common": "United Arab Emirates",
+    "official": "United Arab Emirates"
+  },
+  "iso2": "AE",
+  "iso3": "ARE",
+  "numericCode": "784",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "tld": ".ae",
+  "phoneCode": "971",
+  "capital": "Abu Dhabi",
+  "currencies": {
+    "AED": "United Arab Emirates dirham"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Dubai",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "GST",
+      "tzName": "Gulf Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ae.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ae.svg",
+  "states": [
+    {
+      "id": 3396,
+      "name": "Abu Dhabi",
+      "code": "AZ",
+      "shortName": "AZ",
+      "cities": [
+        {
+          "id": 11,
+          "name": "Abu Dhabi Island and Internal Islands City",
+          "latlng": [
+            24.4511,
+            54.3969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 12,
+          "name": "Abu Dhabi Municipality",
+          "latlng": [
+            24.41361,
+            54.43295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16,
+          "name": "Al Ain City",
+          "latlng": [
+            24.19167,
+            55.76056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17,
+          "name": "Al Ain Municipality",
+          "latlng": [
+            24.15223,
+            55.8204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 19,
+          "name": "Al Dhafra",
+          "latlng": [
+            23.65745,
+            53.72225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 24,
+          "name": "Al Shamkhah City",
+          "latlng": [
+            24.39268,
+            54.70779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 26,
+          "name": "Bani Yas City",
+          "latlng": [
+            24.30978,
+            54.62944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 34,
+          "name": "Khalifah A City",
+          "latlng": [
+            24.42588,
+            54.605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 41,
+          "name": "Musaffah",
+          "latlng": [
+            24.35893,
+            54.48267
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 42,
+          "name": "Muzayri‘",
+          "latlng": [
+            23.14355,
+            53.7881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 25,
+          "name": "Ruwais",
+          "latlng": [
+            24.11028,
+            52.73056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 49,
+          "name": "Zayed City",
+          "latlng": [
+            23.65416,
+            53.70522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3395,
+      "name": "Ajman",
+      "code": "AJ",
+      "shortName": "AJ",
+      "cities": [
+        {
+          "id": 14,
+          "name": "Ajman",
+          "latlng": [
+            25.40328,
+            55.52341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 15,
+          "name": "Ajman City",
+          "latlng": [
+            25.40177,
+            55.47878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 37,
+          "name": "Manama",
+          "latlng": [
+            25.32568,
+            56.00259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 38,
+          "name": "Masfout",
+          "latlng": [
+            24.83982,
+            56.05158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3391,
+      "name": "Dubai",
+      "code": "DU",
+      "shortName": "DU",
+      "cities": [
+        {
+          "id": 32,
+          "name": "Dubai",
+          "latlng": [
+            25.0657,
+            55.17128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3393,
+      "name": "Fujairah",
+      "code": "FU",
+      "shortName": "FU",
+      "cities": [
+        {
+          "id": 20,
+          "name": "Al Fujairah City",
+          "latlng": [
+            25.11641,
+            56.34141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 21,
+          "name": "Al Fujairah Municipality",
+          "latlng": [
+            25.13557,
+            56.33279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 28,
+          "name": "Dibba Al Fujairah Municipality",
+          "latlng": [
+            25.5858,
+            56.24792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30,
+          "name": "Dibba Al-Fujairah",
+          "latlng": [
+            25.59246,
+            56.26176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31,
+          "name": "Dibba Al-Hisn",
+          "latlng": [
+            25.61955,
+            56.27291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 45,
+          "name": "Reef Al Fujairah City",
+          "latlng": [
+            25.14479,
+            56.24764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3394,
+      "name": "Ras al-Khaimah",
+      "code": "RK",
+      "shortName": "RK",
+      "cities": [
+        {
+          "id": 43,
+          "name": "Ras Al Khaimah",
+          "latlng": [
+            25.46116,
+            56.04058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 44,
+          "name": "Ras Al Khaimah City",
+          "latlng": [
+            25.78953,
+            55.9432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3390,
+      "name": "Sharjah",
+      "code": "SH",
+      "shortName": "SH",
+      "cities": [
+        {
+          "id": 13,
+          "name": "Adh Dhayd",
+          "latlng": [
+            25.28812,
+            55.88157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18,
+          "name": "Al Batayih",
+          "latlng": [
+            25.22317,
+            55.74272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 22,
+          "name": "Al Hamriyah",
+          "latlng": [
+            25.46121,
+            55.54813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 23,
+          "name": "Al Madam",
+          "latlng": [
+            24.95536,
+            55.7682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 27,
+          "name": "Dhaid",
+          "latlng": [
+            25.26951,
+            55.92024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 29,
+          "name": "Dibba Al Hesn",
+          "latlng": [
+            25.61593,
+            56.26899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 33,
+          "name": "Kalba",
+          "latlng": [
+            24.99816,
+            56.27207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 35,
+          "name": "Khawr Fakkān",
+          "latlng": [
+            25.33132,
+            56.34199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 36,
+          "name": "Khor Fakkan",
+          "latlng": [
+            25.33966,
+            56.3028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 39,
+          "name": "Milehah",
+          "latlng": [
+            25.10097,
+            55.91282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 40,
+          "name": "Murbaḩ",
+          "latlng": [
+            25.27623,
+            56.36256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 46,
+          "name": "Sharjah",
+          "latlng": [
+            25.33737,
+            55.41206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3392,
+      "name": "Umm al-Quwain",
+      "code": "UQ",
+      "shortName": "UQ",
+      "cities": [
+        {
+          "id": 47,
+          "name": "Umm AL Quwain",
+          "latlng": [
+            25.49326,
+            55.7352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48,
+          "name": "Umm Al Quwain City",
+          "latlng": [
+            25.56473,
+            55.55517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

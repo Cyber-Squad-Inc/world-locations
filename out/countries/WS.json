@@ -1,0 +1,335 @@
+{
+  "name": {
+    "common": "Samoa",
+    "official": "Samoa"
+  },
+  "iso2": "WS",
+  "iso3": "WSM",
+  "numericCode": "882",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".ws",
+  "phoneCode": "685",
+  "capital": "Apia",
+  "currencies": {
+    "WST": "Samoan tālā"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Apia",
+      "gmtOffset": 50400,
+      "gmtOffsetName": "UTC+14:00",
+      "abbreviation": "WST",
+      "tzName": "West Samoa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ws.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ws.svg",
+  "states": [
+    {
+      "id": 4763,
+      "name": "A'ana",
+      "code": "AA",
+      "shortName": "AA",
+      "cities": [
+        {
+          "id": 130647,
+          "name": "Fasito‘outa",
+          "latlng": [
+            -13.81163,
+            -171.94063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130649,
+          "name": "Leulumoega",
+          "latlng": [
+            -13.82297,
+            -171.96127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130655,
+          "name": "Nofoali‘i",
+          "latlng": [
+            -13.8217,
+            -171.95873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130658,
+          "name": "Satapuala",
+          "latlng": [
+            -13.83535,
+            -171.97963
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4761,
+      "name": "Aiga-i-le-Tai",
+      "code": "AL",
+      "shortName": "AL",
+      "cities": [
+        {
+          "id": 130654,
+          "name": "Mulifanua",
+          "latlng": [
+            -13.83183,
+            -172.03602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4765,
+      "name": "Atua",
+      "code": "AT",
+      "shortName": "AT",
+      "cities": [
+        {
+          "id": 130646,
+          "name": "Falefa",
+          "latlng": [
+            -13.88695,
+            -171.58805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130650,
+          "name": "Lotofagā",
+          "latlng": [
+            -13.97643,
+            -171.85781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130651,
+          "name": "Lufilufi",
+          "latlng": [
+            -13.87449,
+            -171.59857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130659,
+          "name": "Solosolo",
+          "latlng": [
+            -13.87504,
+            -171.64181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4764,
+      "name": "Fa'asaleleaga",
+      "code": "FA",
+      "shortName": "FA",
+      "cities": []
+    },
+    {
+      "id": 4769,
+      "name": "Gaga'emauga",
+      "code": "GE",
+      "shortName": "GE",
+      "cities": []
+    },
+    {
+      "id": 4771,
+      "name": "Gaga'ifomauga",
+      "code": "GI",
+      "shortName": "GI",
+      "cities": [
+        {
+          "id": 130653,
+          "name": "Matavai",
+          "latlng": [
+            -14.03208,
+            -171.64768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130656,
+          "name": "Safotu",
+          "latlng": [
+            -13.45132,
+            -172.40177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4767,
+      "name": "Palauli",
+      "code": "PA",
+      "shortName": "PA",
+      "cities": [
+        {
+          "id": 130648,
+          "name": "Gataivai",
+          "latlng": [
+            -13.7736,
+            -172.38802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130661,
+          "name": "Vailoa",
+          "latlng": [
+            -13.75551,
+            -172.30698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4762,
+      "name": "Satupa'itea",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": []
+    },
+    {
+      "id": 4770,
+      "name": "Tuamasaga",
+      "code": "TU",
+      "shortName": "TU",
+      "cities": [
+        {
+          "id": 130643,
+          "name": "Afega",
+          "latlng": [
+            -13.79726,
+            -171.85308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130644,
+          "name": "Apia",
+          "latlng": [
+            -13.83333,
+            -171.76666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130652,
+          "name": "Malie",
+          "latlng": [
+            -13.80044,
+            -171.8469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130660,
+          "name": "Vailima",
+          "latlng": [
+            -13.86417,
+            -171.76126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130662,
+          "name": "Vaiusu",
+          "latlng": [
+            -13.82678,
+            -171.79333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4768,
+      "name": "Va'a-o-Fonoti",
+      "code": "VF",
+      "shortName": "VF",
+      "cities": [
+        {
+          "id": 130657,
+          "name": "Samamea",
+          "latlng": [
+            -13.93375,
+            -171.53122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4766,
+      "name": "Vaisigano",
+      "code": "VS",
+      "shortName": "VS",
+      "cities": [
+        {
+          "id": 130645,
+          "name": "Asau",
+          "latlng": [
+            -13.51963,
+            -172.63784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

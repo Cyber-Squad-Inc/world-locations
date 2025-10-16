@@ -1,0 +1,221 @@
+{
+  "name": {
+    "common": "Belize",
+    "official": "Belize"
+  },
+  "iso2": "BZ",
+  "iso3": "BLZ",
+  "numericCode": "084",
+  "region": "Americas",
+  "subregion": "Central America",
+  "tld": ".bz",
+  "phoneCode": "501",
+  "capital": "Belmopan",
+  "currencies": {
+    "BZD": "Belize dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Belize",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America)"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bz.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bz.svg",
+  "states": [
+    {
+      "id": 264,
+      "name": "Belize",
+      "code": "BZ",
+      "shortName": "BZ",
+      "cities": [
+        {
+          "id": 16133,
+          "name": "Belize City",
+          "latlng": [
+            17.49952,
+            -88.19756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16143,
+          "name": "San Pedro",
+          "latlng": [
+            17.91598,
+            -87.9659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Cayo",
+      "code": "CY",
+      "shortName": "CY",
+      "cities": [
+        {
+          "id": 16134,
+          "name": "Belmopan",
+          "latlng": [
+            17.25,
+            -88.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16135,
+          "name": "Benque Viejo el Carmen",
+          "latlng": [
+            17.075,
+            -89.13917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16142,
+          "name": "San Ignacio",
+          "latlng": [
+            17.1588,
+            -89.0696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16145,
+          "name": "Valley of Peace",
+          "latlng": [
+            17.33472,
+            -88.83472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Corozal",
+      "code": "CZL",
+      "shortName": "CZL",
+      "cities": [
+        {
+          "id": 16136,
+          "name": "Corozal",
+          "latlng": [
+            18.39375,
+            -88.38849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Orange Walk",
+      "code": "OW",
+      "shortName": "OW",
+      "cities": [
+        {
+          "id": 16138,
+          "name": "Hopelchén",
+          "latlng": [
+            17.8,
+            -89.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16139,
+          "name": "Orange Walk",
+          "latlng": [
+            18.08124,
+            -88.56328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16144,
+          "name": "Shipyard",
+          "latlng": [
+            17.89382,
+            -88.65452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Stann Creek",
+      "code": "SC",
+      "shortName": "SC",
+      "cities": [
+        {
+          "id": 16137,
+          "name": "Dangriga",
+          "latlng": [
+            16.9697,
+            -88.23313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 16140,
+          "name": "Placencia",
+          "latlng": [
+            16.51419,
+            -88.36647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Toledo",
+      "code": "TOL",
+      "shortName": "TOL",
+      "cities": [
+        {
+          "id": 16141,
+          "name": "Punta Gorda",
+          "latlng": [
+            16.09835,
+            -88.8097
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

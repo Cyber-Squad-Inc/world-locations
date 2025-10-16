@@ -1,0 +1,1474 @@
+{
+  "name": {
+    "common": "Haiti",
+    "official": "Haiti"
+  },
+  "iso2": "HT",
+  "iso3": "HTI",
+  "numericCode": "332",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".ht",
+  "phoneCode": "509",
+  "capital": "Port-au-Prince",
+  "currencies": {
+    "HTG": "Haitian gourde"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Port-au-Prince",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ht.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ht.svg",
+  "states": [
+    {
+      "id": 4123,
+      "name": "Artibonite",
+      "code": "AR",
+      "shortName": "AR",
+      "cities": [
+        {
+          "id": 55046,
+          "name": "Anse Rouge",
+          "latlng": [
+            19.63382,
+            -73.0553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55064,
+          "name": "Arrondissement de Saint-Marc",
+          "latlng": [
+            19,
+            -72.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55094,
+          "name": "Désarmes",
+          "latlng": [
+            18.99345,
+            -72.39058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55091,
+          "name": "Dessalines",
+          "latlng": [
+            19.26177,
+            -72.51611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55095,
+          "name": "Ennery",
+          "latlng": [
+            19.48342,
+            -72.48537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55102,
+          "name": "Gonaïves",
+          "latlng": [
+            19.44755,
+            -72.68928
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55104,
+          "name": "Grande Saline",
+          "latlng": [
+            19.26513,
+            -72.76897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55107,
+          "name": "Gros Morne",
+          "latlng": [
+            19.6708,
+            -72.67808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55126,
+          "name": "Marmelade",
+          "latlng": [
+            19.51736,
+            -72.36133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55155,
+          "name": "Saint-Marc",
+          "latlng": [
+            19.10819,
+            -72.69379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55166,
+          "name": "Verrettes",
+          "latlng": [
+            19.0505,
+            -72.46585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4125,
+      "name": "Centre",
+      "code": "CE",
+      "shortName": "CE",
+      "cities": [
+        {
+          "id": 55054,
+          "name": "Arrondissement de Cerca La Source",
+          "latlng": [
+            19.11667,
+            -71.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55082,
+          "name": "Cerca la Source",
+          "latlng": [
+            19.16696,
+            -71.79015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55108,
+          "name": "Hinche",
+          "latlng": [
+            19.15,
+            -72.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55117,
+          "name": "Lascahobas",
+          "latlng": [
+            18.83047,
+            -71.93563
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55127,
+          "name": "Mayisad",
+          "latlng": [
+            19.17607,
+            -72.13958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55130,
+          "name": "Mirebalais",
+          "latlng": [
+            18.83455,
+            -72.1048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55158,
+          "name": "Thomassique",
+          "latlng": [
+            19.08209,
+            -71.83855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55160,
+          "name": "Thomonde",
+          "latlng": [
+            19.0173,
+            -71.96235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4119,
+      "name": "Grand'Anse",
+      "code": "GA",
+      "shortName": "GA",
+      "cities": [
+        {
+          "id": 55049,
+          "name": "Anse-à-Veau",
+          "latlng": [
+            18.5011,
+            -73.3449
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55083,
+          "name": "Chambellan",
+          "latlng": [
+            18.55037,
+            -74.31317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55086,
+          "name": "Corail",
+          "latlng": [
+            18.56766,
+            -73.88942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55089,
+          "name": "Dame-Marie",
+          "latlng": [
+            18.56107,
+            -74.42167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55111,
+          "name": "Jeremi",
+          "latlng": [
+            18.58333,
+            -74.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55112,
+          "name": "Jérémie",
+          "latlng": [
+            18.65,
+            -74.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55119,
+          "name": "Les Abricots",
+          "latlng": [
+            18.64901,
+            -74.30786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55122,
+          "name": "Les Irois",
+          "latlng": [
+            18.4049,
+            -74.4528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55132,
+          "name": "Moron",
+          "latlng": [
+            18.56039,
+            -74.25777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55139,
+          "name": "Petite Rivière de Nippes",
+          "latlng": [
+            18.47611,
+            -73.23495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4118,
+      "name": "Nippes",
+      "code": "NI",
+      "shortName": "NI",
+      "cities": [
+        {
+          "id": 55045,
+          "name": "Ansavo",
+          "latlng": [
+            18.41667,
+            -73.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55072,
+          "name": "Baradères",
+          "latlng": [
+            18.48255,
+            -73.63884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55129,
+          "name": "Miragoâne",
+          "latlng": [
+            18.44599,
+            -73.08957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55137,
+          "name": "Petit Trou de Nippes",
+          "latlng": [
+            18.52535,
+            -73.50815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4117,
+      "name": "Nord",
+      "code": "ND",
+      "shortName": "ND",
+      "cities": [
+        {
+          "id": 55044,
+          "name": "Acul du Nord",
+          "latlng": [
+            19.66667,
+            -72.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55065,
+          "name": "Arrondissement de la Grande Rivière du Nord",
+          "latlng": [
+            19.51667,
+            -72.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55059,
+          "name": "Arrondissement de Plaisance",
+          "latlng": [
+            19.66756,
+            -72.54908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55067,
+          "name": "Arrondissement du Borgne",
+          "latlng": [
+            19.75,
+            -72.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55070,
+          "name": "Bahon",
+          "latlng": [
+            19.46959,
+            -72.11466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55075,
+          "name": "Borgne",
+          "latlng": [
+            19.84507,
+            -72.52349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55092,
+          "name": "Dondon",
+          "latlng": [
+            19.52734,
+            -72.24337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55103,
+          "name": "Grande Rivière du Nord",
+          "latlng": [
+            19.57744,
+            -72.16872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55118,
+          "name": "Lenbe",
+          "latlng": [
+            19.70603,
+            -72.40336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55123,
+          "name": "Limonade",
+          "latlng": [
+            19.67014,
+            -72.1243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55128,
+          "name": "Milot",
+          "latlng": [
+            19.60837,
+            -72.21319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55134,
+          "name": "Okap",
+          "latlng": [
+            19.75938,
+            -72.19815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55141,
+          "name": "Pignon",
+          "latlng": [
+            19.33594,
+            -72.11662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55142,
+          "name": "Pilate",
+          "latlng": [
+            19.66745,
+            -72.55229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55143,
+          "name": "Plaine du Nord",
+          "latlng": [
+            19.67707,
+            -72.26969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55144,
+          "name": "Plaisance",
+          "latlng": [
+            19.59795,
+            -72.46994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55145,
+          "name": "Port-Margot",
+          "latlng": [
+            19.7518,
+            -72.43006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55150,
+          "name": "Quartier Morin",
+          "latlng": [
+            19.69696,
+            -72.15712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55151,
+          "name": "Ranquitte",
+          "latlng": [
+            19.41327,
+            -72.08077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55156,
+          "name": "Saint-Raphaël",
+          "latlng": [
+            19.43877,
+            -72.1991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4121,
+      "name": "Nord-Est",
+      "code": "NE",
+      "shortName": "NE",
+      "cities": [
+        {
+          "id": 55056,
+          "name": "Arrondissement de Fort Liberté",
+          "latlng": [
+            19.56667,
+            -71.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55069,
+          "name": "Arrondissement du Trou du Nord",
+          "latlng": [
+            19.55,
+            -71.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55077,
+          "name": "Caracol",
+          "latlng": [
+            19.69274,
+            -72.01733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55078,
+          "name": "Carice",
+          "latlng": [
+            19.37795,
+            -71.8303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55093,
+          "name": "Dérac",
+          "latlng": [
+            19.65476,
+            -71.81451
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55096,
+          "name": "Ferrier",
+          "latlng": [
+            19.61549,
+            -71.77792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55101,
+          "name": "Fort Liberté",
+          "latlng": [
+            19.66273,
+            -71.83798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55131,
+          "name": "Montòrganize",
+          "latlng": [
+            19.40815,
+            -71.78132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55135,
+          "name": "Ouanaminthe",
+          "latlng": [
+            19.54934,
+            -71.72475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55136,
+          "name": "Perches",
+          "latlng": [
+            19.52201,
+            -71.92323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55140,
+          "name": "Phaëton",
+          "latlng": [
+            19.67525,
+            -71.89691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55165,
+          "name": "Trou du Nord",
+          "latlng": [
+            19.61668,
+            -72.02442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55167,
+          "name": "Wanament",
+          "latlng": [
+            19.48333,
+            -71.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4126,
+      "name": "Nord-Ouest",
+      "code": "NO",
+      "shortName": "NO",
+      "cities": [
+        {
+          "id": 55051,
+          "name": "Arcahaie",
+          "latlng": [
+            19.81667,
+            -72.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55062,
+          "name": "Arrondissement de Port-de-Paix",
+          "latlng": [
+            19.83333,
+            -72.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55063,
+          "name": "Arrondissement de Saint-Louis du Nord",
+          "latlng": [
+            19.85,
+            -72.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55068,
+          "name": "Arrondissement du Môle Saint-Nicolas",
+          "latlng": [
+            19.75,
+            -73.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55071,
+          "name": "Baie de Henne",
+          "latlng": [
+            19.66307,
+            -73.20943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55074,
+          "name": "Bombardopolis",
+          "latlng": [
+            19.69142,
+            -73.33769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55097,
+          "name": "Fond Bassin Bleu",
+          "latlng": [
+            19.79445,
+            -72.79949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55110,
+          "name": "Jean-Rabel",
+          "latlng": [
+            19.85379,
+            -73.19131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55133,
+          "name": "Môle Saint-Nicolas",
+          "latlng": [
+            19.807,
+            -73.37605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55138,
+          "name": "Petite Anse",
+          "latlng": [
+            19.63011,
+            -73.15499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55147,
+          "name": "Port-de-Paix",
+          "latlng": [
+            19.93984,
+            -72.83037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55153,
+          "name": "Saint-Louis du Nord",
+          "latlng": [
+            19.93397,
+            -72.72138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55161,
+          "name": "Ti Port-de-Paix",
+          "latlng": [
+            19.93333,
+            -72.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4120,
+      "name": "Ouest",
+      "code": "OU",
+      "shortName": "OU",
+      "cities": [
+        {
+          "id": 55047,
+          "name": "Anse à Galets",
+          "latlng": [
+            18.83449,
+            -72.86644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55052,
+          "name": "Arcahaie",
+          "latlng": [
+            18.83333,
+            -72.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55055,
+          "name": "Arrondissement de Croix des Bouquets",
+          "latlng": [
+            18.48333,
+            -72.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55058,
+          "name": "Arrondissement de Léogâne",
+          "latlng": [
+            18.41667,
+            -72.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55061,
+          "name": "Arrondissement de Port-au-Prince",
+          "latlng": [
+            18.5,
+            -72.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55076,
+          "name": "Cabaret",
+          "latlng": [
+            18.73582,
+            -72.41929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55079,
+          "name": "Carrefour",
+          "latlng": [
+            18.54114,
+            -72.39922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55087,
+          "name": "Cornillon",
+          "latlng": [
+            18.67546,
+            -71.95271
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55088,
+          "name": "Croix-des-Bouquets",
+          "latlng": [
+            18.57677,
+            -72.22625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55090,
+          "name": "Delmas 73",
+          "latlng": [
+            18.54472,
+            -72.30278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55098,
+          "name": "Fond Parisien",
+          "latlng": [
+            18.50547,
+            -71.98122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55100,
+          "name": "Fonds Verrettes",
+          "latlng": [
+            18.39566,
+            -71.85634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55105,
+          "name": "Grangwav",
+          "latlng": [
+            18.4259,
+            -72.76995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55106,
+          "name": "Gressier",
+          "latlng": [
+            18.54091,
+            -72.52679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55113,
+          "name": "Kenscoff",
+          "latlng": [
+            18.44773,
+            -72.28398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55116,
+          "name": "Lagonav",
+          "latlng": [
+            18.85,
+            -73.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55124,
+          "name": "Léogâne",
+          "latlng": [
+            18.5111,
+            -72.63343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55149,
+          "name": "Pétionville",
+          "latlng": [
+            18.5125,
+            -72.28528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55146,
+          "name": "Port-au-Prince",
+          "latlng": [
+            18.54349,
+            -72.33881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55159,
+          "name": "Thomazeau",
+          "latlng": [
+            18.65297,
+            -72.09391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55163,
+          "name": "Tigwav",
+          "latlng": [
+            18.43117,
+            -72.86521
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4122,
+      "name": "Sud",
+      "code": "SD",
+      "shortName": "SD",
+      "cities": [
+        {
+          "id": 55050,
+          "name": "Aquin",
+          "latlng": [
+            18.27974,
+            -73.39433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55060,
+          "name": "Arrondissement de Port-Salut",
+          "latlng": [
+            18.13333,
+            -73.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55066,
+          "name": "Arrondissement des Cayes",
+          "latlng": [
+            18.3,
+            -73.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55080,
+          "name": "Cavaillon",
+          "latlng": [
+            18.29987,
+            -73.65455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55084,
+          "name": "Chantal",
+          "latlng": [
+            18.20169,
+            -73.88957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55085,
+          "name": "Chardonnière",
+          "latlng": [
+            18.27484,
+            -74.16613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55099,
+          "name": "Fond des Blancs",
+          "latlng": [
+            18.27782,
+            -73.12733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55115,
+          "name": "Koto",
+          "latlng": [
+            18.20601,
+            -74.04013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55120,
+          "name": "Les Anglais",
+          "latlng": [
+            18.3054,
+            -74.21968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55121,
+          "name": "Les Cayes",
+          "latlng": [
+            18.19331,
+            -73.74601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55148,
+          "name": "Port-à-Piment",
+          "latlng": [
+            18.24963,
+            -74.0971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55152,
+          "name": "Roche-à-Bateau",
+          "latlng": [
+            18.18182,
+            -74.00345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55154,
+          "name": "Saint-Louis du Sud",
+          "latlng": [
+            18.26241,
+            -73.54603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55162,
+          "name": "Tiburon",
+          "latlng": [
+            18.32589,
+            -74.39598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55164,
+          "name": "Torbeck",
+          "latlng": [
+            18.16338,
+            -73.80949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4124,
+      "name": "Sud-Est",
+      "code": "SE",
+      "shortName": "SE",
+      "cities": [
+        {
+          "id": 55048,
+          "name": "Anse-à-Pitre",
+          "latlng": [
+            18.05,
+            -71.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55053,
+          "name": "Arrondissement de Bainet",
+          "latlng": [
+            18.25,
+            -72.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55057,
+          "name": "Arrondissement de Jacmel",
+          "latlng": [
+            18.33333,
+            -72.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55073,
+          "name": "Belle-Anse",
+          "latlng": [
+            18.23768,
+            -72.06638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55081,
+          "name": "Cayes-Jacmel",
+          "latlng": [
+            18.2311,
+            -72.39545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55109,
+          "name": "Jacmel",
+          "latlng": [
+            18.23427,
+            -72.53539
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55114,
+          "name": "Kotdefè",
+          "latlng": [
+            18.18872,
+            -73.00287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55125,
+          "name": "Marigot",
+          "latlng": [
+            18.23167,
+            -72.32289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 55157,
+          "name": "Thiotte",
+          "latlng": [
+            18.24384,
+            -71.84157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

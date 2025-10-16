@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands"
+  },
+  "iso2": "HM",
+  "iso3": "HMD",
+  "numericCode": "334",
+  "region": "",
+  "subregion": "",
+  "tld": ".hm",
+  "phoneCode": "672",
+  "capital": "",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Kerguelen",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TFT",
+      "tzName": "French Southern and Antarctic Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/hm.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/hm.svg",
+  "states": []
+}

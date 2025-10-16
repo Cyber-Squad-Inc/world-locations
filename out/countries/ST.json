@@ -1,0 +1,101 @@
+{
+  "name": {
+    "common": "Sao Tome and Principe",
+    "official": "Sao Tome and Principe"
+  },
+  "iso2": "ST",
+  "iso3": "STP",
+  "numericCode": "678",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".st",
+  "phoneCode": "239",
+  "capital": "Sao Tome",
+  "currencies": {
+    "STN": "Dobra"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Sao_Tome",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/st.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/st.svg",
+  "states": [
+    {
+      "id": 270,
+      "name": "Príncipe",
+      "code": "P",
+      "shortName": "P",
+      "cities": [
+        {
+          "id": 104837,
+          "name": "Santo António",
+          "latlng": [
+            1.63943,
+            7.41951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "name": "São Tomé",
+      "code": "S",
+      "shortName": "S",
+      "cities": [
+        {
+          "id": 104835,
+          "name": "Cantagalo District",
+          "latlng": [
+            0.21667,
+            6.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104836,
+          "name": "Caué District",
+          "latlng": [
+            0.13415,
+            6.63825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104838,
+          "name": "São Tomé",
+          "latlng": [
+            0.33654,
+            6.72732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104839,
+          "name": "Trindade",
+          "latlng": [
+            0.29667,
+            6.68139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

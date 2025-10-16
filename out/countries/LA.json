@@ -1,0 +1,1010 @@
+{
+  "name": {
+    "common": "Laos",
+    "official": "Laos"
+  },
+  "iso2": "LA",
+  "iso3": "LAO",
+  "numericCode": "418",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "tld": ".la",
+  "phoneCode": "856",
+  "capital": "Vientiane",
+  "currencies": {
+    "LAK": "Lao kip"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Vientiane",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "ICT",
+      "tzName": "Indochina Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/la.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/la.svg",
+  "states": [
+    {
+      "id": 982,
+      "name": "Attapeu",
+      "code": "AT",
+      "shortName": "AT",
+      "cities": [
+        {
+          "id": 65855,
+          "name": "Attapeu",
+          "latlng": [
+            14.81071,
+            106.83184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65891,
+          "name": "Muang Phouvong",
+          "latlng": [
+            14.56821,
+            107.01087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65895,
+          "name": "Muang Samakhixai",
+          "latlng": [
+            14.80539,
+            106.78164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65897,
+          "name": "Muang Sanamxai",
+          "latlng": [
+            14.73807,
+            106.41328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65898,
+          "name": "Muang Sanxai",
+          "latlng": [
+            15.02944,
+            107.23158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65912,
+          "name": "Muang Xaiséttha",
+          "latlng": [
+            14.90594,
+            106.97894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 991,
+      "name": "Bokeo",
+      "code": "BK",
+      "shortName": "BK",
+      "cities": [
+        {
+          "id": 65856,
+          "name": "Ban Houakhoua",
+          "latlng": [
+            20.2467,
+            100.45401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65857,
+          "name": "Ban Houayxay",
+          "latlng": [
+            20.27,
+            100.4178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65872,
+          "name": "Muang Houayxay",
+          "latlng": [
+            20.38763,
+            100.62687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65881,
+          "name": "Muang Meung",
+          "latlng": [
+            20.67585,
+            100.52639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65885,
+          "name": "Muang Paktha",
+          "latlng": [
+            20.09108,
+            100.5994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65889,
+          "name": "Muang Pha Oudôm",
+          "latlng": [
+            20.18744,
+            100.926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65908,
+          "name": "Muang Tônpheung",
+          "latlng": [
+            20.53465,
+            100.29624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 985,
+      "name": "Bolikhamsai",
+      "code": "BL",
+      "shortName": "BL",
+      "cities": [
+        {
+          "id": 65858,
+          "name": "Ban Nahin",
+          "latlng": [
+            18.24253,
+            104.21281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65918,
+          "name": "Pakxan",
+          "latlng": [
+            18.3942,
+            103.6611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "name": "Champasak",
+      "code": "CH",
+      "shortName": "CH",
+      "cities": [
+        {
+          "id": 65860,
+          "name": "Champasak",
+          "latlng": [
+            14.89204,
+            105.87787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65868,
+          "name": "Muang Bachiangchaleunsook",
+          "latlng": [
+            15.24426,
+            105.96716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65869,
+          "name": "Muang Champasak",
+          "latlng": [
+            14.85704,
+            105.75334
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65874,
+          "name": "Muang Không",
+          "latlng": [
+            14.14696,
+            105.95938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65882,
+          "name": "Muang Mounlapamôk",
+          "latlng": [
+            14.28922,
+            105.56832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65887,
+          "name": "Muang Pakxé",
+          "latlng": [
+            15.13139,
+            105.81612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65886,
+          "name": "Muang Pakxong",
+          "latlng": [
+            15.0981,
+            106.43398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65888,
+          "name": "Muang Pathoumphon",
+          "latlng": [
+            14.68453,
+            106.06357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65894,
+          "name": "Muang Phônthong",
+          "latlng": [
+            15.10669,
+            105.6489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65901,
+          "name": "Muang Soukhouma",
+          "latlng": [
+            14.6256,
+            105.6752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65913,
+          "name": "Muang Xanasômboun",
+          "latlng": [
+            15.34107,
+            105.73703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65917,
+          "name": "Pakse",
+          "latlng": [
+            15.12022,
+            105.79898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65919,
+          "name": "Pakxong",
+          "latlng": [
+            15.18154,
+            106.23038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 989,
+      "name": "Houaphanh",
+      "code": "HO",
+      "shortName": "HO",
+      "cities": [
+        {
+          "id": 65928,
+          "name": "Xam Neua",
+          "latlng": [
+            20.40764,
+            104.0656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65929,
+          "name": "Xam Nua",
+          "latlng": [
+            20.4164,
+            104.045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 986,
+      "name": "Khammouane",
+      "code": "KH",
+      "shortName": "KH",
+      "cities": [
+        {
+          "id": 65903,
+          "name": "Muang Thakhèk",
+          "latlng": [
+            17.4088,
+            104.82639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65924,
+          "name": "Thakhèk",
+          "latlng": [
+            17.41027,
+            104.83068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 992,
+      "name": "Luang Namtha",
+      "code": "LM",
+      "shortName": "LM",
+      "cities": [
+        {
+          "id": 65864,
+          "name": "Luang Namtha",
+          "latlng": [
+            20.9486,
+            101.40188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65880,
+          "name": "Muang Louang Namtha",
+          "latlng": [
+            21.00424,
+            101.44785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 978,
+      "name": "Luang Prabang",
+      "code": "LP",
+      "shortName": "LP",
+      "cities": [
+        {
+          "id": 65865,
+          "name": "Luang Prabang",
+          "latlng": [
+            19.88601,
+            102.13503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 988,
+      "name": "Oudomxay",
+      "code": "OU",
+      "shortName": "OU",
+      "cities": [
+        {
+          "id": 65914,
+          "name": "Muang Xay",
+          "latlng": [
+            20.69229,
+            101.98368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 987,
+      "name": "Phongsaly",
+      "code": "PH",
+      "shortName": "PH",
+      "cities": [
+        {
+          "id": 65920,
+          "name": "Phôngsali",
+          "latlng": [
+            21.6808,
+            102.1003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 993,
+      "name": "Sainyabuli",
+      "code": "XA",
+      "shortName": "XA",
+      "cities": [
+        {
+          "id": 65921,
+          "name": "Sainyabuli",
+          "latlng": [
+            19.25756,
+            101.71032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 981,
+      "name": "Salavan",
+      "code": "SL",
+      "shortName": "SL",
+      "cities": [
+        {
+          "id": 65875,
+          "name": "Muang Khôngxédôn",
+          "latlng": [
+            15.54626,
+            105.77051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65876,
+          "name": "Muang Lakhonphéng",
+          "latlng": [
+            15.83308,
+            105.59745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65878,
+          "name": "Muang Laongam",
+          "latlng": [
+            15.47745,
+            106.14111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65896,
+          "name": "Muang Samouay",
+          "latlng": [
+            16.35868,
+            106.8748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65899,
+          "name": "Muang Saravan",
+          "latlng": [
+            15.71587,
+            106.36158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65902,
+          "name": "Muang Ta-Ôy",
+          "latlng": [
+            16.07765,
+            106.70304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65907,
+          "name": "Muang Toumlan",
+          "latlng": [
+            16.02236,
+            106.23837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65909,
+          "name": "Muang Vapi",
+          "latlng": [
+            15.75005,
+            105.95529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65922,
+          "name": "Salavan",
+          "latlng": [
+            15.71652,
+            106.41744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 990,
+      "name": "Savannakhet",
+      "code": "SV",
+      "shortName": "SV",
+      "cities": [
+        {
+          "id": 65861,
+          "name": "Kaysone Phomvihane",
+          "latlng": [
+            16.54943,
+            104.82339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65866,
+          "name": "Muang Alsaphangthong",
+          "latlng": [
+            16.72645,
+            105.39326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65867,
+          "name": "Muang Atsaphan",
+          "latlng": [
+            16.9474,
+            105.4029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65870,
+          "name": "Muang Champhon",
+          "latlng": [
+            16.49363,
+            105.2202
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65883,
+          "name": "Muang Nong",
+          "latlng": [
+            16.38458,
+            106.50419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65884,
+          "name": "Muang Outhoumphon",
+          "latlng": [
+            16.66667,
+            105.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65890,
+          "name": "Muang Phin",
+          "latlng": [
+            16.44316,
+            106.03019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65900,
+          "name": "Muang Songkhon",
+          "latlng": [
+            16.17116,
+            105.30729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65904,
+          "name": "Muang Thapangthong",
+          "latlng": [
+            16.09132,
+            105.81038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65910,
+          "name": "Muang Vilabouli",
+          "latlng": [
+            16.94067,
+            105.93677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65911,
+          "name": "Muang Xaibouli",
+          "latlng": [
+            16.94432,
+            104.92312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65915,
+          "name": "Muang Xayphoothong",
+          "latlng": [
+            16.3737,
+            105.02165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65916,
+          "name": "Muang Xônbouli",
+          "latlng": [
+            16.40036,
+            105.57388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65923,
+          "name": "Savannakhet",
+          "latlng": [
+            16.5703,
+            104.7622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65925,
+          "name": "Thaphalanxay",
+          "latlng": [
+            16.7,
+            105.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 984,
+      "name": "Sekong",
+      "code": "XE",
+      "shortName": "XE",
+      "cities": [
+        {
+          "id": 65859,
+          "name": "Ban Thatèng",
+          "latlng": [
+            15.43317,
+            106.38272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65862,
+          "name": "Lamam",
+          "latlng": [
+            15.41705,
+            106.69461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65871,
+          "name": "Muang Dakchung",
+          "latlng": [
+            15.38199,
+            107.31847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65873,
+          "name": "Muang Khaleum",
+          "latlng": [
+            15.79886,
+            107.04529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65877,
+          "name": "Muang Laman",
+          "latlng": [
+            15.41273,
+            106.81706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65906,
+          "name": "Muang Thatèng",
+          "latlng": [
+            15.42745,
+            106.48149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 980,
+      "name": "Vientiane",
+      "code": "VI",
+      "shortName": "VI",
+      "cities": [
+        {
+          "id": 65892,
+          "name": "Muang Phôn-Hông",
+          "latlng": [
+            18.4953,
+            102.4153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65926,
+          "name": "Vangviang",
+          "latlng": [
+            18.9235,
+            102.44784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 979,
+      "name": "Vientiane",
+      "code": "VT",
+      "shortName": "VT",
+      "cities": [
+        {
+          "id": 65927,
+          "name": "Vientiane",
+          "latlng": [
+            17.96667,
+            102.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 983,
+      "name": "Xaisomboun",
+      "code": "XS",
+      "shortName": "XS",
+      "cities": [
+        {
+          "id": 65854,
+          "name": "Anouvong district",
+          "latlng": [
+            18.89731,
+            103.09274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65863,
+          "name": "Longchaeng",
+          "latlng": [
+            18.89394,
+            103.14274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65879,
+          "name": "Muang Longxan",
+          "latlng": [
+            18.61782,
+            102.88079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65905,
+          "name": "Muang Thathôm",
+          "latlng": [
+            19.0013,
+            103.61572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "name": "Xiangkhouang",
+      "code": "XI",
+      "shortName": "XI",
+      "cities": [
+        {
+          "id": 65893,
+          "name": "Muang Phônsavan",
+          "latlng": [
+            19.4494,
+            103.1917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

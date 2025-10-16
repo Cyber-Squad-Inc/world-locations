@@ -1,0 +1,4800 @@
+{
+  "name": {
+    "common": "Denmark",
+    "official": "Denmark"
+  },
+  "iso2": "DK",
+  "iso3": "DNK",
+  "numericCode": "208",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".dk",
+  "phoneCode": "45",
+  "capital": "Copenhagen",
+  "currencies": {
+    "DKK": "Danish krone"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Copenhagen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/dk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/dk.svg",
+  "states": [
+    {
+      "id": 1531,
+      "name": "Central Denmark",
+      "code": "82",
+      "shortName": "82",
+      "cities": [
+        {
+          "id": 30993,
+          "name": "Aarhus",
+          "latlng": [
+            56.15674,
+            10.21076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30994,
+          "name": "Aarhus Kommune",
+          "latlng": [
+            56.16317,
+            10.16897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30580,
+          "name": "Allingåbro",
+          "latlng": [
+            56.46432,
+            10.31957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30585,
+          "name": "Assentoft",
+          "latlng": [
+            56.4421,
+            10.1517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30587,
+          "name": "Auning",
+          "latlng": [
+            56.43079,
+            10.37818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30588,
+          "name": "Avlum",
+          "latlng": [
+            56.26539,
+            8.79256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30591,
+          "name": "Beder",
+          "latlng": [
+            56.06025,
+            10.21179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30596,
+          "name": "Bjerringbro",
+          "latlng": [
+            56.37797,
+            9.66065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30600,
+          "name": "Bording Kirkeby",
+          "latlng": [
+            56.16871,
+            9.24384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30604,
+          "name": "Brande",
+          "latlng": [
+            55.94316,
+            9.12798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30609,
+          "name": "Brædstrup",
+          "latlng": [
+            55.97153,
+            9.61129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30626,
+          "name": "Ebeltoft",
+          "latlng": [
+            56.19442,
+            10.6821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30639,
+          "name": "Favrskov Kommune",
+          "latlng": [
+            56.31667,
+            9.94
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30647,
+          "name": "Framlev",
+          "latlng": [
+            56.15664,
+            10.01318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30663,
+          "name": "Galten",
+          "latlng": [
+            56.15902,
+            9.91691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30669,
+          "name": "Gjellerup",
+          "latlng": [
+            56.14616,
+            9.05467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30675,
+          "name": "Grenaa",
+          "latlng": [
+            56.41578,
+            10.87825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30688,
+          "name": "Hadsten",
+          "latlng": [
+            56.32819,
+            10.04931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30692,
+          "name": "Hammel",
+          "latlng": [
+            56.25762,
+            9.86316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30693,
+          "name": "Hammerum",
+          "latlng": [
+            56.13361,
+            9.06121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30695,
+          "name": "Harboøre",
+          "latlng": [
+            56.61752,
+            8.18069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30698,
+          "name": "Hedensted",
+          "latlng": [
+            55.77043,
+            9.7011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30699,
+          "name": "Hedensted Kommune",
+          "latlng": [
+            55.7968,
+            9.744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30705,
+          "name": "Herning",
+          "latlng": [
+            56.13615,
+            8.97662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30706,
+          "name": "Herning Kommune",
+          "latlng": [
+            56.14997,
+            8.89712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30709,
+          "name": "Hinnerup",
+          "latlng": [
+            56.26608,
+            10.06299
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30712,
+          "name": "Hjortshøj",
+          "latlng": [
+            56.24811,
+            10.26533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30719,
+          "name": "Holstebro",
+          "latlng": [
+            56.36009,
+            8.61607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30720,
+          "name": "Holstebro Kommune",
+          "latlng": [
+            56.35916,
+            8.59631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30723,
+          "name": "Hornslet",
+          "latlng": [
+            56.3155,
+            10.32041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30724,
+          "name": "Hornsyld",
+          "latlng": [
+            55.75621,
+            9.85643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30725,
+          "name": "Horsens",
+          "latlng": [
+            55.86066,
+            9.85034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30726,
+          "name": "Horsens Kommune",
+          "latlng": [
+            55.9274,
+            9.77377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30738,
+          "name": "Hørning",
+          "latlng": [
+            56.08701,
+            10.03716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30730,
+          "name": "Hvide Sande",
+          "latlng": [
+            55.99866,
+            8.12605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30743,
+          "name": "Ikast",
+          "latlng": [
+            56.13883,
+            9.15768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30744,
+          "name": "Ikast-Brande Kommune",
+          "latlng": [
+            55.98333,
+            9.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30749,
+          "name": "Juelsminde",
+          "latlng": [
+            55.70876,
+            10.01668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30755,
+          "name": "Karup",
+          "latlng": [
+            56.30673,
+            9.16835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30758,
+          "name": "Kibæk",
+          "latlng": [
+            56.0317,
+            8.85697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30760,
+          "name": "Kjellerup",
+          "latlng": [
+            56.28581,
+            9.43528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30765,
+          "name": "Kolt",
+          "latlng": [
+            56.10845,
+            10.06986
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30775,
+          "name": "Langå",
+          "latlng": [
+            56.39026,
+            9.89486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30778,
+          "name": "Lemvig",
+          "latlng": [
+            56.54856,
+            8.31019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30779,
+          "name": "Lemvig Kommune",
+          "latlng": [
+            56.49136,
+            8.29927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30781,
+          "name": "Lind",
+          "latlng": [
+            56.106,
+            8.97915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30790,
+          "name": "Løgten",
+          "latlng": [
+            56.27459,
+            10.31181
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30787,
+          "name": "Lystrup",
+          "latlng": [
+            56.2375,
+            10.23778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30794,
+          "name": "Malling",
+          "latlng": [
+            56.03632,
+            10.19632
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30804,
+          "name": "Mårslet",
+          "latlng": [
+            56.0669,
+            10.16112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30813,
+          "name": "Norddjurs Kommune",
+          "latlng": [
+            56.44124,
+            10.7666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30827,
+          "name": "Odder",
+          "latlng": [
+            55.97313,
+            10.153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30828,
+          "name": "Odder Kommune",
+          "latlng": [
+            55.92967,
+            10.15304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30838,
+          "name": "Randers",
+          "latlng": [
+            56.4607,
+            10.03639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30839,
+          "name": "Randers Kommune",
+          "latlng": [
+            56.51561,
+            10.06901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30843,
+          "name": "Ringkøbing",
+          "latlng": [
+            56.09006,
+            8.24402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30844,
+          "name": "Ringkøbing-Skjern Kommune",
+          "latlng": [
+            56.01,
+            8.39667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30860,
+          "name": "Rønde",
+          "latlng": [
+            56.30145,
+            10.47505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30851,
+          "name": "Ry",
+          "latlng": [
+            56.09038,
+            9.76505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30852,
+          "name": "Ryomgård",
+          "latlng": [
+            56.3843,
+            10.50295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30863,
+          "name": "Sabro",
+          "latlng": [
+            56.21333,
+            10.03441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30865,
+          "name": "Samsø Kommune",
+          "latlng": [
+            55.85245,
+            10.60045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30867,
+          "name": "Silkeborg",
+          "latlng": [
+            56.1697,
+            9.54508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30868,
+          "name": "Silkeborg Kommune",
+          "latlng": [
+            56.17495,
+            9.54666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30872,
+          "name": "Skanderborg",
+          "latlng": [
+            56.03434,
+            9.93177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30873,
+          "name": "Skanderborg Kommune",
+          "latlng": [
+            56.07956,
+            9.89868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30875,
+          "name": "Skive",
+          "latlng": [
+            56.56699,
+            9.02707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30876,
+          "name": "Skive Kommune",
+          "latlng": [
+            56.64478,
+            8.9766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30877,
+          "name": "Skjern",
+          "latlng": [
+            55.95,
+            8.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30878,
+          "name": "Skovby",
+          "latlng": [
+            56.15672,
+            9.94523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30886,
+          "name": "Snejbjerg",
+          "latlng": [
+            56.13291,
+            8.90353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30888,
+          "name": "Solbjerg",
+          "latlng": [
+            56.04271,
+            10.08631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30925,
+          "name": "Søften",
+          "latlng": [
+            56.23801,
+            10.0851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30894,
+          "name": "Spentrup",
+          "latlng": [
+            56.53703,
+            10.03792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30897,
+          "name": "Stavtrup",
+          "latlng": [
+            56.13124,
+            10.11987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30903,
+          "name": "Stilling",
+          "latlng": [
+            56.06224,
+            9.98822
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30904,
+          "name": "Stoholm",
+          "latlng": [
+            56.48454,
+            9.14617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30909,
+          "name": "Struer",
+          "latlng": [
+            56.49205,
+            8.59397
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30910,
+          "name": "Struer Kommune",
+          "latlng": [
+            56.46667,
+            8.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30915,
+          "name": "Sunds",
+          "latlng": [
+            56.20743,
+            9.01386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30917,
+          "name": "Svejbæk",
+          "latlng": [
+            56.13255,
+            9.63289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30923,
+          "name": "Syddjurs Kommune",
+          "latlng": [
+            56.3125,
+            10.52083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30931,
+          "name": "Tarm",
+          "latlng": [
+            55.90861,
+            8.53041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30936,
+          "name": "Thyborøn",
+          "latlng": [
+            56.69846,
+            8.21238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30952,
+          "name": "Tørring",
+          "latlng": [
+            55.85,
+            9.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30942,
+          "name": "Tranbjerg",
+          "latlng": [
+            56.09519,
+            10.13605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30943,
+          "name": "Trige",
+          "latlng": [
+            56.25291,
+            10.1484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30953,
+          "name": "Ulfborg",
+          "latlng": [
+            56.26725,
+            8.32167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30955,
+          "name": "Ulstrup",
+          "latlng": [
+            56.38994,
+            9.79354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30972,
+          "name": "Viborg",
+          "latlng": [
+            56.45319,
+            9.40201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30973,
+          "name": "Viborg Kommune",
+          "latlng": [
+            56.45,
+            9.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30975,
+          "name": "Videbæk",
+          "latlng": [
+            56.0876,
+            8.62852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30976,
+          "name": "Vildbjerg",
+          "latlng": [
+            56.2,
+            8.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30978,
+          "name": "Vinderup",
+          "latlng": [
+            56.48176,
+            8.77991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30981,
+          "name": "Virklund",
+          "latlng": [
+            56.13218,
+            9.55582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1530,
+      "name": "Denmark",
+      "code": "84",
+      "shortName": "84",
+      "cities": [
+        {
+          "id": 30990,
+          "name": "Åkirkeby",
+          "latlng": [
+            55.0708,
+            14.91978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30577,
+          "name": "Albertslund",
+          "latlng": [
+            55.65691,
+            12.36381
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30578,
+          "name": "Albertslund Kommune",
+          "latlng": [
+            55.68022,
+            12.34797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30579,
+          "name": "Allerød Kommune",
+          "latlng": [
+            55.85856,
+            12.32558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30589,
+          "name": "Ballerup",
+          "latlng": [
+            55.73165,
+            12.36328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30590,
+          "name": "Ballerup Kommune",
+          "latlng": [
+            55.73248,
+            12.35793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30595,
+          "name": "Birkerød",
+          "latlng": [
+            55.84759,
+            12.42791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30598,
+          "name": "Blovstrød",
+          "latlng": [
+            55.87038,
+            12.3864
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30601,
+          "name": "Bornholm Kommune",
+          "latlng": [
+            55.12386,
+            14.91115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30610,
+          "name": "Brøndby Kommune",
+          "latlng": [
+            55.6429,
+            12.41101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30616,
+          "name": "Charlottenlund",
+          "latlng": [
+            55.75238,
+            12.5745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30618,
+          "name": "Christianshavn",
+          "latlng": [
+            55.67383,
+            12.59541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30619,
+          "name": "Christiansø",
+          "latlng": [
+            55.31982,
+            15.18783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30620,
+          "name": "Copenhagen",
+          "latlng": [
+            55.67594,
+            12.56553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30622,
+          "name": "Dragør",
+          "latlng": [
+            55.5928,
+            12.67221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30623,
+          "name": "Dragør Kommune",
+          "latlng": [
+            55.58233,
+            12.62756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30627,
+          "name": "Egedal Kommune",
+          "latlng": [
+            55.75556,
+            12.22778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30633,
+          "name": "Espergærde",
+          "latlng": [
+            55.99464,
+            12.54733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30638,
+          "name": "Farum",
+          "latlng": [
+            55.80858,
+            12.36066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30645,
+          "name": "Fløng",
+          "latlng": [
+            55.66212,
+            12.18698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30648,
+          "name": "Fredensborg",
+          "latlng": [
+            55.97558,
+            12.40314
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30649,
+          "name": "Fredensborg Kommune",
+          "latlng": [
+            55.95,
+            12.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30652,
+          "name": "Frederiksberg",
+          "latlng": [
+            55.67938,
+            12.53463
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30654,
+          "name": "Frederiksberg Kommune",
+          "latlng": [
+            55.67856,
+            12.52216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30657,
+          "name": "Frederikssund",
+          "latlng": [
+            55.83956,
+            12.06896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30658,
+          "name": "Frederikssund Kommune",
+          "latlng": [
+            55.80957,
+            12.04038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30659,
+          "name": "Frederiksværk",
+          "latlng": [
+            55.97073,
+            12.0225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30662,
+          "name": "Furesø Kommune",
+          "latlng": [
+            55.78333,
+            12.34167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30664,
+          "name": "Ganløse",
+          "latlng": [
+            55.79124,
+            12.26421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30665,
+          "name": "Gentofte Kommune",
+          "latlng": [
+            55.75,
+            12.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30666,
+          "name": "Gilleleje",
+          "latlng": [
+            56.12196,
+            12.31056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30670,
+          "name": "Gladsaxe Municipality",
+          "latlng": [
+            55.76667,
+            12.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30672,
+          "name": "Glostrup",
+          "latlng": [
+            55.6666,
+            12.40377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30673,
+          "name": "Glostrup Kommune",
+          "latlng": [
+            55.68188,
+            12.41018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30681,
+          "name": "Græsted",
+          "latlng": [
+            56.06558,
+            12.28512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30678,
+          "name": "Gribskov Kommune",
+          "latlng": [
+            56.05833,
+            12.24167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30691,
+          "name": "Halsnæs Kommune",
+          "latlng": [
+            55.96765,
+            11.94214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153629,
+          "name": "Hedehusene",
+          "latlng": [
+            55.67594,
+            12.56553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30700,
+          "name": "Hellebæk",
+          "latlng": [
+            56.06823,
+            12.55782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30701,
+          "name": "Helsinge",
+          "latlng": [
+            56.02283,
+            12.19752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30702,
+          "name": "Helsingør",
+          "latlng": [
+            56.03606,
+            12.6136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30703,
+          "name": "Helsingør Kommune",
+          "latlng": [
+            56.05,
+            12.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30704,
+          "name": "Herlev Kommune",
+          "latlng": [
+            55.73317,
+            12.43106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30707,
+          "name": "Hillerød",
+          "latlng": [
+            55.92791,
+            12.30081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30708,
+          "name": "Hillerød Kommune",
+          "latlng": [
+            55.92319,
+            12.23794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30722,
+          "name": "Hornbæk",
+          "latlng": [
+            56.09027,
+            12.45693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30736,
+          "name": "Høje-Taastrup Kommune",
+          "latlng": [
+            55.65643,
+            12.24854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30739,
+          "name": "Hørsholm",
+          "latlng": [
+            55.88098,
+            12.50111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30740,
+          "name": "Hørsholm Kommune",
+          "latlng": [
+            55.88759,
+            12.48566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30727,
+          "name": "Humlebæk",
+          "latlng": [
+            55.9618,
+            12.5341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30728,
+          "name": "Hundested",
+          "latlng": [
+            55.96397,
+            11.85044
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30731,
+          "name": "Hvidovre",
+          "latlng": [
+            55.65719,
+            12.47364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30732,
+          "name": "Hvidovre Kommune",
+          "latlng": [
+            55.63166,
+            12.46615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30745,
+          "name": "Ishøj",
+          "latlng": [
+            55.61543,
+            12.35182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30746,
+          "name": "Ishøj Kommune",
+          "latlng": [
+            55.62299,
+            12.30567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30752,
+          "name": "Jægerspris",
+          "latlng": [
+            55.85248,
+            11.98565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30762,
+          "name": "Kokkedal",
+          "latlng": [
+            55.91179,
+            12.49952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30766,
+          "name": "Kongens Lyngby",
+          "latlng": [
+            55.77044,
+            12.50378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30770,
+          "name": "København",
+          "latlng": [
+            55.6711,
+            12.56529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30780,
+          "name": "Lillerød",
+          "latlng": [
+            55.87496,
+            12.34579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30782,
+          "name": "Liseleje",
+          "latlng": [
+            56.01295,
+            11.96544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30785,
+          "name": "Lyngby-Tårbæk Kommune",
+          "latlng": [
+            55.78456,
+            12.50508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30786,
+          "name": "Lynge",
+          "latlng": [
+            55.83941,
+            12.27725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30803,
+          "name": "Måløv",
+          "latlng": [
+            55.75528,
+            12.32327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30808,
+          "name": "Nexø",
+          "latlng": [
+            55.06067,
+            15.13058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30810,
+          "name": "Nivå",
+          "latlng": [
+            55.93405,
+            12.50485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30823,
+          "name": "Nødebo",
+          "latlng": [
+            55.97877,
+            12.34685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31000,
+          "name": "Ølstykke",
+          "latlng": [
+            55.79567,
+            12.15509
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30857,
+          "name": "Rødovre",
+          "latlng": [
+            55.68062,
+            12.45373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30858,
+          "name": "Rødovre Kommune",
+          "latlng": [
+            55.68852,
+            12.44834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30861,
+          "name": "Rønne",
+          "latlng": [
+            55.10091,
+            14.70664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30849,
+          "name": "Rudersdal Kommune",
+          "latlng": [
+            55.825,
+            12.49167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30880,
+          "name": "Skævinge",
+          "latlng": [
+            55.90785,
+            12.15036
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30874,
+          "name": "Skibby",
+          "latlng": [
+            55.75122,
+            11.96083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30884,
+          "name": "Slangerup",
+          "latlng": [
+            55.85,
+            12.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30885,
+          "name": "Smørumnedre",
+          "latlng": [
+            55.74232,
+            12.30276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30896,
+          "name": "Stavnsholt",
+          "latlng": [
+            55.81479,
+            12.40545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30900,
+          "name": "Stenløse",
+          "latlng": [
+            55.76828,
+            12.19723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30930,
+          "name": "Taastrup",
+          "latlng": [
+            55.65006,
+            12.3016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30946,
+          "name": "Tårnby",
+          "latlng": [
+            55.6303,
+            12.60035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30947,
+          "name": "Tårnby Kommune",
+          "latlng": [
+            55.60391,
+            12.59599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30944,
+          "name": "Trørød",
+          "latlng": [
+            55.83946,
+            12.54432
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30958,
+          "name": "Vallensbæk Kommune",
+          "latlng": [
+            55.63128,
+            12.37369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30957,
+          "name": "Vallensbæk Strand",
+          "latlng": [
+            55.62199,
+            12.38511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30960,
+          "name": "Vanløse",
+          "latlng": [
+            55.68361,
+            12.48713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30988,
+          "name": "Værløse",
+          "latlng": [
+            55.78251,
+            12.36856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30967,
+          "name": "Veksø",
+          "latlng": [
+            55.75473,
+            12.23837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1532,
+      "name": "North Denmark",
+      "code": "81",
+      "shortName": "81",
+      "cities": [
+        {
+          "id": 30575,
+          "name": "Aalborg",
+          "latlng": [
+            57.048,
+            9.9187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30576,
+          "name": "Aars",
+          "latlng": [
+            56.80399,
+            9.51441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30989,
+          "name": "Åbybro",
+          "latlng": [
+            57.16249,
+            9.72996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30991,
+          "name": "Ålborg Kommune",
+          "latlng": [
+            57,
+            9.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30992,
+          "name": "Ålestrup",
+          "latlng": [
+            56.6947,
+            9.49336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30581,
+          "name": "Arden",
+          "latlng": [
+            56.76899,
+            9.86184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30608,
+          "name": "Brovst",
+          "latlng": [
+            57.0975,
+            9.52264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30611,
+          "name": "Brønderslev",
+          "latlng": [
+            57.27021,
+            9.94102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30612,
+          "name": "Brønderslev Kommune",
+          "latlng": [
+            57.23506,
+            10.10061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30624,
+          "name": "Dronninglund",
+          "latlng": [
+            57.16035,
+            10.29287
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30637,
+          "name": "Farsø",
+          "latlng": [
+            56.77276,
+            9.33925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30644,
+          "name": "Fjerritslev",
+          "latlng": [
+            57.08822,
+            9.26622
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30655,
+          "name": "Frederikshavn",
+          "latlng": [
+            57.44073,
+            10.53661
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30656,
+          "name": "Frederikshavn Kommune",
+          "latlng": [
+            57.43347,
+            10.42507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30660,
+          "name": "Frejlev",
+          "latlng": [
+            57.00623,
+            9.81711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30667,
+          "name": "Gistrup",
+          "latlng": [
+            56.9943,
+            9.99085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30689,
+          "name": "Hadsund",
+          "latlng": [
+            56.71482,
+            10.11682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30690,
+          "name": "Hals",
+          "latlng": [
+            56.99609,
+            10.30807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30694,
+          "name": "Hanstholm",
+          "latlng": [
+            57.11667,
+            8.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30710,
+          "name": "Hirtshals",
+          "latlng": [
+            57.58812,
+            9.95922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30711,
+          "name": "Hjallerup",
+          "latlng": [
+            57.16466,
+            10.14571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30713,
+          "name": "Hjørring",
+          "latlng": [
+            57.46417,
+            9.98229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30714,
+          "name": "Hjørring Kommune",
+          "latlng": [
+            57.45682,
+            10.05859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30715,
+          "name": "Hobro",
+          "latlng": [
+            56.64306,
+            9.79029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30729,
+          "name": "Hurup",
+          "latlng": [
+            56.74944,
+            8.41953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30747,
+          "name": "Jammerbugt Kommune",
+          "latlng": [
+            57.14583,
+            9.5625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30769,
+          "name": "Kås",
+          "latlng": [
+            57.19774,
+            9.67173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30761,
+          "name": "Klarup",
+          "latlng": [
+            57.01194,
+            10.05617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30788,
+          "name": "Læso Kommune",
+          "latlng": [
+            57.26774,
+            11.02265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30789,
+          "name": "Løgstør",
+          "latlng": [
+            56.96245,
+            9.2583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30793,
+          "name": "Løkken",
+          "latlng": [
+            57.37047,
+            9.71466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30795,
+          "name": "Mariager",
+          "latlng": [
+            56.64985,
+            9.97515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30796,
+          "name": "Mariagerfjord Kommune",
+          "latlng": [
+            56.69722,
+            9.84722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30801,
+          "name": "Morsø Kommune",
+          "latlng": [
+            56.79622,
+            8.73272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30809,
+          "name": "Nibe",
+          "latlng": [
+            56.9815,
+            9.63917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30826,
+          "name": "Nørresundby",
+          "latlng": [
+            57.05877,
+            9.92284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30818,
+          "name": "Nykøbing Mors",
+          "latlng": [
+            56.79334,
+            8.85282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30836,
+          "name": "Pandrup",
+          "latlng": [
+            57.22147,
+            9.67569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30840,
+          "name": "Rebild Kommune",
+          "latlng": [
+            56.80556,
+            9.77778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30924,
+          "name": "Sæby",
+          "latlng": [
+            57.33188,
+            10.52251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30869,
+          "name": "Sindal",
+          "latlng": [
+            57.47117,
+            10.20312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30871,
+          "name": "Skagen",
+          "latlng": [
+            57.72093,
+            10.58394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30881,
+          "name": "Skørping",
+          "latlng": [
+            56.83626,
+            9.89255
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30906,
+          "name": "Storvorde",
+          "latlng": [
+            57.00392,
+            10.10125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30913,
+          "name": "Støvring",
+          "latlng": [
+            56.88536,
+            9.83839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30907,
+          "name": "Strandby",
+          "latlng": [
+            57.4915,
+            10.49609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30920,
+          "name": "Svenstrup",
+          "latlng": [
+            56.9723,
+            9.84806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30948,
+          "name": "Tårs",
+          "latlng": [
+            57.38333,
+            10.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30933,
+          "name": "Thisted",
+          "latlng": [
+            56.95523,
+            8.69491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30934,
+          "name": "Thisted Kommune",
+          "latlng": [
+            57.00397,
+            8.61834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30956,
+          "name": "Vadum",
+          "latlng": [
+            57.1179,
+            9.857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30968,
+          "name": "Vestbjerg",
+          "latlng": [
+            57.13166,
+            9.95942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30969,
+          "name": "Vester Hassing",
+          "latlng": [
+            57.06767,
+            10.12558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30971,
+          "name": "Vesthimmerland Kommune",
+          "latlng": [
+            56.8,
+            9.37083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30983,
+          "name": "Vodskov",
+          "latlng": [
+            57.10854,
+            10.02215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30987,
+          "name": "Vrå",
+          "latlng": [
+            57.3537,
+            9.94176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1529,
+      "name": "Southern Denmark",
+      "code": "83",
+      "shortName": "83",
+      "cities": [
+        {
+          "id": 30573,
+          "name": "Aabenraa",
+          "latlng": [
+            55.04434,
+            9.41741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30574,
+          "name": "Aabenraa Kommune",
+          "latlng": [
+            54.9898,
+            9.31282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30995,
+          "name": "Årslev",
+          "latlng": [
+            55.30353,
+            10.46428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30996,
+          "name": "Årup",
+          "latlng": [
+            55.37315,
+            10.04131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30583,
+          "name": "Assens",
+          "latlng": [
+            55.27023,
+            9.90081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30584,
+          "name": "Assens Kommune",
+          "latlng": [
+            55.29958,
+            10.07952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30586,
+          "name": "Augustenborg",
+          "latlng": [
+            54.95201,
+            9.87216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30997,
+          "name": "Ærø Kommune",
+          "latlng": [
+            54.85833,
+            10.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30998,
+          "name": "Ærøskøbing",
+          "latlng": [
+            54.88803,
+            10.41117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30592,
+          "name": "Bellinge",
+          "latlng": [
+            55.33535,
+            10.32045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30593,
+          "name": "Billund",
+          "latlng": [
+            55.73349,
+            9.10785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30594,
+          "name": "Billund Kommune",
+          "latlng": [
+            55.73079,
+            8.96844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30599,
+          "name": "Bogense",
+          "latlng": [
+            55.56691,
+            10.08863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30615,
+          "name": "Børkop",
+          "latlng": [
+            55.64195,
+            9.64958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30603,
+          "name": "Bramming",
+          "latlng": [
+            55.46946,
+            8.70007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30605,
+          "name": "Brejning",
+          "latlng": [
+            55.66594,
+            9.67217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30606,
+          "name": "Brenderup",
+          "latlng": [
+            55.48407,
+            9.97908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30607,
+          "name": "Broager",
+          "latlng": [
+            54.8894,
+            9.67465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30613,
+          "name": "Brørup",
+          "latlng": [
+            55.48194,
+            9.01756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30614,
+          "name": "Bullerup",
+          "latlng": [
+            55.42686,
+            10.47137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30617,
+          "name": "Christiansfeld",
+          "latlng": [
+            55.35817,
+            9.48701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30625,
+          "name": "Dybbøl",
+          "latlng": [
+            54.91079,
+            9.73601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30628,
+          "name": "Egtved",
+          "latlng": [
+            55.61613,
+            9.30763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30629,
+          "name": "Ejby",
+          "latlng": [
+            55.4301,
+            9.92973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30631,
+          "name": "Esbjerg",
+          "latlng": [
+            55.47028,
+            8.45187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30632,
+          "name": "Esbjerg Kommune",
+          "latlng": [
+            55.46893,
+            8.46222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30634,
+          "name": "Faaborg",
+          "latlng": [
+            55.0951,
+            10.24226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30635,
+          "name": "Faaborg-Midtfyn Kommune",
+          "latlng": [
+            55.22667,
+            10.40667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30636,
+          "name": "Fanø Kommune",
+          "latlng": [
+            55.41667,
+            8.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30650,
+          "name": "Fredericia",
+          "latlng": [
+            55.56568,
+            9.75257
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30651,
+          "name": "Fredericia Kommune",
+          "latlng": [
+            55.57271,
+            9.69489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30668,
+          "name": "Give",
+          "latlng": [
+            55.84523,
+            9.23769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30671,
+          "name": "Glamsbjerg",
+          "latlng": [
+            55.27237,
+            10.10483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30674,
+          "name": "Gram",
+          "latlng": [
+            55.28948,
+            9.04913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30680,
+          "name": "Gråsten",
+          "latlng": [
+            54.91918,
+            9.59523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30679,
+          "name": "Grindsted",
+          "latlng": [
+            55.75726,
+            8.9275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30682,
+          "name": "Guderup",
+          "latlng": [
+            54.98978,
+            9.87174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30686,
+          "name": "Haderslev",
+          "latlng": [
+            55.24943,
+            9.48771
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30687,
+          "name": "Haderslev Kommune",
+          "latlng": [
+            55.24441,
+            9.32261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30733,
+          "name": "Hårby",
+          "latlng": [
+            55.22357,
+            10.12268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30721,
+          "name": "Holsted",
+          "latlng": [
+            55.51086,
+            8.91872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30735,
+          "name": "Højby",
+          "latlng": [
+            55.33177,
+            10.43725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30741,
+          "name": "Høruphav",
+          "latlng": [
+            54.91017,
+            9.89872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30748,
+          "name": "Jelling",
+          "latlng": [
+            55.75588,
+            9.4258
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30756,
+          "name": "Kerteminde",
+          "latlng": [
+            55.44903,
+            10.65769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30757,
+          "name": "Kerteminde Kommune",
+          "latlng": [
+            55.45498,
+            10.6222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30763,
+          "name": "Kolding",
+          "latlng": [
+            55.4904,
+            9.47216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30764,
+          "name": "Kolding Kommune",
+          "latlng": [
+            55.45006,
+            9.45807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30768,
+          "name": "Kruså",
+          "latlng": [
+            54.85097,
+            9.40129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30773,
+          "name": "Langeland Kommune",
+          "latlng": [
+            54.9,
+            10.77222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30774,
+          "name": "Langeskov",
+          "latlng": [
+            55.35655,
+            10.58447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30791,
+          "name": "Løgumkloster",
+          "latlng": [
+            55.05941,
+            8.95508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30792,
+          "name": "Løjt Kirkeby",
+          "latlng": [
+            55.08959,
+            9.46084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30784,
+          "name": "Lunderskov",
+          "latlng": [
+            55.48375,
+            9.29917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30798,
+          "name": "Marstal",
+          "latlng": [
+            54.85621,
+            10.51726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30799,
+          "name": "Middelfart",
+          "latlng": [
+            55.50591,
+            9.73054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30800,
+          "name": "Middelfart Kommune",
+          "latlng": [
+            55.45782,
+            9.881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30802,
+          "name": "Munkebo",
+          "latlng": [
+            55.45553,
+            10.55433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30806,
+          "name": "Neder Holluf",
+          "latlng": [
+            55.36451,
+            10.44824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30811,
+          "name": "Nordborg",
+          "latlng": [
+            55.05732,
+            9.7408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30812,
+          "name": "Nordby",
+          "latlng": [
+            55.44603,
+            8.39786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30814,
+          "name": "Nordfyns Kommune",
+          "latlng": [
+            55.52222,
+            10.22222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30825,
+          "name": "Nørre Åby",
+          "latlng": [
+            55.46107,
+            9.8794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30815,
+          "name": "Nyborg",
+          "latlng": [
+            55.31274,
+            10.78964
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30816,
+          "name": "Nyborg Kommune",
+          "latlng": [
+            55.29473,
+            10.7031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30829,
+          "name": "Odense",
+          "latlng": [
+            55.39594,
+            10.38831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30830,
+          "name": "Odense Kommune",
+          "latlng": [
+            55.3957,
+            10.37761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30832,
+          "name": "Oksbøl",
+          "latlng": [
+            55.6268,
+            8.28757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30834,
+          "name": "Otterup",
+          "latlng": [
+            55.51527,
+            10.39756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30999,
+          "name": "Ølgod",
+          "latlng": [
+            55.80682,
+            8.62859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30835,
+          "name": "Padborg",
+          "latlng": [
+            54.82657,
+            9.36247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30841,
+          "name": "Ribe",
+          "latlng": [
+            55.33051,
+            8.76966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30842,
+          "name": "Ringe",
+          "latlng": [
+            55.23828,
+            10.4786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30855,
+          "name": "Rødding",
+          "latlng": [
+            55.36569,
+            9.06316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30856,
+          "name": "Rødekro",
+          "latlng": [
+            55.07076,
+            9.33531
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30850,
+          "name": "Rudkøbing",
+          "latlng": [
+            54.93639,
+            10.71019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30866,
+          "name": "Seden",
+          "latlng": [
+            55.42648,
+            10.44265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30870,
+          "name": "Skaerbaek",
+          "latlng": [
+            55.15735,
+            8.76901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30887,
+          "name": "Snoghøj",
+          "latlng": [
+            55.52253,
+            9.72125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30926,
+          "name": "Sønder Bjert",
+          "latlng": [
+            55.45272,
+            9.56741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30927,
+          "name": "Sønderborg",
+          "latlng": [
+            54.90896,
+            9.78917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30928,
+          "name": "Sønderborg Kommune",
+          "latlng": [
+            54.91667,
+            9.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30929,
+          "name": "Søndersø",
+          "latlng": [
+            55.48526,
+            10.2554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30895,
+          "name": "Starup",
+          "latlng": [
+            55.24097,
+            9.53503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30902,
+          "name": "Stige",
+          "latlng": [
+            55.43941,
+            10.4094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30908,
+          "name": "Strib",
+          "latlng": [
+            55.54021,
+            9.76748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30918,
+          "name": "Svendborg",
+          "latlng": [
+            55.05982,
+            10.60677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30919,
+          "name": "Svendborg Kommune",
+          "latlng": [
+            55.0841,
+            10.61391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30932,
+          "name": "Taulov",
+          "latlng": [
+            55.54582,
+            9.61553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30935,
+          "name": "Thurø By",
+          "latlng": [
+            55.0474,
+            10.66385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30937,
+          "name": "Tinglev",
+          "latlng": [
+            54.93788,
+            9.25547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30938,
+          "name": "Tjæreborg",
+          "latlng": [
+            55.46457,
+            8.57968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30939,
+          "name": "Toftlund",
+          "latlng": [
+            55.18858,
+            9.06925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30940,
+          "name": "Tommerup",
+          "latlng": [
+            55.31952,
+            10.20659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30941,
+          "name": "Tommerup Stationsby",
+          "latlng": [
+            55.34535,
+            10.17594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30950,
+          "name": "Tønder",
+          "latlng": [
+            54.93306,
+            8.86674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30951,
+          "name": "Tønder Kommune",
+          "latlng": [
+            55.07304,
+            8.87214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30954,
+          "name": "Ullerslev",
+          "latlng": [
+            55.36172,
+            10.6519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30959,
+          "name": "Vamdrup",
+          "latlng": [
+            55.42764,
+            9.28435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30961,
+          "name": "Varde",
+          "latlng": [
+            55.62112,
+            8.48069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30962,
+          "name": "Varde Kommune",
+          "latlng": [
+            55.61667,
+            8.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30963,
+          "name": "Vejen",
+          "latlng": [
+            55.48117,
+            9.13795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30964,
+          "name": "Vejen Kommune",
+          "latlng": [
+            55.46312,
+            9.05004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30965,
+          "name": "Vejle",
+          "latlng": [
+            55.70927,
+            9.5357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30966,
+          "name": "Vejle Kommune",
+          "latlng": [
+            55.74874,
+            9.40421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30970,
+          "name": "Vester-Skerninge",
+          "latlng": [
+            55.07322,
+            10.45536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30977,
+          "name": "Vindeby",
+          "latlng": [
+            55.04489,
+            10.61309
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30982,
+          "name": "Vissenbjerg",
+          "latlng": [
+            55.38482,
+            10.13784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30984,
+          "name": "Vojens",
+          "latlng": [
+            55.24639,
+            9.30603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1528,
+      "name": "Zealand",
+      "code": "85",
+      "shortName": "85",
+      "cities": [
+        {
+          "id": 30582,
+          "name": "Asnæs",
+          "latlng": [
+            55.81229,
+            11.50129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30597,
+          "name": "Bjæverskov",
+          "latlng": [
+            55.45756,
+            12.03651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30602,
+          "name": "Borup",
+          "latlng": [
+            55.49472,
+            11.97584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30621,
+          "name": "Dianalund",
+          "latlng": [
+            55.53133,
+            11.4925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30630,
+          "name": "Ejby",
+          "latlng": [
+            55.4858,
+            12.08171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30640,
+          "name": "Faxe",
+          "latlng": [
+            55.25561,
+            12.11926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30641,
+          "name": "Faxe Kommune",
+          "latlng": [
+            55.29444,
+            12.06111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30642,
+          "name": "Faxe Ladeplads",
+          "latlng": [
+            55.21981,
+            12.17013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30643,
+          "name": "Fensmark",
+          "latlng": [
+            55.27919,
+            11.80382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30646,
+          "name": "Forlev",
+          "latlng": [
+            55.37445,
+            11.25966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30653,
+          "name": "Frederiksberg",
+          "latlng": [
+            55.41618,
+            11.56934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30661,
+          "name": "Fuglebjerg",
+          "latlng": [
+            55.30604,
+            11.54766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30685,
+          "name": "Gørlev",
+          "latlng": [
+            55.53926,
+            11.22708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30676,
+          "name": "Greve",
+          "latlng": [
+            55.58333,
+            12.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30677,
+          "name": "Greve Kommune",
+          "latlng": [
+            55.5877,
+            12.2506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30683,
+          "name": "Guldborgsund Kommune",
+          "latlng": [
+            54.76944,
+            11.83611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30684,
+          "name": "Gundsømagle",
+          "latlng": [
+            55.73565,
+            12.15158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30734,
+          "name": "Hårlev",
+          "latlng": [
+            55.34936,
+            12.23382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30696,
+          "name": "Haslev",
+          "latlng": [
+            55.32346,
+            11.96389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30697,
+          "name": "Havdrup",
+          "latlng": [
+            55.54481,
+            12.12392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30716,
+          "name": "Holbæk",
+          "latlng": [
+            55.7175,
+            11.71279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30717,
+          "name": "Holbæk Kommune",
+          "latlng": [
+            55.65919,
+            11.62049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30718,
+          "name": "Holeby",
+          "latlng": [
+            54.71148,
+            11.46416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30737,
+          "name": "Høng",
+          "latlng": [
+            55.50736,
+            11.28873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30742,
+          "name": "Hørve",
+          "latlng": [
+            55.75292,
+            11.45298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30750,
+          "name": "Jyderup",
+          "latlng": [
+            55.66399,
+            11.42029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30751,
+          "name": "Jyllinge",
+          "latlng": [
+            55.75295,
+            12.10315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30753,
+          "name": "Kalundborg",
+          "latlng": [
+            55.67954,
+            11.08864
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30754,
+          "name": "Kalundborg Kommune",
+          "latlng": [
+            55.63545,
+            11.19993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30759,
+          "name": "Kirke Hvalsø",
+          "latlng": [
+            55.5917,
+            11.86253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30767,
+          "name": "Korsør",
+          "latlng": [
+            55.32993,
+            11.13857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30771,
+          "name": "Køge",
+          "latlng": [
+            55.45802,
+            12.18214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30772,
+          "name": "Køge Kommune",
+          "latlng": [
+            55.45668,
+            12.07332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30776,
+          "name": "Lejre",
+          "latlng": [
+            55.60461,
+            11.97477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30777,
+          "name": "Lejre Kommune",
+          "latlng": [
+            55.63375,
+            11.92234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30783,
+          "name": "Lolland Kommune",
+          "latlng": [
+            54.80238,
+            11.29524
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30797,
+          "name": "Maribo",
+          "latlng": [
+            54.77662,
+            11.50017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30805,
+          "name": "Nakskov",
+          "latlng": [
+            54.83038,
+            11.13567
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30821,
+          "name": "Næstved",
+          "latlng": [
+            55.22992,
+            11.76092
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30822,
+          "name": "Næstved Kommune",
+          "latlng": [
+            55.25855,
+            11.74615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30807,
+          "name": "Neder Vindinge",
+          "latlng": [
+            55.03211,
+            11.88356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30824,
+          "name": "Nørre Alslev",
+          "latlng": [
+            54.89784,
+            11.88414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30817,
+          "name": "Nykøbing Falster",
+          "latlng": [
+            54.76906,
+            11.87425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30819,
+          "name": "Nykøbing Sjælland",
+          "latlng": [
+            55.92491,
+            11.67109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30820,
+          "name": "Nyråd",
+          "latlng": [
+            55.00511,
+            11.9606
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30831,
+          "name": "Odsherred Kommune",
+          "latlng": [
+            55.88333,
+            11.59444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30833,
+          "name": "Osted",
+          "latlng": [
+            55.56228,
+            11.95786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31001,
+          "name": "Ørslev",
+          "latlng": [
+            55.04356,
+            11.96792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30837,
+          "name": "Præstø",
+          "latlng": [
+            55.12374,
+            12.04477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30845,
+          "name": "Ringsted",
+          "latlng": [
+            55.4426,
+            11.79011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30846,
+          "name": "Ringsted Kommune",
+          "latlng": [
+            55.44721,
+            11.8172
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30847,
+          "name": "Roskilde",
+          "latlng": [
+            55.64152,
+            12.08035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30848,
+          "name": "Roskilde Kommune",
+          "latlng": [
+            55.65,
+            12.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30853,
+          "name": "Rødby",
+          "latlng": [
+            54.69495,
+            11.38885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30854,
+          "name": "Rødbyhavn",
+          "latlng": [
+            54.65944,
+            11.35504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30859,
+          "name": "Rødvig",
+          "latlng": [
+            55.2554,
+            12.37936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30862,
+          "name": "Rønnede",
+          "latlng": [
+            55.2571,
+            12.02125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30864,
+          "name": "Sakskøbing",
+          "latlng": [
+            54.7997,
+            11.62599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30879,
+          "name": "Skælskør",
+          "latlng": [
+            55.25058,
+            11.29352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30882,
+          "name": "Slagelse",
+          "latlng": [
+            55.40276,
+            11.35459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30883,
+          "name": "Slagelse Kommune",
+          "latlng": [
+            55.34546,
+            11.3339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30889,
+          "name": "Solrød",
+          "latlng": [
+            55.53628,
+            12.1827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30890,
+          "name": "Solrød Kommune",
+          "latlng": [
+            55.53553,
+            12.17337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30891,
+          "name": "Solrød Strand",
+          "latlng": [
+            55.53285,
+            12.22227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30892,
+          "name": "Sorø",
+          "latlng": [
+            55.43184,
+            11.55547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30893,
+          "name": "Sorø Kommune",
+          "latlng": [
+            55.48268,
+            11.55693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30898,
+          "name": "Stege",
+          "latlng": [
+            54.98704,
+            12.28461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30899,
+          "name": "Stenlille",
+          "latlng": [
+            55.53888,
+            11.5912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30901,
+          "name": "Stevns Kommune",
+          "latlng": [
+            55.33373,
+            12.30692
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30905,
+          "name": "Store Heddinge",
+          "latlng": [
+            55.30965,
+            12.38885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30911,
+          "name": "Strøby Egede",
+          "latlng": [
+            55.41382,
+            12.24502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30912,
+          "name": "Stubbekøbing",
+          "latlng": [
+            54.88875,
+            12.04102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30914,
+          "name": "Sundby",
+          "latlng": [
+            54.76711,
+            11.84979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30916,
+          "name": "Svebølle",
+          "latlng": [
+            55.65183,
+            11.28658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30921,
+          "name": "Svinninge",
+          "latlng": [
+            55.72111,
+            11.46547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30922,
+          "name": "Svogerslev",
+          "latlng": [
+            55.63423,
+            12.01465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30949,
+          "name": "Tølløse",
+          "latlng": [
+            55.6125,
+            11.77034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30945,
+          "name": "Tune",
+          "latlng": [
+            55.59287,
+            12.16968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30974,
+          "name": "Viby",
+          "latlng": [
+            55.54872,
+            12.02391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30979,
+          "name": "Vindinge",
+          "latlng": [
+            55.62298,
+            12.1387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30980,
+          "name": "Vipperød",
+          "latlng": [
+            55.66768,
+            11.73967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30985,
+          "name": "Vordingborg",
+          "latlng": [
+            55.00801,
+            11.91057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 30986,
+          "name": "Vordingborg Kommune",
+          "latlng": [
+            55.01383,
+            12.10008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

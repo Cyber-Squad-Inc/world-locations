@@ -1,0 +1,252 @@
+{
+  "name": {
+    "common": "Suriname",
+    "official": "Suriname"
+  },
+  "iso2": "SR",
+  "iso3": "SUR",
+  "numericCode": "740",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".sr",
+  "phoneCode": "597",
+  "capital": "Paramaribo",
+  "currencies": {
+    "SRD": "Surinamese dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Paramaribo",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "SRT",
+      "tzName": "Suriname Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sr.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sr.svg",
+  "states": [
+    {
+      "id": 2846,
+      "name": "Brokopondo",
+      "code": "BR",
+      "shortName": "BR",
+      "cities": [
+        {
+          "id": 104822,
+          "name": "Brokopondo",
+          "latlng": [
+            5.05594,
+            -54.98043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104823,
+          "name": "Brownsweg",
+          "latlng": [
+            5.00435,
+            -55.15333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2839,
+      "name": "Commewijne",
+      "code": "CM",
+      "shortName": "CM",
+      "cities": [
+        {
+          "id": 104826,
+          "name": "Mariënburg",
+          "latlng": [
+            5.87722,
+            -55.04322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104828,
+          "name": "Nieuw Amsterdam",
+          "latlng": [
+            5.88573,
+            -55.08871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2842,
+      "name": "Coronie",
+      "code": "CR",
+      "shortName": "CR",
+      "cities": [
+        {
+          "id": 104832,
+          "name": "Totness",
+          "latlng": [
+            5.87618,
+            -56.32572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2845,
+      "name": "Marowijne",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 104821,
+          "name": "Albina",
+          "latlng": [
+            5.49788,
+            -54.05522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104827,
+          "name": "Moengo",
+          "latlng": [
+            5.61411,
+            -54.40121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2840,
+      "name": "Nickerie",
+      "code": "NI",
+      "shortName": "NI",
+      "cities": [
+        {
+          "id": 104829,
+          "name": "Nieuw Nickerie",
+          "latlng": [
+            5.92606,
+            -56.97297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104833,
+          "name": "Wageningen",
+          "latlng": [
+            5.7601,
+            -56.66523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2841,
+      "name": "Para",
+      "code": "PR",
+      "shortName": "PR",
+      "cities": [
+        {
+          "id": 104830,
+          "name": "Onverwacht",
+          "latlng": [
+            5.58983,
+            -55.19462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2843,
+      "name": "Paramaribo",
+      "code": "PM",
+      "shortName": "PM",
+      "cities": [
+        {
+          "id": 104831,
+          "name": "Paramaribo",
+          "latlng": [
+            5.86638,
+            -55.16682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2848,
+      "name": "Saramacca",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 104824,
+          "name": "Groningen",
+          "latlng": [
+            5.8,
+            -55.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2847,
+      "name": "Sipaliwini",
+      "code": "SI",
+      "shortName": "SI",
+      "cities": []
+    },
+    {
+      "id": 2844,
+      "name": "Wanica",
+      "code": "WA",
+      "shortName": "WA",
+      "cities": [
+        {
+          "id": 104825,
+          "name": "Lelydorp",
+          "latlng": [
+            5.7,
+            -55.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

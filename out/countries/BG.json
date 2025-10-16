@@ -1,0 +1,5798 @@
+{
+  "name": {
+    "common": "Bulgaria",
+    "official": "Bulgaria"
+  },
+  "iso2": "BG",
+  "iso3": "BGR",
+  "numericCode": "100",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "tld": ".bg",
+  "phoneCode": "359",
+  "capital": "Sofia",
+  "currencies": {
+    "BGN": "Bulgarian lev"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Sofia",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bg.svg",
+  "states": [
+    {
+      "id": 4699,
+      "name": "Blagoevgrad",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 9265,
+          "name": "Bansko",
+          "latlng": [
+            41.8383,
+            23.48851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9270,
+          "name": "Belitsa",
+          "latlng": [
+            41.95694,
+            23.5725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9275,
+          "name": "Blagoevgrad",
+          "latlng": [
+            42.01667,
+            23.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9329,
+          "name": "Garmen",
+          "latlng": [
+            41.6,
+            23.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9335,
+          "name": "Gotse Delchev",
+          "latlng": [
+            41.56667,
+            23.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9341,
+          "name": "Hadzhidimovo",
+          "latlng": [
+            41.52222,
+            23.86861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9368,
+          "name": "Kolarovo",
+          "latlng": [
+            41.36385,
+            23.10669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9374,
+          "name": "Kresna",
+          "latlng": [
+            41.73333,
+            23.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9422,
+          "name": "Obshtina Bansko",
+          "latlng": [
+            41.8,
+            23.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9425,
+          "name": "Obshtina Belitsa",
+          "latlng": [
+            42.01667,
+            23.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9429,
+          "name": "Obshtina Blagoevgrad",
+          "latlng": [
+            42.01667,
+            23.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9476,
+          "name": "Obshtina Garmen",
+          "latlng": [
+            41.7,
+            23.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9482,
+          "name": "Obshtina Gotse Delchev",
+          "latlng": [
+            41.63333,
+            23.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9511,
+          "name": "Obshtina Kresna",
+          "latlng": [
+            41.76667,
+            23.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9555,
+          "name": "Obshtina Petrich",
+          "latlng": [
+            41.45,
+            23.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9571,
+          "name": "Obshtina Razlog",
+          "latlng": [
+            41.95,
+            23.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9582,
+          "name": "Obshtina Sandanski",
+          "latlng": [
+            41.56667,
+            23.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9584,
+          "name": "Obshtina Satovcha",
+          "latlng": [
+            41.59848,
+            24.00781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9589,
+          "name": "Obshtina Simitli",
+          "latlng": [
+            41.88333,
+            23.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9603,
+          "name": "Obshtina Strumyani",
+          "latlng": [
+            41.63333,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9633,
+          "name": "Obshtina Yakoruda",
+          "latlng": [
+            42.08333,
+            23.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9653,
+          "name": "Petrich",
+          "latlng": [
+            41.39846,
+            23.20702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9670,
+          "name": "Razlog",
+          "latlng": [
+            41.8863,
+            23.46714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9681,
+          "name": "Sandanski",
+          "latlng": [
+            41.56667,
+            23.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9686,
+          "name": "Satovcha",
+          "latlng": [
+            41.61667,
+            23.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9694,
+          "name": "Simitli",
+          "latlng": [
+            41.88333,
+            23.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9705,
+          "name": "Stara Kresna",
+          "latlng": [
+            41.8,
+            23.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9711,
+          "name": "Strumyani",
+          "latlng": [
+            41.63333,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9745,
+          "name": "Yakoruda",
+          "latlng": [
+            42.02528,
+            23.68417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4715,
+      "name": "Burgas",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 9250,
+          "name": "Aheloy",
+          "latlng": [
+            42.64987,
+            27.64838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9251,
+          "name": "Ahtopol",
+          "latlng": [
+            42.09768,
+            27.93961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9261,
+          "name": "Aytos",
+          "latlng": [
+            42.7,
+            27.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9266,
+          "name": "Bata",
+          "latlng": [
+            42.73802,
+            27.49643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9292,
+          "name": "Burgas",
+          "latlng": [
+            42.50606,
+            27.46781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9299,
+          "name": "Chernomorets",
+          "latlng": [
+            42.44408,
+            27.63902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9353,
+          "name": "Kameno",
+          "latlng": [
+            42.57084,
+            27.29875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9356,
+          "name": "Karnobat",
+          "latlng": [
+            42.65,
+            26.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9363,
+          "name": "Kiten",
+          "latlng": [
+            42.23424,
+            27.7749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9397,
+          "name": "Malko Tarnovo",
+          "latlng": [
+            41.97958,
+            27.52477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9406,
+          "name": "Nesebar",
+          "latlng": [
+            42.65921,
+            27.73602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9419,
+          "name": "Obshtina Aytos",
+          "latlng": [
+            42.7,
+            27.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9442,
+          "name": "Obshtina Burgas",
+          "latlng": [
+            42.5,
+            27.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9495,
+          "name": "Obshtina Kameno",
+          "latlng": [
+            42.51667,
+            27.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9498,
+          "name": "Obshtina Karnobat",
+          "latlng": [
+            42.65,
+            26.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9529,
+          "name": "Obshtina Malko Tarnovo",
+          "latlng": [
+            42.08333,
+            27.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9538,
+          "name": "Obshtina Nesebar",
+          "latlng": [
+            42.78333,
+            27.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9560,
+          "name": "Obshtina Pomorie",
+          "latlng": [
+            42.73333,
+            27.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9564,
+          "name": "Obshtina Primorsko",
+          "latlng": [
+            42.25,
+            27.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9596,
+          "name": "Obshtina Sozopol",
+          "latlng": [
+            42.31123,
+            27.51733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9605,
+          "name": "Obshtina Sungurlare",
+          "latlng": [
+            42.83333,
+            26.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9640,
+          "name": "Obzor",
+          "latlng": [
+            42.81998,
+            27.88007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9658,
+          "name": "Pomorie",
+          "latlng": [
+            42.56326,
+            27.62986
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9662,
+          "name": "Primorsko",
+          "latlng": [
+            42.26791,
+            27.75611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9668,
+          "name": "Ravda",
+          "latlng": [
+            42.64185,
+            27.67713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9674,
+          "name": "Ruen",
+          "latlng": [
+            42.8,
+            27.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9683,
+          "name": "Sarafovo",
+          "latlng": [
+            42.56079,
+            27.52195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9702,
+          "name": "Sozopol",
+          "latlng": [
+            42.41801,
+            27.6956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9703,
+          "name": "Sredets",
+          "latlng": [
+            42.34747,
+            27.17898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9713,
+          "name": "Sungurlare",
+          "latlng": [
+            42.76667,
+            26.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9715,
+          "name": "Sveti Vlas",
+          "latlng": [
+            42.7136,
+            27.75867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9728,
+          "name": "Tsarevo",
+          "latlng": [
+            42.16955,
+            27.84541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4718,
+      "name": "Dobrich",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 9262,
+          "name": "Balchik",
+          "latlng": [
+            43.42166,
+            28.15848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9310,
+          "name": "Dobrich",
+          "latlng": [
+            43.56667,
+            27.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9330,
+          "name": "General Toshevo",
+          "latlng": [
+            43.70123,
+            28.03787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9357,
+          "name": "Kavarna",
+          "latlng": [
+            43.43601,
+            28.33953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9378,
+          "name": "Krushari",
+          "latlng": [
+            43.81675,
+            27.75552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9420,
+          "name": "Obshtina Balchik",
+          "latlng": [
+            43.5,
+            28.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9457,
+          "name": "Obshtina Dobrich",
+          "latlng": [
+            43.57763,
+            27.80628
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9458,
+          "name": "Obshtina Dobrich-Selska",
+          "latlng": [
+            43.63333,
+            27.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9477,
+          "name": "Obshtina General Toshevo",
+          "latlng": [
+            43.73333,
+            28.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9499,
+          "name": "Obshtina Kavarna",
+          "latlng": [
+            43.5,
+            28.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9514,
+          "name": "Obshtina Krushari",
+          "latlng": [
+            43.88333,
+            27.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9587,
+          "name": "Obshtina Shabla",
+          "latlng": [
+            43.61667,
+            28.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9611,
+          "name": "Obshtina Tervel",
+          "latlng": [
+            43.75,
+            27.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9690,
+          "name": "Shabla",
+          "latlng": [
+            43.53983,
+            28.53429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9720,
+          "name": "Tervel",
+          "latlng": [
+            43.74789,
+            27.40911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4693,
+      "name": "Gabrovo",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 9318,
+          "name": "Dryanovo",
+          "latlng": [
+            42.97897,
+            25.4785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9328,
+          "name": "Gabrovo",
+          "latlng": [
+            42.87472,
+            25.33417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9465,
+          "name": "Obshtina Dryanovo",
+          "latlng": [
+            43,
+            25.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9474,
+          "name": "Obshtina Gabrovo",
+          "latlng": [
+            42.9,
+            25.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9586,
+          "name": "Obshtina Sevlievo",
+          "latlng": [
+            43.01667,
+            25.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9615,
+          "name": "Obshtina Tryavna",
+          "latlng": [
+            42.85,
+            25.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9689,
+          "name": "Sevlievo",
+          "latlng": [
+            43.02583,
+            25.11361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9726,
+          "name": "Tryavna",
+          "latlng": [
+            42.86667,
+            25.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4704,
+      "name": "Haskovo",
+      "code": "26",
+      "shortName": "26",
+      "cities": [
+        {
+          "id": 9308,
+          "name": "Dimitrovgrad",
+          "latlng": [
+            42.05,
+            25.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9342,
+          "name": "Harmanli",
+          "latlng": [
+            41.93333,
+            25.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9343,
+          "name": "Haskovo",
+          "latlng": [
+            41.93415,
+            25.55557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9350,
+          "name": "Ivaylovgrad",
+          "latlng": [
+            41.52672,
+            26.1249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9392,
+          "name": "Lyubimets",
+          "latlng": [
+            41.83333,
+            26.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9394,
+          "name": "Madzharovo",
+          "latlng": [
+            41.63461,
+            25.86439
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9401,
+          "name": "Mineralni Bani",
+          "latlng": [
+            41.91667,
+            25.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9455,
+          "name": "Obshtina Dimitrovgrad",
+          "latlng": [
+            42.05,
+            25.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9486,
+          "name": "Obshtina Harmanli",
+          "latlng": [
+            41.93333,
+            25.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9487,
+          "name": "Obshtina Haskovo",
+          "latlng": [
+            41.88333,
+            25.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9493,
+          "name": "Obshtina Ivaylovgrad",
+          "latlng": [
+            41.48333,
+            26
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9527,
+          "name": "Obshtina Madzharovo",
+          "latlng": [
+            41.68333,
+            25.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9532,
+          "name": "Obshtina Mineralni Bani",
+          "latlng": [
+            41.9,
+            25.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9598,
+          "name": "Obshtina Stambolovo",
+          "latlng": [
+            41.73333,
+            25.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9607,
+          "name": "Obshtina Svilengrad",
+          "latlng": [
+            41.86667,
+            26.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9613,
+          "name": "Obshtina Topolovgrad",
+          "latlng": [
+            42.08333,
+            26.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9693,
+          "name": "Simeonovgrad",
+          "latlng": [
+            42.03333,
+            25.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9716,
+          "name": "Svilengrad",
+          "latlng": [
+            41.76667,
+            26.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9722,
+          "name": "Topolovgrad",
+          "latlng": [
+            42.08333,
+            26.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4702,
+      "name": "Kardzhali",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 9257,
+          "name": "Ardino",
+          "latlng": [
+            41.58333,
+            25.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9323,
+          "name": "Dzhebel",
+          "latlng": [
+            41.49566,
+            25.30363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9354,
+          "name": "Kardzhali",
+          "latlng": [
+            41.65,
+            25.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9362,
+          "name": "Kirkovo",
+          "latlng": [
+            41.32715,
+            25.36379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9377,
+          "name": "Krumovgrad",
+          "latlng": [
+            41.47127,
+            25.65485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9416,
+          "name": "Obshtina Ardino",
+          "latlng": [
+            41.6,
+            25.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9448,
+          "name": "Obshtina Chernoochene",
+          "latlng": [
+            41.78333,
+            25.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9469,
+          "name": "Obshtina Dzhebel",
+          "latlng": [
+            41.5,
+            25.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9496,
+          "name": "Obshtina Kardzhali",
+          "latlng": [
+            41.68333,
+            25.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9502,
+          "name": "Obshtina Kirkovo",
+          "latlng": [
+            41.35816,
+            25.33731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9535,
+          "name": "Obshtina Momchilgrad",
+          "latlng": [
+            41.53333,
+            25.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4703,
+      "name": "Kyustendil",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 9276,
+          "name": "Boboshevo",
+          "latlng": [
+            42.15296,
+            23.00146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9277,
+          "name": "Bobov Dol",
+          "latlng": [
+            42.36256,
+            23.00324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9321,
+          "name": "Dupnitsa",
+          "latlng": [
+            42.26667,
+            23.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9367,
+          "name": "Kocherinovo",
+          "latlng": [
+            42.08439,
+            23.0571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9381,
+          "name": "Kyustendil",
+          "latlng": [
+            42.28389,
+            22.69111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9407,
+          "name": "Nevestino",
+          "latlng": [
+            42.25551,
+            22.85175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9430,
+          "name": "Obshtina Boboshevo",
+          "latlng": [
+            42.18333,
+            23.02731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9431,
+          "name": "Obshtina Bobov Dol",
+          "latlng": [
+            42.31667,
+            22.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9467,
+          "name": "Obshtina Dupnitsa",
+          "latlng": [
+            42.28333,
+            23.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9504,
+          "name": "Obshtina Kocherinovo",
+          "latlng": [
+            42.09909,
+            23.02942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9518,
+          "name": "Obshtina Kyustendil",
+          "latlng": [
+            42.28333,
+            22.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9539,
+          "name": "Obshtina Nevestino",
+          "latlng": [
+            42.16667,
+            22.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9572,
+          "name": "Obshtina Rila",
+          "latlng": [
+            42.15,
+            23.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9583,
+          "name": "Obshtina Sapareva Banya",
+          "latlng": [
+            42.28333,
+            23.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9614,
+          "name": "Obshtina Treklyano",
+          "latlng": [
+            42.55,
+            22.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9671,
+          "name": "Rila",
+          "latlng": [
+            42.13333,
+            23.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9682,
+          "name": "Sapareva Banya",
+          "latlng": [
+            42.28333,
+            23.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4710,
+      "name": "Lovech",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 9256,
+          "name": "Apriltsi",
+          "latlng": [
+            42.84142,
+            24.91759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9385,
+          "name": "Letnitsa",
+          "latlng": [
+            43.31167,
+            25.07333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9388,
+          "name": "Lovech",
+          "latlng": [
+            43.13333,
+            24.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9390,
+          "name": "Lukovit",
+          "latlng": [
+            43.2,
+            24.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9523,
+          "name": "Obshtina Lovech",
+          "latlng": [
+            43.16667,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9612,
+          "name": "Obshtina Teteven",
+          "latlng": [
+            42.91667,
+            24.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9621,
+          "name": "Obshtina Ugarchin",
+          "latlng": [
+            43.1,
+            24.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9721,
+          "name": "Teteven",
+          "latlng": [
+            42.91667,
+            24.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9725,
+          "name": "Troyan",
+          "latlng": [
+            42.89427,
+            24.71589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9732,
+          "name": "Ugarchin",
+          "latlng": [
+            43.1,
+            24.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9743,
+          "name": "Yablanitsa",
+          "latlng": [
+            43.03139,
+            24.11278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4696,
+      "name": "Montana",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 9274,
+          "name": "Berkovitsa",
+          "latlng": [
+            43.23581,
+            23.12738
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9283,
+          "name": "Boychinovtsi",
+          "latlng": [
+            43.47222,
+            23.33583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9290,
+          "name": "Brusartsi",
+          "latlng": [
+            43.66075,
+            23.06732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9301,
+          "name": "Chiprovtsi",
+          "latlng": [
+            43.38417,
+            22.88083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9387,
+          "name": "Lom",
+          "latlng": [
+            43.82106,
+            23.23677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9398,
+          "name": "Medkovets",
+          "latlng": [
+            43.62403,
+            23.16876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9404,
+          "name": "Montana",
+          "latlng": [
+            43.4125,
+            23.225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9437,
+          "name": "Obshtina Boychinovtsi",
+          "latlng": [
+            43.53333,
+            23.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9450,
+          "name": "Obshtina Chiprovtsi",
+          "latlng": [
+            43.41667,
+            22.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9478,
+          "name": "Obshtina Georgi Damyanovo",
+          "latlng": [
+            43.35,
+            23
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9522,
+          "name": "Obshtina Lom",
+          "latlng": [
+            43.81667,
+            23.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9536,
+          "name": "Obshtina Montana",
+          "latlng": [
+            43.46667,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9622,
+          "name": "Obshtina Valchedram",
+          "latlng": [
+            43.71667,
+            23.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9625,
+          "name": "Obshtina Varshets",
+          "latlng": [
+            43.21667,
+            23.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9632,
+          "name": "Obshtina Yakimovo",
+          "latlng": [
+            43.63333,
+            23.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9733,
+          "name": "Valchedram",
+          "latlng": [
+            43.69281,
+            23.44518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9736,
+          "name": "Varshets",
+          "latlng": [
+            43.19356,
+            23.2868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9744,
+          "name": "Yakimovo",
+          "latlng": [
+            43.63472,
+            23.3535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4712,
+      "name": "Pazardzhik",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 9267,
+          "name": "Batak",
+          "latlng": [
+            41.94225,
+            24.21843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9273,
+          "name": "Belovo",
+          "latlng": [
+            42.21239,
+            24.02081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9286,
+          "name": "Bratsigovo",
+          "latlng": [
+            42.01667,
+            24.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9384,
+          "name": "Lesichovo",
+          "latlng": [
+            42.35626,
+            24.1119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9423,
+          "name": "Obshtina Batak",
+          "latlng": [
+            41.86667,
+            24.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9428,
+          "name": "Obshtina Belovo",
+          "latlng": [
+            42.2,
+            23.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9440,
+          "name": "Obshtina Bratsigovo",
+          "latlng": [
+            42,
+            24.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9520,
+          "name": "Obshtina Lesichovo",
+          "latlng": [
+            42.36667,
+            24.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9547,
+          "name": "Obshtina Panagyurishte",
+          "latlng": [
+            42.5,
+            24.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9551,
+          "name": "Obshtina Pazardzhik",
+          "latlng": [
+            42.2,
+            24.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9554,
+          "name": "Obshtina Peshtera",
+          "latlng": [
+            42.03333,
+            24.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9568,
+          "name": "Obshtina Rakitovo",
+          "latlng": [
+            41.99965,
+            24.10877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9585,
+          "name": "Obshtina Septemvri",
+          "latlng": [
+            42.26667,
+            24.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9602,
+          "name": "Obshtina Strelcha",
+          "latlng": [
+            42.46667,
+            24.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9627,
+          "name": "Obshtina Velingrad",
+          "latlng": [
+            41.96667,
+            23.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9644,
+          "name": "Panagyurishte",
+          "latlng": [
+            42.49518,
+            24.19021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9649,
+          "name": "Pazardzhik",
+          "latlng": [
+            42.2,
+            24.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9652,
+          "name": "Peshtera",
+          "latlng": [
+            42.03372,
+            24.29995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9666,
+          "name": "Rakitovo",
+          "latlng": [
+            41.99012,
+            24.0873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9684,
+          "name": "Sarnitsa",
+          "latlng": [
+            41.73835,
+            24.02435
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9685,
+          "name": "Sarnitsa Obshtina",
+          "latlng": [
+            41.73333,
+            24.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9688,
+          "name": "Septemvri",
+          "latlng": [
+            42.21138,
+            24.12946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9710,
+          "name": "Strelcha",
+          "latlng": [
+            42.5,
+            24.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9738,
+          "name": "Velingrad",
+          "latlng": [
+            42.02754,
+            23.99155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4695,
+      "name": "Pernik",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 9268,
+          "name": "Batanovtsi",
+          "latlng": [
+            42.59692,
+            22.95634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9288,
+          "name": "Breznik",
+          "latlng": [
+            42.74085,
+            22.90723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9509,
+          "name": "Obshtina Kovachevtsi",
+          "latlng": [
+            42.55,
+            22.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9552,
+          "name": "Obshtina Pernik",
+          "latlng": [
+            42.61667,
+            23.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9567,
+          "name": "Obshtina Radomir",
+          "latlng": [
+            42.46667,
+            23.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9636,
+          "name": "Obshtina Zemen",
+          "latlng": [
+            42.55067,
+            22.7144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9650,
+          "name": "Pernik",
+          "latlng": [
+            42.6,
+            23.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9665,
+          "name": "Radomir",
+          "latlng": [
+            42.54565,
+            22.96553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9724,
+          "name": "Tran",
+          "latlng": [
+            42.83528,
+            22.65167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9748,
+          "name": "Zemen",
+          "latlng": [
+            42.47889,
+            22.74917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4706,
+      "name": "Pleven",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 9269,
+          "name": "Belene",
+          "latlng": [
+            43.64594,
+            25.12627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9300,
+          "name": "Cherven Bryag",
+          "latlng": [
+            43.26667,
+            24.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9312,
+          "name": "Dolna Mitropolia",
+          "latlng": [
+            43.46667,
+            24.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9314,
+          "name": "Dolni Dabnik",
+          "latlng": [
+            43.4,
+            24.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9337,
+          "name": "Gulyantsi",
+          "latlng": [
+            43.64109,
+            24.69368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9347,
+          "name": "Iskar",
+          "latlng": [
+            43.45,
+            24.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9366,
+          "name": "Knezha",
+          "latlng": [
+            43.5,
+            24.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9372,
+          "name": "Koynare",
+          "latlng": [
+            43.35,
+            24.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9386,
+          "name": "Levski",
+          "latlng": [
+            43.36667,
+            25.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9409,
+          "name": "Nikopol",
+          "latlng": [
+            43.70528,
+            24.89521
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9424,
+          "name": "Obshtina Belene",
+          "latlng": [
+            43.63333,
+            25.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9449,
+          "name": "Obshtina Cherven Bryag",
+          "latlng": [
+            43.33333,
+            24.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9460,
+          "name": "Obshtina Dolna Mitropolia",
+          "latlng": [
+            43.58333,
+            24.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9462,
+          "name": "Obshtina Dolni Dabnik",
+          "latlng": [
+            43.36667,
+            24.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9484,
+          "name": "Obshtina Gulyantsi",
+          "latlng": [
+            43.68333,
+            24.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9490,
+          "name": "Obshtina Iskar",
+          "latlng": [
+            43.5,
+            24.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9503,
+          "name": "Obshtina Knezha",
+          "latlng": [
+            43.5,
+            24.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9521,
+          "name": "Obshtina Levski",
+          "latlng": [
+            43.43333,
+            25.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9541,
+          "name": "Obshtina Nikopol",
+          "latlng": [
+            43.6,
+            24.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9557,
+          "name": "Obshtina Pleven",
+          "latlng": [
+            43.4,
+            24.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9562,
+          "name": "Obshtina Pordim",
+          "latlng": [
+            43.38333,
+            24.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9655,
+          "name": "Pleven",
+          "latlng": [
+            43.41667,
+            24.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9660,
+          "name": "Pordim",
+          "latlng": [
+            43.38333,
+            24.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9696,
+          "name": "Slavyanovo",
+          "latlng": [
+            43.46667,
+            24.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4701,
+      "name": "Plovdiv",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 9259,
+          "name": "Asenovgrad",
+          "latlng": [
+            42.01667,
+            24.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9289,
+          "name": "Brezovo",
+          "latlng": [
+            42.35,
+            25.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9345,
+          "name": "Hisarya",
+          "latlng": [
+            42.5,
+            24.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9351,
+          "name": "Kalofer",
+          "latlng": [
+            42.61667,
+            24.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9352,
+          "name": "Kaloyanovo",
+          "latlng": [
+            42.35,
+            24.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9355,
+          "name": "Karlovo",
+          "latlng": [
+            42.63333,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9365,
+          "name": "Klisura",
+          "latlng": [
+            42.7,
+            24.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9375,
+          "name": "Krichim",
+          "latlng": [
+            42.05,
+            24.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9383,
+          "name": "Laki",
+          "latlng": [
+            41.85,
+            24.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9417,
+          "name": "Obshtina Asenovgrad",
+          "latlng": [
+            41.95,
+            24.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9489,
+          "name": "Obshtina Hisarya",
+          "latlng": [
+            42.5,
+            24.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9494,
+          "name": "Obshtina Kaloyanovo",
+          "latlng": [
+            42.38333,
+            24.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9497,
+          "name": "Obshtina Karlovo",
+          "latlng": [
+            42.68333,
+            24.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9512,
+          "name": "Obshtina Krichim",
+          "latlng": [
+            42.00439,
+            24.47235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9516,
+          "name": "Obshtina Kuklen",
+          "latlng": [
+            42.03725,
+            24.77949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9519,
+          "name": "Obshtina Laki",
+          "latlng": [
+            41.81667,
+            24.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9530,
+          "name": "Obshtina Maritsa",
+          "latlng": [
+            42.23333,
+            24.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9548,
+          "name": "Obshtina Parvomay",
+          "latlng": [
+            42.03333,
+            25.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9553,
+          "name": "Obshtina Perushtitsa",
+          "latlng": [
+            42.06667,
+            24.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9558,
+          "name": "Obshtina Plovdiv",
+          "latlng": [
+            42.15,
+            24.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9569,
+          "name": "Obshtina Rakovski",
+          "latlng": [
+            42.26667,
+            24.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9573,
+          "name": "Obshtina Rodopi",
+          "latlng": [
+            42.03333,
+            24.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9578,
+          "name": "Obshtina Sadovo",
+          "latlng": [
+            42.13333,
+            25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9579,
+          "name": "Obshtina Saedinenie",
+          "latlng": [
+            42.31667,
+            24.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9595,
+          "name": "Obshtina Sopot",
+          "latlng": [
+            42.65214,
+            24.7431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9597,
+          "name": "Obshtina Stamboliyski",
+          "latlng": [
+            42.11667,
+            24.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9645,
+          "name": "Parvomay",
+          "latlng": [
+            42.1,
+            25.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9651,
+          "name": "Perushtitsa",
+          "latlng": [
+            42.05,
+            24.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9656,
+          "name": "Plovdiv",
+          "latlng": [
+            42.15,
+            24.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9667,
+          "name": "Rakovski",
+          "latlng": [
+            42.27408,
+            24.94083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9677,
+          "name": "Sadovo",
+          "latlng": [
+            42.13178,
+            24.93999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9678,
+          "name": "Saedinenie",
+          "latlng": [
+            42.26667,
+            24.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9704,
+          "name": "Stamboliyski",
+          "latlng": [
+            42.13333,
+            24.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9723,
+          "name": "Topolovo",
+          "latlng": [
+            41.9,
+            25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4698,
+      "name": "Razgrad",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 9348,
+          "name": "Isperih",
+          "latlng": [
+            43.71667,
+            26.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9379,
+          "name": "Kubrat",
+          "latlng": [
+            43.79658,
+            26.50063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9389,
+          "name": "Loznitsa",
+          "latlng": [
+            43.36667,
+            26.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9399,
+          "name": "Medovene",
+          "latlng": [
+            43.76667,
+            26.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9491,
+          "name": "Obshtina Isperih",
+          "latlng": [
+            43.71667,
+            26.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9515,
+          "name": "Obshtina Kubrat",
+          "latlng": [
+            43.86667,
+            26.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9524,
+          "name": "Obshtina Loznitsa",
+          "latlng": [
+            43.41667,
+            26.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9570,
+          "name": "Obshtina Razgrad",
+          "latlng": [
+            43.53333,
+            26.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9581,
+          "name": "Obshtina Samuil",
+          "latlng": [
+            43.6,
+            26.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9616,
+          "name": "Obshtina Tsar Kaloyan",
+          "latlng": [
+            43.6,
+            26.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9635,
+          "name": "Obshtina Zavet",
+          "latlng": [
+            43.76667,
+            26.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9669,
+          "name": "Razgrad",
+          "latlng": [
+            43.53333,
+            26.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9680,
+          "name": "Samuil",
+          "latlng": [
+            43.51667,
+            26.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9727,
+          "name": "Tsar Kaloyan",
+          "latlng": [
+            43.61667,
+            26.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9747,
+          "name": "Zavet",
+          "latlng": [
+            43.76036,
+            26.68063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4713,
+      "name": "Ruse",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 9281,
+          "name": "Borovo",
+          "latlng": [
+            43.50086,
+            25.80992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9322,
+          "name": "Dve Mogili",
+          "latlng": [
+            43.59258,
+            25.87486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9349,
+          "name": "Ivanovo",
+          "latlng": [
+            43.68568,
+            25.95565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9435,
+          "name": "Obshtina Borovo",
+          "latlng": [
+            43.6,
+            25.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9443,
+          "name": "Obshtina Byala",
+          "latlng": [
+            43.41667,
+            25.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9468,
+          "name": "Obshtina Dve Mogili",
+          "latlng": [
+            43.51667,
+            25.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9492,
+          "name": "Obshtina Ivanovo",
+          "latlng": [
+            43.7,
+            25.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9576,
+          "name": "Obshtina Ruse",
+          "latlng": [
+            43.85,
+            26.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9593,
+          "name": "Obshtina Slivo Pole",
+          "latlng": [
+            43.96667,
+            26.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9617,
+          "name": "Obshtina Tsenovo",
+          "latlng": [
+            43.58333,
+            25.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9628,
+          "name": "Obshtina Vetovo",
+          "latlng": [
+            43.71667,
+            26.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9675,
+          "name": "Ruse",
+          "latlng": [
+            43.84872,
+            25.9534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9687,
+          "name": "Senovo",
+          "latlng": [
+            43.65,
+            26.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9699,
+          "name": "Slivo Pole",
+          "latlng": [
+            43.94248,
+            26.20464
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9729,
+          "name": "Tsenovo",
+          "latlng": [
+            43.53588,
+            25.65764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9739,
+          "name": "Vetovo",
+          "latlng": [
+            43.7,
+            26.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4882,
+      "name": "Shumen",
+      "code": "27",
+      "shortName": "27",
+      "cities": [
+        {
+          "id": 146184,
+          "name": "Shumen",
+          "latlng": [
+            43.283333,
+            26.933333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4708,
+      "name": "Silistra",
+      "code": "19",
+      "shortName": "19",
+      "cities": [
+        {
+          "id": 9253,
+          "name": "Alfatar",
+          "latlng": [
+            43.94525,
+            27.28751
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9319,
+          "name": "Dulovo",
+          "latlng": [
+            43.81667,
+            27.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9331,
+          "name": "Glavinitsa",
+          "latlng": [
+            43.91667,
+            26.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9358,
+          "name": "Kaynardzha",
+          "latlng": [
+            43.99278,
+            27.50713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9413,
+          "name": "Obshtina Alfatar",
+          "latlng": [
+            43.9,
+            27.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9466,
+          "name": "Obshtina Dulovo",
+          "latlng": [
+            43.81667,
+            27.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9479,
+          "name": "Obshtina Glavinitsa",
+          "latlng": [
+            43.95,
+            26.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9500,
+          "name": "Obshtina Kaynardzha",
+          "latlng": [
+            43.95,
+            27.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9588,
+          "name": "Obshtina Silistra",
+          "latlng": [
+            44.03333,
+            27.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9590,
+          "name": "Obshtina Sitovo",
+          "latlng": [
+            44.01667,
+            27
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9619,
+          "name": "Obshtina Tutrakan",
+          "latlng": [
+            44,
+            26.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9692,
+          "name": "Silistra",
+          "latlng": [
+            44.1171,
+            27.26056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9695,
+          "name": "Sitovo",
+          "latlng": [
+            44.0273,
+            27.01982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9730,
+          "name": "Tutrakan",
+          "latlng": [
+            44.04906,
+            26.61206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4700,
+      "name": "Sliven",
+      "code": "20",
+      "shortName": "20",
+      "cities": [
+        {
+          "id": 9360,
+          "name": "Kermen",
+          "latlng": [
+            42.5,
+            26.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9371,
+          "name": "Kotel",
+          "latlng": [
+            42.88333,
+            26.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9410,
+          "name": "Nova Zagora",
+          "latlng": [
+            42.48333,
+            26.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9508,
+          "name": "Obshtina Kotel",
+          "latlng": [
+            42.88333,
+            26.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9542,
+          "name": "Obshtina Nova Zagora",
+          "latlng": [
+            42.45,
+            26.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9591,
+          "name": "Obshtina Sliven",
+          "latlng": [
+            42.66667,
+            26.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9620,
+          "name": "Obshtina Tvarditsa",
+          "latlng": [
+            42.73333,
+            26
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9697,
+          "name": "Sliven",
+          "latlng": [
+            42.68583,
+            26.32917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9731,
+          "name": "Tvarditsa",
+          "latlng": [
+            42.7,
+            25.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4694,
+      "name": "Smolyan",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 9264,
+          "name": "Banite",
+          "latlng": [
+            41.61667,
+            25.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9279,
+          "name": "Borino",
+          "latlng": [
+            41.68408,
+            24.293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9298,
+          "name": "Chepelare",
+          "latlng": [
+            41.73333,
+            24.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9306,
+          "name": "Devin",
+          "latlng": [
+            41.74327,
+            24.40003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9315,
+          "name": "Dospat",
+          "latlng": [
+            41.64462,
+            24.15857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9339,
+          "name": "Gyovren",
+          "latlng": [
+            41.66326,
+            24.37557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9393,
+          "name": "Madan",
+          "latlng": [
+            41.49869,
+            24.93973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9405,
+          "name": "Nedelino",
+          "latlng": [
+            41.45602,
+            25.08008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9421,
+          "name": "Obshtina Banite",
+          "latlng": [
+            41.7,
+            25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9433,
+          "name": "Obshtina Borino",
+          "latlng": [
+            41.64834,
+            24.31694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9447,
+          "name": "Obshtina Chepelare",
+          "latlng": [
+            41.8,
+            24.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9453,
+          "name": "Obshtina Devin",
+          "latlng": [
+            41.74346,
+            24.40192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9463,
+          "name": "Obshtina Dospat",
+          "latlng": [
+            41.63228,
+            24.18765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9526,
+          "name": "Obshtina Madan",
+          "latlng": [
+            41.53333,
+            24.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9537,
+          "name": "Obshtina Nedelino",
+          "latlng": [
+            41.46894,
+            25.09481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9575,
+          "name": "Obshtina Rudozem",
+          "latlng": [
+            41.45439,
+            24.8369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9594,
+          "name": "Obshtina Smolyan",
+          "latlng": [
+            41.57516,
+            24.71302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9639,
+          "name": "Obshtina Zlatograd",
+          "latlng": [
+            41.40028,
+            25.04591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9673,
+          "name": "Rudozem",
+          "latlng": [
+            41.48751,
+            24.84945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9700,
+          "name": "Smolyan",
+          "latlng": [
+            41.57439,
+            24.71204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9752,
+          "name": "Zlatograd",
+          "latlng": [
+            41.3795,
+            25.09605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4719,
+      "name": "Sofia",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 9254,
+          "name": "Anton",
+          "latlng": [
+            42.75,
+            24.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9282,
+          "name": "Botevgrad",
+          "latlng": [
+            42.9,
+            23.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9285,
+          "name": "Bozhurishte",
+          "latlng": [
+            42.75,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9296,
+          "name": "Chavdar",
+          "latlng": [
+            42.65,
+            24.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9297,
+          "name": "Chelopech",
+          "latlng": [
+            42.7,
+            24.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9311,
+          "name": "Dolna Banya",
+          "latlng": [
+            42.3,
+            23.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9316,
+          "name": "Dragoman",
+          "latlng": [
+            42.92191,
+            22.93109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9326,
+          "name": "Elin Pelin",
+          "latlng": [
+            42.66667,
+            23.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9327,
+          "name": "Etropole",
+          "latlng": [
+            42.83333,
+            24
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9332,
+          "name": "Godech",
+          "latlng": [
+            43.01682,
+            23.04852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9333,
+          "name": "Gorna Malina",
+          "latlng": [
+            42.68333,
+            23.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9346,
+          "name": "Ihtiman",
+          "latlng": [
+            42.43333,
+            23.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9369,
+          "name": "Koprivshtitsa",
+          "latlng": [
+            42.63333,
+            24.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9370,
+          "name": "Kostinbrod",
+          "latlng": [
+            42.81667,
+            23.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9382,
+          "name": "Lakatnik",
+          "latlng": [
+            43.05,
+            23.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9402,
+          "name": "Mirkovo",
+          "latlng": [
+            42.7,
+            23.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9414,
+          "name": "Obshtina Anton",
+          "latlng": [
+            42.76667,
+            24.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9436,
+          "name": "Obshtina Botevgrad",
+          "latlng": [
+            42.95,
+            23.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9439,
+          "name": "Obshtina Bozhurishte",
+          "latlng": [
+            42.78333,
+            23.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9445,
+          "name": "Obshtina Chavdar",
+          "latlng": [
+            42.61667,
+            24.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9446,
+          "name": "Obshtina Chelopech",
+          "latlng": [
+            42.71667,
+            24.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9459,
+          "name": "Obshtina Dolna Banya",
+          "latlng": [
+            42.3,
+            23.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9464,
+          "name": "Obshtina Dragoman",
+          "latlng": [
+            42.93333,
+            22.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9472,
+          "name": "Obshtina Elin Pelin",
+          "latlng": [
+            42.66667,
+            23.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9473,
+          "name": "Obshtina Etropole",
+          "latlng": [
+            42.85,
+            24.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9480,
+          "name": "Obshtina Gorna Malina",
+          "latlng": [
+            42.71667,
+            23.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9505,
+          "name": "Obshtina Koprivshtitsa",
+          "latlng": [
+            42.61667,
+            24.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9506,
+          "name": "Obshtina Kostenets",
+          "latlng": [
+            42.3,
+            23.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9507,
+          "name": "Obshtina Kostinbrod",
+          "latlng": [
+            42.88333,
+            23.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9533,
+          "name": "Obshtina Mirkovo",
+          "latlng": [
+            42.66667,
+            23.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9556,
+          "name": "Obshtina Pirdop",
+          "latlng": [
+            42.7,
+            24.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9563,
+          "name": "Obshtina Pravets",
+          "latlng": [
+            42.96667,
+            23.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9580,
+          "name": "Obshtina Samokov",
+          "latlng": [
+            42.33333,
+            23.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9592,
+          "name": "Obshtina Slivnitsa",
+          "latlng": [
+            42.85,
+            22.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9609,
+          "name": "Obshtina Svoge",
+          "latlng": [
+            43,
+            23.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9638,
+          "name": "Obshtina Zlatitsa",
+          "latlng": [
+            42.7,
+            24.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9654,
+          "name": "Pirdop",
+          "latlng": [
+            42.7,
+            24.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9661,
+          "name": "Pravets",
+          "latlng": [
+            42.88333,
+            23.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9679,
+          "name": "Samokov",
+          "latlng": [
+            42.337,
+            23.5528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9698,
+          "name": "Slivnitsa",
+          "latlng": [
+            42.85182,
+            23.03792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9718,
+          "name": "Svoge",
+          "latlng": [
+            42.96667,
+            23.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9750,
+          "name": "Zlatitsa",
+          "latlng": [
+            42.71667,
+            24.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4705,
+      "name": "Sofia City",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 9291,
+          "name": "Buhovo",
+          "latlng": [
+            42.76667,
+            23.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9701,
+          "name": "Sofia",
+          "latlng": [
+            42.69751,
+            23.32415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9707,
+          "name": "Stolichna Obshtina",
+          "latlng": [
+            42.68647,
+            23.30561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4707,
+      "name": "Stara Zagora",
+      "code": "24",
+      "shortName": "24",
+      "cities": [
+        {
+          "id": 9258,
+          "name": "Asen",
+          "latlng": [
+            42.65,
+            25.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9302,
+          "name": "Chirpan",
+          "latlng": [
+            42.2,
+            25.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9340,
+          "name": "Gŭlŭbovo",
+          "latlng": [
+            42.13333,
+            25.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9338,
+          "name": "Gurkovo",
+          "latlng": [
+            42.66667,
+            25.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9359,
+          "name": "Kazanlak",
+          "latlng": [
+            42.61667,
+            25.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9395,
+          "name": "Maglizh",
+          "latlng": [
+            42.6,
+            25.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9408,
+          "name": "Nikolaevo",
+          "latlng": [
+            42.63333,
+            25.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9441,
+          "name": "Obshtina Bratya Daskalovi",
+          "latlng": [
+            42.3,
+            25.21667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9451,
+          "name": "Obshtina Chirpan",
+          "latlng": [
+            42.23333,
+            25.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9475,
+          "name": "Obshtina Galabovo",
+          "latlng": [
+            42.15,
+            25.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9485,
+          "name": "Obshtina Gurkovo",
+          "latlng": [
+            42.71667,
+            25.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9501,
+          "name": "Obshtina Kazanlŭk",
+          "latlng": [
+            42.61943,
+            25.39885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9528,
+          "name": "Obshtina Maglizh",
+          "latlng": [
+            42.63333,
+            25.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9540,
+          "name": "Obshtina Nikolaevo",
+          "latlng": [
+            42.6,
+            25.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9545,
+          "name": "Obshtina Opan",
+          "latlng": [
+            42.21667,
+            25.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9549,
+          "name": "Obshtina Pavel Banya",
+          "latlng": [
+            42.63333,
+            25.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9566,
+          "name": "Obshtina Radnevo",
+          "latlng": [
+            42.3,
+            25.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9599,
+          "name": "Obshtina Stara Zagora",
+          "latlng": [
+            42.41667,
+            25.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9647,
+          "name": "Pavel Banya",
+          "latlng": [
+            42.6,
+            25.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9664,
+          "name": "Radnevo",
+          "latlng": [
+            42.3,
+            25.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9691,
+          "name": "Shipka",
+          "latlng": [
+            42.71667,
+            25.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9706,
+          "name": "Stara Zagora",
+          "latlng": [
+            42.43278,
+            25.64194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4714,
+      "name": "Targovishte",
+      "code": "25",
+      "shortName": "25",
+      "cities": [
+        {
+          "id": 9255,
+          "name": "Antonovo",
+          "latlng": [
+            43.15,
+            26.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9415,
+          "name": "Obshtina Antonovo",
+          "latlng": [
+            43.11667,
+            26.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9543,
+          "name": "Obshtina Omurtag",
+          "latlng": [
+            43.08333,
+            26.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9544,
+          "name": "Obshtina Opaka",
+          "latlng": [
+            43.46667,
+            26.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9561,
+          "name": "Obshtina Popovo",
+          "latlng": [
+            43.35,
+            26.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9610,
+          "name": "Obshtina Targovishte",
+          "latlng": [
+            43.25,
+            26.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9641,
+          "name": "Omurtag",
+          "latlng": [
+            43.1,
+            26.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9642,
+          "name": "Opaka",
+          "latlng": [
+            43.45,
+            26.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9659,
+          "name": "Popovo",
+          "latlng": [
+            43.35,
+            26.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9719,
+          "name": "Targovishte",
+          "latlng": [
+            43.2512,
+            26.57215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4717,
+      "name": "Varna",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 9252,
+          "name": "Aksakovo",
+          "latlng": [
+            43.25615,
+            27.82105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9260,
+          "name": "Asparuhovo",
+          "latlng": [
+            43.18067,
+            27.88823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9263,
+          "name": "Balgarevo",
+          "latlng": [
+            43.40296,
+            28.41189
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9272,
+          "name": "Beloslav",
+          "latlng": [
+            43.1896,
+            27.70429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9293,
+          "name": "Byala",
+          "latlng": [
+            42.87426,
+            27.88865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9304,
+          "name": "Dalgopol",
+          "latlng": [
+            43.05,
+            27.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9307,
+          "name": "Devnya",
+          "latlng": [
+            43.22222,
+            27.56944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9313,
+          "name": "Dolni Chiflik",
+          "latlng": [
+            42.99296,
+            27.71596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9364,
+          "name": "Kiten",
+          "latlng": [
+            43.08333,
+            27.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9412,
+          "name": "Obshtina Aksakovo",
+          "latlng": [
+            43.31667,
+            27.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9418,
+          "name": "Obshtina Avren",
+          "latlng": [
+            43.1,
+            27.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9427,
+          "name": "Obshtina Beloslav",
+          "latlng": [
+            43.2,
+            27.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9444,
+          "name": "Obshtina Byala",
+          "latlng": [
+            42.88333,
+            27.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9452,
+          "name": "Obshtina Dalgopol",
+          "latlng": [
+            43.05,
+            27.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9454,
+          "name": "Obshtina Devnya",
+          "latlng": [
+            43.22056,
+            27.60052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9461,
+          "name": "Obshtina Dolni Chiflik",
+          "latlng": [
+            42.96667,
+            27.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9565,
+          "name": "Obshtina Provadia",
+          "latlng": [
+            43.18333,
+            27.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9606,
+          "name": "Obshtina Suvorovo",
+          "latlng": [
+            43.33333,
+            27.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9623,
+          "name": "Obshtina Valchidol",
+          "latlng": [
+            43.45,
+            27.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9624,
+          "name": "Obshtina Varna",
+          "latlng": [
+            43.21667,
+            27.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9629,
+          "name": "Obshtina Vetrino",
+          "latlng": [
+            43.31667,
+            27.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9663,
+          "name": "Provadia",
+          "latlng": [
+            43.18333,
+            27.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9714,
+          "name": "Suvorovo",
+          "latlng": [
+            43.33058,
+            27.59908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9734,
+          "name": "Valchidol",
+          "latlng": [
+            43.4,
+            27.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9735,
+          "name": "Varna",
+          "latlng": [
+            43.21667,
+            27.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9740,
+          "name": "Vetrino",
+          "latlng": [
+            43.31667,
+            27.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9751,
+          "name": "Zlatni Pyasatsi",
+          "latlng": [
+            43.285,
+            28.0418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4709,
+      "name": "Veliko Tarnovo",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 9294,
+          "name": "Byala Cherkva",
+          "latlng": [
+            43.2,
+            25.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9305,
+          "name": "Debelets",
+          "latlng": [
+            43.03333,
+            25.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9324,
+          "name": "Elena",
+          "latlng": [
+            42.93333,
+            25.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9334,
+          "name": "Gorna Oryahovitsa",
+          "latlng": [
+            43.12778,
+            25.70167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9361,
+          "name": "Kilifarevo",
+          "latlng": [
+            42.98333,
+            25.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9391,
+          "name": "Lyaskovets",
+          "latlng": [
+            43.11111,
+            25.72833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9470,
+          "name": "Obshtina Elena",
+          "latlng": [
+            42.91667,
+            25.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9481,
+          "name": "Obshtina Gorna Oryahovitsa",
+          "latlng": [
+            43.21667,
+            25.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9525,
+          "name": "Obshtina Lyaskovets",
+          "latlng": [
+            43.13333,
+            25.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9550,
+          "name": "Obshtina Pavlikeni",
+          "latlng": [
+            43.28333,
+            25.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9559,
+          "name": "Obshtina Polski Trambesh",
+          "latlng": [
+            43.35,
+            25.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9601,
+          "name": "Obshtina Strazhitsa",
+          "latlng": [
+            43.26667,
+            25.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9604,
+          "name": "Obshtina Suhindol",
+          "latlng": [
+            43.16667,
+            25.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9608,
+          "name": "Obshtina Svishtov",
+          "latlng": [
+            43.53333,
+            25.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9626,
+          "name": "Obshtina Veliko Tŭrnovo",
+          "latlng": [
+            43.08241,
+            25.63202
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9637,
+          "name": "Obshtina Zlataritsa",
+          "latlng": [
+            43.06667,
+            25.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9646,
+          "name": "Parvomaytsi",
+          "latlng": [
+            43.15,
+            25.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9648,
+          "name": "Pavlikeni",
+          "latlng": [
+            43.24278,
+            25.32194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9657,
+          "name": "Polski Trambesh",
+          "latlng": [
+            43.37233,
+            25.63525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9709,
+          "name": "Strazhitsa",
+          "latlng": [
+            43.23333,
+            25.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9712,
+          "name": "Suhindol",
+          "latlng": [
+            43.19167,
+            25.18111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9717,
+          "name": "Svishtov",
+          "latlng": [
+            43.61875,
+            25.35033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9737,
+          "name": "Veliko Tŭrnovo",
+          "latlng": [
+            43.08124,
+            25.62904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9749,
+          "name": "Zlataritsa",
+          "latlng": [
+            43.05,
+            25.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4697,
+      "name": "Vidin",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 9271,
+          "name": "Belogradchik",
+          "latlng": [
+            43.62722,
+            22.68361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9284,
+          "name": "Boynitsa",
+          "latlng": [
+            43.9565,
+            22.53255
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9287,
+          "name": "Bregovo",
+          "latlng": [
+            44.15167,
+            22.6425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9303,
+          "name": "Chuprene",
+          "latlng": [
+            43.51806,
+            22.66611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9309,
+          "name": "Dimovo",
+          "latlng": [
+            43.74167,
+            22.72694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9317,
+          "name": "Drenovets",
+          "latlng": [
+            43.69134,
+            22.97365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9320,
+          "name": "Dunavtsi",
+          "latlng": [
+            43.92111,
+            22.82111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9336,
+          "name": "Gramada",
+          "latlng": [
+            43.83738,
+            22.65279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9380,
+          "name": "Kula",
+          "latlng": [
+            43.88833,
+            22.52139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9396,
+          "name": "Makresh",
+          "latlng": [
+            43.76794,
+            22.66406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9411,
+          "name": "Novo Selo",
+          "latlng": [
+            44.16214,
+            22.78376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9426,
+          "name": "Obshtina Belogradchik",
+          "latlng": [
+            43.65,
+            22.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9438,
+          "name": "Obshtina Boynitsa",
+          "latlng": [
+            44,
+            22.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9456,
+          "name": "Obshtina Dimovo",
+          "latlng": [
+            43.75,
+            22.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9483,
+          "name": "Obshtina Gramada",
+          "latlng": [
+            43.83333,
+            22.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9517,
+          "name": "Obshtina Kula",
+          "latlng": [
+            43.9,
+            22.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9577,
+          "name": "Obshtina Ruzhintsi",
+          "latlng": [
+            43.65,
+            22.9
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9630,
+          "name": "Obshtina Vidin",
+          "latlng": [
+            44,
+            22.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9676,
+          "name": "Ruzhintsi",
+          "latlng": [
+            43.62179,
+            22.83286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9741,
+          "name": "Vidin",
+          "latlng": [
+            43.99159,
+            22.88236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4711,
+      "name": "Vratsa",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 9280,
+          "name": "Borovan",
+          "latlng": [
+            43.43333,
+            23.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9295,
+          "name": "Byala Slatina",
+          "latlng": [
+            43.46667,
+            23.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9344,
+          "name": "Hayredin",
+          "latlng": [
+            43.60193,
+            23.66135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9373,
+          "name": "Kozloduy",
+          "latlng": [
+            43.77864,
+            23.72058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9376,
+          "name": "Krivodol",
+          "latlng": [
+            43.37444,
+            23.48444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9400,
+          "name": "Mezdra",
+          "latlng": [
+            43.15,
+            23.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9403,
+          "name": "Mizia",
+          "latlng": [
+            43.68623,
+            23.85371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9434,
+          "name": "Obshtina Borovan",
+          "latlng": [
+            43.43333,
+            23.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9488,
+          "name": "Obshtina Hayredin",
+          "latlng": [
+            43.58333,
+            23.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9510,
+          "name": "Obshtina Kozloduy",
+          "latlng": [
+            43.71667,
+            23.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9513,
+          "name": "Obshtina Krivodol",
+          "latlng": [
+            43.38333,
+            23.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9531,
+          "name": "Obshtina Mezdra",
+          "latlng": [
+            43.13333,
+            23.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9534,
+          "name": "Obshtina Mizia",
+          "latlng": [
+            43.63333,
+            23.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9546,
+          "name": "Obshtina Oryahovo",
+          "latlng": [
+            43.69038,
+            23.98643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9574,
+          "name": "Obshtina Roman",
+          "latlng": [
+            43.15,
+            23.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9631,
+          "name": "Obshtina Vratsa",
+          "latlng": [
+            43.28333,
+            23.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9643,
+          "name": "Oryahovo",
+          "latlng": [
+            43.73618,
+            23.96052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9672,
+          "name": "Roman",
+          "latlng": [
+            43.15,
+            23.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9742,
+          "name": "Vratsa",
+          "latlng": [
+            43.21,
+            23.5625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4716,
+      "name": "Yambol",
+      "code": "28",
+      "shortName": "28",
+      "cities": [
+        {
+          "id": 9278,
+          "name": "Bolyarovo",
+          "latlng": [
+            42.14962,
+            26.81116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9325,
+          "name": "Elhovo",
+          "latlng": [
+            42.16667,
+            26.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9432,
+          "name": "Obshtina Bolyarovo",
+          "latlng": [
+            42.15,
+            26.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9471,
+          "name": "Obshtina Elhovo",
+          "latlng": [
+            42.11667,
+            26.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9600,
+          "name": "Obshtina Straldzha",
+          "latlng": [
+            42.48333,
+            26.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9618,
+          "name": "Obshtina Tundzha",
+          "latlng": [
+            42.35,
+            26.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9634,
+          "name": "Obshtina Yambol",
+          "latlng": [
+            42.48333,
+            26.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9708,
+          "name": "Straldzha",
+          "latlng": [
+            42.6,
+            26.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9746,
+          "name": "Yambol",
+          "latlng": [
+            42.48333,
+            26.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

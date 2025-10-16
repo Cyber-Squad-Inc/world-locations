@@ -1,0 +1,356 @@
+{
+  "name": {
+    "common": "Singapore",
+    "official": "Singapore"
+  },
+  "iso2": "SG",
+  "iso3": "SGP",
+  "numericCode": "702",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "tld": ".sg",
+  "phoneCode": "65",
+  "capital": "Singapur",
+  "currencies": {
+    "SGD": "Singapore dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Singapore",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "SGT",
+      "tzName": "Singapore Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sg.svg",
+  "states": [
+    {
+      "id": 4651,
+      "name": "Central Singapore",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 153462,
+          "name": "Bukit Timah",
+          "latlng": [
+            1.3294,
+            103.8021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153466,
+          "name": "Downtown Core",
+          "latlng": [
+            1.278,
+            103.852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153463,
+          "name": "Geylang",
+          "latlng": [
+            1.3182,
+            103.8871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153467,
+          "name": "Kallang",
+          "latlng": [
+            1.3106,
+            103.866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153459,
+          "name": "Marine Parade",
+          "latlng": [
+            1.303,
+            103.9072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153461,
+          "name": "Novena",
+          "latlng": [
+            1.3201,
+            103.8439
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153464,
+          "name": "Orchard Road",
+          "latlng": [
+            1.3036,
+            103.8318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153468,
+          "name": "Outram",
+          "latlng": [
+            1.2819,
+            103.839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153465,
+          "name": "Rochor",
+          "latlng": [
+            1.3049,
+            103.852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104057,
+          "name": "Singapore",
+          "latlng": [
+            1.28967,
+            103.85007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153460,
+          "name": "Tanjong Pagar",
+          "latlng": [
+            1.2764,
+            103.8434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153469,
+          "name": "Toa Payoh",
+          "latlng": [
+            1.3354,
+            103.8497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4649,
+      "name": "North East",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 153475,
+          "name": "Ang Mo Kio",
+          "latlng": [
+            1.3698,
+            103.8461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153472,
+          "name": "Hougang",
+          "latlng": [
+            1.3736,
+            103.8867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153474,
+          "name": "Punggol",
+          "latlng": [
+            1.4051,
+            103.9023
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153471,
+          "name": "Sengkang",
+          "latlng": [
+            1.3901,
+            103.8952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153473,
+          "name": "Serangoon",
+          "latlng": [
+            1.3496,
+            103.8737
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4653,
+      "name": "North West",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 153476,
+          "name": "Sembawang",
+          "latlng": [
+            1.4491,
+            103.8201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104058,
+          "name": "Woodlands",
+          "latlng": [
+            1.43801,
+            103.78877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153470,
+          "name": "Yishun",
+          "latlng": [
+            1.4293,
+            103.8355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4650,
+      "name": "South East",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 153478,
+          "name": "Bedok",
+          "latlng": [
+            1.3236,
+            103.9273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153479,
+          "name": "Pasir Ris",
+          "latlng": [
+            1.3739,
+            103.9493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153477,
+          "name": "Tampines",
+          "latlng": [
+            1.3547,
+            103.9437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4652,
+      "name": "South West",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 153481,
+          "name": "Bukit Batok",
+          "latlng": [
+            1.3496,
+            103.7528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153482,
+          "name": "Bukit Panjang",
+          "latlng": [
+            1.3786,
+            103.7626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153480,
+          "name": "Jurong West",
+          "latlng": [
+            1.3396,
+            103.7073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

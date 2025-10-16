@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Falkland Islands",
+    "official": "Falkland Islands"
+  },
+  "iso2": "FK",
+  "iso3": "FLK",
+  "numericCode": "238",
+  "region": "Americas",
+  "subregion": "South America",
+  "tld": ".fk",
+  "phoneCode": "500",
+  "capital": "Stanley",
+  "currencies": {
+    "FKP": "Falkland Islands pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Stanley",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "FKST",
+      "tzName": "Falkland Islands Summer Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/fk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/fk.svg",
+  "states": []
+}

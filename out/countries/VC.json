@@ -1,0 +1,177 @@
+{
+  "name": {
+    "common": "Saint Vincent and the Grenadines",
+    "official": "Saint Vincent and the Grenadines"
+  },
+  "iso2": "VC",
+  "iso3": "VCT",
+  "numericCode": "670",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".vc",
+  "phoneCode": "1",
+  "capital": "Kingstown",
+  "currencies": {
+    "XCD": "Eastern Caribbean dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/St_Vincent",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/vc.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/vc.svg",
+  "states": [
+    {
+      "id": 3389,
+      "name": "Charlotte",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 130030,
+          "name": "Biabou",
+          "latlng": [
+            13.1943,
+            -61.13904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130031,
+          "name": "Byera Village",
+          "latlng": [
+            13.25636,
+            -61.11954
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130033,
+          "name": "Georgetown",
+          "latlng": [
+            13.28054,
+            -61.1185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3388,
+      "name": "Grenadines",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 130037,
+          "name": "Port Elizabeth",
+          "latlng": [
+            13.01102,
+            -61.23548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3386,
+      "name": "Saint Andrew",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 130036,
+          "name": "Layou",
+          "latlng": [
+            13.20175,
+            -61.27014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3387,
+      "name": "Saint David",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 130032,
+          "name": "Chateaubelair",
+          "latlng": [
+            13.29069,
+            -61.24043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3384,
+      "name": "Saint George",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 130034,
+          "name": "Kingstown",
+          "latlng": [
+            13.15527,
+            -61.22742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 130035,
+          "name": "Kingstown Park",
+          "latlng": [
+            13.15924,
+            -61.23161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3385,
+      "name": "Saint Patrick",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 130029,
+          "name": "Barrouallie",
+          "latlng": [
+            13.23676,
+            -61.27275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

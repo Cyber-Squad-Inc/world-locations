@@ -1,0 +1,579 @@
+{
+  "name": {
+    "common": "Montenegro",
+    "official": "Montenegro"
+  },
+  "iso2": "ME",
+  "iso3": "MNE",
+  "numericCode": "499",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".me",
+  "phoneCode": "382",
+  "capital": "Podgorica",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Podgorica",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/me.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/me.svg",
+  "states": [
+    {
+      "id": 23,
+      "name": "Andrijevica",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 67343,
+          "name": "Andrijevica",
+          "latlng": [
+            42.73389,
+            19.79194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bar",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 67344,
+          "name": "Bar",
+          "latlng": [
+            42.09306,
+            19.10028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67369,
+          "name": "Stari Bar",
+          "latlng": [
+            42.097,
+            19.136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67375,
+          "name": "Šušanj",
+          "latlng": [
+            42.11556,
+            19.08833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67370,
+          "name": "Sutomore",
+          "latlng": [
+            42.14278,
+            19.04667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Berane",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 67345,
+          "name": "Berane",
+          "latlng": [
+            42.8425,
+            19.87333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Bijelo Polje",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 67346,
+          "name": "Bijelo Polje",
+          "latlng": [
+            43.03834,
+            19.74758
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Budva",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 67347,
+          "name": "Budva",
+          "latlng": [
+            42.28639,
+            18.84
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67360,
+          "name": "Petrovac na Moru",
+          "latlng": [
+            42.20556,
+            18.9425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Danilovgrad",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 67349,
+          "name": "Danilovgrad",
+          "latlng": [
+            42.55384,
+            19.14608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67368,
+          "name": "Spuž",
+          "latlng": [
+            42.515,
+            19.195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Gusinje",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 67353,
+          "name": "Gusinje",
+          "latlng": [
+            42.56194,
+            19.83389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Kolašin",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 67354,
+          "name": "Kolašin",
+          "latlng": [
+            42.82229,
+            19.51653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Kotor",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 67350,
+          "name": "Dobrota",
+          "latlng": [
+            42.45417,
+            18.76833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67355,
+          "name": "Kotor",
+          "latlng": [
+            42.42067,
+            18.76825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67365,
+          "name": "Prčanj",
+          "latlng": [
+            42.4575,
+            18.74222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67366,
+          "name": "Risan",
+          "latlng": [
+            42.515,
+            18.69556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Mojkovac",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 67358,
+          "name": "Mojkovac",
+          "latlng": [
+            42.96044,
+            19.5833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nikšić",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 67359,
+          "name": "Nikšić",
+          "latlng": [
+            42.7731,
+            18.94446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Old Royal Capital Cetinje",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 67348,
+          "name": "Cetinje",
+          "latlng": [
+            42.39063,
+            18.91417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Petnjica",
+      "code": "23",
+      "shortName": "23",
+      "cities": []
+    },
+    {
+      "id": 19,
+      "name": "Plav",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 67361,
+          "name": "Plav",
+          "latlng": [
+            42.59694,
+            19.94556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pljevlja",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 67362,
+          "name": "Pljevlja",
+          "latlng": [
+            43.3567,
+            19.35843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Plužine",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 67363,
+          "name": "Plužine",
+          "latlng": [
+            43.15278,
+            18.83944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Podgorica",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 67351,
+          "name": "Golubovci",
+          "latlng": [
+            42.335,
+            19.23111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67352,
+          "name": "Goričani",
+          "latlng": [
+            42.33222,
+            19.21194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67356,
+          "name": "Mataguži",
+          "latlng": [
+            42.32361,
+            19.27278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67357,
+          "name": "Mojanovići",
+          "latlng": [
+            42.34167,
+            19.22139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67364,
+          "name": "Podgorica",
+          "latlng": [
+            42.44111,
+            19.26361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67372,
+          "name": "Tuzi",
+          "latlng": [
+            42.36556,
+            19.33139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Rožaje",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 67367,
+          "name": "Rožaje",
+          "latlng": [
+            42.83299,
+            20.16652
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Šavnik",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 67374,
+          "name": "Šavnik",
+          "latlng": [
+            42.95639,
+            19.09667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Tivat",
+      "code": "19",
+      "shortName": "19",
+      "cities": [
+        {
+          "id": 67371,
+          "name": "Tivat",
+          "latlng": [
+            42.43639,
+            18.69611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Ulcinj",
+      "code": "20",
+      "shortName": "20",
+      "cities": [
+        {
+          "id": 67373,
+          "name": "Ulcinj",
+          "latlng": [
+            41.92936,
+            19.22436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Žabljak",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 67376,
+          "name": "Žabljak",
+          "latlng": [
+            43.15423,
+            19.12325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

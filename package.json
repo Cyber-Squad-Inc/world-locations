@@ -1,0 +1,60 @@
+{
+  "name": "@applygoal/world-locations",
+  "version": "1.0.0",
+  "description": "Offline world dataset (countries, states, cities) with flags, phone codes, and ISO codes.",
+  "main": "src/index.ts",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./src/index.ts",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "src/",
+    "dist/",
+    "out/countries/"
+  ],
+  "keywords": [
+    "world",
+    "locations",
+    "countries",
+    "states",
+    "cities",
+    "typescript",
+    "nextjs",
+    "esm",
+    "applygoal"
+  ],
+  "author": "Tanvir Sujan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/applygoal/world-locations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/applygoal/world-locations/issues"
+  },
+  "homepage": "https://github.com/applygoal/world-locations#readme",
+  "scripts": {
+    "build:full": "node src/build-world-locations.js",
+    "merge": "node src/merge.js",
+    "validate": "node --loader ts-node/esm src/validate.ts",
+    "start": "npm run build:full && npm run merge",
+    "build:types": "tsc",
+    "prepublishOnly": "npm run start && npm run build:types"
+  },
+  "dependencies": {
+    "axios": "^1.7.4",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.5",
+    "p-queue": "^7.4.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

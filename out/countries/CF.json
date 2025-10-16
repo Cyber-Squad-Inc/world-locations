@@ -1,0 +1,639 @@
+{
+  "name": {
+    "common": "Central African Republic",
+    "official": "Central African Republic"
+  },
+  "iso2": "CF",
+  "iso3": "CAF",
+  "numericCode": "140",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".cf",
+  "phoneCode": "236",
+  "capital": "Bangui",
+  "currencies": {
+    "XAF": "Central African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Bangui",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cf.svg",
+  "states": [
+    {
+      "id": 1259,
+      "name": "Bamingui-Bangoran",
+      "code": "BB",
+      "shortName": "BB",
+      "cities": [
+        {
+          "id": 17296,
+          "name": "Bamingui",
+          "latlng": [
+            7.88897,
+            20.04875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17329,
+          "name": "Ndélé",
+          "latlng": [
+            8.74287,
+            20.89108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1262,
+      "name": "Bangui",
+      "code": "BGF",
+      "shortName": "BGF",
+      "cities": [
+        {
+          "id": 17298,
+          "name": "Bangui",
+          "latlng": [
+            4.36122,
+            18.55496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1264,
+      "name": "Basse-Kotto",
+      "code": "BK",
+      "shortName": "BK",
+      "cities": [
+        {
+          "id": 17294,
+          "name": "Alindao",
+          "latlng": [
+            5.02667,
+            21.20876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17323,
+          "name": "Kembé",
+          "latlng": [
+            4.62275,
+            21.88645
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17327,
+          "name": "Mobaye",
+          "latlng": [
+            4.31902,
+            21.17861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1258,
+      "name": "Haut-Mbomou",
+      "code": "HM",
+      "shortName": "HM",
+      "cities": [
+        {
+          "id": 17331,
+          "name": "Obo",
+          "latlng": [
+            5.39586,
+            26.49211
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17338,
+          "name": "Zemio",
+          "latlng": [
+            5.03144,
+            25.13614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1268,
+      "name": "Haute-Kotto",
+      "code": "HK",
+      "shortName": "HK",
+      "cities": [
+        {
+          "id": 17313,
+          "name": "Bria",
+          "latlng": [
+            6.54233,
+            21.98633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17332,
+          "name": "Ouadda",
+          "latlng": [
+            8.07771,
+            22.40075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1263,
+      "name": "Kémo",
+      "code": "KG",
+      "shortName": "KG",
+      "cities": [
+        {
+          "id": 17337,
+          "name": "Sibut",
+          "latlng": [
+            5.71801,
+            19.07389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1256,
+      "name": "Lobaye",
+      "code": "LB",
+      "shortName": "LB",
+      "cities": [
+        {
+          "id": 17307,
+          "name": "Boda",
+          "latlng": [
+            4.31887,
+            17.46953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17308,
+          "name": "Boganangone",
+          "latlng": [
+            4.73558,
+            17.14047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17325,
+          "name": "Mbaiki",
+          "latlng": [
+            3.97145,
+            17.93352
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17328,
+          "name": "Mongoumba",
+          "latlng": [
+            3.64153,
+            18.59364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1257,
+      "name": "Mambéré-Kadéï",
+      "code": "HS",
+      "shortName": "HS",
+      "cities": [
+        {
+          "id": 17301,
+          "name": "Berberati",
+          "latlng": [
+            4.31211,
+            15.88948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17314,
+          "name": "Carnot",
+          "latlng": [
+            4.94273,
+            15.87735
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17317,
+          "name": "Gamboula",
+          "latlng": [
+            4.11775,
+            15.13926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1266,
+      "name": "Mbomou",
+      "code": "MB",
+      "shortName": "MB",
+      "cities": [
+        {
+          "id": 17297,
+          "name": "Bangassou",
+          "latlng": [
+            4.74132,
+            22.81838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17316,
+          "name": "Gambo",
+          "latlng": [
+            4.64816,
+            22.26331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17334,
+          "name": "Ouango",
+          "latlng": [
+            4.31325,
+            22.55524
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17336,
+          "name": "Rafai",
+          "latlng": [
+            5.81012,
+            24.20305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1253,
+      "name": "Nana-Grébizi",
+      "code": "KB",
+      "shortName": "KB",
+      "cities": [
+        {
+          "id": 17321,
+          "name": "Kaga Bandoro",
+          "latlng": [
+            6.98961,
+            19.18744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17322,
+          "name": "Kaga-Bandoro",
+          "latlng": [
+            7.23774,
+            19.21819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1260,
+      "name": "Nana-Mambéré",
+      "code": "NM",
+      "shortName": "NM",
+      "cities": [
+        {
+          "id": 17299,
+          "name": "Baoro",
+          "latlng": [
+            5.66667,
+            15.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17310,
+          "name": "Bouar",
+          "latlng": [
+            5.93404,
+            15.59599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1255,
+      "name": "Ombella-M'Poko",
+      "code": "MP",
+      "shortName": "MP",
+      "cities": [
+        {
+          "id": 17303,
+          "name": "Bimbo",
+          "latlng": [
+            4.25671,
+            18.41583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17305,
+          "name": "Boali",
+          "latlng": [
+            4.80048,
+            18.12747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17315,
+          "name": "Damara",
+          "latlng": [
+            4.96075,
+            18.7035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1265,
+      "name": "Ouaka",
+      "code": "UK",
+      "shortName": "UK",
+      "cities": [
+        {
+          "id": 17295,
+          "name": "Bambari",
+          "latlng": [
+            5.76795,
+            20.67565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17318,
+          "name": "Grimari",
+          "latlng": [
+            5.73549,
+            19.91209
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17319,
+          "name": "Ippy",
+          "latlng": [
+            6.26793,
+            21.22468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17324,
+          "name": "Kouango",
+          "latlng": [
+            4.99337,
+            19.96186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1254,
+      "name": "Ouham",
+      "code": "AC",
+      "shortName": "AC",
+      "cities": [
+        {
+          "id": 17300,
+          "name": "Batangafo",
+          "latlng": [
+            7.30082,
+            18.2833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17309,
+          "name": "Bossangoa",
+          "latlng": [
+            6.49263,
+            17.45518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17311,
+          "name": "Bouca",
+          "latlng": [
+            6.50734,
+            18.2767
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17320,
+          "name": "Kabo",
+          "latlng": [
+            7.69937,
+            18.62903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1267,
+      "name": "Ouham-Pendé",
+      "code": "OP",
+      "shortName": "OP",
+      "cities": [
+        {
+          "id": 17306,
+          "name": "Bocaranga",
+          "latlng": [
+            6.76546,
+            15.77873
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17312,
+          "name": "Bozoum",
+          "latlng": [
+            6.31933,
+            16.37992
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17335,
+          "name": "Paoua",
+          "latlng": [
+            7.24269,
+            16.44059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1252,
+      "name": "Sangha-Mbaéré",
+      "code": "SE",
+      "shortName": "SE",
+      "cities": [
+        {
+          "id": 17330,
+          "name": "Nola",
+          "latlng": [
+            3.52494,
+            16.04583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1261,
+      "name": "Vakaga",
+      "code": "VK",
+      "shortName": "VK",
+      "cities": [
+        {
+          "id": 17304,
+          "name": "Birao",
+          "latlng": [
+            10.28488,
+            22.78818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17333,
+          "name": "Ouanda-Djallé",
+          "latlng": [
+            9.05877,
+            22.42741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1710 @@
+{
+  "name": {
+    "common": "Luxembourg",
+    "official": "Luxembourg"
+  },
+  "iso2": "LU",
+  "iso3": "LUX",
+  "numericCode": "442",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "tld": ".lu",
+  "phoneCode": "352",
+  "capital": "Luxembourg",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Luxembourg",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/lu.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/lu.svg",
+  "states": [
+    {
+      "id": 1518,
+      "name": "Capellen",
+      "code": "CA",
+      "shortName": "CA",
+      "cities": [
+        {
+          "id": 66726,
+          "name": "Bascharage",
+          "latlng": [
+            49.56727,
+            5.9073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66745,
+          "name": "Bridel",
+          "latlng": [
+            49.65579,
+            6.07999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66747,
+          "name": "Capellen",
+          "latlng": [
+            49.645,
+            5.99083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66748,
+          "name": "Clemency",
+          "latlng": [
+            49.59667,
+            5.87583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66759,
+          "name": "Dippach",
+          "latlng": [
+            49.58701,
+            5.9833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66762,
+          "name": "Eischen",
+          "latlng": [
+            49.68556,
+            5.87861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66773,
+          "name": "Garnich",
+          "latlng": [
+            49.61667,
+            5.9525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66778,
+          "name": "Hautcharage",
+          "latlng": [
+            49.57499,
+            5.9097
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66783,
+          "name": "Hobscheid",
+          "latlng": [
+            49.68861,
+            5.91472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66793,
+          "name": "Käerjeng",
+          "latlng": [
+            49.58311,
+            5.89892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66788,
+          "name": "Kehlen",
+          "latlng": [
+            49.66833,
+            6.03583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66791,
+          "name": "Koerich",
+          "latlng": [
+            49.67,
+            5.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66792,
+          "name": "Kopstal",
+          "latlng": [
+            49.66444,
+            6.07306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66802,
+          "name": "Mamer",
+          "latlng": [
+            49.6275,
+            6.02333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66839,
+          "name": "Schouweiler",
+          "latlng": [
+            49.5825,
+            5.95639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66842,
+          "name": "Septfontaines",
+          "latlng": [
+            49.70111,
+            5.96722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66845,
+          "name": "Steinfort",
+          "latlng": [
+            49.66139,
+            5.91917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1521,
+      "name": "Clervaux",
+      "code": "CL",
+      "shortName": "CL",
+      "cities": [
+        {
+          "id": 66749,
+          "name": "Clervaux",
+          "latlng": [
+            50.05472,
+            6.03139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66784,
+          "name": "Hosingen",
+          "latlng": [
+            50.01218,
+            6.09089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66819,
+          "name": "Parc Hosingen",
+          "latlng": [
+            49.99744,
+            6.09067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66849,
+          "name": "Troisvierges",
+          "latlng": [
+            50.12111,
+            6.00028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66862,
+          "name": "Weiswampach",
+          "latlng": [
+            50.13722,
+            6.075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66865,
+          "name": "Wincrange",
+          "latlng": [
+            50.05333,
+            5.91917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1513,
+      "name": "Diekirch",
+      "code": "DI",
+      "shortName": "DI",
+      "cities": [
+        {
+          "id": 66737,
+          "name": "Bettendorf",
+          "latlng": [
+            49.87667,
+            6.21806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66743,
+          "name": "Bourscheid",
+          "latlng": [
+            49.90862,
+            6.0675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66752,
+          "name": "Commune de la Vallée de l’Ernz",
+          "latlng": [
+            49.82149,
+            6.21746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66757,
+          "name": "Diekirch",
+          "latlng": [
+            49.86778,
+            6.15583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66764,
+          "name": "Erpeldange",
+          "latlng": [
+            49.86472,
+            6.11472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66767,
+          "name": "Ettelbruck",
+          "latlng": [
+            49.8475,
+            6.10417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66769,
+          "name": "Feulen",
+          "latlng": [
+            49.85,
+            6.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66804,
+          "name": "Medernach",
+          "latlng": [
+            49.80955,
+            6.21521
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66807,
+          "name": "Mertzig",
+          "latlng": [
+            49.83389,
+            6.0075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66815,
+          "name": "Niederfeulen",
+          "latlng": [
+            49.85556,
+            6.04722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66826,
+          "name": "Reisdorf",
+          "latlng": [
+            49.86861,
+            6.26778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66837,
+          "name": "Schieren",
+          "latlng": [
+            49.83056,
+            6.09861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66859,
+          "name": "Warken",
+          "latlng": [
+            49.85918,
+            6.08415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1515,
+      "name": "Echternach",
+      "code": "EC",
+      "shortName": "EC",
+      "cities": [
+        {
+          "id": 66728,
+          "name": "Beaufort",
+          "latlng": [
+            49.83583,
+            6.29167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66729,
+          "name": "Bech",
+          "latlng": [
+            49.7526,
+            6.36379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66732,
+          "name": "Berdorf",
+          "latlng": [
+            49.82051,
+            6.34945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66753,
+          "name": "Consdorf",
+          "latlng": [
+            49.78018,
+            6.3395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66761,
+          "name": "Echternach",
+          "latlng": [
+            49.81212,
+            6.41846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66808,
+          "name": "Mompach",
+          "latlng": [
+            49.74611,
+            6.465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66831,
+          "name": "Rosport",
+          "latlng": [
+            49.8047,
+            6.50532
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66856,
+          "name": "Waldbillig",
+          "latlng": [
+            49.79636,
+            6.28431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1517,
+      "name": "Esch-sur-Alzette",
+      "code": "ES",
+      "shortName": "ES",
+      "cities": [
+        {
+          "id": 66725,
+          "name": "Aspelt",
+          "latlng": [
+            49.52278,
+            6.22472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66731,
+          "name": "Belvaux",
+          "latlng": [
+            49.51014,
+            5.92414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66733,
+          "name": "Bergem",
+          "latlng": [
+            49.525,
+            6.04222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66736,
+          "name": "Bettembourg",
+          "latlng": [
+            49.51861,
+            6.10278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66755,
+          "name": "Crauthem",
+          "latlng": [
+            49.53556,
+            6.14694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66758,
+          "name": "Differdange",
+          "latlng": [
+            49.52417,
+            5.89139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66760,
+          "name": "Dudelange",
+          "latlng": [
+            49.48056,
+            6.0875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66765,
+          "name": "Esch-sur-Alzette",
+          "latlng": [
+            49.49583,
+            5.98056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66772,
+          "name": "Frisange",
+          "latlng": [
+            49.51616,
+            6.18858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66787,
+          "name": "Kayl",
+          "latlng": [
+            49.48917,
+            6.03972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66795,
+          "name": "Lamadelaine",
+          "latlng": [
+            49.54639,
+            5.85639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66798,
+          "name": "Leudelange",
+          "latlng": [
+            49.56833,
+            6.06528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66809,
+          "name": "Mondercange",
+          "latlng": [
+            49.53306,
+            5.98833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66814,
+          "name": "Niedercorn",
+          "latlng": [
+            49.53611,
+            5.89306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66817,
+          "name": "Obercorn",
+          "latlng": [
+            49.51361,
+            5.89611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66822,
+          "name": "Pétange",
+          "latlng": [
+            49.55833,
+            5.88056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66820,
+          "name": "Pontpierre",
+          "latlng": [
+            49.53639,
+            6.02944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66824,
+          "name": "Reckange-sur-Mess",
+          "latlng": [
+            49.5625,
+            6.00889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66828,
+          "name": "Rodange",
+          "latlng": [
+            49.54639,
+            5.84083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66829,
+          "name": "Roeser",
+          "latlng": [
+            49.53721,
+            6.14629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66832,
+          "name": "Rumelange",
+          "latlng": [
+            49.45964,
+            6.03089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66835,
+          "name": "Sanem",
+          "latlng": [
+            49.54806,
+            5.92889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66838,
+          "name": "Schifflange",
+          "latlng": [
+            49.50639,
+            6.01278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66843,
+          "name": "Soleuvre",
+          "latlng": [
+            49.52148,
+            5.93781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66851,
+          "name": "Tétange",
+          "latlng": [
+            49.47583,
+            6.04222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1520,
+      "name": "Grevenmacher",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 66738,
+          "name": "Betzdorf",
+          "latlng": [
+            49.68333,
+            6.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66740,
+          "name": "Biwer",
+          "latlng": [
+            49.70605,
+            6.37201
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66771,
+          "name": "Flaxweiler",
+          "latlng": [
+            49.66602,
+            6.34321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66775,
+          "name": "Gonderange",
+          "latlng": [
+            49.69537,
+            6.24577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66776,
+          "name": "Grevenmacher",
+          "latlng": [
+            49.67751,
+            6.44022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66786,
+          "name": "Junglinster",
+          "latlng": [
+            49.70722,
+            6.25306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66803,
+          "name": "Manternach",
+          "latlng": [
+            49.70278,
+            6.42639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66806,
+          "name": "Mertert",
+          "latlng": [
+            49.70261,
+            6.47966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66860,
+          "name": "Wasserbillig",
+          "latlng": [
+            49.71534,
+            6.49861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66867,
+          "name": "Wormeldange",
+          "latlng": [
+            49.61114,
+            6.40546
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1514,
+      "name": "Luxembourg",
+      "code": "L",
+      "shortName": "L",
+      "cities": [
+        {
+          "id": 66724,
+          "name": "Alzingen",
+          "latlng": [
+            49.565,
+            6.16361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66746,
+          "name": "Béreldange",
+          "latlng": [
+            49.65507,
+            6.11874
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66734,
+          "name": "Bertrange",
+          "latlng": [
+            49.61111,
+            6.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66754,
+          "name": "Contern",
+          "latlng": [
+            49.58194,
+            6.22667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66768,
+          "name": "Fentange",
+          "latlng": [
+            49.56278,
+            6.15389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66780,
+          "name": "Heisdorf",
+          "latlng": [
+            49.67207,
+            6.14202
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66781,
+          "name": "Helmsange",
+          "latlng": [
+            49.65278,
+            6.14139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66782,
+          "name": "Hesperange",
+          "latlng": [
+            49.56806,
+            6.15139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66785,
+          "name": "Itzig",
+          "latlng": [
+            49.58769,
+            6.17065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66790,
+          "name": "Kirchberg",
+          "latlng": [
+            49.62389,
+            6.14944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66801,
+          "name": "Luxembourg",
+          "latlng": [
+            49.61167,
+            6.13
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66811,
+          "name": "Moutfort",
+          "latlng": [
+            49.58528,
+            6.25556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66812,
+          "name": "Müllendorf",
+          "latlng": [
+            49.68028,
+            6.13
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66813,
+          "name": "Niederanven",
+          "latlng": [
+            49.65196,
+            6.26199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66818,
+          "name": "Olm",
+          "latlng": [
+            49.65722,
+            6.00028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66834,
+          "name": "Sandweiler",
+          "latlng": [
+            49.61471,
+            6.22221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66840,
+          "name": "Schrassig",
+          "latlng": [
+            49.61014,
+            6.25903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66841,
+          "name": "Schuttrange",
+          "latlng": [
+            49.62056,
+            6.26861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66846,
+          "name": "Steinsel",
+          "latlng": [
+            49.67694,
+            6.12389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66847,
+          "name": "Strassen",
+          "latlng": [
+            49.62056,
+            6.07333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66858,
+          "name": "Walferdange",
+          "latlng": [
+            49.66321,
+            6.13224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66861,
+          "name": "Weiler-la-Tour",
+          "latlng": [
+            49.54083,
+            6.20083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1522,
+      "name": "Mersch",
+      "code": "ME",
+      "shortName": "ME",
+      "cities": [
+        {
+          "id": 66739,
+          "name": "Bissen",
+          "latlng": [
+            49.78733,
+            6.0654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66741,
+          "name": "Boevange-sur-Attert",
+          "latlng": [
+            49.77256,
+            6.01532
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66750,
+          "name": "Colmar",
+          "latlng": [
+            49.81028,
+            6.09722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66770,
+          "name": "Fischbach",
+          "latlng": [
+            49.746,
+            6.18702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66779,
+          "name": "Heffingen",
+          "latlng": [
+            49.76907,
+            6.24049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66796,
+          "name": "Larochette",
+          "latlng": [
+            49.78362,
+            6.21891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66799,
+          "name": "Lintgen",
+          "latlng": [
+            49.72243,
+            6.13016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66800,
+          "name": "Lorentzweiler",
+          "latlng": [
+            49.70131,
+            6.14234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66805,
+          "name": "Mersch",
+          "latlng": [
+            49.74889,
+            6.10611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66816,
+          "name": "Nommern",
+          "latlng": [
+            49.78694,
+            6.17472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66830,
+          "name": "Rollingen",
+          "latlng": [
+            49.74167,
+            6.11444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66850,
+          "name": "Tuntange",
+          "latlng": [
+            49.71778,
+            6.01028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1516,
+      "name": "Redange",
+      "code": "RD",
+      "shortName": "RD",
+      "cities": [
+        {
+          "id": 66730,
+          "name": "Beckerich",
+          "latlng": [
+            49.73056,
+            5.88722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66735,
+          "name": "Bettborn",
+          "latlng": [
+            49.79528,
+            5.94111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66751,
+          "name": "Commune de Préizerdaul",
+          "latlng": [
+            49.80114,
+            5.93299
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66763,
+          "name": "Ell",
+          "latlng": [
+            49.76389,
+            5.85722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66777,
+          "name": "Grosbous",
+          "latlng": [
+            49.82778,
+            5.96722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66823,
+          "name": "Rambrouch",
+          "latlng": [
+            49.83083,
+            5.845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66825,
+          "name": "Redange-sur-Attert",
+          "latlng": [
+            49.76437,
+            5.88997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66833,
+          "name": "Saeul",
+          "latlng": [
+            49.72722,
+            5.98639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66852,
+          "name": "Useldange",
+          "latlng": [
+            49.76972,
+            5.98222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66854,
+          "name": "Vichten",
+          "latlng": [
+            49.80306,
+            6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66855,
+          "name": "Wahl",
+          "latlng": [
+            49.83667,
+            5.90639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1519,
+      "name": "Remich",
+      "code": "RM",
+      "shortName": "RM",
+      "cities": [
+        {
+          "id": 66744,
+          "name": "Bous",
+          "latlng": [
+            49.55389,
+            6.32917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66756,
+          "name": "Dalheim",
+          "latlng": [
+            49.54083,
+            6.25972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66797,
+          "name": "Lenningen",
+          "latlng": [
+            49.59861,
+            6.36806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66810,
+          "name": "Mondorf-les-Bains",
+          "latlng": [
+            49.505,
+            6.28111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66827,
+          "name": "Remich",
+          "latlng": [
+            49.545,
+            6.36694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66836,
+          "name": "Schengen",
+          "latlng": [
+            49.47,
+            6.362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66844,
+          "name": "Stadtbredimus",
+          "latlng": [
+            49.56278,
+            6.36444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66857,
+          "name": "Waldbredimus",
+          "latlng": [
+            49.55676,
+            6.28789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1523,
+      "name": "Vianden",
+      "code": "VD",
+      "shortName": "VD",
+      "cities": [
+        {
+          "id": 66821,
+          "name": "Putscheid",
+          "latlng": [
+            49.96083,
+            6.14306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66848,
+          "name": "Tandel",
+          "latlng": [
+            49.8975,
+            6.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66853,
+          "name": "Vianden",
+          "latlng": [
+            49.935,
+            6.20889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1526,
+      "name": "Wiltz",
+      "code": "WI",
+      "shortName": "WI",
+      "cities": [
+        {
+          "id": 66727,
+          "name": "Bavigne",
+          "latlng": [
+            49.92194,
+            5.84944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66742,
+          "name": "Boulaide",
+          "latlng": [
+            49.88778,
+            5.81639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66766,
+          "name": "Esch-sur-Sûre",
+          "latlng": [
+            49.91139,
+            5.93639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66774,
+          "name": "Goesdorf",
+          "latlng": [
+            49.92131,
+            5.96601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66789,
+          "name": "Kiischpelt",
+          "latlng": [
+            49.97835,
+            6.0076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66794,
+          "name": "Lac de la Haute-Sûre",
+          "latlng": [
+            49.91667,
+            5.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66863,
+          "name": "Wiltz",
+          "latlng": [
+            49.96547,
+            5.9339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66864,
+          "name": "Wilwerwiltz",
+          "latlng": [
+            49.98889,
+            5.99917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66866,
+          "name": "Winseler",
+          "latlng": [
+            49.96778,
+            5.89028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

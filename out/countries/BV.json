@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Bouvet Island",
+    "official": "Bouvet Island"
+  },
+  "iso2": "BV",
+  "iso3": "BVT",
+  "numericCode": "074",
+  "region": "",
+  "subregion": "",
+  "tld": ".bv",
+  "phoneCode": "0055",
+  "capital": "",
+  "currencies": {
+    "NOK": "Norwegian krone"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Oslo",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bv.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bv.svg",
+  "states": []
+}

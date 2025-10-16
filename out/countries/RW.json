@@ -1,0 +1,202 @@
+{
+  "name": {
+    "common": "Rwanda",
+    "official": "Rwanda"
+  },
+  "iso2": "RW",
+  "iso3": "RWA",
+  "numericCode": "646",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".rw",
+  "phoneCode": "250",
+  "capital": "Kigali",
+  "currencies": {
+    "RWF": "Rwandan franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Kigali",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/rw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/rw.svg",
+  "states": [
+    {
+      "id": 261,
+      "name": "Eastern",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 102798,
+          "name": "Kibungo",
+          "latlng": [
+            -2.1597,
+            30.5427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102803,
+          "name": "Rwamagana",
+          "latlng": [
+            -1.9487,
+            30.4347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Kigali",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 102800,
+          "name": "Kigali",
+          "latlng": [
+            -1.94995,
+            30.05885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Northern",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 102793,
+          "name": "Byumba",
+          "latlng": [
+            -1.5763,
+            30.0675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102801,
+          "name": "Musanze",
+          "latlng": [
+            -1.49984,
+            29.63497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Southern",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 102792,
+          "name": "Butare",
+          "latlng": [
+            -2.59667,
+            29.73944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102795,
+          "name": "Eglise Catholique Centrale GIKO",
+          "latlng": [
+            -1.93653,
+            29.8061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102797,
+          "name": "Gitarama",
+          "latlng": [
+            -2.07444,
+            29.75667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102802,
+          "name": "Nzega",
+          "latlng": [
+            -2.479,
+            29.5564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Western",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 102794,
+          "name": "Cyangugu",
+          "latlng": [
+            -2.4846,
+            28.9075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102796,
+          "name": "Gisenyi",
+          "latlng": [
+            -1.70278,
+            29.25639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102799,
+          "name": "Kibuye",
+          "latlng": [
+            -2.06028,
+            29.34778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

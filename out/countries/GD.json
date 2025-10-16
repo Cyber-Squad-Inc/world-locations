@@ -1,0 +1,163 @@
+{
+  "name": {
+    "common": "Grenada",
+    "official": "Grenada"
+  },
+  "iso2": "GD",
+  "iso3": "GRD",
+  "numericCode": "308",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".gd",
+  "phoneCode": "1",
+  "capital": "St. George's",
+  "currencies": {
+    "XCD": "Eastern Caribbean dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Grenada",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gd.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gd.svg",
+  "states": [
+    {
+      "id": 3867,
+      "name": "Carriacou",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 52030,
+          "name": "Hillsborough",
+          "latlng": [
+            12.48292,
+            -61.45597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3865,
+      "name": "Saint Andrew",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 52029,
+          "name": "Grenville",
+          "latlng": [
+            12.12278,
+            -61.62498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3869,
+      "name": "Saint David",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 52031,
+          "name": "Saint David’s",
+          "latlng": [
+            12.04903,
+            -61.66875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3864,
+      "name": "Saint George",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 52032,
+          "name": "Saint George's",
+          "latlng": [
+            12.05288,
+            -61.75226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3868,
+      "name": "Saint John",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 52028,
+          "name": "Gouyave",
+          "latlng": [
+            12.16462,
+            -61.72965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3866,
+      "name": "Saint Mark",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 52034,
+          "name": "Victoria",
+          "latlng": [
+            12.19021,
+            -61.70677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3863,
+      "name": "Saint Patrick",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 52033,
+          "name": "Sauteurs",
+          "latlng": [
+            12.21833,
+            -61.63917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

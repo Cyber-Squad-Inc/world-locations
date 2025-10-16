@@ -1,0 +1,410 @@
+{
+  "name": {
+    "common": "Gabon",
+    "official": "Gabon"
+  },
+  "iso2": "GA",
+  "iso3": "GAB",
+  "numericCode": "266",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".ga",
+  "phoneCode": "241",
+  "capital": "Libreville",
+  "currencies": {
+    "XAF": "Central African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Libreville",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ga.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ga.svg",
+  "states": [
+    {
+      "id": 2727,
+      "name": "Estuaire",
+      "code": "1",
+      "shortName": "1",
+      "cities": [
+        {
+          "id": 48131,
+          "name": "Cocobeach",
+          "latlng": [
+            1.00019,
+            9.58229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48138,
+          "name": "Libreville",
+          "latlng": [
+            0.39241,
+            9.45356
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48150,
+          "name": "Ntoum",
+          "latlng": [
+            0.39051,
+            9.76096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2726,
+      "name": "Haut-Ogooué",
+      "code": "2",
+      "shortName": "2",
+      "cities": [
+        {
+          "id": 48133,
+          "name": "Franceville",
+          "latlng": [
+            -1.63333,
+            13.58357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48139,
+          "name": "Lékoni",
+          "latlng": [
+            -1.58431,
+            14.25905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48145,
+          "name": "Moanda",
+          "latlng": [
+            -1.56652,
+            13.1987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48147,
+          "name": "Mounana",
+          "latlng": [
+            -1.4085,
+            13.15857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48151,
+          "name": "Okondja",
+          "latlng": [
+            -0.65487,
+            13.67533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2730,
+      "name": "Moyen-Ogooué",
+      "code": "3",
+      "shortName": "3",
+      "cities": [
+        {
+          "id": 48136,
+          "name": "Lambaréné",
+          "latlng": [
+            -0.7001,
+            10.24055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48149,
+          "name": "Ndjolé",
+          "latlng": [
+            -0.17827,
+            10.76488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2731,
+      "name": "Ngounié",
+      "code": "4",
+      "shortName": "4",
+      "cities": [
+        {
+          "id": 48132,
+          "name": "Fougamou",
+          "latlng": [
+            -1.21544,
+            10.58378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48142,
+          "name": "Mbigou",
+          "latlng": [
+            -1.90046,
+            11.906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48143,
+          "name": "Mimongo",
+          "latlng": [
+            -1.61952,
+            11.60675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48146,
+          "name": "Mouila",
+          "latlng": [
+            -1.86846,
+            11.05594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48148,
+          "name": "Ndendé",
+          "latlng": [
+            -2.40077,
+            11.35813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2725,
+      "name": "Nyanga",
+      "code": "5",
+      "shortName": "5",
+      "cities": [
+        {
+          "id": 48141,
+          "name": "Mayumba",
+          "latlng": [
+            -3.43198,
+            10.6554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48155,
+          "name": "Tchibanga",
+          "latlng": [
+            -2.93323,
+            10.98178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2724,
+      "name": "Ogooué-Ivindo",
+      "code": "6",
+      "shortName": "6",
+      "cities": [
+        {
+          "id": 48130,
+          "name": "Booué",
+          "latlng": [
+            -0.09207,
+            11.93846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48140,
+          "name": "Makokou",
+          "latlng": [
+            0.57381,
+            12.86419
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48156,
+          "name": "Zadie",
+          "latlng": [
+            0.92582,
+            13.90813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2729,
+      "name": "Ogooué-Lolo",
+      "code": "7",
+      "shortName": "7",
+      "cities": [
+        {
+          "id": 48135,
+          "name": "Koulamoutou",
+          "latlng": [
+            -1.13667,
+            12.46399
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48137,
+          "name": "Lastoursville",
+          "latlng": [
+            -0.81742,
+            12.70818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2728,
+      "name": "Ogooué-Maritime",
+      "code": "8",
+      "shortName": "8",
+      "cities": [
+        {
+          "id": 48134,
+          "name": "Gamba",
+          "latlng": [
+            -2.65,
+            10
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48152,
+          "name": "Omboué",
+          "latlng": [
+            -1.57464,
+            9.26184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48154,
+          "name": "Port-Gentil",
+          "latlng": [
+            -0.71933,
+            8.78151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2723,
+      "name": "Woleu-Ntem",
+      "code": "9",
+      "shortName": "9",
+      "cities": [
+        {
+          "id": 48129,
+          "name": "Bitam",
+          "latlng": [
+            2.07597,
+            11.50065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48144,
+          "name": "Mitzic",
+          "latlng": [
+            0.78205,
+            11.54904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 48153,
+          "name": "Oyem",
+          "latlng": [
+            1.5995,
+            11.57933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

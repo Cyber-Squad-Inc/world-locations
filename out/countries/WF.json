@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Wallis and Futuna Islands",
+    "official": "Wallis and Futuna Islands"
+  },
+  "iso2": "WF",
+  "iso3": "WLF",
+  "numericCode": "876",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".wf",
+  "phoneCode": "681",
+  "capital": "Mata Utu",
+  "currencies": {
+    "XPF": "CFP franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Wallis",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "WFT",
+      "tzName": "Wallis & Futuna Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/wf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/wf.svg",
+  "states": []
+}

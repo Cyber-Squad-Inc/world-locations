@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Turks and Caicos Islands",
+    "official": "Turks and Caicos Islands"
+  },
+  "iso2": "TC",
+  "iso3": "TCA",
+  "numericCode": "796",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".tc",
+  "phoneCode": "1",
+  "capital": "Cockburn Town",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Grand_Turk",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EST",
+      "tzName": "Eastern Standard Time (North America"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tc.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tc.svg",
+  "states": []
+}

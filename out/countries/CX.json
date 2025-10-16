@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Christmas Island",
+    "official": "Christmas Island"
+  },
+  "iso2": "CX",
+  "iso3": "CXR",
+  "numericCode": "162",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "tld": ".cx",
+  "phoneCode": "61",
+  "capital": "Flying Fish Cove",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Christmas",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "CXT",
+      "tzName": "Christmas Island Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cx.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cx.svg",
+  "states": []
+}

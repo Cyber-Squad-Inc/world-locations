@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Norfolk Island",
+    "official": "Norfolk Island"
+  },
+  "iso2": "NF",
+  "iso3": "NFK",
+  "numericCode": "574",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "tld": ".nf",
+  "phoneCode": "672",
+  "capital": "Kingston",
+  "currencies": {
+    "AUD": "Australian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Norfolk",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "NFT",
+      "tzName": "Norfolk Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/nf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/nf.svg",
+  "states": []
+}

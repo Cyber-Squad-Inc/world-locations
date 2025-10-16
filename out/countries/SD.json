@@ -1,0 +1,955 @@
+{
+  "name": {
+    "common": "Sudan",
+    "official": "Sudan"
+  },
+  "iso2": "SD",
+  "iso3": "SDN",
+  "numericCode": "729",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "tld": ".sd",
+  "phoneCode": "249",
+  "capital": "Khartoum",
+  "currencies": {
+    "SDG": "Sudanese pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Khartoum",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EAT",
+      "tzName": "Eastern African Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sd.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sd.svg",
+  "states": [
+    {
+      "id": 885,
+      "name": "Al Jazirah",
+      "code": "GZ",
+      "shortName": "GZ",
+      "cities": [
+        {
+          "id": 102921,
+          "name": "Al Hasaheisa",
+          "latlng": [
+            14.75264,
+            33.29836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102922,
+          "name": "Al Hilāliyya",
+          "latlng": [
+            14.9398,
+            33.234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102924,
+          "name": "Al Kiremit al ‘Arakiyyīn",
+          "latlng": [
+            14.3476,
+            32.9437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102926,
+          "name": "Al Manāqil",
+          "latlng": [
+            14.2459,
+            32.9891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102927,
+          "name": "Al Masallamiyya",
+          "latlng": [
+            14.5748,
+            33.3373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102980,
+          "name": "Wad Medani",
+          "latlng": [
+            14.40118,
+            33.51989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102981,
+          "name": "Wad Rāwah",
+          "latlng": [
+            15.16028,
+            33.13972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 886,
+      "name": "Al Qadarif",
+      "code": "GD",
+      "shortName": "GD",
+      "cities": [
+        {
+          "id": 102931,
+          "name": "Al Ḩawātah",
+          "latlng": [
+            13.41667,
+            34.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102929,
+          "name": "Al Qadarif",
+          "latlng": [
+            14.03493,
+            35.38344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102942,
+          "name": "Doka",
+          "latlng": [
+            13.51667,
+            35.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "name": "Blue Nile",
+      "code": "NB",
+      "shortName": "NB",
+      "cities": [
+        {
+          "id": 102919,
+          "name": "Ad-Damazin",
+          "latlng": [
+            11.7891,
+            34.3592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102934,
+          "name": "Ar Ruseris",
+          "latlng": [
+            11.8659,
+            34.3869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102961,
+          "name": "Kurmuk",
+          "latlng": [
+            10.55,
+            34.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 896,
+      "name": "Central Darfur",
+      "code": "DC",
+      "shortName": "DC",
+      "cities": [
+        {
+          "id": 102984,
+          "name": "Zalingei",
+          "latlng": [
+            12.90918,
+            23.47058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 892,
+      "name": "East Darfur",
+      "code": "DE",
+      "shortName": "DE",
+      "cities": [
+        {
+          "id": 102946,
+          "name": "El Daein",
+          "latlng": [
+            11.46186,
+            26.12583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 884,
+      "name": "Kassala",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": [
+        {
+          "id": 102936,
+          "name": "Aroma",
+          "latlng": [
+            15.81667,
+            36.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102956,
+          "name": "Kassala",
+          "latlng": [
+            15.45099,
+            36.39998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102983,
+          "name": "Wagar",
+          "latlng": [
+            16.1525,
+            36.2032
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 881,
+      "name": "Khartoum",
+      "code": "KH",
+      "shortName": "KH",
+      "cities": [
+        {
+          "id": 102957,
+          "name": "Khartoum",
+          "latlng": [
+            15.55177,
+            32.53241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102967,
+          "name": "Omdurman",
+          "latlng": [
+            15.64453,
+            32.47773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "name": "North Darfur",
+      "code": "DN",
+      "shortName": "DN",
+      "cities": [
+        {
+          "id": 102947,
+          "name": "El Fasher",
+          "latlng": [
+            13.62793,
+            25.34936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102962,
+          "name": "Kutum",
+          "latlng": [
+            14.2,
+            24.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102978,
+          "name": "Umm Kaddadah",
+          "latlng": [
+            13.60169,
+            26.68759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 893,
+      "name": "North Kordofan",
+      "code": "KN",
+      "shortName": "KN",
+      "cities": [
+        {
+          "id": 102933,
+          "name": "Ar Rahad",
+          "latlng": [
+            12.71667,
+            30.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102940,
+          "name": "Bārah",
+          "latlng": [
+            13.7,
+            30.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102949,
+          "name": "El Obeid",
+          "latlng": [
+            13.18421,
+            30.21669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102979,
+          "name": "Umm Ruwaba",
+          "latlng": [
+            12.9061,
+            31.2158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 895,
+      "name": "Northern",
+      "code": "NO",
+      "shortName": "NO",
+      "cities": [
+        {
+          "id": 102916,
+          "name": "Ad Dabbah",
+          "latlng": [
+            18.05,
+            30.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102935,
+          "name": "Argo",
+          "latlng": [
+            19.51667,
+            30.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102943,
+          "name": "Dongola",
+          "latlng": [
+            19.18163,
+            30.47689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102955,
+          "name": "Karmah an Nuzul",
+          "latlng": [
+            19.63333,
+            30.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102960,
+          "name": "Kuraymah",
+          "latlng": [
+            18.55,
+            31.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102965,
+          "name": "Merowe",
+          "latlng": [
+            18.47036,
+            31.81126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 880,
+      "name": "Red Sea",
+      "code": "RS",
+      "shortName": "RS",
+      "cities": [
+        {
+          "id": 102950,
+          "name": "Gebeit",
+          "latlng": [
+            21.06667,
+            36.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102968,
+          "name": "Port Sudan",
+          "latlng": [
+            19.61745,
+            37.21644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102970,
+          "name": "Sawākin",
+          "latlng": [
+            19.1059,
+            37.3321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102976,
+          "name": "Tokār",
+          "latlng": [
+            18.4254,
+            37.729
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 891,
+      "name": "River Nile",
+      "code": "NR",
+      "shortName": "NR",
+      "cities": [
+        {
+          "id": 102938,
+          "name": "Atbara",
+          "latlng": [
+            17.70217,
+            33.98638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102939,
+          "name": "Berber",
+          "latlng": [
+            18.02158,
+            33.98299
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102944,
+          "name": "Ed Damer",
+          "latlng": [
+            17.59898,
+            33.97205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102945,
+          "name": "El Bauga",
+          "latlng": [
+            18.26197,
+            33.90812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102948,
+          "name": "El Matama",
+          "latlng": [
+            16.7095,
+            33.3565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102971,
+          "name": "Shendi",
+          "latlng": [
+            16.6915,
+            33.4341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "name": "Sennar",
+      "code": "SI",
+      "shortName": "SI",
+      "cities": [
+        {
+          "id": 102917,
+          "name": "Ad Dindar",
+          "latlng": [
+            13.2,
+            34.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102937,
+          "name": "As Sūkī",
+          "latlng": [
+            13.31667,
+            33.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102953,
+          "name": "Jalqani",
+          "latlng": [
+            12.4486,
+            34.2186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102958,
+          "name": "Kināna",
+          "latlng": [
+            14.0361,
+            33.1712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102963,
+          "name": "Maiurno",
+          "latlng": [
+            13.41667,
+            33.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102972,
+          "name": "Singa",
+          "latlng": [
+            13.1483,
+            33.93117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102973,
+          "name": "Sinnar",
+          "latlng": [
+            13.56907,
+            33.56718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "name": "South Darfur",
+      "code": "DS",
+      "shortName": "DS",
+      "cities": [
+        {
+          "id": 102952,
+          "name": "Gereida",
+          "latlng": [
+            11.27543,
+            25.14026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102966,
+          "name": "Nyala",
+          "latlng": [
+            12.04888,
+            24.88069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "name": "South Kordofan",
+      "code": "KS",
+      "shortName": "KS",
+      "cities": [
+        {
+          "id": 102914,
+          "name": "Abu Jibeha",
+          "latlng": [
+            11.4562,
+            31.2285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102920,
+          "name": "Al Fūlah",
+          "latlng": [
+            11.73292,
+            28.35786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102941,
+          "name": "Dilling",
+          "latlng": [
+            12.05,
+            29.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102954,
+          "name": "Kadugli",
+          "latlng": [
+            11.01111,
+            29.71833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102974,
+          "name": "Talodi",
+          "latlng": [
+            10.63246,
+            30.3797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "name": "West Darfur",
+      "code": "DW",
+      "shortName": "DW",
+      "cities": [
+        {
+          "id": 102951,
+          "name": "Geneina",
+          "latlng": [
+            13.45262,
+            22.44725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "name": "West Kordofan",
+      "code": "GK",
+      "shortName": "GK",
+      "cities": [
+        {
+          "id": 102915,
+          "name": "Abū Zabad",
+          "latlng": [
+            12.35,
+            29.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102925,
+          "name": "Al Lagowa",
+          "latlng": [
+            11.4,
+            29.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102928,
+          "name": "Al Mijlad",
+          "latlng": [
+            11.03333,
+            27.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102932,
+          "name": "An Nuhūd",
+          "latlng": [
+            12.7,
+            28.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 879,
+      "name": "White Nile",
+      "code": "NW",
+      "shortName": "NW",
+      "cities": [
+        {
+          "id": 102918,
+          "name": "Ad Douiem",
+          "latlng": [
+            14.0012,
+            32.3116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102923,
+          "name": "Al Kawa",
+          "latlng": [
+            13.7463,
+            32.4996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102930,
+          "name": "Al Qiţena",
+          "latlng": [
+            14.8648,
+            32.3668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102959,
+          "name": "Kosti",
+          "latlng": [
+            13.1629,
+            32.66347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102964,
+          "name": "Marabba",
+          "latlng": [
+            12.35,
+            32.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102969,
+          "name": "Rabak",
+          "latlng": [
+            13.18087,
+            32.73999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102975,
+          "name": "Tandaltī",
+          "latlng": [
+            13.01667,
+            31.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102977,
+          "name": "Um Jar Al Gharbiyya",
+          "latlng": [
+            13.8013,
+            32.4078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 102982,
+          "name": "Wad az Zāki",
+          "latlng": [
+            14.4619,
+            32.2065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

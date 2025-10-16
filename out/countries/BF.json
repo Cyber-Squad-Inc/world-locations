@@ -1,0 +1,1454 @@
+{
+  "name": {
+    "common": "Burkina Faso",
+    "official": "Burkina Faso"
+  },
+  "iso2": "BF",
+  "iso3": "BFA",
+  "numericCode": "854",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".bf",
+  "phoneCode": "226",
+  "capital": "Ouagadougou",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Ouagadougou",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bf.svg",
+  "states": [
+    {
+      "id": 3160,
+      "name": "Balé",
+      "code": "BAL",
+      "shortName": "BAL",
+      "cities": []
+    },
+    {
+      "id": 3155,
+      "name": "Bam",
+      "code": "BAM",
+      "shortName": "BAM",
+      "cities": []
+    },
+    {
+      "id": 3120,
+      "name": "Banwa",
+      "code": "BAN",
+      "shortName": "BAN",
+      "cities": []
+    },
+    {
+      "id": 3152,
+      "name": "Bazèga",
+      "code": "BAZ",
+      "shortName": "BAZ",
+      "cities": []
+    },
+    {
+      "id": 3138,
+      "name": "Boucle du Mouhoun",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 9159,
+          "name": "Barani",
+          "latlng": [
+            13.1691,
+            -3.8899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9164,
+          "name": "Boromo",
+          "latlng": [
+            11.74542,
+            -2.93006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9172,
+          "name": "Dédougou",
+          "latlng": [
+            12.46338,
+            -3.46075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9192,
+          "name": "Nouna",
+          "latlng": [
+            12.72939,
+            -3.86305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9203,
+          "name": "Province de la Kossi",
+          "latlng": [
+            12.91667,
+            -3.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9208,
+          "name": "Province des Balé",
+          "latlng": [
+            11.71667,
+            -3.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9209,
+          "name": "Province des Banwa",
+          "latlng": [
+            12.16667,
+            -4.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9221,
+          "name": "Province du Mouhoun",
+          "latlng": [
+            12.25,
+            -3.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9223,
+          "name": "Province du Nayala",
+          "latlng": [
+            12.66667,
+            -3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9230,
+          "name": "Province du Sourou",
+          "latlng": [
+            13.25,
+            -3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9239,
+          "name": "Salanso",
+          "latlng": [
+            12.17423,
+            -4.08477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9244,
+          "name": "Toma",
+          "latlng": [
+            12.75844,
+            -2.89879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9245,
+          "name": "Tougan",
+          "latlng": [
+            13.0725,
+            -3.0694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3121,
+      "name": "Bougouriba",
+      "code": "BGR",
+      "shortName": "BGR",
+      "cities": []
+    },
+    {
+      "id": 3131,
+      "name": "Boulgou",
+      "code": "BLG",
+      "shortName": "BLG",
+      "cities": []
+    },
+    {
+      "id": 3153,
+      "name": "Cascades",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 9158,
+          "name": "Banfora",
+          "latlng": [
+            10.63333,
+            -4.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9200,
+          "name": "Province de la Comoé",
+          "latlng": [
+            10.33333,
+            -4.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9204,
+          "name": "Province de la Léraba",
+          "latlng": [
+            10.66667,
+            -5.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9241,
+          "name": "Sindou",
+          "latlng": [
+            10.66667,
+            -5.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3136,
+      "name": "Centre",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 9181,
+          "name": "Kadiogo Province",
+          "latlng": [
+            12.33333,
+            -1.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9193,
+          "name": "Ouagadougou",
+          "latlng": [
+            12.36566,
+            -1.53388
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3162,
+      "name": "Centre-Est",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 9174,
+          "name": "Garango",
+          "latlng": [
+            11.8,
+            -0.55056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9187,
+          "name": "Koupéla",
+          "latlng": [
+            12.17864,
+            -0.35103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9188,
+          "name": "Kouritenga Province",
+          "latlng": [
+            12.2,
+            -0.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9195,
+          "name": "Ouargaye",
+          "latlng": [
+            11.50202,
+            0.05886
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9211,
+          "name": "Province du Boulgou",
+          "latlng": [
+            11.5,
+            -0.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9217,
+          "name": "Province du Koulpélogo",
+          "latlng": [
+            11.41667,
+            0.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9242,
+          "name": "Tenkodogo",
+          "latlng": [
+            11.78,
+            -0.36972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3127,
+      "name": "Centre-Nord",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 9165,
+          "name": "Boulsa",
+          "latlng": [
+            12.66664,
+            -0.57469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9182,
+          "name": "Kaya",
+          "latlng": [
+            13.09167,
+            -1.08444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9185,
+          "name": "Kongoussi",
+          "latlng": [
+            13.32583,
+            -1.53472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9210,
+          "name": "Province du Bam",
+          "latlng": [
+            13.46667,
+            -1.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9222,
+          "name": "Province du Namentenga",
+          "latlng": [
+            13.25,
+            -0.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9228,
+          "name": "Province du Sanmatenga",
+          "latlng": [
+            13.25,
+            -1.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3115,
+      "name": "Centre-Ouest",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 9178,
+          "name": "Goulouré",
+          "latlng": [
+            12.23484,
+            -1.93394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9183,
+          "name": "Kokologo",
+          "latlng": [
+            12.19392,
+            -1.87687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9186,
+          "name": "Koudougou",
+          "latlng": [
+            12.25263,
+            -2.36272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9189,
+          "name": "Léo",
+          "latlng": [
+            11.10033,
+            -2.10654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9198,
+          "name": "Pitmoaga",
+          "latlng": [
+            12.24564,
+            -1.88148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9205,
+          "name": "Province de la Sissili",
+          "latlng": [
+            11.33333,
+            -2.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9212,
+          "name": "Province du Boulkiemdé",
+          "latlng": [
+            12.33333,
+            -2.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9227,
+          "name": "Province du Sanguié",
+          "latlng": [
+            12.16667,
+            -2.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9235,
+          "name": "Province du Ziro",
+          "latlng": [
+            11.58333,
+            -1.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9238,
+          "name": "Réo",
+          "latlng": [
+            12.31963,
+            -2.47094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9240,
+          "name": "Sapouy",
+          "latlng": [
+            11.55444,
+            -1.77361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3149,
+      "name": "Centre-Sud",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 9161,
+          "name": "Bazega Province",
+          "latlng": [
+            11.91667,
+            -1.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9184,
+          "name": "Kombissiri",
+          "latlng": [
+            12.06884,
+            -1.33644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9190,
+          "name": "Manga",
+          "latlng": [
+            11.66361,
+            -1.07306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9191,
+          "name": "Nahouri Province",
+          "latlng": [
+            11.25,
+            -1.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9237,
+          "name": "Pô",
+          "latlng": [
+            11.16972,
+            -1.145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9249,
+          "name": "Zoundweogo Province",
+          "latlng": [
+            11.58333,
+            -1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3167,
+      "name": "Comoé",
+      "code": "COM",
+      "shortName": "COM",
+      "cities": []
+    },
+    {
+      "id": 3158,
+      "name": "Est",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 9163,
+          "name": "Bogandé",
+          "latlng": [
+            12.9704,
+            -0.14953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9168,
+          "name": "Diapaga",
+          "latlng": [
+            12.07305,
+            1.78838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9173,
+          "name": "Fada N'gourma",
+          "latlng": [
+            12.06157,
+            0.35843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9175,
+          "name": "Gayéri",
+          "latlng": [
+            12.64824,
+            0.49314
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9176,
+          "name": "Gnagna Province",
+          "latlng": [
+            12.9188,
+            0.0392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9197,
+          "name": "Pama",
+          "latlng": [
+            11.24972,
+            0.7075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9201,
+          "name": "Province de la Komandjoari",
+          "latlng": [
+            12.66667,
+            0.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9202,
+          "name": "Province de la Kompienga",
+          "latlng": [
+            11.41667,
+            0.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9206,
+          "name": "Province de la Tapoa",
+          "latlng": [
+            12,
+            1.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9214,
+          "name": "Province du Gourma",
+          "latlng": [
+            12.08333,
+            0.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3148,
+      "name": "Ganzourgou",
+      "code": "GAN",
+      "shortName": "GAN",
+      "cities": []
+    },
+    {
+      "id": 3122,
+      "name": "Gnagna",
+      "code": "GNA",
+      "shortName": "GNA",
+      "cities": []
+    },
+    {
+      "id": 3143,
+      "name": "Gourma",
+      "code": "GOU",
+      "shortName": "GOU",
+      "cities": []
+    },
+    {
+      "id": 3165,
+      "name": "Hauts-Bassins",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 9162,
+          "name": "Bobo-Dioulasso",
+          "latlng": [
+            11.17715,
+            -4.2979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9180,
+          "name": "Houndé",
+          "latlng": [
+            11.5,
+            -3.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9215,
+          "name": "Province du Houet",
+          "latlng": [
+            11.33333,
+            -4.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9219,
+          "name": "Province du Kénédougou",
+          "latlng": [
+            11.41667,
+            -5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9232,
+          "name": "Province du Tuy",
+          "latlng": [
+            11.41667,
+            -3.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3129,
+      "name": "Houet",
+      "code": "HOU",
+      "shortName": "HOU",
+      "cities": []
+    },
+    {
+      "id": 3135,
+      "name": "Ioba",
+      "code": "IOB",
+      "shortName": "IOB",
+      "cities": []
+    },
+    {
+      "id": 3168,
+      "name": "Kadiogo",
+      "code": "KAD",
+      "shortName": "KAD",
+      "cities": []
+    },
+    {
+      "id": 3112,
+      "name": "Kénédougou",
+      "code": "KEN",
+      "shortName": "KEN",
+      "cities": []
+    },
+    {
+      "id": 3132,
+      "name": "Komondjari",
+      "code": "KMD",
+      "shortName": "KMD",
+      "cities": []
+    },
+    {
+      "id": 3157,
+      "name": "Kompienga",
+      "code": "KMP",
+      "shortName": "KMP",
+      "cities": []
+    },
+    {
+      "id": 3146,
+      "name": "Kossi",
+      "code": "KOS",
+      "shortName": "KOS",
+      "cities": []
+    },
+    {
+      "id": 3133,
+      "name": "Koulpélogo",
+      "code": "KOP",
+      "shortName": "KOP",
+      "cities": []
+    },
+    {
+      "id": 3161,
+      "name": "Kouritenga",
+      "code": "KOT",
+      "shortName": "KOT",
+      "cities": []
+    },
+    {
+      "id": 3147,
+      "name": "Kourwéogo",
+      "code": "KOW",
+      "shortName": "KOW",
+      "cities": []
+    },
+    {
+      "id": 3159,
+      "name": "Léraba",
+      "code": "LER",
+      "shortName": "LER",
+      "cities": []
+    },
+    {
+      "id": 3151,
+      "name": "Loroum",
+      "code": "LOR",
+      "shortName": "LOR",
+      "cities": []
+    },
+    {
+      "id": 3123,
+      "name": "Mouhoun",
+      "code": "MOU",
+      "shortName": "MOU",
+      "cities": []
+    },
+    {
+      "id": 3116,
+      "name": "Nahouri",
+      "code": "NAO",
+      "shortName": "NAO",
+      "cities": []
+    },
+    {
+      "id": 3113,
+      "name": "Namentenga",
+      "code": "NAM",
+      "shortName": "NAM",
+      "cities": []
+    },
+    {
+      "id": 3142,
+      "name": "Nayala",
+      "code": "NAY",
+      "shortName": "NAY",
+      "cities": []
+    },
+    {
+      "id": 3164,
+      "name": "Nord",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 9179,
+          "name": "Gourcy",
+          "latlng": [
+            13.20776,
+            -2.35893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9194,
+          "name": "Ouahigouya",
+          "latlng": [
+            13.58278,
+            -2.42158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9220,
+          "name": "Province du Loroum",
+          "latlng": [
+            13.91667,
+            -2.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9225,
+          "name": "Province du Passoré",
+          "latlng": [
+            12.91667,
+            -2.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9234,
+          "name": "Province du Yatenga",
+          "latlng": [
+            13.58333,
+            -2.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9236,
+          "name": "Province du Zondoma",
+          "latlng": [
+            13.18333,
+            -2.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9243,
+          "name": "Titao",
+          "latlng": [
+            13.76667,
+            -2.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9246,
+          "name": "Yako",
+          "latlng": [
+            12.9591,
+            -2.26075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3156,
+      "name": "Noumbiel",
+      "code": "NOU",
+      "shortName": "NOU",
+      "cities": []
+    },
+    {
+      "id": 3141,
+      "name": "Oubritenga",
+      "code": "OUB",
+      "shortName": "OUB",
+      "cities": []
+    },
+    {
+      "id": 3144,
+      "name": "Oudalan",
+      "code": "OUD",
+      "shortName": "OUD",
+      "cities": []
+    },
+    {
+      "id": 3117,
+      "name": "Passoré",
+      "code": "PAS",
+      "shortName": "PAS",
+      "cities": []
+    },
+    {
+      "id": 3125,
+      "name": "Plateau-Central",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 9166,
+          "name": "Boussé",
+          "latlng": [
+            12.66121,
+            -1.89515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9196,
+          "name": "Oubritenga",
+          "latlng": [
+            12.66667,
+            -1.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9213,
+          "name": "Province du Ganzourgou",
+          "latlng": [
+            12.26667,
+            -0.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9218,
+          "name": "Province du Kourwéogo",
+          "latlng": [
+            12.58333,
+            -1.76667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9247,
+          "name": "Ziniaré",
+          "latlng": [
+            12.58186,
+            -1.2971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9248,
+          "name": "Zorgo",
+          "latlng": [
+            12.24922,
+            -0.61527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3163,
+      "name": "Poni",
+      "code": "PON",
+      "shortName": "PON",
+      "cities": []
+    },
+    {
+      "id": 3114,
+      "name": "Sahel",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 9170,
+          "name": "Djibo",
+          "latlng": [
+            14.0994,
+            -1.62554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9171,
+          "name": "Dori",
+          "latlng": [
+            14.0354,
+            -0.0345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9177,
+          "name": "Gorom-Gorom",
+          "latlng": [
+            14.4429,
+            -0.23468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9207,
+          "name": "Province de l’Oudalan",
+          "latlng": [
+            14.66667,
+            -0.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9231,
+          "name": "Province du Séno",
+          "latlng": [
+            13.964,
+            0.012
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9229,
+          "name": "Province du Soum",
+          "latlng": [
+            14.33333,
+            -1.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9233,
+          "name": "Province du Yagha",
+          "latlng": [
+            13.41667,
+            0.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3154,
+      "name": "Sanguié",
+      "code": "SNG",
+      "shortName": "SNG",
+      "cities": []
+    },
+    {
+      "id": 3126,
+      "name": "Sanmatenga",
+      "code": "SMT",
+      "shortName": "SMT",
+      "cities": []
+    },
+    {
+      "id": 3139,
+      "name": "Séno",
+      "code": "SEN",
+      "shortName": "SEN",
+      "cities": []
+    },
+    {
+      "id": 3119,
+      "name": "Sissili",
+      "code": "SIS",
+      "shortName": "SIS",
+      "cities": []
+    },
+    {
+      "id": 3166,
+      "name": "Soum",
+      "code": "SOM",
+      "shortName": "SOM",
+      "cities": []
+    },
+    {
+      "id": 3137,
+      "name": "Sourou",
+      "code": "SOR",
+      "shortName": "SOR",
+      "cities": []
+    },
+    {
+      "id": 3140,
+      "name": "Sud-Ouest",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 9160,
+          "name": "Batié",
+          "latlng": [
+            9.88333,
+            -2.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9167,
+          "name": "Dano",
+          "latlng": [
+            11.1464,
+            -3.05784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9169,
+          "name": "Diébougou",
+          "latlng": [
+            10.96209,
+            -3.24967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9199,
+          "name": "Province de la Bougouriba",
+          "latlng": [
+            10.83333,
+            -3.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9216,
+          "name": "Province du Ioba",
+          "latlng": [
+            11.08333,
+            -3.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9224,
+          "name": "Province du Noumbièl",
+          "latlng": [
+            9.83333,
+            -3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9226,
+          "name": "Province du Poni",
+          "latlng": [
+            10.25,
+            -3.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3128,
+      "name": "Tapoa",
+      "code": "TAP",
+      "shortName": "TAP",
+      "cities": []
+    },
+    {
+      "id": 3134,
+      "name": "Tuy",
+      "code": "TUI",
+      "shortName": "TUI",
+      "cities": []
+    },
+    {
+      "id": 3124,
+      "name": "Yagha",
+      "code": "YAG",
+      "shortName": "YAG",
+      "cities": []
+    },
+    {
+      "id": 3150,
+      "name": "Yatenga",
+      "code": "YAT",
+      "shortName": "YAT",
+      "cities": []
+    },
+    {
+      "id": 3145,
+      "name": "Ziro",
+      "code": "ZIR",
+      "shortName": "ZIR",
+      "cities": []
+    },
+    {
+      "id": 3130,
+      "name": "Zondoma",
+      "code": "ZON",
+      "shortName": "ZON",
+      "cities": []
+    },
+    {
+      "id": 3118,
+      "name": "Zoundwéogo",
+      "code": "ZOU",
+      "shortName": "ZOU",
+      "cities": []
+    }
+  ]
+}

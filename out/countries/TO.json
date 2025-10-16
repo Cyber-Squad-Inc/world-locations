@@ -1,0 +1,158 @@
+{
+  "name": {
+    "common": "Tonga",
+    "official": "Tonga"
+  },
+  "iso2": "TO",
+  "iso3": "TON",
+  "numericCode": "776",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".to",
+  "phoneCode": "676",
+  "capital": "Nuku'alofa",
+  "currencies": {
+    "TOP": "Tongan paʻanga"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Tongatapu",
+      "gmtOffset": 46800,
+      "gmtOffsetName": "UTC+13:00",
+      "abbreviation": "TOT",
+      "tzName": "Tonga Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/to.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/to.svg",
+  "states": [
+    {
+      "id": 3913,
+      "name": "Haʻapai",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 107049,
+          "name": "Pangai",
+          "latlng": [
+            -19.81468,
+            -174.35423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3915,
+      "name": "ʻEua",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 107051,
+          "name": "‘Ohonua",
+          "latlng": [
+            -21.33333,
+            -174.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3914,
+      "name": "Niuas",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 107045,
+          "name": "Hihifo",
+          "latlng": [
+            -15.9544,
+            -173.79616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3912,
+      "name": "Tongatapu",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 107044,
+          "name": "Haveluloto",
+          "latlng": [
+            -21.15216,
+            -175.21333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107046,
+          "name": "Kolonga",
+          "latlng": [
+            -21.13333,
+            -175.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107048,
+          "name": "Nuku‘alofa",
+          "latlng": [
+            -21.13938,
+            -175.2018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 107050,
+          "name": "Vaini",
+          "latlng": [
+            -21.19292,
+            -175.17678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3911,
+      "name": "Vavaʻu",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 107047,
+          "name": "Neiafu",
+          "latlng": [
+            -18.6506,
+            -173.98404
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

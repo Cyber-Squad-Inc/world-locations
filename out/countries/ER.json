@@ -1,0 +1,199 @@
+{
+  "name": {
+    "common": "Eritrea",
+    "official": "Eritrea"
+  },
+  "iso2": "ER",
+  "iso3": "ERI",
+  "numericCode": "232",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".er",
+  "phoneCode": "291",
+  "capital": "Asmara",
+  "currencies": {
+    "ERN": "Eritrean nakfa"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Asmara",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/er.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/er.svg",
+  "states": [
+    {
+      "id": 3425,
+      "name": "Anseba",
+      "code": "AN",
+      "shortName": "AN",
+      "cities": [
+        {
+          "id": 31888,
+          "name": "Keren",
+          "latlng": [
+            15.77792,
+            38.45107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3427,
+      "name": "Debub",
+      "code": "DU",
+      "shortName": "DU",
+      "cities": [
+        {
+          "id": 31881,
+          "name": "Adi Keyh",
+          "latlng": [
+            14.84444,
+            39.37722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31886,
+          "name": "Dek’emhāre",
+          "latlng": [
+            15.07,
+            39.0475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31890,
+          "name": "Mendefera",
+          "latlng": [
+            14.88722,
+            38.81528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3428,
+      "name": "Gash-Barka",
+      "code": "GB",
+      "shortName": "GB",
+      "cities": [
+        {
+          "id": 31882,
+          "name": "Ak’ordat",
+          "latlng": [
+            15.54798,
+            37.88291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31885,
+          "name": "Barentu",
+          "latlng": [
+            15.10582,
+            37.59067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31891,
+          "name": "Teseney",
+          "latlng": [
+            15.11,
+            36.6575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3426,
+      "name": "Maekel",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 31883,
+          "name": "Asmara",
+          "latlng": [
+            15.33805,
+            38.93184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3424,
+      "name": "Northern Red Sea",
+      "code": "SK",
+      "shortName": "SK",
+      "cities": [
+        {
+          "id": 31889,
+          "name": "Massawa",
+          "latlng": [
+            15.60811,
+            39.47455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3429,
+      "name": "Southern Red Sea",
+      "code": "DK",
+      "shortName": "DK",
+      "cities": [
+        {
+          "id": 31884,
+          "name": "Assab",
+          "latlng": [
+            13.00917,
+            42.73944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31887,
+          "name": "Edd",
+          "latlng": [
+            13.93088,
+            41.6938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "name": {
+    "common": "Libya",
+    "official": "Libya"
+  },
+  "iso2": "LY",
+  "iso3": "LBY",
+  "numericCode": "434",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "tld": ".ly",
+  "phoneCode": "218",
+  "capital": "Tripolis",
+  "currencies": {
+    "LYD": "Libyan dinar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Tripoli",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ly.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ly.svg",
+  "states": [
+    {
+      "id": 2964,
+      "name": "Al Wahat",
+      "code": "WA",
+      "shortName": "WA",
+      "cities": [
+        {
+          "id": 66993,
+          "name": "Ajdabiya",
+          "latlng": [
+            30.75545,
+            20.22625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 66997,
+          "name": "Al Burayqah",
+          "latlng": [
+            30.40624,
+            19.57386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67006,
+          "name": "Awjilah",
+          "latlng": [
+            29.10806,
+            21.28694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67007,
+          "name": "Az Zuwaytīnah",
+          "latlng": [
+            30.9522,
+            20.12022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67017,
+          "name": "Gialo",
+          "latlng": [
+            29.03333,
+            21.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67020,
+          "name": "Marādah",
+          "latlng": [
+            29.22054,
+            19.20454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2981,
+      "name": "Benghazi",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 67010,
+          "name": "Benghazi",
+          "latlng": [
+            32.11486,
+            20.06859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67026,
+          "name": "Qaryat Sulūq",
+          "latlng": [
+            31.66818,
+            20.25205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2966,
+      "name": "Derna",
+      "code": "DR",
+      "shortName": "DR",
+      "cities": [
+        {
+          "id": 67003,
+          "name": "Al Qubbah",
+          "latlng": [
+            32.75684,
+            22.24106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67012,
+          "name": "Darnah",
+          "latlng": [
+            32.76704,
+            22.63669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2969,
+      "name": "Ghat",
+      "code": "GT",
+      "shortName": "GT",
+      "cities": [
+        {
+          "id": 67015,
+          "name": "Ghat",
+          "latlng": [
+            24.96334,
+            10.18003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2980,
+      "name": "Jabal al Akhdar",
+      "code": "JA",
+      "shortName": "JA",
+      "cities": [
+        {
+          "id": 66996,
+          "name": "Al Bayḑā’",
+          "latlng": [
+            32.76272,
+            21.75506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2974,
+      "name": "Jabal al Gharbi",
+      "code": "JG",
+      "shortName": "JG",
+      "cities": [
+        {
+          "id": 67014,
+          "name": "Gharyan",
+          "latlng": [
+            32.17222,
+            13.02028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67016,
+          "name": "Giado",
+          "latlng": [
+            31.95506,
+            12.02901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67022,
+          "name": "Mizdah",
+          "latlng": [
+            31.44934,
+            12.9853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67036,
+          "name": "Yafran",
+          "latlng": [
+            32.06329,
+            12.52859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67039,
+          "name": "Zintan",
+          "latlng": [
+            31.93155,
+            12.25291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2979,
+      "name": "Jafara",
+      "code": "JI",
+      "shortName": "JI",
+      "cities": [
+        {
+          "id": 67004,
+          "name": "Al ‘Azīzīyah",
+          "latlng": [
+            32.53194,
+            13.0175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2970,
+      "name": "Jufra",
+      "code": "JU",
+      "shortName": "JU",
+      "cities": [
+        {
+          "id": 67018,
+          "name": "Hūn",
+          "latlng": [
+            29.12684,
+            15.94772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67035,
+          "name": "Waddān",
+          "latlng": [
+            29.1614,
+            16.13904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2972,
+      "name": "Kufra",
+      "code": "KF",
+      "shortName": "KF",
+      "cities": [
+        {
+          "id": 66999,
+          "name": "Al Jawf",
+          "latlng": [
+            24.1989,
+            23.29093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67005,
+          "name": "At Tāj",
+          "latlng": [
+            24.20487,
+            23.2857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2968,
+      "name": "Marj",
+      "code": "MJ",
+      "shortName": "MJ",
+      "cities": [
+        {
+          "id": 66994,
+          "name": "Al Abyār",
+          "latlng": [
+            32.19,
+            20.59653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67001,
+          "name": "Al Marj",
+          "latlng": [
+            32.49257,
+            20.82909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67033,
+          "name": "Tūkrah",
+          "latlng": [
+            32.53414,
+            20.57911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2978,
+      "name": "Misrata",
+      "code": "MI",
+      "shortName": "MI",
+      "cities": [
+        {
+          "id": 67009,
+          "name": "Bani Walid",
+          "latlng": [
+            31.74554,
+            13.98354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67023,
+          "name": "Mişrātah",
+          "latlng": [
+            32.37535,
+            15.09254
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67040,
+          "name": "Zliten",
+          "latlng": [
+            32.46739,
+            14.56874
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2961,
+      "name": "Murqub",
+      "code": "MB",
+      "shortName": "MB",
+      "cities": [
+        {
+          "id": 67000,
+          "name": "Al Khums",
+          "latlng": [
+            32.64861,
+            14.26191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67021,
+          "name": "Masallātah",
+          "latlng": [
+            32.61667,
+            14
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67031,
+          "name": "Tarhuna",
+          "latlng": [
+            32.43501,
+            13.6332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2967,
+      "name": "Murzuq",
+      "code": "MQ",
+      "shortName": "MQ",
+      "cities": [
+        {
+          "id": 67002,
+          "name": "Al Qaţrūn",
+          "latlng": [
+            24.95139,
+            14.64861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67024,
+          "name": "Murzuq",
+          "latlng": [
+            25.91552,
+            13.91839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2976,
+      "name": "Nalut",
+      "code": "NL",
+      "shortName": "NL",
+      "cities": [
+        {
+          "id": 67013,
+          "name": "Ghadāmis",
+          "latlng": [
+            30.13366,
+            9.50072
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67025,
+          "name": "Nālūt",
+          "latlng": [
+            31.86848,
+            10.9812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2962,
+      "name": "Nuqat al Khams",
+      "code": "NQ",
+      "shortName": "NQ",
+      "cities": [
+        {
+          "id": 66995,
+          "name": "Al Ajaylat",
+          "latlng": [
+            32.75718,
+            12.37633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67037,
+          "name": "Zalţan",
+          "latlng": [
+            32.94699,
+            11.86668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67041,
+          "name": "Zuwārah",
+          "latlng": [
+            32.9312,
+            12.08199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2965,
+      "name": "Sabha",
+      "code": "SB",
+      "shortName": "SB",
+      "cities": [
+        {
+          "id": 66998,
+          "name": "Al Jadīd",
+          "latlng": [
+            27.05,
+            14.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67028,
+          "name": "Sabhā",
+          "latlng": [
+            27.03766,
+            14.42832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2977,
+      "name": "Sirte",
+      "code": "SR",
+      "shortName": "SR",
+      "cities": [
+        {
+          "id": 67027,
+          "name": "Qasr Abu Hadi",
+          "latlng": [
+            31.05926,
+            16.65905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67029,
+          "name": "Sirte",
+          "latlng": [
+            31.20892,
+            16.58866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2971,
+      "name": "Tripoli",
+      "code": "TB",
+      "shortName": "TB",
+      "cities": [
+        {
+          "id": 67030,
+          "name": "Tagiura",
+          "latlng": [
+            32.88167,
+            13.35056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67032,
+          "name": "Tripoli",
+          "latlng": [
+            32.88743,
+            13.18733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2973,
+      "name": "Wadi al Hayaa",
+      "code": "WD",
+      "shortName": "WD",
+      "cities": [
+        {
+          "id": 67034,
+          "name": "Ubari",
+          "latlng": [
+            26.59034,
+            12.77511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2975,
+      "name": "Wadi al Shatii",
+      "code": "WS",
+      "shortName": "WS",
+      "cities": [
+        {
+          "id": 67011,
+          "name": "Brak",
+          "latlng": [
+            27.54956,
+            14.27139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67019,
+          "name": "Idrī",
+          "latlng": [
+            27.44707,
+            13.05173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2963,
+      "name": "Zawiya",
+      "code": "ZA",
+      "shortName": "ZA",
+      "cities": [
+        {
+          "id": 67008,
+          "name": "Az Zāwīyah",
+          "latlng": [
+            32.7571,
+            12.72764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67042,
+          "name": "Şabrātah",
+          "latlng": [
+            32.79335,
+            12.48845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67043,
+          "name": "Şurmān",
+          "latlng": [
+            32.75668,
+            12.57159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67038,
+          "name": "Zawiya",
+          "latlng": [
+            32.75222,
+            12.72778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

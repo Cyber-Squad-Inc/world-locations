@@ -1,0 +1,191 @@
+{
+  "name": {
+    "common": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda"
+  },
+  "iso2": "AG",
+  "iso3": "ATG",
+  "numericCode": "028",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".ag",
+  "phoneCode": "1",
+  "capital": "St. John's",
+  "currencies": {
+    "XCD": "Eastern Caribbean dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Antigua",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ag.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ag.svg",
+  "states": [
+    {
+      "id": 3708,
+      "name": "Barbuda",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 144,
+          "name": "Codrington",
+          "latlng": [
+            17.63333,
+            -61.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3703,
+      "name": "Redonda",
+      "code": "11",
+      "shortName": "11",
+      "cities": []
+    },
+    {
+      "id": 3709,
+      "name": "Saint George",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 148,
+          "name": "Piggotts",
+          "latlng": [
+            17.11667,
+            -61.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3706,
+      "name": "Saint John",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 149,
+          "name": "Potters Village",
+          "latlng": [
+            17.11337,
+            -61.81962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150,
+          "name": "Saint John’s",
+          "latlng": [
+            17.12096,
+            -61.84329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3707,
+      "name": "Saint Mary",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 143,
+          "name": "Bolands",
+          "latlng": [
+            17.06565,
+            -61.87466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3705,
+      "name": "Saint Paul",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 145,
+          "name": "Falmouth",
+          "latlng": [
+            17.02741,
+            -61.78136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 146,
+          "name": "Liberta",
+          "latlng": [
+            17.04141,
+            -61.79052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3704,
+      "name": "Saint Peter",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 142,
+          "name": "All Saints",
+          "latlng": [
+            17.06671,
+            -61.79303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 147,
+          "name": "Parham",
+          "latlng": [
+            17.09682,
+            -61.77046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3710,
+      "name": "Saint Philip",
+      "code": "08",
+      "shortName": "08",
+      "cities": []
+    }
+  ]
+}

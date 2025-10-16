@@ -1,0 +1,5132 @@
+{
+  "name": {
+    "common": "Pakistan",
+    "official": "Pakistan"
+  },
+  "iso2": "PK",
+  "iso3": "PAK",
+  "numericCode": "586",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "tld": ".pk",
+  "phoneCode": "92",
+  "capital": "Islamabad",
+  "currencies": {
+    "PKR": "Pakistani rupee"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Karachi",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "PKT",
+      "tzName": "Pakistan Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pk.svg",
+  "states": [
+    {
+      "id": 3172,
+      "name": "Azad Kashmir",
+      "code": "JK",
+      "shortName": "JK",
+      "cities": [
+        {
+          "id": 85368,
+          "name": "Bhimbar",
+          "latlng": [
+            32.97465,
+            74.07846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85562,
+          "name": "Kotli",
+          "latlng": [
+            33.51836,
+            73.9022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85563,
+          "name": "Kotli District",
+          "latlng": [
+            33.44559,
+            73.91557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85614,
+          "name": "Mirpur District",
+          "latlng": [
+            33.21556,
+            73.75144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85628,
+          "name": "Muzaffarābād",
+          "latlng": [
+            34.37002,
+            73.47082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85643,
+          "name": "New Mirpur",
+          "latlng": [
+            33.14782,
+            73.75187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85682,
+          "name": "Rawala Kot",
+          "latlng": [
+            33.85782,
+            73.76043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3174,
+      "name": "Balochistan",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 85334,
+          "name": "Alik Ghund",
+          "latlng": [
+            30.48976,
+            67.52177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85342,
+          "name": "Awārān District",
+          "latlng": [
+            26.21157,
+            65.42944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85353,
+          "name": "Barkhan",
+          "latlng": [
+            29.89773,
+            69.52558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85375,
+          "name": "Bārkhān District",
+          "latlng": [
+            29.98482,
+            69.69944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85360,
+          "name": "Bela",
+          "latlng": [
+            26.22718,
+            66.31178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85362,
+          "name": "Bhag",
+          "latlng": [
+            29.04174,
+            67.82394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85401,
+          "name": "Chāgai District",
+          "latlng": [
+            28.98765,
+            63.59087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85385,
+          "name": "Chaman",
+          "latlng": [
+            30.91769,
+            66.45259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85397,
+          "name": "Chowki Jamali",
+          "latlng": [
+            28.01944,
+            67.92083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85402,
+          "name": "Dadhar",
+          "latlng": [
+            29.47489,
+            67.65167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85406,
+          "name": "Dalbandin",
+          "latlng": [
+            28.88846,
+            64.40616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85416,
+          "name": "Dera Bugti",
+          "latlng": [
+            29.03619,
+            69.15849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85417,
+          "name": "Dera Bugti District",
+          "latlng": [
+            28.9425,
+            69.06883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85432,
+          "name": "Duki",
+          "latlng": [
+            30.15307,
+            68.57323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85442,
+          "name": "Gadani",
+          "latlng": [
+            25.11879,
+            66.73219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85445,
+          "name": "Garhi Khairo",
+          "latlng": [
+            28.06029,
+            67.98033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85459,
+          "name": "Gwadar",
+          "latlng": [
+            25.12163,
+            62.32541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85465,
+          "name": "Harnai",
+          "latlng": [
+            30.10077,
+            67.93824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85497,
+          "name": "Jāfarābād District",
+          "latlng": [
+            28.30104,
+            68.19783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85489,
+          "name": "Jhal Magsi District",
+          "latlng": [
+            28.36881,
+            67.543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85495,
+          "name": "Jiwani",
+          "latlng": [
+            25.04852,
+            61.74573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85507,
+          "name": "Kalat",
+          "latlng": [
+            29.02663,
+            66.59361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85511,
+          "name": "Kalāt District",
+          "latlng": [
+            28.88242,
+            66.53165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85530,
+          "name": "Khadan Khak",
+          "latlng": [
+            30.75236,
+            67.71133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85543,
+          "name": "Kharan",
+          "latlng": [
+            28.58459,
+            65.41501
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85550,
+          "name": "Khārān District",
+          "latlng": [
+            27.96308,
+            64.57113
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85548,
+          "name": "Khuzdar",
+          "latlng": [
+            27.81193,
+            66.61096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85549,
+          "name": "Khuzdār District",
+          "latlng": [
+            27.4868,
+            66.58703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85552,
+          "name": "Kohlu",
+          "latlng": [
+            29.89651,
+            69.25324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85556,
+          "name": "Kot Malik Barkhurdar",
+          "latlng": [
+            30.20379,
+            66.98723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85579,
+          "name": "Lasbela District",
+          "latlng": [
+            25.78634,
+            66.6033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85584,
+          "name": "Loralai",
+          "latlng": [
+            30.37051,
+            68.59795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85585,
+          "name": "Loralai District",
+          "latlng": [
+            30.30253,
+            68.84636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85586,
+          "name": "Mach",
+          "latlng": [
+            29.86371,
+            67.33018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85599,
+          "name": "Mastung",
+          "latlng": [
+            29.79966,
+            66.84553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85600,
+          "name": "Mastung District",
+          "latlng": [
+            29.79455,
+            66.72068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85605,
+          "name": "Mehrabpur",
+          "latlng": [
+            28.10773,
+            68.02554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85629,
+          "name": "Mūsa Khel District",
+          "latlng": [
+            30.84937,
+            69.90069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85635,
+          "name": "Nasīrābād District",
+          "latlng": [
+            28.62643,
+            68.12925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85648,
+          "name": "Nushki",
+          "latlng": [
+            29.55218,
+            66.02288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85651,
+          "name": "Ormara",
+          "latlng": [
+            25.21018,
+            64.63626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85656,
+          "name": "Panjgūr District",
+          "latlng": [
+            26.7375,
+            64.2038
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85658,
+          "name": "Pasni",
+          "latlng": [
+            25.26302,
+            63.46921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85668,
+          "name": "Pishin",
+          "latlng": [
+            30.58176,
+            66.99406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85671,
+          "name": "Qila Saifullāh District",
+          "latlng": [
+            30.95392,
+            68.33996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85672,
+          "name": "Quetta",
+          "latlng": [
+            30.18414,
+            67.00141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85673,
+          "name": "Quetta District",
+          "latlng": [
+            30.17458,
+            66.76203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85721,
+          "name": "Sibi",
+          "latlng": [
+            29.54299,
+            67.87726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85727,
+          "name": "Sohbatpur",
+          "latlng": [
+            28.52038,
+            68.54298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85731,
+          "name": "Surab",
+          "latlng": [
+            28.49276,
+            66.25999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85755,
+          "name": "Turbat",
+          "latlng": [
+            26.00122,
+            63.04849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85760,
+          "name": "Usta Muhammad",
+          "latlng": [
+            28.17723,
+            68.04367
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85761,
+          "name": "Uthal",
+          "latlng": [
+            25.80722,
+            66.62194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85771,
+          "name": "Zhob",
+          "latlng": [
+            31.34082,
+            69.4493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85772,
+          "name": "Zhob District",
+          "latlng": [
+            31.36444,
+            69.20749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85773,
+          "name": "Ziarat",
+          "latlng": [
+            30.38244,
+            67.72562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85774,
+          "name": "Ziārat District",
+          "latlng": [
+            30.43591,
+            67.50962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3173,
+      "name": "Federally Administered Tribal Areas",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 85336,
+          "name": "Alizai",
+          "latlng": [
+            33.53613,
+            70.34607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85458,
+          "name": "Gulishah Kach",
+          "latlng": [
+            32.67087,
+            70.33917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85577,
+          "name": "Landi Kotal",
+          "latlng": [
+            34.0988,
+            71.14108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85611,
+          "name": "Miran Shah",
+          "latlng": [
+            33.00059,
+            70.07117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85645,
+          "name": "North Wazīristān Agency",
+          "latlng": [
+            32.95087,
+            69.95764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85717,
+          "name": "Shinpokh",
+          "latlng": [
+            34.32959,
+            71.17852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85728,
+          "name": "South Wazīristān Agency",
+          "latlng": [
+            32.30397,
+            69.68207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85764,
+          "name": "Wana",
+          "latlng": [
+            32.29889,
+            69.5725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3170,
+      "name": "Gilgit-Baltistan",
+      "code": "GB",
+      "shortName": "GB",
+      "cities": [
+        {
+          "id": 85352,
+          "name": "Barishal",
+          "latlng": [
+            36.32162,
+            74.69502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85450,
+          "name": "Gilgit",
+          "latlng": [
+            35.91869,
+            74.31245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85724,
+          "name": "Skardu",
+          "latlng": [
+            35.29787,
+            75.63372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3169,
+      "name": "Islamabad",
+      "code": "IS",
+      "shortName": "IS",
+      "cities": [
+        {
+          "id": 85475,
+          "name": "Islamabad",
+          "latlng": [
+            33.72148,
+            73.04329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3171,
+      "name": "Khyber Pakhtunkhwa",
+      "code": "KP",
+      "shortName": "KP",
+      "cities": [
+        {
+          "id": 85329,
+          "name": "Abbottabad",
+          "latlng": [
+            34.1463,
+            73.21168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85333,
+          "name": "Akora",
+          "latlng": [
+            34.00337,
+            72.12561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85337,
+          "name": "Aman Garh",
+          "latlng": [
+            34.00584,
+            71.92971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85338,
+          "name": "Amirabad",
+          "latlng": [
+            34.18729,
+            73.09078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85340,
+          "name": "Ashanagro Koto",
+          "latlng": [
+            34.10773,
+            72.24517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85345,
+          "name": "Baffa",
+          "latlng": [
+            34.4377,
+            73.22368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85351,
+          "name": "Bannu",
+          "latlng": [
+            32.98527,
+            70.60403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85356,
+          "name": "Bat Khela",
+          "latlng": [
+            34.6178,
+            71.97247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85357,
+          "name": "Battagram",
+          "latlng": [
+            34.67719,
+            73.02329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85358,
+          "name": "Battagram District",
+          "latlng": [
+            34.68051,
+            73.00535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85374,
+          "name": "Buner District",
+          "latlng": [
+            34.44301,
+            72.49933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85387,
+          "name": "Charsadda",
+          "latlng": [
+            34.14822,
+            71.7406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85390,
+          "name": "Cherat Cantonement",
+          "latlng": [
+            33.82342,
+            71.89292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85395,
+          "name": "Chitral",
+          "latlng": [
+            35.8518,
+            71.78636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85419,
+          "name": "Dera Ismail Khan",
+          "latlng": [
+            31.83129,
+            70.9017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85420,
+          "name": "Dera Ismāīl Khān District",
+          "latlng": [
+            31.85963,
+            70.64879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85430,
+          "name": "Doaba",
+          "latlng": [
+            33.4245,
+            70.73676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85463,
+          "name": "Hangu",
+          "latlng": [
+            33.53198,
+            71.0595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85464,
+          "name": "Haripur",
+          "latlng": [
+            33.99783,
+            72.93493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85470,
+          "name": "Havelian",
+          "latlng": [
+            34.05348,
+            73.15993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85504,
+          "name": "Kakad Wari Dir Upper",
+          "latlng": [
+            34.99798,
+            72.07295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85522,
+          "name": "Karak",
+          "latlng": [
+            33.11633,
+            71.09354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85536,
+          "name": "Khalabat",
+          "latlng": [
+            34.05997,
+            72.88963
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85551,
+          "name": "Kohat",
+          "latlng": [
+            33.58196,
+            71.44929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85566,
+          "name": "Kulachi",
+          "latlng": [
+            31.93058,
+            70.45959
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85570,
+          "name": "Lachi",
+          "latlng": [
+            33.38291,
+            71.33733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85574,
+          "name": "Lakki",
+          "latlng": [
+            32.60724,
+            70.91234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85597,
+          "name": "Mansehra",
+          "latlng": [
+            34.33023,
+            73.19679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85598,
+          "name": "Mardan",
+          "latlng": [
+            34.19794,
+            72.04965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85610,
+          "name": "Mingora",
+          "latlng": [
+            34.7795,
+            72.36265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85644,
+          "name": "Noorabad",
+          "latlng": [
+            34.25195,
+            71.96656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85646,
+          "name": "Nowshera",
+          "latlng": [
+            34.01583,
+            71.98123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85647,
+          "name": "Nowshera Cantonment",
+          "latlng": [
+            33.99829,
+            71.99834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85652,
+          "name": "Pabbi",
+          "latlng": [
+            34.00968,
+            71.79445
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85654,
+          "name": "Paharpur",
+          "latlng": [
+            32.10502,
+            70.97055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85661,
+          "name": "Peshawar",
+          "latlng": [
+            34.008,
+            71.57849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85686,
+          "name": "Risalpur Cantonment",
+          "latlng": [
+            34.06048,
+            71.99276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85700,
+          "name": "Sarai Naurang",
+          "latlng": [
+            32.82581,
+            70.78107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85705,
+          "name": "Shabqadar",
+          "latlng": [
+            34.21599,
+            71.5548
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85716,
+          "name": "Shingli Bala",
+          "latlng": [
+            34.67872,
+            72.98491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85718,
+          "name": "Shorkot",
+          "latlng": [
+            31.91023,
+            70.87757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85733,
+          "name": "Swabi",
+          "latlng": [
+            34.12018,
+            72.46982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85745,
+          "name": "Tangi",
+          "latlng": [
+            34.3009,
+            71.65238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85747,
+          "name": "Tank",
+          "latlng": [
+            32.21707,
+            70.38315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85749,
+          "name": "Thal",
+          "latlng": [
+            35.47836,
+            72.24383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85754,
+          "name": "Topi",
+          "latlng": [
+            34.07034,
+            72.62147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85759,
+          "name": "Upper Dir",
+          "latlng": [
+            35.2074,
+            71.8768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85762,
+          "name": "Utmanzai",
+          "latlng": [
+            34.18775,
+            71.76274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85770,
+          "name": "Zaida",
+          "latlng": [
+            34.0595,
+            72.4669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3176,
+      "name": "Punjab",
+      "code": "PB",
+      "shortName": "PB",
+      "cities": [
+        {
+          "id": 85332,
+          "name": "Ahmadpur Sial",
+          "latlng": [
+            30.67791,
+            71.74344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85331,
+          "name": "Ahmedpur East",
+          "latlng": [
+            29.14269,
+            71.25771
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85335,
+          "name": "Alipur Chatha",
+          "latlng": [
+            29.38242,
+            70.91106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85339,
+          "name": "Arifwala",
+          "latlng": [
+            30.29058,
+            73.06574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85341,
+          "name": "Attock Tehsil",
+          "latlng": [
+            33.76671,
+            72.35977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85343,
+          "name": "Baddomalhi",
+          "latlng": [
+            31.99042,
+            74.6641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85347,
+          "name": "Bahawalnagar",
+          "latlng": [
+            29.99835,
+            73.25272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85348,
+          "name": "Bahawalpur",
+          "latlng": [
+            29.39779,
+            71.6752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85349,
+          "name": "Bakhri Ahmad Khan",
+          "latlng": [
+            30.73586,
+            70.83796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85354,
+          "name": "Basirpur",
+          "latlng": [
+            30.57759,
+            73.83912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85355,
+          "name": "Basti Dosa",
+          "latlng": [
+            30.78769,
+            70.86853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85359,
+          "name": "Begowala",
+          "latlng": [
+            32.43816,
+            74.26794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85363,
+          "name": "Bhakkar",
+          "latlng": [
+            31.62685,
+            71.06471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85364,
+          "name": "Bhalwal",
+          "latlng": [
+            32.26576,
+            72.89809
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85366,
+          "name": "Bhawana",
+          "latlng": [
+            31.56884,
+            72.64917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85367,
+          "name": "Bhera",
+          "latlng": [
+            32.48206,
+            72.90865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85371,
+          "name": "Bhopalwala",
+          "latlng": [
+            32.42968,
+            74.3635
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85376,
+          "name": "Burewala",
+          "latlng": [
+            30.16667,
+            72.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85378,
+          "name": "Chak Azam Saffo",
+          "latlng": [
+            30.75202,
+            73.02834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85380,
+          "name": "Chak Jhumra",
+          "latlng": [
+            31.56808,
+            73.18317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85381,
+          "name": "Chak One Hundred Twenty Nine Left",
+          "latlng": [
+            30.42919,
+            73.04522
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85382,
+          "name": "Chak Thirty-one -Eleven Left",
+          "latlng": [
+            30.42388,
+            72.69737
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85383,
+          "name": "Chak Two Hundred Forty-Nine TDA",
+          "latlng": [
+            31.17772,
+            71.2048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85384,
+          "name": "Chakwal",
+          "latlng": [
+            32.93286,
+            72.85394
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85388,
+          "name": "Chawinda",
+          "latlng": [
+            32.34434,
+            74.70507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85392,
+          "name": "Chichawatni",
+          "latlng": [
+            30.5301,
+            72.69155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85393,
+          "name": "Chiniot",
+          "latlng": [
+            31.72091,
+            72.97836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85394,
+          "name": "Chishtian",
+          "latlng": [
+            29.79713,
+            72.85772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85396,
+          "name": "Choa Saidanshah",
+          "latlng": [
+            32.71962,
+            72.98625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143765,
+          "name": "Chuhar Kana",
+          "latlng": [
+            31.75,
+            73.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85400,
+          "name": "Chunian",
+          "latlng": [
+            30.96621,
+            73.97908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85404,
+          "name": "Daira Din Panah",
+          "latlng": [
+            30.57053,
+            70.93722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85405,
+          "name": "Dajal",
+          "latlng": [
+            29.55769,
+            70.37614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85407,
+          "name": "Dandot RS",
+          "latlng": [
+            32.64167,
+            72.975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85409,
+          "name": "Darya Khan",
+          "latlng": [
+            31.78447,
+            71.10197
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85411,
+          "name": "Daska",
+          "latlng": [
+            32.32422,
+            74.35039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143767,
+          "name": "Daud Khel",
+          "latlng": [
+            32.87498,
+            71.57013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85414,
+          "name": "Daultala",
+          "latlng": [
+            33.19282,
+            73.14099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85418,
+          "name": "Dera Ghazi Khan",
+          "latlng": [
+            30.04587,
+            70.64029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85421,
+          "name": "Dhanot",
+          "latlng": [
+            29.57991,
+            71.75213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85422,
+          "name": "Dhaunkal",
+          "latlng": [
+            32.40613,
+            74.13706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143766,
+          "name": "Dhok Awan",
+          "latlng": [
+            32.84452,
+            72.52357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85425,
+          "name": "Dijkot",
+          "latlng": [
+            31.21735,
+            72.99621
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85426,
+          "name": "Dinan Bashnoian Wala",
+          "latlng": [
+            29.76584,
+            73.26557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85427,
+          "name": "Dinga",
+          "latlng": [
+            32.64101,
+            73.72039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85428,
+          "name": "Dipalpur",
+          "latlng": [
+            30.66984,
+            73.65306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85433,
+          "name": "Dullewala",
+          "latlng": [
+            31.83439,
+            71.43639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85434,
+          "name": "Dunga Bunga",
+          "latlng": [
+            29.74975,
+            73.24294
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85435,
+          "name": "Dunyapur",
+          "latlng": [
+            29.80275,
+            71.74344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85436,
+          "name": "Eminabad",
+          "latlng": [
+            32.04237,
+            74.25996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85437,
+          "name": "Faisalabad",
+          "latlng": [
+            31.41554,
+            73.08969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85438,
+          "name": "Faqirwali",
+          "latlng": [
+            29.46799,
+            73.03489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85439,
+          "name": "Faruka",
+          "latlng": [
+            31.88642,
+            72.41362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85440,
+          "name": "Fazilpur",
+          "latlng": [
+            32.17629,
+            75.06583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143768,
+          "name": "Ferozewala",
+          "latlng": [
+            29.3,
+            70.43333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85441,
+          "name": "Fort Abbas",
+          "latlng": [
+            29.19344,
+            72.85525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85444,
+          "name": "Garh Maharaja",
+          "latlng": [
+            30.83383,
+            71.90491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85451,
+          "name": "Gojra",
+          "latlng": [
+            31.14926,
+            72.68323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85455,
+          "name": "Gujar Khan",
+          "latlng": [
+            33.25411,
+            73.30433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85456,
+          "name": "Gujranwala",
+          "latlng": [
+            32.15567,
+            74.18705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143769,
+          "name": "Gujranwala Division",
+          "latlng": [
+            32.45,
+            74.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85457,
+          "name": "Gujrat",
+          "latlng": [
+            32.5742,
+            74.07542
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85460,
+          "name": "Hadali",
+          "latlng": [
+            32.64043,
+            74.56898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85461,
+          "name": "Hafizabad",
+          "latlng": [
+            32.07095,
+            73.68802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85466,
+          "name": "Harnoli",
+          "latlng": [
+            32.27871,
+            71.55429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85467,
+          "name": "Harunabad",
+          "latlng": [
+            29.61206,
+            73.13802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143770,
+          "name": "Hasan Abdal",
+          "latlng": [
+            33.81948611,
+            72.68902778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85468,
+          "name": "Hasilpur",
+          "latlng": [
+            29.69221,
+            72.54566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85469,
+          "name": "Haveli Lakha",
+          "latlng": [
+            30.45097,
+            73.69371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85471,
+          "name": "Hazro",
+          "latlng": [
+            33.9099,
+            72.49179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85473,
+          "name": "Hujra Shah Muqeem",
+          "latlng": [
+            30.74168,
+            73.82327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85478,
+          "name": "Jahanian Shah",
+          "latlng": [
+            31.80541,
+            72.2774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85479,
+          "name": "Jalalpur Jattan",
+          "latlng": [
+            32.64118,
+            74.20561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85480,
+          "name": "Jalalpur Pirwala",
+          "latlng": [
+            29.5051,
+            71.22202
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85481,
+          "name": "Jampur",
+          "latlng": [
+            29.64235,
+            70.59518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85483,
+          "name": "Jand",
+          "latlng": [
+            33.43304,
+            72.01877
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85484,
+          "name": "Jandiala Sher Khan",
+          "latlng": [
+            31.82098,
+            73.91815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85485,
+          "name": "Jaranwala",
+          "latlng": [
+            31.3332,
+            73.41868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85487,
+          "name": "Jatoi Shimali",
+          "latlng": [
+            29.51827,
+            70.84474
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85488,
+          "name": "Jauharabad",
+          "latlng": [
+            32.29016,
+            72.28182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85490,
+          "name": "Jhang",
+          "latlng": [
+            31.30568,
+            72.32594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85491,
+          "name": "Jhang Sadar",
+          "latlng": [
+            31.26981,
+            72.31687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85492,
+          "name": "Jhawarian",
+          "latlng": [
+            32.36192,
+            72.62275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85493,
+          "name": "Jhelum",
+          "latlng": [
+            32.93448,
+            73.73102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85499,
+          "name": "Kabirwala",
+          "latlng": [
+            30.40472,
+            71.86269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85501,
+          "name": "Kahna Nau",
+          "latlng": [
+            31.36709,
+            74.36899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85503,
+          "name": "Kahuta",
+          "latlng": [
+            33.59183,
+            73.38736
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85505,
+          "name": "Kalabagh",
+          "latlng": [
+            32.96164,
+            71.54638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85506,
+          "name": "Kalaswala",
+          "latlng": [
+            32.20081,
+            74.64858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85508,
+          "name": "Kaleke Mandi",
+          "latlng": [
+            31.97597,
+            73.59999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85509,
+          "name": "Kallar Kahar",
+          "latlng": [
+            32.77998,
+            72.69793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85510,
+          "name": "Kalur Kot",
+          "latlng": [
+            32.15512,
+            71.26631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85512,
+          "name": "Kamalia",
+          "latlng": [
+            30.72708,
+            72.64607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85513,
+          "name": "Kamar Mushani",
+          "latlng": [
+            32.84318,
+            71.36192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85515,
+          "name": "Kamoke",
+          "latlng": [
+            31.97526,
+            74.22304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85516,
+          "name": "Kamra",
+          "latlng": [
+            33.74698,
+            73.51229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85520,
+          "name": "Kanganpur",
+          "latlng": [
+            30.76468,
+            74.12286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85525,
+          "name": "Karor",
+          "latlng": [
+            31.2246,
+            70.95153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85527,
+          "name": "Kasur",
+          "latlng": [
+            31.11866,
+            74.45025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85528,
+          "name": "Keshupur",
+          "latlng": [
+            32.26,
+            72.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85535,
+          "name": "Khairpur Tamiwali",
+          "latlng": [
+            29.58139,
+            72.23804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85537,
+          "name": "Khandowa",
+          "latlng": [
+            32.74255,
+            72.73478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85538,
+          "name": "Khanewal",
+          "latlng": [
+            30.30173,
+            71.93212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85539,
+          "name": "Khanga Dogran",
+          "latlng": [
+            31.83294,
+            73.62213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85540,
+          "name": "Khangarh",
+          "latlng": [
+            29.91446,
+            71.16067
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85541,
+          "name": "Khanpur",
+          "latlng": [
+            28.64739,
+            70.65694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85544,
+          "name": "Kharian",
+          "latlng": [
+            32.81612,
+            73.88697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85545,
+          "name": "Khewra",
+          "latlng": [
+            32.6491,
+            73.01059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85546,
+          "name": "Khurrianwala",
+          "latlng": [
+            31.49936,
+            73.26763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85547,
+          "name": "Khushab",
+          "latlng": [
+            32.29667,
+            72.3525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143771,
+          "name": "Kohror Pakka",
+          "latlng": [
+            29.62382,
+            71.91673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85553,
+          "name": "Kot Addu Tehsil",
+          "latlng": [
+            30.46907,
+            70.96699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85555,
+          "name": "Kot Ghulam Muhammad",
+          "latlng": [
+            32.33311,
+            74.54694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85557,
+          "name": "Kot Mumin",
+          "latlng": [
+            32.18843,
+            73.02987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85558,
+          "name": "Kot Radha Kishan",
+          "latlng": [
+            31.17068,
+            74.10126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85559,
+          "name": "Kot Rajkour",
+          "latlng": [
+            32.41208,
+            74.62855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85560,
+          "name": "Kot Samaba",
+          "latlng": [
+            28.55207,
+            70.46837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85561,
+          "name": "Kot Sultan",
+          "latlng": [
+            30.7737,
+            70.93125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85564,
+          "name": "Kotli Loharan",
+          "latlng": [
+            32.58893,
+            74.49466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85567,
+          "name": "Kundian",
+          "latlng": [
+            32.45775,
+            71.47892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85568,
+          "name": "Kunjah",
+          "latlng": [
+            32.52982,
+            73.97486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85571,
+          "name": "Ladhewala Waraich",
+          "latlng": [
+            32.15692,
+            74.11564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85572,
+          "name": "Lahore",
+          "latlng": [
+            31.558,
+            74.35071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85575,
+          "name": "Lala Musa",
+          "latlng": [
+            32.70138,
+            73.95746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85576,
+          "name": "Lalian",
+          "latlng": [
+            31.82462,
+            72.80116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85580,
+          "name": "Layyah",
+          "latlng": [
+            30.96128,
+            70.93904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85581,
+          "name": "Layyah District",
+          "latlng": [
+            30.968,
+            70.943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85582,
+          "name": "Liliani",
+          "latlng": [
+            32.20393,
+            72.9512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85583,
+          "name": "Lodhran",
+          "latlng": [
+            29.5339,
+            71.63244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85588,
+          "name": "Mailsi",
+          "latlng": [
+            29.80123,
+            72.17398
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85589,
+          "name": "Malakwal",
+          "latlng": [
+            32.55449,
+            73.21274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85590,
+          "name": "Malakwal City",
+          "latlng": [
+            32.55492,
+            73.2122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85592,
+          "name": "Mamu Kanjan",
+          "latlng": [
+            30.83044,
+            72.79943
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85593,
+          "name": "Mananwala",
+          "latlng": [
+            31.58803,
+            73.68927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85594,
+          "name": "Mandi Bahauddin",
+          "latlng": [
+            32.58704,
+            73.49123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143772,
+          "name": "Mandi Bahauddin District",
+          "latlng": [
+            32.58333333,
+            73.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85595,
+          "name": "Mangla",
+          "latlng": [
+            31.89306,
+            72.38167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85596,
+          "name": "Mankera",
+          "latlng": [
+            31.38771,
+            71.44047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85604,
+          "name": "Mehmand Chak",
+          "latlng": [
+            32.78518,
+            73.82306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85606,
+          "name": "Mian Channun",
+          "latlng": [
+            30.44067,
+            72.35679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85607,
+          "name": "Mianke Mor",
+          "latlng": [
+            31.2024,
+            73.94857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85608,
+          "name": "Mianwali",
+          "latlng": [
+            32.57756,
+            71.52847
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85609,
+          "name": "Minchinabad",
+          "latlng": [
+            30.16356,
+            73.56858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85619,
+          "name": "Mitha Tiwana",
+          "latlng": [
+            32.2454,
+            72.10615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85622,
+          "name": "Moza Shahwala",
+          "latlng": [
+            30.80563,
+            70.84911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85623,
+          "name": "Multan",
+          "latlng": [
+            30.19679,
+            71.47824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143773,
+          "name": "Multan District",
+          "latlng": [
+            30.08333333,
+            71.66666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85624,
+          "name": "Muridke",
+          "latlng": [
+            31.80258,
+            74.25772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85625,
+          "name": "Murree",
+          "latlng": [
+            33.90836,
+            73.3903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85626,
+          "name": "Mustafabad",
+          "latlng": [
+            30.89222,
+            73.49889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85627,
+          "name": "Muzaffargarh",
+          "latlng": [
+            30.07258,
+            71.19379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85631,
+          "name": "Nankana Sahib",
+          "latlng": [
+            31.4501,
+            73.70653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85632,
+          "name": "Narang Mandi",
+          "latlng": [
+            31.90376,
+            74.51587
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85633,
+          "name": "Narowal",
+          "latlng": [
+            32.10197,
+            74.87303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85638,
+          "name": "Naushahra Virkan",
+          "latlng": [
+            31.96258,
+            73.97117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85641,
+          "name": "Nazir Town",
+          "latlng": [
+            33.30614,
+            73.4833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85650,
+          "name": "Okara",
+          "latlng": [
+            30.81029,
+            73.45155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143774,
+          "name": "Pakki Shagwanwali",
+          "latlng": [
+            30.79033,
+            70.87139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85655,
+          "name": "Pakpattan",
+          "latlng": [
+            30.34314,
+            73.38944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85659,
+          "name": "Pasrur",
+          "latlng": [
+            32.26286,
+            74.66327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85660,
+          "name": "Pattoki",
+          "latlng": [
+            31.02021,
+            73.85333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85662,
+          "name": "Phalia",
+          "latlng": [
+            32.43104,
+            73.579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85663,
+          "name": "Pind Dadan Khan",
+          "latlng": [
+            32.58662,
+            73.04456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85664,
+          "name": "Pindi Bhattian",
+          "latlng": [
+            31.89844,
+            73.27339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85665,
+          "name": "Pindi Gheb",
+          "latlng": [
+            33.24095,
+            72.2648
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85667,
+          "name": "Pir Mahal",
+          "latlng": [
+            30.76663,
+            72.43455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85670,
+          "name": "Qadirpur Ran",
+          "latlng": [
+            30.29184,
+            71.67164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143775,
+          "name": "Qila Didar Singh",
+          "latlng": [
+            32.8,
+            74.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85389,
+          "name": "Rabwah",
+          "latlng": [
+            31.75511,
+            72.91403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85674,
+          "name": "Rahim Yar Khan",
+          "latlng": [
+            28.41987,
+            70.30345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143776,
+          "name": "Rahimyar Khan District",
+          "latlng": [
+            28.4602,
+            70.52837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85675,
+          "name": "Raiwind",
+          "latlng": [
+            31.24895,
+            74.21534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85676,
+          "name": "Raja Jang",
+          "latlng": [
+            31.22078,
+            74.25483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85677,
+          "name": "Rajanpur",
+          "latlng": [
+            29.10408,
+            70.32969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85680,
+          "name": "Rasulnagar",
+          "latlng": [
+            32.32794,
+            73.7804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85683,
+          "name": "Rawalpindi",
+          "latlng": [
+            33.59733,
+            73.0479
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85684,
+          "name": "Rawalpindi District",
+          "latlng": [
+            33.42987,
+            73.23092
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85685,
+          "name": "Renala Khurd",
+          "latlng": [
+            30.87878,
+            73.59857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85688,
+          "name": "Rojhan",
+          "latlng": [
+            28.68735,
+            69.9535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85690,
+          "name": "Sadiqabad",
+          "latlng": [
+            28.3091,
+            70.12652
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85691,
+          "name": "Sahiwal",
+          "latlng": [
+            30.66595,
+            73.10186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85694,
+          "name": "Sambrial",
+          "latlng": [
+            32.47835,
+            74.35338
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85696,
+          "name": "Sangla Hill",
+          "latlng": [
+            31.71667,
+            73.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85697,
+          "name": "Sanjwal",
+          "latlng": [
+            33.76105,
+            72.43315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85699,
+          "name": "Sarai Alamgir",
+          "latlng": [
+            32.90495,
+            73.75518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85701,
+          "name": "Sarai Sidhu",
+          "latlng": [
+            30.59476,
+            71.9699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85702,
+          "name": "Sargodha",
+          "latlng": [
+            32.08586,
+            72.67418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143777,
+          "name": "Shahkot Tehsil",
+          "latlng": [
+            31.56166667,
+            73.4875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85709,
+          "name": "Shahpur",
+          "latlng": [
+            32.2682,
+            72.46884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85711,
+          "name": "Shahr Sultan",
+          "latlng": [
+            29.57517,
+            71.02209
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85712,
+          "name": "Shakargarh",
+          "latlng": [
+            32.26361,
+            75.16008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85713,
+          "name": "Sharqpur",
+          "latlng": [
+            31.46116,
+            74.10091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85714,
+          "name": "Sheikhupura",
+          "latlng": [
+            31.71287,
+            73.98556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85708,
+          "name": "Shorkot",
+          "latlng": [
+            30.5,
+            72.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85719,
+          "name": "Shujaabad",
+          "latlng": [
+            29.88092,
+            71.29344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85720,
+          "name": "Sialkot",
+          "latlng": [
+            32.49268,
+            74.53134
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85722,
+          "name": "Sillanwali",
+          "latlng": [
+            31.82539,
+            72.54064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85726,
+          "name": "Sodhra",
+          "latlng": [
+            32.46211,
+            74.18207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85729,
+          "name": "Sukheke Mandi",
+          "latlng": [
+            31.86541,
+            73.50875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85732,
+          "name": "Surkhpur",
+          "latlng": [
+            32.71816,
+            74.44773
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85735,
+          "name": "Talagang",
+          "latlng": [
+            32.92766,
+            72.41594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85736,
+          "name": "Talamba",
+          "latlng": [
+            30.52693,
+            72.24079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85738,
+          "name": "Tandlianwala",
+          "latlng": [
+            31.03359,
+            73.13268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85748,
+          "name": "Taunsa",
+          "latlng": [
+            30.70358,
+            70.65054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85753,
+          "name": "Toba Tek Singh",
+          "latlng": [
+            30.97127,
+            72.48275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143778,
+          "name": "Umerkot",
+          "latlng": [
+            25.36138889,
+            69.73611111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85763,
+          "name": "Vihari",
+          "latlng": [
+            30.0445,
+            72.3556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143779,
+          "name": "Wah",
+          "latlng": [
+            33.81,
+            72.70972222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143780,
+          "name": "Warburton",
+          "latlng": [
+            31.55,
+            73.8333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85766,
+          "name": "Wazirabad",
+          "latlng": [
+            32.44324,
+            74.12
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 143781,
+          "name": "West Punjab",
+          "latlng": [
+            31,
+            72
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85767,
+          "name": "Yazman",
+          "latlng": [
+            29.12122,
+            71.74459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85768,
+          "name": "Zafarwal",
+          "latlng": [
+            32.34464,
+            74.8999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85769,
+          "name": "Zahir Pir",
+          "latlng": [
+            28.81284,
+            70.52341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3175,
+      "name": "Sindh",
+      "code": "SD",
+      "shortName": "SD",
+      "cities": [
+        {
+          "id": 85330,
+          "name": "Adilpur",
+          "latlng": [
+            27.93677,
+            69.31941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85344,
+          "name": "Badin",
+          "latlng": [
+            24.656,
+            68.837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85346,
+          "name": "Bagarji",
+          "latlng": [
+            27.75431,
+            68.75866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85350,
+          "name": "Bandhi",
+          "latlng": [
+            26.58761,
+            68.30215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85361,
+          "name": "Berani",
+          "latlng": [
+            25.78497,
+            68.80754
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85365,
+          "name": "Bhan",
+          "latlng": [
+            26.55831,
+            67.72139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85369,
+          "name": "Bhiria",
+          "latlng": [
+            26.91041,
+            68.19466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85370,
+          "name": "Bhit Shah",
+          "latlng": [
+            25.80565,
+            68.49143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85372,
+          "name": "Bozdar Wada",
+          "latlng": [
+            27.183,
+            68.6358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85373,
+          "name": "Bulri",
+          "latlng": [
+            24.86667,
+            68.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85377,
+          "name": "Chak",
+          "latlng": [
+            27.85838,
+            68.83378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85386,
+          "name": "Chamber",
+          "latlng": [
+            25.29362,
+            68.81176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85391,
+          "name": "Chhor",
+          "latlng": [
+            25.5126,
+            69.78437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85399,
+          "name": "Chuhar Jamali",
+          "latlng": [
+            24.3944,
+            67.99298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85403,
+          "name": "Dadu",
+          "latlng": [
+            26.73033,
+            67.7769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85408,
+          "name": "Daromehar",
+          "latlng": [
+            24.79382,
+            68.17978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85410,
+          "name": "Darya Khan Marri",
+          "latlng": [
+            26.67765,
+            68.28666
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85413,
+          "name": "Daulatpur",
+          "latlng": [
+            26.50158,
+            67.97079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85415,
+          "name": "Daur",
+          "latlng": [
+            26.45528,
+            68.31835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85423,
+          "name": "Dhoro Naro",
+          "latlng": [
+            25.50484,
+            69.5709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85424,
+          "name": "Digri",
+          "latlng": [
+            25.15657,
+            69.11098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85429,
+          "name": "Diplo",
+          "latlng": [
+            24.46688,
+            69.58114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85431,
+          "name": "Dokri",
+          "latlng": [
+            27.37421,
+            68.09715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85443,
+          "name": "Gambat",
+          "latlng": [
+            27.3517,
+            68.5215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85446,
+          "name": "Garhiyasin",
+          "latlng": [
+            27.90631,
+            68.5121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85447,
+          "name": "Gharo",
+          "latlng": [
+            24.74182,
+            67.58534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85448,
+          "name": "Ghauspur",
+          "latlng": [
+            28.13882,
+            69.08245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85449,
+          "name": "Ghotki",
+          "latlng": [
+            28.00437,
+            69.31569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85452,
+          "name": "Goth Garelo",
+          "latlng": [
+            27.43521,
+            68.07572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85453,
+          "name": "Goth Phulji",
+          "latlng": [
+            26.88099,
+            67.68239
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85454,
+          "name": "Goth Radhan",
+          "latlng": [
+            27.19846,
+            67.95348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85462,
+          "name": "Hala",
+          "latlng": [
+            25.81459,
+            68.42198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85472,
+          "name": "Hingorja",
+          "latlng": [
+            27.21088,
+            68.41598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85474,
+          "name": "Hyderabad",
+          "latlng": [
+            25.39242,
+            68.37366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85476,
+          "name": "Islamkot",
+          "latlng": [
+            24.69904,
+            70.17982
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85477,
+          "name": "Jacobabad",
+          "latlng": [
+            28.28187,
+            68.43761
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85498,
+          "name": "Jām Sāhib",
+          "latlng": [
+            26.29583,
+            68.62917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85482,
+          "name": "Jamshoro",
+          "latlng": [
+            25.43608,
+            68.28017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85486,
+          "name": "Jati",
+          "latlng": [
+            24.35492,
+            68.26732
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85494,
+          "name": "Jhol",
+          "latlng": [
+            25.95533,
+            68.88871
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85496,
+          "name": "Johi",
+          "latlng": [
+            26.69225,
+            67.61431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85500,
+          "name": "Kadhan",
+          "latlng": [
+            24.48041,
+            68.98551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85514,
+          "name": "Kambar",
+          "latlng": [
+            27.58753,
+            68.00066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85517,
+          "name": "Kandhkot",
+          "latlng": [
+            28.24574,
+            69.17974
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85518,
+          "name": "Kandiari",
+          "latlng": [
+            26.9155,
+            68.52193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85519,
+          "name": "Kandiaro",
+          "latlng": [
+            27.05918,
+            68.21022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85521,
+          "name": "Karachi",
+          "latlng": [
+            24.8608,
+            67.0104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85523,
+          "name": "Karaundi",
+          "latlng": [
+            26.89709,
+            68.40643
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85524,
+          "name": "Kario Ghanwar",
+          "latlng": [
+            24.80817,
+            68.60483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85526,
+          "name": "Kashmor",
+          "latlng": [
+            28.4326,
+            69.58364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85529,
+          "name": "Keti Bandar",
+          "latlng": [
+            24.14422,
+            67.45094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85531,
+          "name": "Khadro",
+          "latlng": [
+            26.14713,
+            68.71777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85532,
+          "name": "Khairpur",
+          "latlng": [
+            28.06437,
+            69.70363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85533,
+          "name": "Khairpur Mir’s",
+          "latlng": [
+            27.52948,
+            68.75915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85534,
+          "name": "Khairpur Nathan Shah",
+          "latlng": [
+            27.09064,
+            67.73489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85542,
+          "name": "Khanpur Mahar",
+          "latlng": [
+            27.84088,
+            69.41302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85554,
+          "name": "Kot Diji",
+          "latlng": [
+            27.34156,
+            68.70821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85565,
+          "name": "Kotri",
+          "latlng": [
+            25.36566,
+            68.30831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85569,
+          "name": "Kunri",
+          "latlng": [
+            25.17874,
+            69.56572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85573,
+          "name": "Lakhi",
+          "latlng": [
+            27.84884,
+            68.69972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85578,
+          "name": "Larkana",
+          "latlng": [
+            27.55898,
+            68.21204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85587,
+          "name": "Madeji",
+          "latlng": [
+            27.75314,
+            68.45166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85591,
+          "name": "Malir Cantonment",
+          "latlng": [
+            24.94343,
+            67.20591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85601,
+          "name": "Matiari",
+          "latlng": [
+            25.59709,
+            68.4467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85602,
+          "name": "Matli",
+          "latlng": [
+            25.0429,
+            68.65591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85603,
+          "name": "Mehar",
+          "latlng": [
+            27.18027,
+            67.82051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85612,
+          "name": "Miro Khan",
+          "latlng": [
+            27.75985,
+            68.09195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85613,
+          "name": "Mirpur Bhtoro",
+          "latlng": [
+            24.72852,
+            68.2601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85615,
+          "name": "Mirpur Khas",
+          "latlng": [
+            25.5276,
+            69.01255
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85616,
+          "name": "Mirpur Mathelo",
+          "latlng": [
+            28.02136,
+            69.54914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85617,
+          "name": "Mirpur Sakro",
+          "latlng": [
+            24.54692,
+            67.62797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85618,
+          "name": "Mirwah Gorchani",
+          "latlng": [
+            25.30981,
+            69.05019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85620,
+          "name": "Mithi",
+          "latlng": [
+            24.73701,
+            69.79707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85621,
+          "name": "Moro",
+          "latlng": [
+            26.66317,
+            68.00016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85630,
+          "name": "Nabisar",
+          "latlng": [
+            25.06717,
+            69.6434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85634,
+          "name": "Nasirabad",
+          "latlng": [
+            27.38137,
+            67.91644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85636,
+          "name": "Naudero",
+          "latlng": [
+            27.66684,
+            68.3609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85637,
+          "name": "Naukot",
+          "latlng": [
+            24.85822,
+            69.40153
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85639,
+          "name": "Naushahro Firoz",
+          "latlng": [
+            26.8401,
+            68.12265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85640,
+          "name": "Nawabshah",
+          "latlng": [
+            26.23939,
+            68.40369
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85642,
+          "name": "New Bādāh",
+          "latlng": [
+            27.34167,
+            68.03194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85653,
+          "name": "Pad Idan",
+          "latlng": [
+            26.77455,
+            68.30094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85657,
+          "name": "Pano Aqil",
+          "latlng": [
+            27.85619,
+            69.11111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85666,
+          "name": "Pir Jo Goth",
+          "latlng": [
+            27.59178,
+            68.61848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85669,
+          "name": "Pithoro",
+          "latlng": [
+            25.51122,
+            69.37803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85678,
+          "name": "Rajo Khanani",
+          "latlng": [
+            24.98391,
+            68.8537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85679,
+          "name": "Ranipur",
+          "latlng": [
+            27.2872,
+            68.50623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85681,
+          "name": "Ratodero",
+          "latlng": [
+            27.80227,
+            68.28902
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85687,
+          "name": "Rohri",
+          "latlng": [
+            27.69203,
+            68.89503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85689,
+          "name": "Rustam",
+          "latlng": [
+            27.96705,
+            68.80386
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85692,
+          "name": "Sakrand",
+          "latlng": [
+            26.13845,
+            68.27444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85693,
+          "name": "Samaro",
+          "latlng": [
+            25.28143,
+            69.39623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85695,
+          "name": "Sanghar",
+          "latlng": [
+            26.04694,
+            68.94917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85698,
+          "name": "Sann",
+          "latlng": [
+            26.0403,
+            68.13763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85703,
+          "name": "Sehwan",
+          "latlng": [
+            26.42495,
+            67.86126
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85704,
+          "name": "Setharja Old",
+          "latlng": [
+            27.2127,
+            68.46883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85706,
+          "name": "Shahdad Kot",
+          "latlng": [
+            27.84726,
+            67.90679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85707,
+          "name": "Shahdadpur",
+          "latlng": [
+            25.92539,
+            68.6228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85710,
+          "name": "Shahpur Chakar",
+          "latlng": [
+            26.15411,
+            68.65013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85715,
+          "name": "Shikarpur",
+          "latlng": [
+            27.95558,
+            68.63823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85723,
+          "name": "Sinjhoro",
+          "latlng": [
+            26.03008,
+            68.80867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85734,
+          "name": "Sīta Road",
+          "latlng": [
+            27.03333,
+            67.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85725,
+          "name": "Sobhodero",
+          "latlng": [
+            27.30475,
+            68.39715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85730,
+          "name": "Sukkur",
+          "latlng": [
+            27.70323,
+            68.85889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85737,
+          "name": "Talhar",
+          "latlng": [
+            24.88454,
+            68.81437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85739,
+          "name": "Tando Adam",
+          "latlng": [
+            25.76818,
+            68.66196
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85740,
+          "name": "Tando Allahyar",
+          "latlng": [
+            25.4605,
+            68.71745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85741,
+          "name": "Tando Bago",
+          "latlng": [
+            24.78914,
+            68.96535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85742,
+          "name": "Tando Jam",
+          "latlng": [
+            25.42813,
+            68.52923
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85743,
+          "name": "Tando Mitha Khan",
+          "latlng": [
+            25.99625,
+            69.20251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85744,
+          "name": "Tando Muhammad Khan",
+          "latlng": [
+            25.12384,
+            68.53677
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85746,
+          "name": "Tangwani",
+          "latlng": [
+            28.27886,
+            68.9976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85750,
+          "name": "Tharu Shah",
+          "latlng": [
+            26.9423,
+            68.11759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85751,
+          "name": "Thatta",
+          "latlng": [
+            24.74745,
+            67.92353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85752,
+          "name": "Thul",
+          "latlng": [
+            28.2403,
+            68.7755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85756,
+          "name": "Ubauro",
+          "latlng": [
+            28.16429,
+            69.73114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85757,
+          "name": "Umarkot",
+          "latlng": [
+            25.36329,
+            69.74184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85758,
+          "name": "Umerkot District",
+          "latlng": [
+            25.37,
+            69.73
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 85765,
+          "name": "Warah",
+          "latlng": [
+            27.44805,
+            67.79654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

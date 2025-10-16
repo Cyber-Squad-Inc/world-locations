@@ -1,0 +1,51 @@
+{
+  "name": {
+    "common": "Marshall Islands",
+    "official": "Marshall Islands"
+  },
+  "iso2": "MH",
+  "iso3": "MHL",
+  "numericCode": "584",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".mh",
+  "phoneCode": "692",
+  "capital": "Majuro",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Kwajalein",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "MHT",
+      "tzName": "Marshall Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Majuro",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "MHT",
+      "tzName": "Marshall Islands Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mh.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mh.svg",
+  "states": [
+    {
+      "id": 2574,
+      "name": "Ralik",
+      "code": "L",
+      "shortName": "L",
+      "cities": []
+    },
+    {
+      "id": 2573,
+      "name": "Ratak",
+      "code": "T",
+      "shortName": "T",
+      "cities": []
+    }
+  ]
+}

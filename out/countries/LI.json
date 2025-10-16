@@ -1,0 +1,239 @@
+{
+  "name": {
+    "common": "Liechtenstein",
+    "official": "Liechtenstein"
+  },
+  "iso2": "LI",
+  "iso3": "LIE",
+  "numericCode": "438",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "tld": ".li",
+  "phoneCode": "423",
+  "capital": "Vaduz",
+  "currencies": {
+    "CHF": "Swiss franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Vaduz",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/li.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/li.svg",
+  "states": [
+    {
+      "id": 458,
+      "name": "Balzers",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 66437,
+          "name": "Balzers",
+          "latlng": [
+            47.06665,
+            9.50251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Eschen",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 66438,
+          "name": "Eschen",
+          "latlng": [
+            47.21071,
+            9.52223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "Gamprin",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 66439,
+          "name": "Gamprin",
+          "latlng": [
+            47.22038,
+            9.50935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "name": "Mauren",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 66440,
+          "name": "Mauren",
+          "latlng": [
+            47.21805,
+            9.5442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Planken",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 66441,
+          "name": "Planken",
+          "latlng": [
+            47.18516,
+            9.54437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "name": "Ruggell",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 66442,
+          "name": "Ruggell",
+          "latlng": [
+            47.23799,
+            9.5254
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Schaan",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 66443,
+          "name": "Schaan",
+          "latlng": [
+            47.16498,
+            9.50867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Schellenberg",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 66444,
+          "name": "Schellenberg",
+          "latlng": [
+            47.23123,
+            9.54678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Triesen",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 66445,
+          "name": "Triesen",
+          "latlng": [
+            47.10752,
+            9.52815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Triesenberg",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 66446,
+          "name": "Triesenberg",
+          "latlng": [
+            47.11815,
+            9.54197
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Vaduz",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 66447,
+          "name": "Vaduz",
+          "latlng": [
+            47.14151,
+            9.52154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

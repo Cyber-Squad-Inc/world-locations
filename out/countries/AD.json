@@ -1,0 +1,196 @@
+{
+  "name": {
+    "common": "Andorra",
+    "official": "Andorra"
+  },
+  "iso2": "AD",
+  "iso3": "AND",
+  "numericCode": "020",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".ad",
+  "phoneCode": "376",
+  "capital": "Andorra la Vella",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Andorra",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ad.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ad.svg",
+  "states": [
+    {
+      "id": 488,
+      "name": "Andorra la Vella",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Andorra la Vella",
+          "latlng": [
+            42.50779,
+            1.52109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Canillo",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 3,
+          "name": "Canillo",
+          "latlng": [
+            42.5676,
+            1.59756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 4,
+          "name": "El Tarter",
+          "latlng": [
+            42.57952,
+            1.65362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Encamp",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 5,
+          "name": "Encamp",
+          "latlng": [
+            42.53474,
+            1.58014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 7,
+          "name": "Pas de la Casa",
+          "latlng": [
+            42.54277,
+            1.73361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Escaldes-Engordany",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 10,
+          "name": "les Escaldes",
+          "latlng": [
+            42.50729,
+            1.53414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "name": "La Massana",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 2,
+          "name": "Arinsal",
+          "latlng": [
+            42.57205,
+            1.48453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9,
+          "name": "la Massana",
+          "latlng": [
+            42.54499,
+            1.51483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Ordino",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 6,
+          "name": "Ordino",
+          "latlng": [
+            42.55623,
+            1.53319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Sant Julià de Lòria",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 8,
+          "name": "Sant Julià de Lòria",
+          "latlng": [
+            42.46372,
+            1.49129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

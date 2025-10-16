@@ -1,0 +1,191 @@
+{
+  "name": {
+    "common": "Barbados",
+    "official": "Barbados"
+  },
+  "iso2": "BB",
+  "iso3": "BRB",
+  "numericCode": "052",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".bb",
+  "phoneCode": "1",
+  "capital": "Bridgetown",
+  "currencies": {
+    "BBD": "Barbadian dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Barbados",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bb.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bb.svg",
+  "states": [
+    {
+      "id": 1228,
+      "name": "Christ Church",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 8452,
+          "name": "Oistins",
+          "latlng": [
+            13.07067,
+            -59.54637
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1229,
+      "name": "Saint Andrew",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 8450,
+          "name": "Greenland",
+          "latlng": [
+            13.25808,
+            -59.57763
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1226,
+      "name": "Saint George",
+      "code": "03",
+      "shortName": "03",
+      "cities": []
+    },
+    {
+      "id": 1224,
+      "name": "Saint James",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 8451,
+          "name": "Holetown",
+          "latlng": [
+            13.18672,
+            -59.63808
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1227,
+      "name": "Saint John",
+      "code": "05",
+      "shortName": "05",
+      "cities": []
+    },
+    {
+      "id": 1223,
+      "name": "Saint Joseph",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 8447,
+          "name": "Bathsheba",
+          "latlng": [
+            13.21133,
+            -59.52596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1221,
+      "name": "Saint Lucy",
+      "code": "07",
+      "shortName": "07",
+      "cities": []
+    },
+    {
+      "id": 1230,
+      "name": "Saint Michael",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 8448,
+          "name": "Bridgetown",
+          "latlng": [
+            13.10732,
+            -59.62021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1222,
+      "name": "Saint Peter",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 8453,
+          "name": "Speightstown",
+          "latlng": [
+            13.25072,
+            -59.64396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1220,
+      "name": "Saint Philip",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 8449,
+          "name": "Crane",
+          "latlng": [
+            13.10487,
+            -59.44861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1225,
+      "name": "Saint Thomas",
+      "code": "11",
+      "shortName": "11",
+      "cities": []
+    }
+  ]
+}

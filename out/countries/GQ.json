@@ -1,0 +1,364 @@
+{
+  "name": {
+    "common": "Equatorial Guinea",
+    "official": "Equatorial Guinea"
+  },
+  "iso2": "GQ",
+  "iso3": "GNQ",
+  "numericCode": "226",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".gq",
+  "phoneCode": "240",
+  "capital": "Malabo",
+  "currencies": {
+    "XAF": "Central African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Malabo",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gq.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gq.svg",
+  "states": [
+    {
+      "id": 3444,
+      "name": "Annobón",
+      "code": "AN",
+      "shortName": "AN",
+      "cities": [
+        {
+          "id": 52397,
+          "name": "San Antonio de Palé",
+          "latlng": [
+            -1.4068,
+            5.63178
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3446,
+      "name": "Bioko Norte",
+      "code": "BN",
+      "shortName": "BN",
+      "cities": [
+        {
+          "id": 52387,
+          "name": "Malabo",
+          "latlng": [
+            3.75578,
+            8.78166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52395,
+          "name": "Rebola",
+          "latlng": [
+            3.71667,
+            8.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52398,
+          "name": "Santiago de Baney",
+          "latlng": [
+            3.6992,
+            8.9084
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3443,
+      "name": "Bioko Sur",
+      "code": "BS",
+      "shortName": "BS",
+      "cities": [
+        {
+          "id": 52385,
+          "name": "Luba",
+          "latlng": [
+            3.45683,
+            8.55465
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3445,
+      "name": "Centro Sur",
+      "code": "CS",
+      "shortName": "CS",
+      "cities": [
+        {
+          "id": 52376,
+          "name": "Acurenam",
+          "latlng": [
+            1.03225,
+            10.64882
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52380,
+          "name": "Bicurga",
+          "latlng": [
+            1.58113,
+            10.46716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52384,
+          "name": "Evinayong",
+          "latlng": [
+            1.43677,
+            10.55124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3442,
+      "name": "Insular",
+      "code": "I",
+      "shortName": "I",
+      "cities": []
+    },
+    {
+      "id": 3439,
+      "name": "Kié-Ntem",
+      "code": "KN",
+      "shortName": "KN",
+      "cities": [
+        {
+          "id": 52383,
+          "name": "Ebebiyin",
+          "latlng": [
+            2.15106,
+            11.33528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52390,
+          "name": "Mikomeseng",
+          "latlng": [
+            2.13609,
+            10.61322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52392,
+          "name": "Ncue",
+          "latlng": [
+            2.01643,
+            10.47066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52393,
+          "name": "Nsang",
+          "latlng": [
+            2.02475,
+            10.94599
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3441,
+      "name": "Litoral",
+      "code": "LI",
+      "shortName": "LI",
+      "cities": [
+        {
+          "id": 52379,
+          "name": "Bata",
+          "latlng": [
+            1.86391,
+            9.76582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52381,
+          "name": "Bitica",
+          "latlng": [
+            1.4261,
+            9.62316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52382,
+          "name": "Cogo",
+          "latlng": [
+            1.08425,
+            9.693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52386,
+          "name": "Machinda",
+          "latlng": [
+            1.88262,
+            9.95133
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52388,
+          "name": "Mbini",
+          "latlng": [
+            1.58267,
+            9.61478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52396,
+          "name": "Río Campo",
+          "latlng": [
+            2.33812,
+            9.82212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3438,
+      "name": "Río Muni",
+      "code": "C",
+      "shortName": "C",
+      "cities": []
+    },
+    {
+      "id": 3440,
+      "name": "Wele-Nzas",
+      "code": "WN",
+      "shortName": "WN",
+      "cities": [
+        {
+          "id": 52375,
+          "name": "Aconibe",
+          "latlng": [
+            1.29683,
+            10.93691
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52378,
+          "name": "Añisoc",
+          "latlng": [
+            1.8658,
+            10.76892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52377,
+          "name": "Ayene",
+          "latlng": [
+            1.85592,
+            10.68994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52389,
+          "name": "Mengomeyén",
+          "latlng": [
+            1.69439,
+            11.03422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52391,
+          "name": "Mongomo",
+          "latlng": [
+            1.62742,
+            11.31346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 52394,
+          "name": "Nsok",
+          "latlng": [
+            1.12985,
+            11.26603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

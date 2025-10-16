@@ -1,0 +1,1022 @@
+{
+  "name": {
+    "common": "Comoros",
+    "official": "Comoros"
+  },
+  "iso2": "KM",
+  "iso3": "COM",
+  "numericCode": "174",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".km",
+  "phoneCode": "269",
+  "capital": "Moroni",
+  "currencies": {
+    "KMF": "Comorian franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Comoro",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/km.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/km.svg",
+  "states": [
+    {
+      "id": 2821,
+      "name": "Anjouan",
+      "code": "A",
+      "shortName": "A",
+      "cities": [
+        {
+          "id": 65079,
+          "name": "Adda-Douéni",
+          "latlng": [
+            -12.2925,
+            44.49722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65080,
+          "name": "Antsahé",
+          "latlng": [
+            -12.35639,
+            44.5225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65081,
+          "name": "Assimpao",
+          "latlng": [
+            -12.23306,
+            44.31972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65084,
+          "name": "Bambao",
+          "latlng": [
+            -12.20325,
+            44.51638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65085,
+          "name": "Bandajou",
+          "latlng": [
+            -12.19167,
+            44.28694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65086,
+          "name": "Barakani",
+          "latlng": [
+            -12.13861,
+            44.43026
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65087,
+          "name": "Bimbini",
+          "latlng": [
+            -12.18833,
+            44.23556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65088,
+          "name": "Boungouéni",
+          "latlng": [
+            -12.20556,
+            44.29944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65090,
+          "name": "Chandra",
+          "latlng": [
+            -12.195,
+            44.46472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65093,
+          "name": "Chironkamba",
+          "latlng": [
+            -12.19111,
+            44.3525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65094,
+          "name": "Chitrouni",
+          "latlng": [
+            -12.18583,
+            44.33556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65096,
+          "name": "Daji",
+          "latlng": [
+            -12.32583,
+            44.48861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65099,
+          "name": "Domoni",
+          "latlng": [
+            -12.25694,
+            44.53194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65102,
+          "name": "Dziani",
+          "latlng": [
+            -12.18333,
+            44.48333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65105,
+          "name": "Hajoho",
+          "latlng": [
+            -12.12434,
+            44.48881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65107,
+          "name": "Harembo",
+          "latlng": [
+            -12.15108,
+            44.49828
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65113,
+          "name": "Kangani",
+          "latlng": [
+            -12.32102,
+            44.4727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65114,
+          "name": "Kavani",
+          "latlng": [
+            -12.19194,
+            44.26944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65115,
+          "name": "Koki",
+          "latlng": [
+            -12.17139,
+            44.44167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65116,
+          "name": "Koni-Djodjo",
+          "latlng": [
+            -12.22972,
+            44.48167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65117,
+          "name": "Koni-Ngani",
+          "latlng": [
+            -12.21583,
+            44.48
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65119,
+          "name": "Kyo",
+          "latlng": [
+            -12.33222,
+            44.51917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65120,
+          "name": "Limbi",
+          "latlng": [
+            -12.23944,
+            44.50528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65121,
+          "name": "Lingoni",
+          "latlng": [
+            -12.25583,
+            44.41833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65123,
+          "name": "Magnassini-Nindri",
+          "latlng": [
+            -12.27806,
+            44.41583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65125,
+          "name": "Maraharé",
+          "latlng": [
+            -12.23083,
+            44.31333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65128,
+          "name": "Mirontsi",
+          "latlng": [
+            -12.15667,
+            44.40806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65131,
+          "name": "Mjamaoué",
+          "latlng": [
+            -12.19361,
+            44.31
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65132,
+          "name": "Mjimandra",
+          "latlng": [
+            -12.19167,
+            44.37028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65136,
+          "name": "Moutsamoudou",
+          "latlng": [
+            -12.16672,
+            44.39944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65137,
+          "name": "Moya",
+          "latlng": [
+            -12.30967,
+            44.43685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65138,
+          "name": "Mramani",
+          "latlng": [
+            -12.34639,
+            44.52861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65139,
+          "name": "Mrémani",
+          "latlng": [
+            -12.30833,
+            44.49861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65147,
+          "name": "Ongoni",
+          "latlng": [
+            -12.17028,
+            44.50694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65149,
+          "name": "Ouani",
+          "latlng": [
+            -12.13554,
+            44.42493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65154,
+          "name": "Ouzini",
+          "latlng": [
+            -12.26722,
+            44.47972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65155,
+          "name": "Pajé",
+          "latlng": [
+            -12.16972,
+            44.38806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65156,
+          "name": "Patsi",
+          "latlng": [
+            -12.15556,
+            44.43722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65158,
+          "name": "Sima",
+          "latlng": [
+            -12.19556,
+            44.27667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65162,
+          "name": "Tsimbeo",
+          "latlng": [
+            -12.20583,
+            44.46472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65165,
+          "name": "Vouani",
+          "latlng": [
+            -12.24417,
+            44.37444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2822,
+      "name": "Grande Comore",
+      "code": "G",
+      "shortName": "G",
+      "cities": [
+        {
+          "id": 65082,
+          "name": "Bahani",
+          "latlng": [
+            -11.63972,
+            43.28417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65083,
+          "name": "Bambadjani",
+          "latlng": [
+            -11.47861,
+            43.37722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65089,
+          "name": "Bouni",
+          "latlng": [
+            -11.48694,
+            43.38833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65091,
+          "name": "Chezani",
+          "latlng": [
+            -11.4314,
+            43.39625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65092,
+          "name": "Chindini",
+          "latlng": [
+            -11.92328,
+            43.49109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65095,
+          "name": "Chouani",
+          "latlng": [
+            -11.8233,
+            43.29429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65097,
+          "name": "Dembéni",
+          "latlng": [
+            -11.87361,
+            43.39778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65100,
+          "name": "Douniani",
+          "latlng": [
+            -11.42111,
+            43.28889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65101,
+          "name": "Dzahadjou",
+          "latlng": [
+            -11.85287,
+            43.34987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65104,
+          "name": "Foumbouni",
+          "latlng": [
+            -11.86537,
+            43.49529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65106,
+          "name": "Hantsindzi",
+          "latlng": [
+            -11.43178,
+            43.41102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65109,
+          "name": "Héroumbili",
+          "latlng": [
+            -11.54389,
+            43.37972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65110,
+          "name": "Itsandra",
+          "latlng": [
+            -11.67111,
+            43.25472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65111,
+          "name": "Itsandzéni",
+          "latlng": [
+            -11.47278,
+            43.38444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65112,
+          "name": "Ivouani",
+          "latlng": [
+            -11.39157,
+            43.39454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65118,
+          "name": "Koua",
+          "latlng": [
+            -11.42083,
+            43.27639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65122,
+          "name": "Madjeouéni",
+          "latlng": [
+            -11.82167,
+            43.27806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65124,
+          "name": "Mandza",
+          "latlng": [
+            -11.41806,
+            43.29528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65126,
+          "name": "Mavingouni",
+          "latlng": [
+            -11.71639,
+            43.2525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65127,
+          "name": "Mbéni",
+          "latlng": [
+            -11.50139,
+            43.3775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65129,
+          "name": "Mitsamiouli",
+          "latlng": [
+            -11.38472,
+            43.28444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65130,
+          "name": "Mitsoudjé",
+          "latlng": [
+            -11.81209,
+            43.28043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65133,
+          "name": "Mnoungou",
+          "latlng": [
+            -11.51778,
+            43.37389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65134,
+          "name": "Mohoro",
+          "latlng": [
+            -11.82701,
+            43.45436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65135,
+          "name": "Moroni",
+          "latlng": [
+            -11.70216,
+            43.25506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65141,
+          "name": "Mtsamdou",
+          "latlng": [
+            -11.60694,
+            43.38056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65142,
+          "name": "Mvouni",
+          "latlng": [
+            -11.71611,
+            43.26472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65144,
+          "name": "Nioumamilima",
+          "latlng": [
+            -11.85461,
+            43.44607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65145,
+          "name": "Ntsaouéni",
+          "latlng": [
+            -11.46583,
+            43.26278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65146,
+          "name": "Ntsoudjini",
+          "latlng": [
+            -11.65972,
+            43.26139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65150,
+          "name": "Ouellah",
+          "latlng": [
+            -11.39028,
+            43.33194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65151,
+          "name": "Ouhozi",
+          "latlng": [
+            -11.405,
+            43.28222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65152,
+          "name": "Ourovéni",
+          "latlng": [
+            -11.91375,
+            43.49804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65153,
+          "name": "Oussivo",
+          "latlng": [
+            -11.585,
+            43.26722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65157,
+          "name": "Salimani",
+          "latlng": [
+            -11.8115,
+            43.26823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65160,
+          "name": "Séléa",
+          "latlng": [
+            -11.78444,
+            43.26083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65159,
+          "name": "Singani",
+          "latlng": [
+            -11.84784,
+            43.31731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65161,
+          "name": "Tsidjé",
+          "latlng": [
+            -11.69806,
+            43.26194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65163,
+          "name": "Vanadjou",
+          "latlng": [
+            -11.6075,
+            43.27611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65164,
+          "name": "Vanambouani",
+          "latlng": [
+            -11.61139,
+            43.25306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2820,
+      "name": "Mohéli",
+      "code": "M",
+      "shortName": "M",
+      "cities": [
+        {
+          "id": 65098,
+          "name": "Djoyézi",
+          "latlng": [
+            -12.30587,
+            43.77425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65103,
+          "name": "Fomboni",
+          "latlng": [
+            -12.28759,
+            43.74344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65108,
+          "name": "Hoani",
+          "latlng": [
+            -12.25083,
+            43.67472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65140,
+          "name": "Mtakoudja",
+          "latlng": [
+            -12.26111,
+            43.70361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65143,
+          "name": "Nioumachoua",
+          "latlng": [
+            -12.36139,
+            43.71528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65148,
+          "name": "Ouanani",
+          "latlng": [
+            -12.3375,
+            43.7975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 65166,
+          "name": "Ziroudani",
+          "latlng": [
+            -12.3325,
+            43.7775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

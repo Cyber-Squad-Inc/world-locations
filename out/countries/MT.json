@@ -1,0 +1,1517 @@
+{
+  "name": {
+    "common": "Malta",
+    "official": "Malta"
+  },
+  "iso2": "MT",
+  "iso3": "MLT",
+  "numericCode": "470",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".mt",
+  "phoneCode": "356",
+  "capital": "Valletta",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Malta",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mt.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mt.svg",
+  "states": [
+    {
+      "id": 110,
+      "name": "Attard",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 67758,
+          "name": "Attard",
+          "latlng": [
+            35.88972,
+            14.4425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Balzan",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 67759,
+          "name": "Balzan",
+          "latlng": [
+            35.90028,
+            14.455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Birgu",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 67817,
+          "name": "Birgu (Vittoriosa)",
+          "latlng": [
+            35.89222,
+            14.51833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Birkirkara",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 67760,
+          "name": "Birkirkara",
+          "latlng": [
+            35.89722,
+            14.46111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153733,
+          "name": "Fleur De Lys",
+          "latlng": [
+            35.8953,
+            14.4656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153742,
+          "name": "Swatar",
+          "latlng": [
+            35.898778,
+            14.476592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Birżebbuġa",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 67761,
+          "name": "Birżebbuġa",
+          "latlng": [
+            35.82583,
+            14.52694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153734,
+          "name": "Ħal Far",
+          "latlng": [
+            35.811349,
+            14.510686
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Cospicua",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 67762,
+          "name": "Cospicua",
+          "latlng": [
+            35.88556,
+            14.5275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Dingli",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 67763,
+          "name": "Dingli",
+          "latlng": [
+            35.86139,
+            14.38222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Fgura",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 67764,
+          "name": "Fgura",
+          "latlng": [
+            35.87028,
+            14.51333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Floriana",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 67765,
+          "name": "Floriana",
+          "latlng": [
+            35.89583,
+            14.50833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Fontana",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 67766,
+          "name": "Fontana",
+          "latlng": [
+            36.0375,
+            14.23611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Għajnsielem",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 67768,
+          "name": "Għajnsielem",
+          "latlng": [
+            36.02639,
+            14.285
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67772,
+          "name": "Ħal Għargħur",
+          "latlng": [
+            35.92409,
+            14.45118
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Għarb",
+      "code": "14",
+      "shortName": "14",
+      "cities": []
+    },
+    {
+      "id": 120,
+      "name": "Għargħur",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 67770,
+          "name": "Ħal Għaxaq",
+          "latlng": [
+            35.84889,
+            14.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Għasri",
+      "code": "16",
+      "shortName": "16",
+      "cities": [
+        {
+          "id": 67767,
+          "name": "Gudja",
+          "latlng": [
+            35.84917,
+            14.50306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Għaxaq",
+      "code": "17",
+      "shortName": "17",
+      "cities": [
+        {
+          "id": 67771,
+          "name": "Gżira",
+          "latlng": [
+            35.90583,
+            14.48806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Gudja",
+      "code": "11",
+      "shortName": "11",
+      "cities": []
+    },
+    {
+      "id": 113,
+      "name": "Gżira",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 67769,
+          "name": "Għarb",
+          "latlng": [
+            36.06,
+            14.20889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Ħamrun",
+      "code": "18",
+      "shortName": "18",
+      "cities": [
+        {
+          "id": 153730,
+          "name": "Blata l' Bajda",
+          "latlng": [
+            35.8875,
+            14.498611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67821,
+          "name": "Ħamrun",
+          "latlng": [
+            35.88472,
+            14.48444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Iklin",
+      "code": "19",
+      "shortName": "19",
+      "cities": [
+        {
+          "id": 67781,
+          "name": "L-Iklin",
+          "latlng": [
+            35.90414,
+            14.45415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Kalkara",
+      "code": "21",
+      "shortName": "21",
+      "cities": [
+        {
+          "id": 67777,
+          "name": "Imġarr",
+          "latlng": [
+            35.92056,
+            14.36639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67791,
+          "name": "Mġarr",
+          "latlng": [
+            36.02528,
+            14.295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Kerċem",
+      "code": "22",
+      "shortName": "22",
+      "cities": [
+        {
+          "id": 67789,
+          "name": "Mqabba",
+          "latlng": [
+            35.84763,
+            14.46824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Kirkop",
+      "code": "23",
+      "shortName": "23",
+      "cities": [
+        {
+          "id": 67775,
+          "name": "Imsida",
+          "latlng": [
+            35.8925,
+            14.48278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67780,
+          "name": "Kirkop",
+          "latlng": [
+            35.84222,
+            14.48528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Lija",
+      "code": "24",
+      "shortName": "24",
+      "cities": [
+        {
+          "id": 67782,
+          "name": "Ħal Lija",
+          "latlng": [
+            35.90056,
+            14.44639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67776,
+          "name": "Imtarfa",
+          "latlng": [
+            35.89333,
+            14.39889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Luqa",
+      "code": "25",
+      "shortName": "25",
+      "cities": [
+        {
+          "id": 67783,
+          "name": "Ħal Luqa",
+          "latlng": [
+            35.85889,
+            14.48861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153740,
+          "name": "Ħal Safi",
+          "latlng": [
+            35.833333,
+            14.485
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67809,
+          "name": "Senglea",
+          "latlng": [
+            35.8875,
+            14.51694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Marsa",
+      "code": "26",
+      "shortName": "26",
+      "cities": [
+        {
+          "id": 67778,
+          "name": "Kalkara",
+          "latlng": [
+            35.88917,
+            14.53278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Marsaskala",
+      "code": "27",
+      "shortName": "27",
+      "cities": [
+        {
+          "id": 67779,
+          "name": "Kerċem",
+          "latlng": [
+            36.04194,
+            14.22667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67785,
+          "name": "Marsaskala",
+          "latlng": [
+            35.8622,
+            14.56701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Marsaxlokk",
+      "code": "28",
+      "shortName": "28",
+      "cities": [
+        {
+          "id": 67786,
+          "name": "Marsaxlokk",
+          "latlng": [
+            35.84194,
+            14.54306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Mdina",
+      "code": "29",
+      "shortName": "29",
+      "cities": []
+    },
+    {
+      "id": 102,
+      "name": "Mellieħa",
+      "code": "30",
+      "shortName": "30",
+      "cities": [
+        {
+          "id": 153737,
+          "name": "Manikata",
+          "latlng": [
+            35.94,
+            14.35333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Mġarr",
+      "code": "31",
+      "shortName": "31",
+      "cities": [
+        {
+          "id": 67784,
+          "name": "Marsa",
+          "latlng": [
+            35.87917,
+            14.49528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Mosta",
+      "code": "32",
+      "shortName": "32",
+      "cities": [
+        {
+          "id": 153728,
+          "name": "Bidnija",
+          "latlng": [
+            35.926944,
+            14.398333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Mqabba",
+      "code": "33",
+      "shortName": "33",
+      "cities": []
+    },
+    {
+      "id": 96,
+      "name": "Msida",
+      "code": "34",
+      "shortName": "34",
+      "cities": [
+        {
+          "id": 67787,
+          "name": "Mellieħa",
+          "latlng": [
+            35.95639,
+            14.36222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Mtarfa",
+      "code": "35",
+      "shortName": "35",
+      "cities": []
+    },
+    {
+      "id": 132,
+      "name": "Munxar",
+      "code": "36",
+      "shortName": "36",
+      "cities": [
+        {
+          "id": 67790,
+          "name": "Munxar",
+          "latlng": [
+            36.03,
+            14.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Nadur",
+      "code": "37",
+      "shortName": "37",
+      "cities": [
+        {
+          "id": 67792,
+          "name": "Nadur",
+          "latlng": [
+            36.03778,
+            14.29417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Naxxar",
+      "code": "38",
+      "shortName": "38",
+      "cities": [
+        {
+          "id": 153726,
+          "name": "Baħar iċ-Ċagħaq",
+          "latlng": [
+            35.938787,
+            14.453725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153736,
+          "name": "Magħtab",
+          "latlng": [
+            35.945,
+            14.44
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67793,
+          "name": "Naxxar",
+          "latlng": [
+            35.91361,
+            14.44361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153741,
+          "name": "Salina",
+          "latlng": [
+            35.945556,
+            14.424444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Paola",
+      "code": "39",
+      "shortName": "39",
+      "cities": [
+        {
+          "id": 67794,
+          "name": "Paola",
+          "latlng": [
+            35.87306,
+            14.49889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Pembroke",
+      "code": "40",
+      "shortName": "40",
+      "cities": [
+        {
+          "id": 67795,
+          "name": "Pembroke",
+          "latlng": [
+            35.93056,
+            14.47639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Pietà",
+      "code": "41",
+      "shortName": "41",
+      "cities": [
+        {
+          "id": 67796,
+          "name": "Pietà",
+          "latlng": [
+            35.89472,
+            14.495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Qala",
+      "code": "42",
+      "shortName": "42",
+      "cities": [
+        {
+          "id": 67797,
+          "name": "Qala",
+          "latlng": [
+            36.03611,
+            14.30944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Qormi",
+      "code": "43",
+      "shortName": "43",
+      "cities": [
+        {
+          "id": 67798,
+          "name": "Qormi",
+          "latlng": [
+            35.87601,
+            14.472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Qrendi",
+      "code": "44",
+      "shortName": "44",
+      "cities": [
+        {
+          "id": 67799,
+          "name": "Qrendi",
+          "latlng": [
+            35.83472,
+            14.45833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Rabat",
+      "code": "46",
+      "shortName": "46",
+      "cities": [
+        {
+          "id": 153727,
+          "name": "Baħrija",
+          "latlng": [
+            35.894722,
+            14.348333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153729,
+          "name": "Binġemma",
+          "latlng": [
+            35.902778,
+            14.377778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "San Ġwann",
+      "code": "49",
+      "shortName": "49",
+      "cities": [
+        {
+          "id": 67805,
+          "name": "San Ġiljan (St. Julian's)",
+          "latlng": [
+            35.91839,
+            14.48977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "San Lawrenz",
+      "code": "50",
+      "shortName": "50",
+      "cities": [
+        {
+          "id": 67803,
+          "name": "San Lawrenz",
+          "latlng": [
+            36.05556,
+            14.20361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Sannat",
+      "code": "52",
+      "shortName": "52",
+      "cities": [
+        {
+          "id": 67804,
+          "name": "San Pawl il-Baħar",
+          "latlng": [
+            35.95064,
+            14.41561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67806,
+          "name": "Sannat",
+          "latlng": [
+            36.02444,
+            14.24278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Santa Luċija",
+      "code": "53",
+      "shortName": "53",
+      "cities": [
+        {
+          "id": 67808,
+          "name": "Santa Venera",
+          "latlng": [
+            35.89083,
+            14.47417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Santa Venera",
+      "code": "54",
+      "shortName": "54",
+      "cities": []
+    },
+    {
+      "id": 136,
+      "name": "Senglea",
+      "code": "20",
+      "shortName": "20",
+      "cities": [
+        {
+          "id": 67774,
+          "name": "Imdina",
+          "latlng": [
+            35.88694,
+            14.4025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Siġġiewi",
+      "code": "55",
+      "shortName": "55",
+      "cities": [
+        {
+          "id": 67810,
+          "name": "Siġġiewi",
+          "latlng": [
+            35.85556,
+            14.43639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Sliema",
+      "code": "56",
+      "shortName": "56",
+      "cities": [
+        {
+          "id": 67811,
+          "name": "Sliema",
+          "latlng": [
+            35.9125,
+            14.50194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "St. Julian's",
+      "code": "48",
+      "shortName": "48",
+      "cities": [
+        {
+          "id": 153738,
+          "name": "Paceville",
+          "latlng": [
+            35.9237,
+            14.4914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67801,
+          "name": "San Ġwann",
+          "latlng": [
+            35.90556,
+            14.47611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "St. Paul's Bay",
+      "code": "51",
+      "shortName": "51",
+      "cities": [
+        {
+          "id": 153731,
+          "name": "Buġibba",
+          "latlng": [
+            35.949167,
+            14.411667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153732,
+          "name": "Burmarrad",
+          "latlng": [
+            35.9349,
+            14.4143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67788,
+          "name": "Mosta",
+          "latlng": [
+            35.90917,
+            14.42556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153739,
+          "name": "Qawra",
+          "latlng": [
+            35.954167,
+            14.42
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67802,
+          "name": "Santa Luċija",
+          "latlng": [
+            36.04306,
+            14.21722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67807,
+          "name": "Santa Luċija, Gozo",
+          "latlng": [
+            35.86278,
+            14.5075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153743,
+          "name": "Wardija",
+          "latlng": [
+            35.937958,
+            14.392542
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153744,
+          "name": "Xemxija",
+          "latlng": [
+            35.950556,
+            14.385833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Swieqi",
+      "code": "57",
+      "shortName": "57",
+      "cities": [
+        {
+          "id": 153735,
+          "name": "Madliena",
+          "latlng": [
+            35.933333,
+            14.466667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67812,
+          "name": "Swieqi",
+          "latlng": [
+            35.9225,
+            14.48
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Ta' Xbiex",
+      "code": "58",
+      "shortName": "58",
+      "cities": [
+        {
+          "id": 67814,
+          "name": "Ta’ Xbiex",
+          "latlng": [
+            35.89917,
+            14.49444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Tarxien",
+      "code": "59",
+      "shortName": "59",
+      "cities": [
+        {
+          "id": 67813,
+          "name": "Ħal Tarxien",
+          "latlng": [
+            35.86583,
+            14.515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Valletta",
+      "code": "60",
+      "shortName": "60",
+      "cities": [
+        {
+          "id": 67815,
+          "name": "Valletta",
+          "latlng": [
+            35.89972,
+            14.51472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Victoria",
+      "code": "45",
+      "shortName": "45",
+      "cities": [
+        {
+          "id": 67800,
+          "name": "Rabat",
+          "latlng": [
+            35.88152,
+            14.39872
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67816,
+          "name": "Victoria",
+          "latlng": [
+            36.04444,
+            14.23972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Xagħra",
+      "code": "61",
+      "shortName": "61",
+      "cities": [
+        {
+          "id": 67818,
+          "name": "Xagħra",
+          "latlng": [
+            36.05,
+            14.26444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Xewkija",
+      "code": "62",
+      "shortName": "62",
+      "cities": [
+        {
+          "id": 67819,
+          "name": "Xewkija",
+          "latlng": [
+            36.03278,
+            14.25806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Xgħajra",
+      "code": "63",
+      "shortName": "63",
+      "cities": [
+        {
+          "id": 67820,
+          "name": "Xgħajra",
+          "latlng": [
+            35.88556,
+            14.5475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Żabbar",
+      "code": "64",
+      "shortName": "64",
+      "cities": [
+        {
+          "id": 67822,
+          "name": "Żabbar",
+          "latlng": [
+            35.87611,
+            14.535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Żebbuġ Gozo",
+      "code": "65",
+      "shortName": "65",
+      "cities": [
+        {
+          "id": 67773,
+          "name": "Ħaż-Żebbuġ",
+          "latlng": [
+            35.87194,
+            14.44111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Żebbuġ Malta",
+      "code": "66",
+      "shortName": "66",
+      "cities": [
+        {
+          "id": 67823,
+          "name": "Żebbuġ",
+          "latlng": [
+            36.07222,
+            14.23583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Żejtun",
+      "code": "67",
+      "shortName": "67",
+      "cities": [
+        {
+          "id": 67824,
+          "name": "Żejtun",
+          "latlng": [
+            35.85583,
+            14.53306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Żurrieq",
+      "code": "68",
+      "shortName": "68",
+      "cities": [
+        {
+          "id": 67825,
+          "name": "Żurrieq",
+          "latlng": [
+            35.83111,
+            14.47417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

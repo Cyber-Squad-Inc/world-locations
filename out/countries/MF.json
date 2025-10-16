@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Saint-Martin (French part)",
+    "official": "Saint-Martin (French part)"
+  },
+  "iso2": "MF",
+  "iso3": "MAF",
+  "numericCode": "663",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".mf",
+  "phoneCode": "590",
+  "capital": "Marigot",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Marigot",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mf.svg",
+  "states": []
+}

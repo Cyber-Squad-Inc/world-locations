@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Macau S.A.R.",
+    "official": "Macau S.A.R."
+  },
+  "iso2": "MO",
+  "iso3": "MAC",
+  "numericCode": "446",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "tld": ".mo",
+  "phoneCode": "853",
+  "capital": "Macao",
+  "currencies": {
+    "MOP": "Macanese pataca"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Macau",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "CST",
+      "tzName": "China Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mo.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mo.svg",
+  "states": []
+}

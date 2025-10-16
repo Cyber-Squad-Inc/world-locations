@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Northern Mariana Islands",
+    "official": "Northern Mariana Islands"
+  },
+  "iso2": "MP",
+  "iso3": "MNP",
+  "numericCode": "580",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "tld": ".mp",
+  "phoneCode": "1",
+  "capital": "Saipan",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Saipan",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "ChST",
+      "tzName": "Chamorro Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mp.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mp.svg",
+  "states": []
+}

@@ -1,0 +1,981 @@
+{
+  "name": {
+    "common": "Democratic Republic of the Congo",
+    "official": "Democratic Republic of the Congo"
+  },
+  "iso2": "CD",
+  "iso3": "COD",
+  "numericCode": "180",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".cd",
+  "phoneCode": "243",
+  "capital": "Kinshasa",
+  "currencies": {
+    "CDF": "Congolese Franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Kinshasa",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    },
+    {
+      "zoneName": "Africa/Lubumbashi",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/cd.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/cd.svg",
+  "states": [
+    {
+      "id": 2753,
+      "name": "Bas-Uélé",
+      "code": "BU",
+      "shortName": "BU",
+      "cities": [
+        {
+          "id": 17225,
+          "name": "Aketi",
+          "latlng": [
+            2.73877,
+            23.78326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17232,
+          "name": "Bondo",
+          "latlng": [
+            3.81461,
+            23.68665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17241,
+          "name": "Buta",
+          "latlng": [
+            2.78582,
+            24.72997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2744,
+      "name": "Équateur",
+      "code": "EQ",
+      "shortName": "EQ",
+      "cities": [
+        {
+          "id": 17245,
+          "name": "Gemena",
+          "latlng": [
+            3.25651,
+            19.77234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17269,
+          "name": "Lisala",
+          "latlng": [
+            2.15127,
+            21.51672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17274,
+          "name": "Lukolela",
+          "latlng": [
+            -1.06046,
+            17.1821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17279,
+          "name": "Mbandaka",
+          "latlng": [
+            0.04865,
+            18.26034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2750,
+      "name": "Haut-Katanga",
+      "code": "HK",
+      "shortName": "HK",
+      "cities": [
+        {
+          "id": 17268,
+          "name": "Likasi",
+          "latlng": [
+            -10.98303,
+            26.7384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17272,
+          "name": "Lubumbashi",
+          "latlng": [
+            -11.66089,
+            27.47938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2758,
+      "name": "Haut-Lomami",
+      "code": "HL",
+      "shortName": "HL",
+      "cities": [
+        {
+          "id": 17235,
+          "name": "Bukama",
+          "latlng": [
+            -9.20443,
+            25.85475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17256,
+          "name": "Kamina",
+          "latlng": [
+            -8.73508,
+            24.99798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2734,
+      "name": "Haut-Uélé",
+      "code": "HU",
+      "shortName": "HU",
+      "cities": [
+        {
+          "id": 17250,
+          "name": "Isiro",
+          "latlng": [
+            2.77391,
+            27.61603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17291,
+          "name": "Wamba",
+          "latlng": [
+            2.14838,
+            27.99466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17292,
+          "name": "Watsa",
+          "latlng": [
+            3.03716,
+            29.53551
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2751,
+      "name": "Ituri",
+      "code": "IT",
+      "shortName": "IT",
+      "cities": [
+        {
+          "id": 17239,
+          "name": "Bunia",
+          "latlng": [
+            1.55941,
+            30.25224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2757,
+      "name": "Kasaï",
+      "code": "KS",
+      "shortName": "KS",
+      "cities": [
+        {
+          "id": 17248,
+          "name": "Ilebo",
+          "latlng": [
+            -4.33111,
+            20.58638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17273,
+          "name": "Luebo",
+          "latlng": [
+            -5.35218,
+            21.42192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17284,
+          "name": "Mweka",
+          "latlng": [
+            -4.85187,
+            21.5595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17289,
+          "name": "Tshikapa",
+          "latlng": [
+            -6.41621,
+            20.79995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2742,
+      "name": "Kasaï Central",
+      "code": "KC",
+      "shortName": "KC",
+      "cities": []
+    },
+    {
+      "id": 2735,
+      "name": "Kasaï Oriental",
+      "code": "KE",
+      "shortName": "KE",
+      "cities": [
+        {
+          "id": 17243,
+          "name": "Gandajika",
+          "latlng": [
+            -6.74504,
+            23.95328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17253,
+          "name": "Kabinda",
+          "latlng": [
+            -6.13791,
+            24.48179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17281,
+          "name": "Mbuji-Mayi",
+          "latlng": [
+            -6.13603,
+            23.58979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2741,
+      "name": "Kinshasa",
+      "code": "KN",
+      "shortName": "KN",
+      "cities": [
+        {
+          "id": 17263,
+          "name": "Kinshasa",
+          "latlng": [
+            -4.32758,
+            15.31357
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2746,
+      "name": "Kongo Central",
+      "code": "BC",
+      "shortName": "BC",
+      "cities": [
+        {
+          "id": 17231,
+          "name": "Boma",
+          "latlng": [
+            -5.85098,
+            13.05364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17258,
+          "name": "Kasangulu",
+          "latlng": [
+            -4.5833,
+            15.16554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17278,
+          "name": "Matadi",
+          "latlng": [
+            -5.83861,
+            13.46306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17280,
+          "name": "Mbanza-Ngungu",
+          "latlng": [
+            -5.25837,
+            14.85838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17282,
+          "name": "Moanda",
+          "latlng": [
+            -5.92753,
+            12.37148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17288,
+          "name": "Tshela",
+          "latlng": [
+            -4.99707,
+            12.9484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2740,
+      "name": "Kwango",
+      "code": "KG",
+      "shortName": "KG",
+      "cities": [
+        {
+          "id": 17260,
+          "name": "Kasongo-Lunda",
+          "latlng": [
+            -6.47833,
+            16.81735
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2759,
+      "name": "Kwilu",
+      "code": "KL",
+      "shortName": "KL",
+      "cities": [
+        {
+          "id": 17226,
+          "name": "Bandundu",
+          "latlng": [
+            -3.31687,
+            17.38063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17237,
+          "name": "Bulungu",
+          "latlng": [
+            -4.54437,
+            18.60364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17261,
+          "name": "Kikwit",
+          "latlng": [
+            -5.04098,
+            18.81619
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17276,
+          "name": "Mangai",
+          "latlng": [
+            -4.02328,
+            19.53385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2747,
+      "name": "Lomami",
+      "code": "LO",
+      "shortName": "LO",
+      "cities": [
+        {
+          "id": 17271,
+          "name": "Lubao",
+          "latlng": [
+            -5.38771,
+            25.74885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17285,
+          "name": "Mwene-Ditu",
+          "latlng": [
+            -7.00906,
+            23.45278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4953,
+      "name": "Lualaba",
+      "code": "LU",
+      "shortName": "LU",
+      "cities": [
+        {
+          "id": 153949,
+          "name": "Kasaji",
+          "latlng": [
+            -10.38342,
+            23.44987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153948,
+          "name": "Kolwezi",
+          "latlng": [
+            -10.716667,
+            25.466667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2755,
+      "name": "Mai-Ndombe",
+      "code": "MN",
+      "shortName": "MN",
+      "cities": [
+        {
+          "id": 17230,
+          "name": "Bolobo",
+          "latlng": [
+            -2.158,
+            16.23249
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17249,
+          "name": "Inongo",
+          "latlng": [
+            -1.9275,
+            18.2881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17283,
+          "name": "Mushie",
+          "latlng": [
+            -3.01728,
+            16.92238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17286,
+          "name": "Nioki",
+          "latlng": [
+            -2.72037,
+            17.69001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2745,
+      "name": "Maniema",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 17257,
+          "name": "Kampene",
+          "latlng": [
+            -3.59678,
+            26.66715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17259,
+          "name": "Kasongo",
+          "latlng": [
+            -4.42741,
+            26.66656
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17262,
+          "name": "Kindu",
+          "latlng": [
+            -2.94373,
+            25.92237
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2752,
+      "name": "Mongala",
+      "code": "MO",
+      "shortName": "MO",
+      "cities": [
+        {
+          "id": 17238,
+          "name": "Bumba",
+          "latlng": [
+            2.18771,
+            22.46827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2749,
+      "name": "Nord-Kivu",
+      "code": "NK",
+      "shortName": "NK",
+      "cities": [
+        {
+          "id": 17228,
+          "name": "Beni",
+          "latlng": [
+            0.49113,
+            29.47306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17242,
+          "name": "Butembo",
+          "latlng": [
+            0.14164,
+            29.29117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17246,
+          "name": "Goma",
+          "latlng": [
+            -1.67409,
+            29.22845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17287,
+          "name": "Sake",
+          "latlng": [
+            -1.57386,
+            29.04339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2739,
+      "name": "Nord-Ubangi",
+      "code": "NU",
+      "shortName": "NU",
+      "cities": [
+        {
+          "id": 17234,
+          "name": "Bosobolo",
+          "latlng": [
+            4.1898,
+            19.8833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17240,
+          "name": "Businga",
+          "latlng": [
+            3.33863,
+            20.88577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17244,
+          "name": "Gbadolite",
+          "latlng": [
+            4.279,
+            21.00284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2743,
+      "name": "Sankuru",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 17270,
+          "name": "Lodja",
+          "latlng": [
+            -3.52105,
+            23.6005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17275,
+          "name": "Lusambo",
+          "latlng": [
+            -4.97503,
+            23.44391
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2738,
+      "name": "Sud-Kivu",
+      "code": "SK",
+      "shortName": "SK",
+      "cities": [
+        {
+          "id": 17236,
+          "name": "Bukavu",
+          "latlng": [
+            -2.49077,
+            28.84281
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17252,
+          "name": "Kabare",
+          "latlng": [
+            -2.49682,
+            28.79081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17290,
+          "name": "Uvira",
+          "latlng": [
+            -3.39534,
+            29.13779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2748,
+      "name": "Sud-Ubangi",
+      "code": "SU",
+      "shortName": "SU",
+      "cities": [
+        {
+          "id": 17233,
+          "name": "Bongandanga",
+          "latlng": [
+            1.50695,
+            21.0726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17267,
+          "name": "Libenge",
+          "latlng": [
+            3.65332,
+            18.63566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2733,
+      "name": "Tanganyika",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 17251,
+          "name": "Kabalo",
+          "latlng": [
+            -6.05255,
+            26.9143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17254,
+          "name": "Kalemie",
+          "latlng": [
+            -5.94749,
+            29.19471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17266,
+          "name": "Kongolo",
+          "latlng": [
+            -5.38532,
+            27.00029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2756,
+      "name": "Tshopo",
+      "code": "TO",
+      "shortName": "TO",
+      "cities": [
+        {
+          "id": 17227,
+          "name": "Basoko",
+          "latlng": [
+            1.23909,
+            23.61598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17265,
+          "name": "Kisangani",
+          "latlng": [
+            0.51528,
+            25.19099
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 17293,
+          "name": "Yangambi",
+          "latlng": [
+            0.76755,
+            24.43973
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2732,
+      "name": "Tshuapa",
+      "code": "TU",
+      "shortName": "TU",
+      "cities": [
+        {
+          "id": 17229,
+          "name": "Boende",
+          "latlng": [
+            -0.28163,
+            20.88053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

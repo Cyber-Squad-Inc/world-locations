@@ -1,0 +1,50 @@
+{
+  "name": {
+    "common": "Greenland",
+    "official": "Greenland"
+  },
+  "iso2": "GL",
+  "iso3": "GRL",
+  "numericCode": "304",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "tld": ".gl",
+  "phoneCode": "299",
+  "capital": "Nuuk",
+  "currencies": {
+    "DKK": "Danish krone"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Danmarkshavn",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    },
+    {
+      "zoneName": "America/Nuuk",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "WGT",
+      "tzName": "West Greenland Time"
+    },
+    {
+      "zoneName": "America/Scoresbysund",
+      "gmtOffset": -3600,
+      "gmtOffsetName": "UTC-01:00",
+      "abbreviation": "EGT",
+      "tzName": "Eastern Greenland Time"
+    },
+    {
+      "zoneName": "America/Thule",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gl.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gl.svg",
+  "states": []
+}

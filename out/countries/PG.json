@@ -1,0 +1,1323 @@
+{
+  "name": {
+    "common": "Papua New Guinea",
+    "official": "Papua New Guinea"
+  },
+  "iso2": "PG",
+  "iso3": "PNG",
+  "numericCode": "598",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "tld": ".pg",
+  "phoneCode": "675",
+  "capital": "Port Moresby",
+  "currencies": {
+    "PGK": "Papua New Guinean kina"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Bougainville",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "BST",
+      "tzName": "Bougainville Standard Time[6"
+    },
+    {
+      "zoneName": "Pacific/Port_Moresby",
+      "gmtOffset": 36000,
+      "gmtOffsetName": "UTC+10:00",
+      "abbreviation": "PGT",
+      "tzName": "Papua New Guinea Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/pg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/pg.svg",
+  "states": [
+    {
+      "id": 4831,
+      "name": "Bougainville",
+      "code": "NSB",
+      "shortName": "NSB",
+      "cities": [
+        {
+          "id": 81029,
+          "name": "Arawa",
+          "latlng": [
+            -6.22977,
+            155.56598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81033,
+          "name": "Central Bougainville",
+          "latlng": [
+            -6.22806,
+            155.56583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81063,
+          "name": "Kieta",
+          "latlng": [
+            -6.21462,
+            155.63251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81091,
+          "name": "North Bougainville",
+          "latlng": [
+            -5.42194,
+            154.67278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81097,
+          "name": "Panguna",
+          "latlng": [
+            -6.31639,
+            155.48483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81109,
+          "name": "South Bougainville",
+          "latlng": [
+            -6.74593,
+            155.6964
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4847,
+      "name": "Central",
+      "code": "CPM",
+      "shortName": "CPM",
+      "cities": [
+        {
+          "id": 81024,
+          "name": "Abau",
+          "latlng": [
+            -10.08333,
+            148.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81041,
+          "name": "Goilala",
+          "latlng": [
+            -8.33333,
+            147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81055,
+          "name": "Kairuku-Hiri",
+          "latlng": [
+            -9.13648,
+            147.27905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81104,
+          "name": "Rigo",
+          "latlng": [
+            -9.75,
+            147.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4846,
+      "name": "Chimbu",
+      "code": "CPK",
+      "shortName": "CPK",
+      "cities": [
+        {
+          "id": 81034,
+          "name": "Chuave",
+          "latlng": [
+            -6.16667,
+            145.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81043,
+          "name": "Gumine",
+          "latlng": [
+            -6.25,
+            144.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81059,
+          "name": "Karimui Nomane",
+          "latlng": [
+            -6.58333,
+            144.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81062,
+          "name": "Kerowagi",
+          "latlng": [
+            -5.93333,
+            144.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81073,
+          "name": "Kundiawa",
+          "latlng": [
+            -5.91667,
+            145.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81107,
+          "name": "Sinasina Yonggamugl",
+          "latlng": [
+            -6.08333,
+            145.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4834,
+      "name": "East New Britain",
+      "code": "EBR",
+      "shortName": "EBR",
+      "cities": [
+        {
+          "id": 81040,
+          "name": "Gazelle",
+          "latlng": [
+            -4.48333,
+            151.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81069,
+          "name": "Kokopo",
+          "latlng": [
+            -4.4,
+            152.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81098,
+          "name": "Pomio",
+          "latlng": [
+            -5.5,
+            151.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81102,
+          "name": "Rabaul",
+          "latlng": [
+            -4.18333,
+            152.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5228,
+      "name": "East Sepik",
+      "code": "ESW",
+      "shortName": "ESW",
+      "cities": []
+    },
+    {
+      "id": 4845,
+      "name": "Eastern Highlands",
+      "code": "EHG",
+      "shortName": "EHG",
+      "cities": [
+        {
+          "id": 81036,
+          "name": "Daulo",
+          "latlng": [
+            -5.98333,
+            145.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81042,
+          "name": "Goroka",
+          "latlng": [
+            -6.05,
+            145.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81045,
+          "name": "Henganofi",
+          "latlng": [
+            -6.21667,
+            145.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81054,
+          "name": "Kainantu",
+          "latlng": [
+            -6.41667,
+            145.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81077,
+          "name": "Lufa",
+          "latlng": [
+            -6.45,
+            145.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81095,
+          "name": "Obura Wonenara",
+          "latlng": [
+            -6.55434,
+            145.97328
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81096,
+          "name": "Okapa",
+          "latlng": [
+            -6.63333,
+            145.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81118,
+          "name": "Unggai Bena",
+          "latlng": [
+            -6.11667,
+            145.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4848,
+      "name": "Enga",
+      "code": "EPW",
+      "shortName": "EPW",
+      "cities": [
+        {
+          "id": 81056,
+          "name": "Kandep",
+          "latlng": [
+            -5.83333,
+            143.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81071,
+          "name": "Kompiam Ambum",
+          "latlng": [
+            -5.25,
+            144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81075,
+          "name": "Lagaip Porgera",
+          "latlng": [
+            -5.38333,
+            143.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81100,
+          "name": "Porgera",
+          "latlng": [
+            -5.463,
+            143.148
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81122,
+          "name": "Wabag",
+          "latlng": [
+            -5.33333,
+            143.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81123,
+          "name": "Wapenamanda",
+          "latlng": [
+            -5.66667,
+            143.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4839,
+      "name": "Gulf",
+      "code": "GPK",
+      "shortName": "GPK",
+      "cities": [
+        {
+          "id": 81061,
+          "name": "Kerema",
+          "latlng": [
+            -7.796,
+            146.093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81064,
+          "name": "Kikori",
+          "latlng": [
+            -7.25,
+            144.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4833,
+      "name": "Hela",
+      "code": "HLA",
+      "shortName": "HLA",
+      "cities": [
+        {
+          "id": 81070,
+          "name": "Komo Margarima",
+          "latlng": [
+            -6.11667,
+            143
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81072,
+          "name": "Koroba-Lake Kopiago",
+          "latlng": [
+            -5.41667,
+            142.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81114,
+          "name": "Tari",
+          "latlng": [
+            -5.845,
+            142.94667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81115,
+          "name": "Tari Pori",
+          "latlng": [
+            -6.28333,
+            142.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4832,
+      "name": "Jiwaka",
+      "code": "JWK",
+      "shortName": "JWK",
+      "cities": [
+        {
+          "id": 81028,
+          "name": "Angalimp South Wahgi",
+          "latlng": [
+            -6.05,
+            144.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81051,
+          "name": "Jimi",
+          "latlng": [
+            -5.53333,
+            144.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81093,
+          "name": "North Wahgi",
+          "latlng": [
+            -5.8,
+            144.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4843,
+      "name": "Madang",
+      "code": "MPM",
+      "shortName": "MPM",
+      "cities": [
+        {
+          "id": 81031,
+          "name": "Bogia",
+          "latlng": [
+            -4.5,
+            145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81078,
+          "name": "Madang",
+          "latlng": [
+            -5.22152,
+            145.78695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81084,
+          "name": "Middle Ramu",
+          "latlng": [
+            -4.91667,
+            144.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81103,
+          "name": "Rai Coast",
+          "latlng": [
+            -5.72303,
+            146.46149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81111,
+          "name": "Sumkar",
+          "latlng": [
+            -4.8,
+            145.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81119,
+          "name": "Usino Bundi",
+          "latlng": [
+            -5.53333,
+            145.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4842,
+      "name": "Manus",
+      "code": "MRL",
+      "shortName": "MRL",
+      "cities": [
+        {
+          "id": 81076,
+          "name": "Lorengau",
+          "latlng": [
+            -2.0341,
+            147.27173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81079,
+          "name": "Manus",
+          "latlng": [
+            -2.09626,
+            146.96612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4849,
+      "name": "Milne Bay",
+      "code": "MBA",
+      "shortName": "MBA",
+      "cities": [
+        {
+          "id": 81027,
+          "name": "Alotau",
+          "latlng": [
+            -10.25,
+            150.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81038,
+          "name": "Esa’ala",
+          "latlng": [
+            -9.58333,
+            150.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81066,
+          "name": "Kiriwina Goodenough",
+          "latlng": [
+            -8.48333,
+            151.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81105,
+          "name": "Samarai",
+          "latlng": [
+            -10.61038,
+            150.66207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81106,
+          "name": "Samarai Murua",
+          "latlng": [
+            -10.49636,
+            150.54703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4835,
+      "name": "Morobe",
+      "code": "MPL",
+      "shortName": "MPL",
+      "cities": [
+        {
+          "id": 81032,
+          "name": "Bulolo",
+          "latlng": [
+            -7.41667,
+            146.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81039,
+          "name": "Finschhafen",
+          "latlng": [
+            -6.41667,
+            147.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81046,
+          "name": "Huon Gulf",
+          "latlng": [
+            -7.18333,
+            146.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81052,
+          "name": "Kabwum",
+          "latlng": [
+            -6.08333,
+            147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81074,
+          "name": "Lae",
+          "latlng": [
+            -6.5,
+            146.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81080,
+          "name": "Markham",
+          "latlng": [
+            -6.64153,
+            146.86043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81082,
+          "name": "Menyamya",
+          "latlng": [
+            -7.25,
+            146.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81089,
+          "name": "Nawae",
+          "latlng": [
+            -6.46667,
+            146.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81117,
+          "name": "Tewai Siassi",
+          "latlng": [
+            -6.15,
+            147.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81124,
+          "name": "Wau",
+          "latlng": [
+            -7.33778,
+            146.71649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4841,
+      "name": "New Ireland",
+      "code": "NIK",
+      "shortName": "NIK",
+      "cities": [
+        {
+          "id": 81060,
+          "name": "Kavieng",
+          "latlng": [
+            -3,
+            151.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81087,
+          "name": "Namatanai",
+          "latlng": [
+            -4.33333,
+            152.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4838,
+      "name": "Oro",
+      "code": "NPP",
+      "shortName": "NPP",
+      "cities": [
+        {
+          "id": 81049,
+          "name": "Ijivitari",
+          "latlng": [
+            -9.33333,
+            148.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81068,
+          "name": "Kokoda",
+          "latlng": [
+            -8.87778,
+            147.73642
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81099,
+          "name": "Popondetta",
+          "latlng": [
+            -8.76536,
+            148.23252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81108,
+          "name": "Sohe",
+          "latlng": [
+            -9,
+            147.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4837,
+      "name": "Port Moresby",
+      "code": "NCD",
+      "shortName": "NCD",
+      "cities": [
+        {
+          "id": 81088,
+          "name": "National Capital District",
+          "latlng": [
+            -9.42257,
+            147.16641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81101,
+          "name": "Port Moresby",
+          "latlng": [
+            -9.47723,
+            147.15089
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4836,
+      "name": "Sandaun",
+      "code": "SAN",
+      "shortName": "SAN",
+      "cities": [
+        {
+          "id": 81025,
+          "name": "Aitape",
+          "latlng": [
+            -3.13697,
+            142.34913
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81026,
+          "name": "Aitape Lumi",
+          "latlng": [
+            -3.25,
+            142.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81094,
+          "name": "Nuku",
+          "latlng": [
+            -3.66667,
+            142.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81116,
+          "name": "Telefomin",
+          "latlng": [
+            -4.91667,
+            141.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81120,
+          "name": "Vanimo",
+          "latlng": [
+            -2.68372,
+            141.30195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81121,
+          "name": "Vanimo Green",
+          "latlng": [
+            -3.36667,
+            141.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4844,
+      "name": "Southern Highlands",
+      "code": "SHM",
+      "shortName": "SHM",
+      "cities": [
+        {
+          "id": 81047,
+          "name": "Ialibu",
+          "latlng": [
+            -6.28208,
+            143.99354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81048,
+          "name": "Ialibu Pangia",
+          "latlng": [
+            -6.16667,
+            144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81050,
+          "name": "Imbonggu",
+          "latlng": [
+            -6.16667,
+            144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81053,
+          "name": "Kagua Erave",
+          "latlng": [
+            -6.66667,
+            144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81081,
+          "name": "Mendi",
+          "latlng": [
+            -6.14755,
+            143.65633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81090,
+          "name": "Nipa Kutubu",
+          "latlng": [
+            -6.33333,
+            143.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4830,
+      "name": "West New Britain",
+      "code": "WBK",
+      "shortName": "WBK",
+      "cities": [
+        {
+          "id": 81057,
+          "name": "Kandrian",
+          "latlng": [
+            -6.20655,
+            149.54744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81058,
+          "name": "Kandrian Gloucester",
+          "latlng": [
+            -6.08333,
+            149.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81065,
+          "name": "Kimbe",
+          "latlng": [
+            -5.55085,
+            150.13766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81112,
+          "name": "Talasea",
+          "latlng": [
+            -5.66667,
+            149.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4850,
+      "name": "Western",
+      "code": "WPD",
+      "shortName": "WPD",
+      "cities": [
+        {
+          "id": 81035,
+          "name": "Daru",
+          "latlng": [
+            -9.07786,
+            143.20893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81067,
+          "name": "Kiunga",
+          "latlng": [
+            -6.12193,
+            141.29061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81083,
+          "name": "Middle Fly",
+          "latlng": [
+            -7.16667,
+            142.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81085,
+          "name": "Morehead",
+          "latlng": [
+            -8.71065,
+            141.63668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81092,
+          "name": "North Fly",
+          "latlng": [
+            -5.72896,
+            141.37482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81110,
+          "name": "South Fly",
+          "latlng": [
+            -8.61667,
+            142.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4840,
+      "name": "Western Highlands",
+      "code": "WHM",
+      "shortName": "WHM",
+      "cities": [
+        {
+          "id": 81030,
+          "name": "Baiyer Mul",
+          "latlng": [
+            -5.53333,
+            144.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81037,
+          "name": "Dei",
+          "latlng": [
+            -5.68333,
+            144.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81044,
+          "name": "Hagen",
+          "latlng": [
+            -5.83333,
+            144.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81086,
+          "name": "Mount Hagen",
+          "latlng": [
+            -5.85746,
+            144.23058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 81113,
+          "name": "Tambul Nebilyer",
+          "latlng": [
+            -5.98333,
+            144.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

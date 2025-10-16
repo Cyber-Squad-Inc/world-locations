@@ -1,0 +1,522 @@
+{
+  "name": {
+    "common": "Benin",
+    "official": "Benin"
+  },
+  "iso2": "BJ",
+  "iso3": "BEN",
+  "numericCode": "204",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".bj",
+  "phoneCode": "229",
+  "capital": "Porto-Novo",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Porto-Novo",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/bj.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/bj.svg",
+  "states": [
+    {
+      "id": 3077,
+      "name": "Alibori",
+      "code": "AL",
+      "shortName": "AL",
+      "cities": [
+        {
+          "id": 9782,
+          "name": "Banikoara",
+          "latlng": [
+            11.29845,
+            2.43856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9800,
+          "name": "Kandi",
+          "latlng": [
+            11.13417,
+            2.93861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9803,
+          "name": "Malanville",
+          "latlng": [
+            11.86819,
+            3.38327
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3076,
+      "name": "Atakora",
+      "code": "AK",
+      "shortName": "AK",
+      "cities": [
+        {
+          "id": 9797,
+          "name": "Guilmaro",
+          "latlng": [
+            10.56583,
+            1.72444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9804,
+          "name": "Natitingou",
+          "latlng": [
+            10.30416,
+            1.37962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9813,
+          "name": "Tanguieta",
+          "latlng": [
+            11.03621,
+            1.41757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3079,
+      "name": "Atlantique",
+      "code": "AQ",
+      "shortName": "AQ",
+      "cities": [
+        {
+          "id": 9780,
+          "name": "Abomey-Calavi",
+          "latlng": [
+            6.44852,
+            2.35566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9781,
+          "name": "Allada",
+          "latlng": [
+            6.66547,
+            2.15138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9799,
+          "name": "Hévié",
+          "latlng": [
+            6.41667,
+            2.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9798,
+          "name": "Hinvi",
+          "latlng": [
+            6.76667,
+            2.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9806,
+          "name": "Ouidah",
+          "latlng": [
+            6.36307,
+            2.08506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3078,
+      "name": "Borgou",
+      "code": "BO",
+      "shortName": "BO",
+      "cities": [
+        {
+          "id": 9784,
+          "name": "Bembèrèkè",
+          "latlng": [
+            10.22827,
+            2.66335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9786,
+          "name": "Bétérou",
+          "latlng": [
+            9.19916,
+            2.25855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9805,
+          "name": "Nikki",
+          "latlng": [
+            9.94009,
+            3.21075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9807,
+          "name": "Parakou",
+          "latlng": [
+            9.33716,
+            2.63031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9815,
+          "name": "Tchaourou",
+          "latlng": [
+            8.88649,
+            2.59753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3070,
+      "name": "Collines",
+      "code": "CO",
+      "shortName": "CO",
+      "cities": [
+        {
+          "id": 9790,
+          "name": "Comé",
+          "latlng": [
+            6.40764,
+            1.88198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9793,
+          "name": "Dassa-Zoumé",
+          "latlng": [
+            7.75,
+            2.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9811,
+          "name": "Savalou",
+          "latlng": [
+            7.92807,
+            1.97558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9812,
+          "name": "Savé",
+          "latlng": [
+            8.03424,
+            2.4866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3072,
+      "name": "Donga",
+      "code": "DO",
+      "shortName": "DO",
+      "cities": [
+        {
+          "id": 9783,
+          "name": "Bassila",
+          "latlng": [
+            9.00814,
+            1.6654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9789,
+          "name": "Commune of Djougou",
+          "latlng": [
+            9.643,
+            1.896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9795,
+          "name": "Djougou",
+          "latlng": [
+            9.70853,
+            1.66598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3071,
+      "name": "Kouffo",
+      "code": "KO",
+      "shortName": "KO",
+      "cities": [
+        {
+          "id": 9794,
+          "name": "Djakotomey",
+          "latlng": [
+            6.9,
+            1.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9796,
+          "name": "Dogbo",
+          "latlng": [
+            6.79911,
+            1.78073
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3081,
+      "name": "Littoral",
+      "code": "LI",
+      "shortName": "LI",
+      "cities": [
+        {
+          "id": 9791,
+          "name": "Cotonou",
+          "latlng": [
+            6.36536,
+            2.41833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3075,
+      "name": "Mono",
+      "code": "MO",
+      "shortName": "MO",
+      "cities": [
+        {
+          "id": 9788,
+          "name": "Commune of Athieme",
+          "latlng": [
+            6.56924,
+            1.70259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9802,
+          "name": "Lokossa",
+          "latlng": [
+            6.63869,
+            1.71674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3080,
+      "name": "Ouémé",
+      "code": "OU",
+      "shortName": "OU",
+      "cities": [
+        {
+          "id": 9809,
+          "name": "Porto-Novo",
+          "latlng": [
+            6.49646,
+            2.60359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3074,
+      "name": "Plateau",
+      "code": "PL",
+      "shortName": "PL",
+      "cities": [
+        {
+          "id": 9801,
+          "name": "Kétou",
+          "latlng": [
+            7.36332,
+            2.59978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9808,
+          "name": "Pobé",
+          "latlng": [
+            6.98008,
+            2.6649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9810,
+          "name": "Sakété",
+          "latlng": [
+            6.73618,
+            2.65866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3073,
+      "name": "Zou",
+      "code": "ZO",
+      "shortName": "ZO",
+      "cities": [
+        {
+          "id": 9779,
+          "name": "Abomey",
+          "latlng": [
+            7.18286,
+            1.99119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9785,
+          "name": "Bohicon",
+          "latlng": [
+            7.17826,
+            2.0667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9787,
+          "name": "Commune of Agbangnizoun",
+          "latlng": [
+            7.076,
+            1.961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9792,
+          "name": "Cové",
+          "latlng": [
+            7.22097,
+            2.34017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

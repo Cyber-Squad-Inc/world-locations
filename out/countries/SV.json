@@ -1,0 +1,1242 @@
+{
+  "name": {
+    "common": "El Salvador",
+    "official": "El Salvador"
+  },
+  "iso2": "SV",
+  "iso3": "SLV",
+  "numericCode": "222",
+  "region": "Americas",
+  "subregion": "Central America",
+  "tld": ".sv",
+  "phoneCode": "503",
+  "capital": "San Salvador",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/El_Salvador",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sv.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sv.svg",
+  "states": [
+    {
+      "id": 4139,
+      "name": "Ahuachapán",
+      "code": "AH",
+      "shortName": "AH",
+      "cities": [
+        {
+          "id": 104842,
+          "name": "Ahuachapán",
+          "latlng": [
+            13.92139,
+            -89.845
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104848,
+          "name": "Atiquizaya",
+          "latlng": [
+            13.97694,
+            -89.7525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104863,
+          "name": "Concepción de Ataco",
+          "latlng": [
+            13.87028,
+            -89.84861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104873,
+          "name": "Guaymango",
+          "latlng": [
+            13.75028,
+            -89.84222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104883,
+          "name": "Jujutla",
+          "latlng": [
+            13.78694,
+            -89.85722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104906,
+          "name": "San Francisco Menéndez",
+          "latlng": [
+            13.84306,
+            -90.01583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104931,
+          "name": "Tacuba",
+          "latlng": [
+            13.90111,
+            -89.92972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4132,
+      "name": "Cabañas",
+      "code": "CA",
+      "shortName": "CA",
+      "cities": [
+        {
+          "id": 104924,
+          "name": "Sensuntepeque",
+          "latlng": [
+            13.86667,
+            -88.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104937,
+          "name": "Victoria",
+          "latlng": [
+            13.95,
+            -88.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4131,
+      "name": "Chalatenango",
+      "code": "CH",
+      "shortName": "CH",
+      "cities": [
+        {
+          "id": 104853,
+          "name": "Chalatenango",
+          "latlng": [
+            14.03333,
+            -88.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104891,
+          "name": "Nueva Concepción",
+          "latlng": [
+            14.13333,
+            -89.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4137,
+      "name": "Cuscatlán",
+      "code": "CU",
+      "shortName": "CU",
+      "cities": [
+        {
+          "id": 104861,
+          "name": "Cojutepeque",
+          "latlng": [
+            13.71667,
+            -88.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104909,
+          "name": "San Martín",
+          "latlng": [
+            13.78333,
+            -88.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104930,
+          "name": "Suchitoto",
+          "latlng": [
+            13.93806,
+            -89.02778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104932,
+          "name": "Tecoluca",
+          "latlng": [
+            13.78917,
+            -89.00528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104933,
+          "name": "Tenancingo",
+          "latlng": [
+            13.83333,
+            -88.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4134,
+      "name": "La Libertad",
+      "code": "LI",
+      "shortName": "LI",
+      "cities": [
+        {
+          "id": 104844,
+          "name": "Antiguo Cuscatlán",
+          "latlng": [
+            13.66492,
+            -89.25319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104858,
+          "name": "Ciudad Arce",
+          "latlng": [
+            13.84028,
+            -89.44722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104884,
+          "name": "La Libertad",
+          "latlng": [
+            13.48833,
+            -89.32222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104894,
+          "name": "Nuevo Cuscatlán",
+          "latlng": [
+            13.64861,
+            -89.26528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104900,
+          "name": "Quezaltepeque",
+          "latlng": [
+            13.83124,
+            -89.27221
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104907,
+          "name": "San Juan Opico",
+          "latlng": [
+            13.87611,
+            -89.35972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104911,
+          "name": "San Pablo Tacachico",
+          "latlng": [
+            13.97556,
+            -89.34
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104920,
+          "name": "Santa Tecla",
+          "latlng": [
+            13.67694,
+            -89.27972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104939,
+          "name": "Zaragoza",
+          "latlng": [
+            13.58944,
+            -89.28889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4136,
+      "name": "La Paz",
+      "code": "PA",
+      "shortName": "PA",
+      "cities": [
+        {
+          "id": 104870,
+          "name": "El Rosario",
+          "latlng": [
+            13.49778,
+            -89.02972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104895,
+          "name": "Olocuilta",
+          "latlng": [
+            13.56972,
+            -89.11722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104912,
+          "name": "San Pedro Masahuat",
+          "latlng": [
+            13.54361,
+            -89.03861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104921,
+          "name": "Santiago Nonualco",
+          "latlng": [
+            13.51667,
+            -88.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104938,
+          "name": "Zacatecoluca",
+          "latlng": [
+            13.5,
+            -88.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4138,
+      "name": "La Unión",
+      "code": "UN",
+      "shortName": "UN",
+      "cities": [
+        {
+          "id": 104843,
+          "name": "Anamorós",
+          "latlng": [
+            13.74056,
+            -87.87361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104864,
+          "name": "Conchagua",
+          "latlng": [
+            13.30778,
+            -87.86472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104876,
+          "name": "Intipucá",
+          "latlng": [
+            13.19694,
+            -88.05444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104885,
+          "name": "La Unión",
+          "latlng": [
+            13.33694,
+            -87.84389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104892,
+          "name": "Nueva Esparta",
+          "latlng": [
+            13.78361,
+            -87.83861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104898,
+          "name": "Pasaquina",
+          "latlng": [
+            13.58444,
+            -87.84111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104903,
+          "name": "San Alejo",
+          "latlng": [
+            13.43139,
+            -87.96306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104919,
+          "name": "Santa Rosa de Lima",
+          "latlng": [
+            13.62472,
+            -87.89361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4130,
+      "name": "Morazán",
+      "code": "MO",
+      "shortName": "MO",
+      "cities": [
+        {
+          "id": 104851,
+          "name": "Cacaopera",
+          "latlng": [
+            13.76667,
+            -88.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104865,
+          "name": "Corinto",
+          "latlng": [
+            13.81083,
+            -87.97139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104872,
+          "name": "Guatajiagua",
+          "latlng": [
+            13.66667,
+            -88.2
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104879,
+          "name": "Jocoro",
+          "latlng": [
+            13.61667,
+            -88.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104905,
+          "name": "San Francisco",
+          "latlng": [
+            13.7,
+            -88.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104926,
+          "name": "Sociedad",
+          "latlng": [
+            13.7,
+            -88.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4135,
+      "name": "San Miguel",
+      "code": "SM",
+      "shortName": "SM",
+      "cities": [
+        {
+          "id": 104855,
+          "name": "Chapeltique",
+          "latlng": [
+            13.63333,
+            -88.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104856,
+          "name": "Chinameca",
+          "latlng": [
+            13.5,
+            -88.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104857,
+          "name": "Chirilagua",
+          "latlng": [
+            13.22028,
+            -88.13861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104859,
+          "name": "Ciudad Barrios",
+          "latlng": [
+            13.76667,
+            -88.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104871,
+          "name": "El Tránsito",
+          "latlng": [
+            13.35,
+            -88.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104886,
+          "name": "Lolotique",
+          "latlng": [
+            13.55,
+            -88.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104889,
+          "name": "Moncagua",
+          "latlng": [
+            13.53333,
+            -88.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104893,
+          "name": "Nueva Guadalupe",
+          "latlng": [
+            13.53333,
+            -88.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104910,
+          "name": "San Miguel",
+          "latlng": [
+            13.48333,
+            -88.18333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104913,
+          "name": "San Rafael Oriente",
+          "latlng": [
+            13.38333,
+            -88.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104925,
+          "name": "Sesori",
+          "latlng": [
+            13.71667,
+            -88.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4133,
+      "name": "San Salvador",
+      "code": "SS",
+      "shortName": "SS",
+      "cities": [
+        {
+          "id": 104841,
+          "name": "Aguilares",
+          "latlng": [
+            13.95722,
+            -89.18972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104846,
+          "name": "Apopa",
+          "latlng": [
+            13.80722,
+            -89.17917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104849,
+          "name": "Ayutuxtepeque",
+          "latlng": [
+            13.74556,
+            -89.20639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104866,
+          "name": "Cuscatancingo",
+          "latlng": [
+            13.73611,
+            -89.18139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104867,
+          "name": "Delgado",
+          "latlng": [
+            13.72417,
+            -89.17028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104869,
+          "name": "El Paisnal",
+          "latlng": [
+            13.97361,
+            -89.21861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104874,
+          "name": "Guazapa",
+          "latlng": [
+            13.87694,
+            -89.17306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104875,
+          "name": "Ilopango",
+          "latlng": [
+            13.70167,
+            -89.10944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104887,
+          "name": "Mejicanos",
+          "latlng": [
+            13.74028,
+            -89.21306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104897,
+          "name": "Panchimalco",
+          "latlng": [
+            13.61278,
+            -89.18
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104901,
+          "name": "Rosario de Mora",
+          "latlng": [
+            13.57528,
+            -89.20889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104908,
+          "name": "San Marcos",
+          "latlng": [
+            13.65889,
+            -89.18306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104914,
+          "name": "San Salvador",
+          "latlng": [
+            13.68935,
+            -89.18718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104923,
+          "name": "Santo Tomás",
+          "latlng": [
+            13.64083,
+            -89.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104929,
+          "name": "Soyapango",
+          "latlng": [
+            13.71024,
+            -89.13989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104935,
+          "name": "Tonacatepeque",
+          "latlng": [
+            13.78111,
+            -89.11861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4127,
+      "name": "San Vicente",
+      "code": "SV",
+      "shortName": "SV",
+      "cities": [
+        {
+          "id": 104845,
+          "name": "Apastepeque",
+          "latlng": [
+            13.66667,
+            -88.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104915,
+          "name": "San Sebastián",
+          "latlng": [
+            13.73333,
+            -88.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104916,
+          "name": "San Vicente",
+          "latlng": [
+            13.63333,
+            -88.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4128,
+      "name": "Santa Ana",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 104852,
+          "name": "Candelaria de La Frontera",
+          "latlng": [
+            14.11667,
+            -89.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104854,
+          "name": "Chalchuapa",
+          "latlng": [
+            13.98667,
+            -89.68111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104860,
+          "name": "Coatepeque",
+          "latlng": [
+            13.92861,
+            -89.50417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104868,
+          "name": "El Congo",
+          "latlng": [
+            13.90889,
+            -89.49583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104888,
+          "name": "Metapán",
+          "latlng": [
+            14.33333,
+            -89.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104917,
+          "name": "Santa Ana",
+          "latlng": [
+            13.99417,
+            -89.55972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104934,
+          "name": "Texistepeque",
+          "latlng": [
+            14.13333,
+            -89.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4140,
+      "name": "Sonsonate",
+      "code": "SO",
+      "shortName": "SO",
+      "cities": [
+        {
+          "id": 104840,
+          "name": "Acajutla",
+          "latlng": [
+            13.59278,
+            -89.8275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104847,
+          "name": "Armenia",
+          "latlng": [
+            13.74361,
+            -89.49889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104877,
+          "name": "Izalco",
+          "latlng": [
+            13.74472,
+            -89.67306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104880,
+          "name": "Juayúa",
+          "latlng": [
+            13.84139,
+            -89.74556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104890,
+          "name": "Nahuizalco",
+          "latlng": [
+            13.7775,
+            -89.73667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104904,
+          "name": "San Antonio del Monte",
+          "latlng": [
+            13.71639,
+            -89.73833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104927,
+          "name": "Sonsonate",
+          "latlng": [
+            13.71889,
+            -89.72417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104928,
+          "name": "Sonzacate",
+          "latlng": [
+            13.73417,
+            -89.71472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4129,
+      "name": "Usulután",
+      "code": "US",
+      "shortName": "US",
+      "cities": [
+        {
+          "id": 104850,
+          "name": "Berlín",
+          "latlng": [
+            13.5,
+            -88.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104862,
+          "name": "Concepción Batres",
+          "latlng": [
+            13.35,
+            -88.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104878,
+          "name": "Jiquilisco",
+          "latlng": [
+            13.31667,
+            -88.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104881,
+          "name": "Jucuapa",
+          "latlng": [
+            13.51667,
+            -88.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104882,
+          "name": "Jucuarán",
+          "latlng": [
+            13.25389,
+            -88.24778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104896,
+          "name": "Ozatlán",
+          "latlng": [
+            13.38333,
+            -88.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104899,
+          "name": "Puerto El Triunfo",
+          "latlng": [
+            13.28333,
+            -88.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104902,
+          "name": "San Agustín",
+          "latlng": [
+            13.43333,
+            -88.6
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104918,
+          "name": "Santa Elena",
+          "latlng": [
+            13.38333,
+            -88.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104922,
+          "name": "Santiago de María",
+          "latlng": [
+            13.48333,
+            -88.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104936,
+          "name": "Usulután",
+          "latlng": [
+            13.35,
+            -88.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

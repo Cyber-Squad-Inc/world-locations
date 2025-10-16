@@ -1,0 +1,763 @@
+{
+  "name": {
+    "common": "Chad",
+    "official": "Chad"
+  },
+  "iso2": "TD",
+  "iso3": "TCD",
+  "numericCode": "148",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".td",
+  "phoneCode": "235",
+  "capital": "N'Djamena",
+  "currencies": {
+    "XAF": "Central African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Ndjamena",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/td.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/td.svg",
+  "states": [
+    {
+      "id": 3583,
+      "name": "Bahr el Gazel",
+      "code": "BG",
+      "shortName": "BG",
+      "cities": [
+        {
+          "id": 105152,
+          "name": "Moussoro",
+          "latlng": [
+            13.64143,
+            16.48941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3590,
+      "name": "Batha",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 105120,
+          "name": "Ati",
+          "latlng": [
+            13.2154,
+            18.3353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105154,
+          "name": "Oum Hadjer",
+          "latlng": [
+            13.2954,
+            19.6966
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3574,
+      "name": "Borkou",
+      "code": "BO",
+      "shortName": "BO",
+      "cities": [
+        {
+          "id": 105133,
+          "name": "Faya-Largeau",
+          "latlng": [
+            17.9257,
+            19.10428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5114,
+      "name": "Chari-Baguirmi",
+      "code": "CB",
+      "shortName": "CB",
+      "cities": [
+        {
+          "id": 153256,
+          "name": "Baguirmi Department",
+          "latlng": [
+            11.39833333,
+            16.1675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153257,
+          "name": "Bousso",
+          "latlng": [
+            10.4825,
+            16.71611111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153258,
+          "name": "Chari Department",
+          "latlng": [
+            12.05,
+            15.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153259,
+          "name": "Dababa",
+          "latlng": [
+            12.38,
+            17.06
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153260,
+          "name": "Gaoui",
+          "latlng": [
+            12.1807,
+            15.1476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153261,
+          "name": "Linia",
+          "latlng": [
+            12.05,
+            15.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153262,
+          "name": "Mandjafa",
+          "latlng": [
+            11.19861111,
+            15.36111111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153263,
+          "name": "Massenya",
+          "latlng": [
+            11.40277778,
+            16.17
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3575,
+      "name": "Ennedi-Est",
+      "code": "EE",
+      "shortName": "EE",
+      "cities": []
+    },
+    {
+      "id": 3584,
+      "name": "Ennedi-Ouest",
+      "code": "EO",
+      "shortName": "EO",
+      "cities": [
+        {
+          "id": 105132,
+          "name": "Fada",
+          "latlng": [
+            17.18535,
+            21.58114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3576,
+      "name": "Guéra",
+      "code": "GR",
+      "shortName": "GR",
+      "cities": [
+        {
+          "id": 105124,
+          "name": "Bitkine",
+          "latlng": [
+            11.9801,
+            18.2138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105149,
+          "name": "Melfi",
+          "latlng": [
+            11.0598,
+            17.9355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105150,
+          "name": "Mongo",
+          "latlng": [
+            12.18441,
+            18.69303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3573,
+      "name": "Hadjer-Lamis",
+      "code": "HL",
+      "shortName": "HL",
+      "cities": [
+        {
+          "id": 105125,
+          "name": "Bokoro",
+          "latlng": [
+            12.37813,
+            17.05876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105146,
+          "name": "Massaguet",
+          "latlng": [
+            12.47554,
+            15.43647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105147,
+          "name": "Massakory",
+          "latlng": [
+            12.996,
+            15.72927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3588,
+      "name": "Kanem",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": [
+        {
+          "id": 105145,
+          "name": "Mao",
+          "latlng": [
+            14.12116,
+            15.3103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3577,
+      "name": "Lac",
+      "code": "LC",
+      "shortName": "LC",
+      "cities": [
+        {
+          "id": 105126,
+          "name": "Bol",
+          "latlng": [
+            13.46706,
+            14.71363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3585,
+      "name": "Logone Occidental",
+      "code": "LO",
+      "shortName": "LO",
+      "cities": [
+        {
+          "id": 105122,
+          "name": "Beïnamar",
+          "latlng": [
+            8.6698,
+            15.3813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105121,
+          "name": "Benoy",
+          "latlng": [
+            8.98327,
+            16.31991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105143,
+          "name": "Lac Wey",
+          "latlng": [
+            8.70502,
+            15.98303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105151,
+          "name": "Moundou",
+          "latlng": [
+            8.56667,
+            16.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3591,
+      "name": "Logone Oriental",
+      "code": "LR",
+      "shortName": "LR",
+      "cities": [
+        {
+          "id": 105129,
+          "name": "Bébédja",
+          "latlng": [
+            8.6761,
+            16.566
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105128,
+          "name": "Béboto",
+          "latlng": [
+            8.26681,
+            16.93898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105131,
+          "name": "Doba",
+          "latlng": [
+            8.65,
+            16.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3589,
+      "name": "Mandoul",
+      "code": "MA",
+      "shortName": "MA",
+      "cities": [
+        {
+          "id": 105134,
+          "name": "Goundi",
+          "latlng": [
+            9.36267,
+            17.36597
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105141,
+          "name": "Koumra",
+          "latlng": [
+            8.91256,
+            17.55392
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105153,
+          "name": "Moïssala",
+          "latlng": [
+            8.3404,
+            17.7663
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3580,
+      "name": "Mayo-Kebbi Est",
+      "code": "ME",
+      "shortName": "ME",
+      "cities": [
+        {
+          "id": 105127,
+          "name": "Bongor",
+          "latlng": [
+            10.28056,
+            15.37222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105135,
+          "name": "Gounou Gaya",
+          "latlng": [
+            9.6294,
+            15.5132
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105138,
+          "name": "Guelendeng",
+          "latlng": [
+            10.91762,
+            15.55011
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3571,
+      "name": "Mayo-Kebbi Ouest",
+      "code": "MO",
+      "shortName": "MO",
+      "cities": [
+        {
+          "id": 105148,
+          "name": "Mboursou Léré",
+          "latlng": [
+            9.7639,
+            14.1539
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105155,
+          "name": "Pala",
+          "latlng": [
+            9.3642,
+            14.9046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3570,
+      "name": "Moyen-Chari",
+      "code": "MC",
+      "shortName": "MC",
+      "cities": [
+        {
+          "id": 105142,
+          "name": "Kyabé",
+          "latlng": [
+            9.45149,
+            18.94493
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105156,
+          "name": "Sarh",
+          "latlng": [
+            9.1429,
+            18.3923
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3586,
+      "name": "N'Djamena",
+      "code": "ND",
+      "shortName": "ND",
+      "cities": [
+        {
+          "id": 153264,
+          "name": "N'Djamena",
+          "latlng": [
+            12.11,
+            15.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3582,
+      "name": "Ouaddaï",
+      "code": "OD",
+      "shortName": "OD",
+      "cities": [
+        {
+          "id": 105116,
+          "name": "Abéché",
+          "latlng": [
+            13.82916,
+            20.8324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105117,
+          "name": "Adré",
+          "latlng": [
+            13.46648,
+            22.19875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105137,
+          "name": "Goz Béïda",
+          "latlng": [
+            13.94563,
+            20.5468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3592,
+      "name": "Salamat",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 105118,
+          "name": "Am Timan",
+          "latlng": [
+            11.0297,
+            20.2827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3572,
+      "name": "Sila",
+      "code": "SI",
+      "shortName": "SI",
+      "cities": [
+        {
+          "id": 105136,
+          "name": "Goz Beïda",
+          "latlng": [
+            12.22484,
+            21.41034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3579,
+      "name": "Tandjilé",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 105130,
+          "name": "Béré",
+          "latlng": [
+            9.3202,
+            16.1552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105140,
+          "name": "Kelo",
+          "latlng": [
+            9.30859,
+            15.80658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105144,
+          "name": "Laï",
+          "latlng": [
+            9.3972,
+            16.30066
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3587,
+      "name": "Tibesti",
+      "code": "TI",
+      "shortName": "TI",
+      "cities": [
+        {
+          "id": 105119,
+          "name": "Aozou",
+          "latlng": [
+            21.8375,
+            17.4275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3581,
+      "name": "Wadi Fira",
+      "code": "WF",
+      "shortName": "WF",
+      "cities": [
+        {
+          "id": 105123,
+          "name": "Biltine",
+          "latlng": [
+            14.52791,
+            20.92749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 105139,
+          "name": "Iriba",
+          "latlng": [
+            15.11667,
+            22.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

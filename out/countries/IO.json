@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "British Indian Ocean Territory",
+    "official": "British Indian Ocean Territory"
+  },
+  "iso2": "IO",
+  "iso3": "IOT",
+  "numericCode": "086",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".io",
+  "phoneCode": "246",
+  "capital": "Diego Garcia",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Chagos",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "IOT",
+      "tzName": "Indian Ocean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/io.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/io.svg",
+  "states": []
+}

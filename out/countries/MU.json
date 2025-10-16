@@ -1,0 +1,1974 @@
+{
+  "name": {
+    "common": "Mauritius",
+    "official": "Mauritius"
+  },
+  "iso2": "MU",
+  "iso3": "MUS",
+  "numericCode": "480",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".mu",
+  "phoneCode": "230",
+  "capital": "Port Louis",
+  "currencies": {
+    "MUR": "Mauritian rupee"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Mauritius",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "MUT",
+      "tzName": "Mauritius Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mu.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mu.svg",
+  "states": [
+    {
+      "id": 3248,
+      "name": "Agalega Islands",
+      "code": "AG",
+      "shortName": "AG",
+      "cities": [
+        {
+          "id": 67922,
+          "name": "Vingt Cinq",
+          "latlng": [
+            -10.38803,
+            56.61795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3259,
+      "name": "Black River",
+      "code": "BL",
+      "shortName": "BL",
+      "cities": [
+        {
+          "id": 67826,
+          "name": "Albion",
+          "latlng": [
+            -20.20814,
+            57.40766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67830,
+          "name": "Bambous",
+          "latlng": [
+            -20.25667,
+            57.40611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153385,
+          "name": "Black River",
+          "latlng": [
+            -20.320479,
+            57.403725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67845,
+          "name": "Cascavelle",
+          "latlng": [
+            -20.28694,
+            57.40722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153383,
+          "name": "Case Noyale",
+          "latlng": [
+            -20.413704,
+            57.369065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153384,
+          "name": "Chamarel",
+          "latlng": [
+            -20.425236,
+            57.391165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67860,
+          "name": "Flic en Flac",
+          "latlng": [
+            -20.27417,
+            57.36306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67867,
+          "name": "Grande Rivière Noire",
+          "latlng": [
+            -20.36028,
+            57.36611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67869,
+          "name": "Gros Cailloux",
+          "latlng": [
+            -20.20722,
+            57.43
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153387,
+          "name": "La Gaulette",
+          "latlng": [
+            -20.429388,
+            57.358841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153388,
+          "name": "Le Morne",
+          "latlng": [
+            -20.444174,
+            57.330315
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67888,
+          "name": "Petite Case Noyale",
+          "latlng": [
+            -20.39306,
+            57.365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67889,
+          "name": "Petite Rivière",
+          "latlng": [
+            -20.19551,
+            57.44592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153389,
+          "name": "Richelieu",
+          "latlng": [
+            -20.190849,
+            57.461299
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67916,
+          "name": "Tamarin",
+          "latlng": [
+            -20.32556,
+            57.37056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3254,
+      "name": "Flacq",
+      "code": "FL",
+      "shortName": "FL",
+      "cities": [
+        {
+          "id": 153436,
+          "name": "Bel Air",
+          "latlng": [
+            -20.258493,
+            57.754987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67834,
+          "name": "Bel Air Rivière Sèche",
+          "latlng": [
+            -20.25777,
+            57.74976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67836,
+          "name": "Bon Accueil",
+          "latlng": [
+            -20.17083,
+            57.65639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153443,
+          "name": "Bramsthan",
+          "latlng": [
+            -20.212979,
+            57.73768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67837,
+          "name": "Brisée Verdière",
+          "latlng": [
+            -20.16389,
+            57.64667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67842,
+          "name": "Camp de Masque",
+          "latlng": [
+            -20.23694,
+            57.66333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153437,
+          "name": "Camp De Masque Pave",
+          "latlng": [
+            -20.250063,
+            57.67997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67840,
+          "name": "Camp Ithier",
+          "latlng": [
+            -20.21583,
+            57.74556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67846,
+          "name": "Centre de Flacq",
+          "latlng": [
+            -20.18972,
+            57.71444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67850,
+          "name": "Clémencia",
+          "latlng": [
+            -20.26389,
+            57.70611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67858,
+          "name": "Ecroignard",
+          "latlng": [
+            -20.22611,
+            57.73611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153444,
+          "name": "Grande Retraite",
+          "latlng": [
+            -20.165077,
+            57.694616
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67868,
+          "name": "Grande Rivière Sud Est",
+          "latlng": [
+            -20.28611,
+            57.77583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67870,
+          "name": "Lalmatie",
+          "latlng": [
+            -20.18972,
+            57.66111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67871,
+          "name": "Laventure",
+          "latlng": [
+            -20.14583,
+            57.67667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67876,
+          "name": "Mare La Chaux",
+          "latlng": [
+            -20.19806,
+            57.74944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153441,
+          "name": "Medine Camp De Masque",
+          "latlng": [
+            -20.243958,
+            57.647035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67884,
+          "name": "Olivia",
+          "latlng": [
+            -20.28778,
+            57.73097
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67897,
+          "name": "Poste de Flacq",
+          "latlng": [
+            -20.16306,
+            57.73056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67901,
+          "name": "Quatre Cocos",
+          "latlng": [
+            -20.20151,
+            57.77448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67902,
+          "name": "Quatre Soeurs",
+          "latlng": [
+            -20.29917,
+            57.77056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67903,
+          "name": "Queen Victoria",
+          "latlng": [
+            -20.22,
+            57.7075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67911,
+          "name": "Saint Julien",
+          "latlng": [
+            -20.22639,
+            57.63639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67913,
+          "name": "Sebastopol",
+          "latlng": [
+            -20.2907,
+            57.68779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153442,
+          "name": "Trou D'Eau Douce",
+          "latlng": [
+            -20.234586,
+            57.794861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3264,
+      "name": "Grand Port",
+      "code": "GP",
+      "shortName": "GP",
+      "cities": [
+        {
+          "id": 67831,
+          "name": "Bambous Virieux",
+          "latlng": [
+            -20.34278,
+            57.7575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67833,
+          "name": "Beau Vallon",
+          "latlng": [
+            -20.41889,
+            57.69528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67835,
+          "name": "Bois des Amourettes",
+          "latlng": [
+            -20.36306,
+            57.73111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153399,
+          "name": "Camp Carol",
+          "latlng": [
+            -20.461785,
+            57.678456
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67849,
+          "name": "Cluny",
+          "latlng": [
+            -20.36694,
+            57.60389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153400,
+          "name": "Grand Bel Air",
+          "latlng": [
+            -20.409124,
+            57.681742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67866,
+          "name": "Grand Sable",
+          "latlng": [
+            -20.31417,
+            57.76444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67874,
+          "name": "Mahébourg",
+          "latlng": [
+            -20.40806,
+            57.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153391,
+          "name": "Mare D'Albert",
+          "latlng": [
+            -20.420195,
+            57.627288
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153392,
+          "name": "Mare Tabac",
+          "latlng": [
+            -20.440358,
+            57.594215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67881,
+          "name": "New Grove",
+          "latlng": [
+            -20.40861,
+            57.61361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67883,
+          "name": "Nouvelle France",
+          "latlng": [
+            -20.37056,
+            57.56111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153398,
+          "name": "Petit Bel Air",
+          "latlng": [
+            -20.399412,
+            57.692959
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67891,
+          "name": "Plaine Magnien",
+          "latlng": [
+            -20.42967,
+            57.66968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153394,
+          "name": "Riviere Des Creoles",
+          "latlng": [
+            -20.39084,
+            57.69696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67908,
+          "name": "Rose Belle",
+          "latlng": [
+            -20.40028,
+            57.59667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67910,
+          "name": "Saint Hubert",
+          "latlng": [
+            -20.36417,
+            57.63833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153401,
+          "name": "Seizieme Mille",
+          "latlng": [
+            -20.342111,
+            57.549244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153396,
+          "name": "Trois Boutiques",
+          "latlng": [
+            -20.450461,
+            57.646829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153397,
+          "name": "Union Park",
+          "latlng": [
+            -20.386294,
+            57.58068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153393,
+          "name": "Vieux Grand Port",
+          "latlng": [
+            -20.374066,
+            57.716077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3253,
+      "name": "Moka",
+      "code": "MO",
+      "shortName": "MO",
+      "cities": [
+        {
+          "id": 67841,
+          "name": "Camp Thorel",
+          "latlng": [
+            -20.21472,
+            57.61611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67855,
+          "name": "Dagotière",
+          "latlng": [
+            -20.24476,
+            57.56188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67856,
+          "name": "Dubreuil",
+          "latlng": [
+            -20.30132,
+            57.59861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153448,
+          "name": "L'Avenir",
+          "latlng": [
+            -20.217142,
+            57.550482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153447,
+          "name": "L'Esperance",
+          "latlng": [
+            -20.230413,
+            57.595268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153449,
+          "name": "La Laura-Malenga",
+          "latlng": [
+            -20.203861,
+            57.549915
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67877,
+          "name": "Melrose",
+          "latlng": [
+            -20.26972,
+            57.63194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67879,
+          "name": "Moka",
+          "latlng": [
+            -20.21889,
+            57.49583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153450,
+          "name": "Montagne Blanche",
+          "latlng": [
+            -20.28592,
+            57.657746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153451,
+          "name": "Nouvelle Découverte",
+          "latlng": [
+            -20.186,
+            57.590797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67885,
+          "name": "Pailles",
+          "latlng": [
+            -20.19271,
+            57.48826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67898,
+          "name": "Providence",
+          "latlng": [
+            -20.24472,
+            57.61222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67899,
+          "name": "Quartier Militaire",
+          "latlng": [
+            -20.2479,
+            57.59737
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153452,
+          "name": "Ripailles",
+          "latlng": [
+            -20.194725,
+            57.580596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153445,
+          "name": "Saint Julien D'Hotman",
+          "latlng": [
+            -20.23067,
+            57.640378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67912,
+          "name": "Saint Pierre",
+          "latlng": [
+            -20.2175,
+            57.52083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67921,
+          "name": "Verdun",
+          "latlng": [
+            -20.23417,
+            57.55476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3250,
+      "name": "Pamplemousses",
+      "code": "PA",
+      "shortName": "PA",
+      "cities": [
+        {
+          "id": 67828,
+          "name": "Arsenal",
+          "latlng": [
+            -20.10556,
+            57.53528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67838,
+          "name": "Calebasses",
+          "latlng": [
+            -20.11167,
+            57.55389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67851,
+          "name": "Congomah",
+          "latlng": [
+            -20.14889,
+            57.59083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67853,
+          "name": "Crève Coeur",
+          "latlng": [
+            -20.19111,
+            57.55722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153413,
+          "name": "D'Epinay",
+          "latlng": [
+            -20.130211,
+            57.595838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67861,
+          "name": "Fond du Sac",
+          "latlng": [
+            -20.04732,
+            57.584
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67872,
+          "name": "Le Hochet",
+          "latlng": [
+            -20.135,
+            57.52111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67873,
+          "name": "Long Mountain",
+          "latlng": [
+            -20.14306,
+            57.56222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67880,
+          "name": "Morcellement Saint André",
+          "latlng": [
+            -20.07199,
+            57.56833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67882,
+          "name": "Notre Dame",
+          "latlng": [
+            -20.14056,
+            57.55306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67886,
+          "name": "Pamplemousses",
+          "latlng": [
+            -20.10389,
+            57.57028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67892,
+          "name": "Plaine des Papayes",
+          "latlng": [
+            -20.065,
+            57.5725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67894,
+          "name": "Pointe aux Piments",
+          "latlng": [
+            -20.06494,
+            57.52347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67917,
+          "name": "Terre Rouge",
+          "latlng": [
+            -20.12611,
+            57.52444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153416,
+          "name": "Tombeau Bay",
+          "latlng": [
+            -20.123451,
+            57.502184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67919,
+          "name": "Triolet",
+          "latlng": [
+            -20.0576,
+            57.55025
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153417,
+          "name": "Trou Aux Biches",
+          "latlng": [
+            -20.031235,
+            57.551897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153415,
+          "name": "Ville Bague",
+          "latlng": [
+            -20.146045,
+            57.624149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3263,
+      "name": "Plaines Wilhems",
+      "code": "PW",
+      "shortName": "PW",
+      "cities": [
+        {
+          "id": 153454,
+          "name": "Beau Bassin",
+          "latlng": [
+            -20.225387,
+            57.471455
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67832,
+          "name": "Beau Bassin-Rose Hill",
+          "latlng": [
+            -20.23325,
+            57.46609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153916,
+          "name": "Belle Terre",
+          "latlng": [
+            -20.2694837,
+            57.5165553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153911,
+          "name": "Camp Fouqueraux",
+          "latlng": [
+            -20.2856863,
+            57.5171827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153914,
+          "name": "Chebel",
+          "latlng": [
+            -20.2137319,
+            57.4607545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153913,
+          "name": "Coromandel",
+          "latlng": [
+            -20.1952292,
+            57.4456534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67854,
+          "name": "Curepipe",
+          "latlng": [
+            -20.31628,
+            57.52594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153456,
+          "name": "Eau Coulee",
+          "latlng": [
+            -20.303366,
+            57.527788
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67857,
+          "name": "Ebene",
+          "latlng": [
+            -20.24494,
+            57.49163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153455,
+          "name": "Floreal",
+          "latlng": [
+            -20.311214,
+            57.507263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153457,
+          "name": "Forest Side",
+          "latlng": [
+            -20.329521,
+            57.538981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153912,
+          "name": "Glen Park",
+          "latlng": [
+            -20.3244068,
+            57.4753188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153915,
+          "name": "Henrietta",
+          "latlng": [
+            -20.2720048,
+            57.5289887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153918,
+          "name": "Hermitage",
+          "latlng": [
+            -20.2768508,
+            57.5347137
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153917,
+          "name": "Highlands",
+          "latlng": [
+            -20.2782748,
+            57.5135041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67878,
+          "name": "Midlands",
+          "latlng": [
+            -20.31907,
+            57.57016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153910,
+          "name": "Phoenix",
+          "latlng": [
+            -20.2858446,
+            57.5029186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67900,
+          "name": "Quatre Bornes",
+          "latlng": [
+            -20.26381,
+            57.4791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153453,
+          "name": "Rose Hill",
+          "latlng": [
+            -20.243478,
+            57.469855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67920,
+          "name": "Vacoas",
+          "latlng": [
+            -20.29806,
+            57.47833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3260,
+      "name": "Port Louis",
+      "code": "PL",
+      "shortName": "PL",
+      "cities": [
+        {
+          "id": 153419,
+          "name": "Bell Village",
+          "latlng": [
+            -20.170497,
+            57.486184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153423,
+          "name": "Caudan Waterfront",
+          "latlng": [
+            -20.1608988,
+            57.4977256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153428,
+          "name": "China Town",
+          "latlng": [
+            -20.158797,
+            57.506789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153420,
+          "name": "Les Pailles",
+          "latlng": [
+            -20.193527,
+            57.489629
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153424,
+          "name": "Les Salines",
+          "latlng": [
+            -20.160168,
+            57.489041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153426,
+          "name": "Plaine Verte",
+          "latlng": [
+            -20.15841,
+            57.514215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153418,
+          "name": "Pointe aux Sables",
+          "latlng": [
+            -20.171687,
+            57.453893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67895,
+          "name": "Port Louis",
+          "latlng": [
+            -20.16194,
+            57.49889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153422,
+          "name": "Soreze",
+          "latlng": [
+            -20.208561,
+            57.486382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153421,
+          "name": "Tour Koenig",
+          "latlng": [
+            -20.178646,
+            57.468721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153425,
+          "name": "Tranquebar",
+          "latlng": [
+            -20.176816,
+            57.511329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153429,
+          "name": "Vallée des Prêtres",
+          "latlng": [
+            -20.165147,
+            57.534039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153427,
+          "name": "Vallee Pitot",
+          "latlng": [
+            -20.1692,
+            57.51997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3261,
+      "name": "Rivière du Rempart",
+      "code": "RR",
+      "shortName": "RR",
+      "cities": [
+        {
+          "id": 67827,
+          "name": "Amaury",
+          "latlng": [
+            -20.13083,
+            57.65917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153434,
+          "name": "Amitié Gokoola",
+          "latlng": [
+            -20.106883,
+            57.654728
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67843,
+          "name": "Cap Malheureux",
+          "latlng": [
+            -19.98417,
+            57.61417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67852,
+          "name": "Cottage",
+          "latlng": [
+            -20.05972,
+            57.62917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67859,
+          "name": "Espérance Trébuchet",
+          "latlng": [
+            -20.06972,
+            57.64194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67862,
+          "name": "Goodlands",
+          "latlng": [
+            -20.03841,
+            57.65055
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67863,
+          "name": "Grand Baie",
+          "latlng": [
+            -20.01816,
+            57.58015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67865,
+          "name": "Grand Gaube",
+          "latlng": [
+            -20.00639,
+            57.66083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67875,
+          "name": "Mapou",
+          "latlng": [
+            -20.07583,
+            57.60139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67887,
+          "name": "Petit Raffray",
+          "latlng": [
+            -20.02022,
+            57.62296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67890,
+          "name": "Piton",
+          "latlng": [
+            -20.09028,
+            57.63028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67893,
+          "name": "Plaines des Roches",
+          "latlng": [
+            -20.11167,
+            57.69083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153431,
+          "name": "Poudre D'Or",
+          "latlng": [
+            -20.061627,
+            57.682971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153432,
+          "name": "Poudre D'Or Hamlet",
+          "latlng": [
+            -20.081024,
+            57.652726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67905,
+          "name": "Rivière du Rempart",
+          "latlng": [
+            -20.10306,
+            57.68472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67906,
+          "name": "Roche Terre",
+          "latlng": [
+            -20.01861,
+            57.64472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67907,
+          "name": "Roches Noire",
+          "latlng": [
+            -20.11111,
+            57.71222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67918,
+          "name": "The Vale",
+          "latlng": [
+            -20.03018,
+            57.60219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3249,
+      "name": "Rodrigues Island",
+      "code": "RO",
+      "shortName": "RO",
+      "cities": [
+        {
+          "id": 67829,
+          "name": "Baie aux Huîtres",
+          "latlng": [
+            -19.69444,
+            63.40833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67896,
+          "name": "Port Mathurin",
+          "latlng": [
+            -19.68333,
+            63.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3251,
+      "name": "Saint Brandon Islands",
+      "code": "CC",
+      "shortName": "CC",
+      "cities": [
+        {
+          "id": 67844,
+          "name": "Cargados Carajos",
+          "latlng": [
+            -16.60329,
+            59.65851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3257,
+      "name": "Savanne",
+      "code": "SA",
+      "shortName": "SA",
+      "cities": [
+        {
+          "id": 153402,
+          "name": "Baie Du Cap",
+          "latlng": [
+            -20.486644,
+            57.378815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153406,
+          "name": "Bel Ombre",
+          "latlng": [
+            -20.501919,
+            57.425507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153407,
+          "name": "Benares",
+          "latlng": [
+            -20.484407,
+            57.588717
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153403,
+          "name": "Bois Cheri",
+          "latlng": [
+            -20.426671,
+            57.534252
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153408,
+          "name": "Britannia",
+          "latlng": [
+            -20.448655,
+            57.563407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67839,
+          "name": "Camp Diable",
+          "latlng": [
+            -20.46278,
+            57.57889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67847,
+          "name": "Chamouny",
+          "latlng": [
+            -20.48222,
+            57.46611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67848,
+          "name": "Chemin Grenier",
+          "latlng": [
+            -20.48722,
+            57.46556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67864,
+          "name": "Grand Bois",
+          "latlng": [
+            -20.41889,
+            57.54417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153409,
+          "name": "L'Escalier",
+          "latlng": [
+            -20.473335,
+            57.618676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153411,
+          "name": "La Flora",
+          "latlng": [
+            -20.410005,
+            57.560487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67904,
+          "name": "Rivière des Anguilles",
+          "latlng": [
+            -20.48528,
+            57.55083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153405,
+          "name": "Rivière Du Poste",
+          "latlng": [
+            -20.428662,
+            57.573681
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67909,
+          "name": "Saint Aubin",
+          "latlng": [
+            -20.496,
+            57.55
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67914,
+          "name": "Souillac",
+          "latlng": [
+            -20.51667,
+            57.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153410,
+          "name": "St Aubin",
+          "latlng": [
+            -20.494446,
+            57.550335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67915,
+          "name": "Surinam",
+          "latlng": [
+            -20.50972,
+            57.50528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

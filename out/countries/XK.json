@@ -1,0 +1,79 @@
+{
+  "name": {
+    "common": "Kosovo",
+    "official": "Kosovo"
+  },
+  "iso2": "XK",
+  "iso3": "XKX",
+  "numericCode": "926",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "tld": ".xk",
+  "phoneCode": "383",
+  "capital": "Pristina",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Belgrade",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/xk.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/xk.svg",
+  "states": [
+    {
+      "id": 4874,
+      "name": "Ferizaj",
+      "code": "XUF",
+      "shortName": "XUF",
+      "cities": []
+    },
+    {
+      "id": 4876,
+      "name": "Gjakove",
+      "code": "XDG",
+      "shortName": "XDG",
+      "cities": []
+    },
+    {
+      "id": 4877,
+      "name": "Gjilan",
+      "code": "XGJ",
+      "shortName": "XGJ",
+      "cities": []
+    },
+    {
+      "id": 4878,
+      "name": "Mitrovica",
+      "code": "XKM",
+      "shortName": "XKM",
+      "cities": []
+    },
+    {
+      "id": 5321,
+      "name": "Peja",
+      "code": "PEJ",
+      "shortName": "PEJ",
+      "cities": []
+    },
+    {
+      "id": 4879,
+      "name": "Pristina",
+      "code": "XPI",
+      "shortName": "XPI",
+      "cities": []
+    },
+    {
+      "id": 5322,
+      "name": "Prizren",
+      "code": "PRI",
+      "shortName": "PRI",
+      "cities": []
+    }
+  ]
+}

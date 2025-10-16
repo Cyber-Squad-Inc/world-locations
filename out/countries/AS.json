@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "American Samoa",
+    "official": "American Samoa"
+  },
+  "iso2": "AS",
+  "iso3": "ASM",
+  "numericCode": "016",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "tld": ".as",
+  "phoneCode": "1",
+  "capital": "Pago Pago",
+  "currencies": {
+    "USD": "United States dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Pago_Pago",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "SST",
+      "tzName": "Samoa Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/as.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/as.svg",
+  "states": []
+}

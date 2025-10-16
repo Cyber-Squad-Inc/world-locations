@@ -1,0 +1,172 @@
+{
+  "name": {
+    "common": "Madagascar",
+    "official": "Madagascar"
+  },
+  "iso2": "MG",
+  "iso3": "MDG",
+  "numericCode": "450",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "tld": ".mg",
+  "phoneCode": "261",
+  "capital": "Antananarivo",
+  "currencies": {
+    "MGA": "Malagasy ariary"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Antananarivo",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mg.svg",
+  "states": [
+    {
+      "id": 2951,
+      "name": "Antananarivo",
+      "code": "T",
+      "shortName": "T",
+      "cities": []
+    },
+    {
+      "id": 2950,
+      "name": "Antsiranana",
+      "code": "D",
+      "shortName": "D",
+      "cities": [
+        {
+          "id": 67377,
+          "name": "Ampasimanolotra",
+          "latlng": [
+            -18.81667,
+            49.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67378,
+          "name": "Andovoranto",
+          "latlng": [
+            -18.95443,
+            49.1094
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67379,
+          "name": "Mahanoro",
+          "latlng": [
+            -19.9,
+            48.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67380,
+          "name": "Mahavelona",
+          "latlng": [
+            -17.68475,
+            49.50869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67381,
+          "name": "Marolambo",
+          "latlng": [
+            -20.05,
+            48.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67382,
+          "name": "Toamasina",
+          "latlng": [
+            -18.1492,
+            49.40234
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67383,
+          "name": "Toamasina I",
+          "latlng": [
+            -18.13863,
+            49.39203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67384,
+          "name": "Toamasina II",
+          "latlng": [
+            -17.94053,
+            49.14608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67385,
+          "name": "Vohibinany",
+          "latlng": [
+            -17.35,
+            49.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2948,
+      "name": "Fianarantsoa",
+      "code": "F",
+      "shortName": "F",
+      "cities": []
+    },
+    {
+      "id": 2953,
+      "name": "Mahajanga",
+      "code": "M",
+      "shortName": "M",
+      "cities": []
+    },
+    {
+      "id": 2952,
+      "name": "Toamasina",
+      "code": "A",
+      "shortName": "A",
+      "cities": []
+    },
+    {
+      "id": 2949,
+      "name": "Toliara",
+      "code": "U",
+      "shortName": "U",
+      "cities": []
+    }
+  ]
+}

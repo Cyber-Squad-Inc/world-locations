@@ -1,0 +1,945 @@
+{
+  "name": {
+    "common": "Senegal",
+    "official": "Senegal"
+  },
+  "iso2": "SN",
+  "iso3": "SEN",
+  "numericCode": "686",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".sn",
+  "phoneCode": "221",
+  "capital": "Dakar",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Dakar",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/sn.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/sn.svg",
+  "states": [
+    {
+      "id": 473,
+      "name": "Dakar",
+      "code": "DK",
+      "shortName": "DK",
+      "cities": [
+        {
+          "id": 104704,
+          "name": "Dakar",
+          "latlng": [
+            14.6937,
+            -17.44406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104705,
+          "name": "Dakar Department",
+          "latlng": [
+            14.71403,
+            -17.45534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104716,
+          "name": "Guédiawaye Department",
+          "latlng": [
+            14.7761,
+            -17.3956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104737,
+          "name": "Mermoz Boabab",
+          "latlng": [
+            14.70649,
+            -17.47581
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104744,
+          "name": "N’diareme limamoulaye",
+          "latlng": [
+            14.78148,
+            -17.3841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104748,
+          "name": "Pikine",
+          "latlng": [
+            14.76457,
+            -17.39071
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104749,
+          "name": "Pikine Department",
+          "latlng": [
+            14.76515,
+            -17.35198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104756,
+          "name": "Rufisque Department",
+          "latlng": [
+            14.74339,
+            -17.19841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Diourbel Region",
+      "code": "DB",
+      "shortName": "DB",
+      "cities": [
+        {
+          "id": 104734,
+          "name": "Mbacké",
+          "latlng": [
+            14.80828,
+            -15.86454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104735,
+          "name": "Mbaké",
+          "latlng": [
+            14.79032,
+            -15.90803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104769,
+          "name": "Tiébo",
+          "latlng": [
+            14.63333,
+            -16.23333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104770,
+          "name": "Touba",
+          "latlng": [
+            14.85,
+            -15.88333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Fatick",
+      "code": "FK",
+      "shortName": "FK",
+      "cities": [
+        {
+          "id": 104708,
+          "name": "Diofior",
+          "latlng": [
+            14.18333,
+            -16.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104710,
+          "name": "Fatick Department",
+          "latlng": [
+            14.25909,
+            -16.49884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104711,
+          "name": "Foundiougne",
+          "latlng": [
+            14.13333,
+            -16.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104715,
+          "name": "Guinguinéo",
+          "latlng": [
+            14.26667,
+            -15.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104747,
+          "name": "Passi",
+          "latlng": [
+            13.98333,
+            -16.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104751,
+          "name": "Pourham",
+          "latlng": [
+            14.35,
+            -16.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104759,
+          "name": "Sokone",
+          "latlng": [
+            13.88333,
+            -16.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Kaffrine",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": [
+        {
+          "id": 104719,
+          "name": "Kaffrine",
+          "latlng": [
+            14.10594,
+            -15.5508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104726,
+          "name": "Koungheul",
+          "latlng": [
+            13.98333,
+            -14.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Kaolack",
+      "code": "KL",
+      "shortName": "KL",
+      "cities": [
+        {
+          "id": 104712,
+          "name": "Gandiaye",
+          "latlng": [
+            14.23333,
+            -16.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104721,
+          "name": "Kaolack",
+          "latlng": [
+            14.15197,
+            -16.07259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104741,
+          "name": "Ndofane",
+          "latlng": [
+            13.91667,
+            -15.93333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104743,
+          "name": "Nioro du Rip",
+          "latlng": [
+            13.75,
+            -15.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Kédougou",
+      "code": "KE",
+      "shortName": "KE",
+      "cities": [
+        {
+          "id": 104709,
+          "name": "Département de Salémata",
+          "latlng": [
+            12.59971,
+            -12.77619
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104727,
+          "name": "Kédougou",
+          "latlng": [
+            12.55561,
+            -12.18076
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104728,
+          "name": "Kédougou Department",
+          "latlng": [
+            12.81716,
+            -12.17834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104758,
+          "name": "Saraya",
+          "latlng": [
+            13.0015,
+            -11.79627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Kolda",
+      "code": "KD",
+      "shortName": "KD",
+      "cities": [
+        {
+          "id": 104724,
+          "name": "Kolda",
+          "latlng": [
+            12.8939,
+            -14.94125
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104725,
+          "name": "Kolda Department",
+          "latlng": [
+            12.883,
+            -14.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104731,
+          "name": "Marsassoum",
+          "latlng": [
+            12.8275,
+            -15.98056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104771,
+          "name": "Vélingara",
+          "latlng": [
+            13.15,
+            -14.11667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "name": "Louga",
+      "code": "LG",
+      "shortName": "LG",
+      "cities": [
+        {
+          "id": 104706,
+          "name": "Dara",
+          "latlng": [
+            15.34844,
+            -15.47993
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104717,
+          "name": "Guéoul",
+          "latlng": [
+            15.48333,
+            -16.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104729,
+          "name": "Linguere Department",
+          "latlng": [
+            15.359,
+            -15.158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104730,
+          "name": "Louga",
+          "latlng": [
+            15.61867,
+            -16.22436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104739,
+          "name": "Ndibène Dahra",
+          "latlng": [
+            15.3338,
+            -15.4766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "name": "Matam",
+      "code": "MT",
+      "shortName": "MT",
+      "cities": [
+        {
+          "id": 104707,
+          "name": "Diawara",
+          "latlng": [
+            15.02196,
+            -12.54374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104720,
+          "name": "Kanel",
+          "latlng": [
+            15.4916,
+            -13.17627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104732,
+          "name": "Matam",
+          "latlng": [
+            15.65587,
+            -13.25544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104733,
+          "name": "Matam Department",
+          "latlng": [
+            15.73191,
+            -13.63393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104745,
+          "name": "Ouro Sogui",
+          "latlng": [
+            15.60588,
+            -13.3223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104753,
+          "name": "Ranérou",
+          "latlng": [
+            15.3,
+            -13.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104761,
+          "name": "Sémé",
+          "latlng": [
+            15.19422,
+            -12.94482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104772,
+          "name": "Waoundé",
+          "latlng": [
+            15.26367,
+            -12.86821
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Saint-Louis",
+      "code": "SL",
+      "shortName": "SL",
+      "cities": [
+        {
+          "id": 104713,
+          "name": "Goléré",
+          "latlng": [
+            16.25575,
+            -14.10165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104740,
+          "name": "Ndioum",
+          "latlng": [
+            16.51293,
+            -14.64706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104750,
+          "name": "Polel Diaoubé",
+          "latlng": [
+            15.26667,
+            -13
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104754,
+          "name": "Richard-Toll",
+          "latlng": [
+            16.4625,
+            -15.70083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104755,
+          "name": "Rosso",
+          "latlng": [
+            16.42028,
+            -15.79834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104757,
+          "name": "Saint-Louis",
+          "latlng": [
+            16.01793,
+            -16.48962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Sédhiou",
+      "code": "SE",
+      "shortName": "SE",
+      "cities": [
+        {
+          "id": 104714,
+          "name": "Goudomp Department",
+          "latlng": [
+            12.57778,
+            -15.87222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104760,
+          "name": "Sédhiou",
+          "latlng": [
+            12.70806,
+            -15.55694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Tambacounda Region",
+      "code": "TC",
+      "shortName": "TC",
+      "cities": [
+        {
+          "id": 104762,
+          "name": "Tambacounda",
+          "latlng": [
+            13.77073,
+            -13.66734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104763,
+          "name": "Tambacounda Department",
+          "latlng": [
+            13.605,
+            -13.647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Thiès Region",
+      "code": "TH",
+      "shortName": "TH",
+      "cities": [
+        {
+          "id": 104718,
+          "name": "Joal-Fadiout",
+          "latlng": [
+            14.16667,
+            -16.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104722,
+          "name": "Kayar",
+          "latlng": [
+            14.91893,
+            -17.11978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104723,
+          "name": "Khombole",
+          "latlng": [
+            14.76667,
+            -16.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104736,
+          "name": "Mbour",
+          "latlng": [
+            14.40569,
+            -16.85559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104738,
+          "name": "Mékhé",
+          "latlng": [
+            15.1097,
+            -16.6218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104742,
+          "name": "Nguékhokh",
+          "latlng": [
+            14.51255,
+            -17.00447
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104752,
+          "name": "Pout",
+          "latlng": [
+            14.77099,
+            -17.06107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104764,
+          "name": "Thiès",
+          "latlng": [
+            14.73004,
+            -16.86974
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104765,
+          "name": "Thiès Nones",
+          "latlng": [
+            14.78333,
+            -16.96667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104766,
+          "name": "Tiadiaye",
+          "latlng": [
+            14.41667,
+            -16.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104768,
+          "name": "Tivaouane",
+          "latlng": [
+            15.08519,
+            -16.71058
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104773,
+          "name": "Warang",
+          "latlng": [
+            14.37349,
+            -16.94366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Ziguinchor",
+      "code": "ZG",
+      "shortName": "ZG",
+      "cities": [
+        {
+          "id": 104702,
+          "name": "Adéane",
+          "latlng": [
+            12.63,
+            -16.01694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104703,
+          "name": "Bignona",
+          "latlng": [
+            12.81028,
+            -16.22639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104746,
+          "name": "Oussouye",
+          "latlng": [
+            12.485,
+            -16.54694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104767,
+          "name": "Tionk Essil",
+          "latlng": [
+            12.78556,
+            -16.52167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104774,
+          "name": "Ziguinchor",
+          "latlng": [
+            12.56801,
+            -16.27326
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

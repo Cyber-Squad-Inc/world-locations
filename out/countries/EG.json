@@ -1,0 +1,1973 @@
+{
+  "name": {
+    "common": "Egypt",
+    "official": "Egypt"
+  },
+  "iso2": "EG",
+  "iso3": "EGY",
+  "numericCode": "818",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "tld": ".eg",
+  "phoneCode": "20",
+  "capital": "Cairo",
+  "currencies": {
+    "EGP": "Egyptian pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Cairo",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/eg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/eg.svg",
+  "states": [
+    {
+      "id": 3235,
+      "name": "Alexandria",
+      "code": "ALX",
+      "shortName": "ALX",
+      "cities": [
+        {
+          "id": 149594,
+          "name": "Abu Qir",
+          "latlng": [
+            31.31666667,
+            30.06666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149595,
+          "name": "Agami",
+          "latlng": [
+            31.0959,
+            29.7604
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31787,
+          "name": "Alexandria",
+          "latlng": [
+            31.20176,
+            29.91582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149596,
+          "name": "Ar-Raml",
+          "latlng": [
+            31.24821,
+            29.97368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149597,
+          "name": "Borg El Arab",
+          "latlng": [
+            30.91666667,
+            29.53333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149598,
+          "name": "Montaza",
+          "latlng": [
+            31.2827,
+            30.0219
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149599,
+          "name": "New Borg El Arab",
+          "latlng": [
+            30.88525,
+            29.57721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149600,
+          "name": "Sidi Bishr",
+          "latlng": [
+            31.2521,
+            29.9945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3225,
+      "name": "Aswan",
+      "code": "ASN",
+      "shortName": "ASN",
+      "cities": [
+        {
+          "id": 31756,
+          "name": "Abu Simbel",
+          "latlng": [
+            22.3457,
+            31.61624
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31791,
+          "name": "Aswan",
+          "latlng": [
+            24.09082,
+            32.89942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31819,
+          "name": "Idfū",
+          "latlng": [
+            24.97916,
+            32.87722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31829,
+          "name": "Kawm Umbū",
+          "latlng": [
+            24.47669,
+            32.94626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3236,
+      "name": "Asyut",
+      "code": "AST",
+      "shortName": "AST",
+      "cities": [
+        {
+          "id": 31755,
+          "name": "Abnūb",
+          "latlng": [
+            27.2696,
+            31.15105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31758,
+          "name": "Abū Tīj",
+          "latlng": [
+            27.04411,
+            31.31897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31764,
+          "name": "Al Badārī",
+          "latlng": [
+            26.99257,
+            31.41554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31781,
+          "name": "Al Qūşīyah",
+          "latlng": [
+            27.4402,
+            30.81841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31792,
+          "name": "Asyūţ",
+          "latlng": [
+            27.18096,
+            31.18368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31807,
+          "name": "Dayrūţ",
+          "latlng": [
+            27.55602,
+            30.80764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31836,
+          "name": "Manfalūţ",
+          "latlng": [
+            27.3104,
+            30.97004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3241,
+      "name": "Beheira",
+      "code": "BH",
+      "shortName": "BH",
+      "cities": [
+        {
+          "id": 31759,
+          "name": "Abū al Maţāmīr",
+          "latlng": [
+            30.91018,
+            30.17438
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31760,
+          "name": "Ad Dilinjāt",
+          "latlng": [
+            30.82796,
+            30.53552
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31804,
+          "name": "Damanhūr",
+          "latlng": [
+            31.03408,
+            30.46823
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31879,
+          "name": "Ḩawsh ‘Īsá",
+          "latlng": [
+            30.9128,
+            30.29019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31820,
+          "name": "Idkū",
+          "latlng": [
+            31.3073,
+            30.2981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31826,
+          "name": "Kafr ad Dawwār",
+          "latlng": [
+            31.13379,
+            30.12969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31830,
+          "name": "Kawm Ḩamādah",
+          "latlng": [
+            30.76128,
+            30.69972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31857,
+          "name": "Rosetta",
+          "latlng": [
+            31.39951,
+            30.41718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3230,
+      "name": "Beni Suef",
+      "code": "BNS",
+      "shortName": "BNS",
+      "cities": [
+        {
+          "id": 31768,
+          "name": "Al Fashn",
+          "latlng": [
+            28.82431,
+            30.89948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31798,
+          "name": "Banī Suwayf",
+          "latlng": [
+            29.07441,
+            31.09785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31801,
+          "name": "Būsh",
+          "latlng": [
+            29.14816,
+            31.12733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31869,
+          "name": "Sumusţā as Sulţānī",
+          "latlng": [
+            28.91667,
+            30.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3223,
+      "name": "Cairo",
+      "code": "C",
+      "shortName": "C",
+      "cities": [
+        {
+          "id": 149582,
+          "name": "Badr",
+          "latlng": [
+            30.136,
+            31.715
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149583,
+          "name": "Bulaq",
+          "latlng": [
+            30.053,
+            31.23
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31802,
+          "name": "Cairo",
+          "latlng": [
+            30.06263,
+            31.24967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149584,
+          "name": "El Mataria",
+          "latlng": [
+            30.1295,
+            31.2889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149585,
+          "name": "Fustat",
+          "latlng": [
+            30,
+            31.23333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149586,
+          "name": "Hadayek El Kobba",
+          "latlng": [
+            30.0967,
+            31.3103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149587,
+          "name": "Heliopolis",
+          "latlng": [
+            30.13333333,
+            31.3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149588,
+          "name": "Helwan",
+          "latlng": [
+            29.84194444,
+            31.33416667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149589,
+          "name": "Maadi",
+          "latlng": [
+            29.9667,
+            31.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149590,
+          "name": "Musturud",
+          "latlng": [
+            30.13881944,
+            31.29241111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149591,
+          "name": "New Administrative Capital of Egypt",
+          "latlng": [
+            30.0275,
+            31.765
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149592,
+          "name": "Shubra",
+          "latlng": [
+            30.0725,
+            31.2408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149593,
+          "name": "Tura",
+          "latlng": [
+            29.939279,
+            31.290007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3245,
+      "name": "Dakahlia",
+      "code": "DK",
+      "shortName": "DK",
+      "cities": [
+        {
+          "id": 31880,
+          "name": "‘Izbat al Burj",
+          "latlng": [
+            31.5084,
+            31.84106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31762,
+          "name": "Ajā",
+          "latlng": [
+            30.94162,
+            31.29039
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31770,
+          "name": "Al Jammālīyah",
+          "latlng": [
+            31.18065,
+            31.86497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31775,
+          "name": "Al Manşūrah",
+          "latlng": [
+            31.03637,
+            31.38069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31774,
+          "name": "Al Manzalah",
+          "latlng": [
+            31.15823,
+            31.936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31776,
+          "name": "Al Maţarīyah",
+          "latlng": [
+            31.18287,
+            32.03108
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31800,
+          "name": "Bilqās",
+          "latlng": [
+            31.21452,
+            31.35798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31808,
+          "name": "Dikirnis",
+          "latlng": [
+            31.08898,
+            31.59478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31844,
+          "name": "Minyat an Naşr",
+          "latlng": [
+            31.12624,
+            31.64313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31865,
+          "name": "Shirbīn",
+          "latlng": [
+            31.19688,
+            31.5243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31876,
+          "name": "Ţalkhā",
+          "latlng": [
+            31.0539,
+            31.37787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3224,
+      "name": "Damietta",
+      "code": "DT",
+      "shortName": "DT",
+      "cities": [
+        {
+          "id": 31794,
+          "name": "Az Zarqā",
+          "latlng": [
+            31.20864,
+            31.63528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31805,
+          "name": "Damietta",
+          "latlng": [
+            31.41648,
+            31.81332
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31815,
+          "name": "Fāraskūr",
+          "latlng": [
+            31.32977,
+            31.71507
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3238,
+      "name": "Faiyum",
+      "code": "FYM",
+      "shortName": "FYM",
+      "cities": [
+        {
+          "id": 31769,
+          "name": "Al Fayyūm",
+          "latlng": [
+            29.30995,
+            30.8418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31782,
+          "name": "Al Wāsiţah",
+          "latlng": [
+            29.33778,
+            31.20556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31818,
+          "name": "Ibshawāy",
+          "latlng": [
+            29.35896,
+            30.68061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31823,
+          "name": "Iţsā",
+          "latlng": [
+            29.2376,
+            30.78944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31877,
+          "name": "Ţāmiyah",
+          "latlng": [
+            29.47639,
+            30.96119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3234,
+      "name": "Gharbia",
+      "code": "GH",
+      "shortName": "GH",
+      "cities": [
+        {
+          "id": 31777,
+          "name": "Al Maḩallah al Kubrá",
+          "latlng": [
+            30.97063,
+            31.1669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31799,
+          "name": "Basyūn",
+          "latlng": [
+            30.93976,
+            30.81338
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31828,
+          "name": "Kafr az Zayyāt",
+          "latlng": [
+            30.8248,
+            30.81805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31855,
+          "name": "Quţūr",
+          "latlng": [
+            30.97225,
+            30.95614
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31860,
+          "name": "Samannūd",
+          "latlng": [
+            30.9616,
+            31.24069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31872,
+          "name": "Tanda",
+          "latlng": [
+            30.78847,
+            31.00192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31874,
+          "name": "Zefta",
+          "latlng": [
+            30.7142,
+            31.24425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3239,
+      "name": "Giza",
+      "code": "GZ",
+      "shortName": "GZ",
+      "cities": [
+        {
+          "id": 31786,
+          "name": "Al ‘Ayyāţ",
+          "latlng": [
+            29.61972,
+            31.2575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31766,
+          "name": "Al Bawīţī",
+          "latlng": [
+            28.34919,
+            28.86591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31783,
+          "name": "Al Ḩawāmidīyah",
+          "latlng": [
+            29.9,
+            31.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31795,
+          "name": "Aş Şaff",
+          "latlng": [
+            29.56472,
+            31.28111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31793,
+          "name": "Awsīm",
+          "latlng": [
+            30.12303,
+            31.13571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31816,
+          "name": "Giza",
+          "latlng": [
+            30.00808,
+            31.21093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31833,
+          "name": "Madīnat Sittah Uktūbar",
+          "latlng": [
+            29.81667,
+            31.05
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3244,
+      "name": "Ismailia",
+      "code": "IS",
+      "shortName": "IS",
+      "cities": [
+        {
+          "id": 31821,
+          "name": "Ismailia",
+          "latlng": [
+            30.60427,
+            32.27225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3222,
+      "name": "Kafr el-Sheikh",
+      "code": "KFS",
+      "shortName": "KFS",
+      "cities": [
+        {
+          "id": 31784,
+          "name": "Al Ḩāmūl",
+          "latlng": [
+            31.31146,
+            31.14766
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31810,
+          "name": "Disūq",
+          "latlng": [
+            31.13259,
+            30.64784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31814,
+          "name": "Fuwwah",
+          "latlng": [
+            31.20365,
+            30.54908
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31827,
+          "name": "Kafr ash Shaykh",
+          "latlng": [
+            31.11174,
+            30.93991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31837,
+          "name": "Markaz Disūq",
+          "latlng": [
+            31.1459,
+            30.71609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31845,
+          "name": "Munshāt ‘Alī Āghā",
+          "latlng": [
+            31.15791,
+            30.70177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31870,
+          "name": "Sīdī Sālim",
+          "latlng": [
+            31.27133,
+            30.78617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3242,
+      "name": "Luxor",
+      "code": "LX",
+      "shortName": "LX",
+      "cities": [
+        {
+          "id": 31832,
+          "name": "Luxor",
+          "latlng": [
+            25.69893,
+            32.6421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31840,
+          "name": "Markaz al Uqşur",
+          "latlng": [
+            25.62986,
+            32.59017
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3231,
+      "name": "Matrouh",
+      "code": "MT",
+      "shortName": "MT",
+      "cities": [
+        {
+          "id": 31785,
+          "name": "Al ‘Alamayn",
+          "latlng": [
+            30.83007,
+            28.95502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31843,
+          "name": "Mersa Matruh",
+          "latlng": [
+            31.3529,
+            27.23725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31866,
+          "name": "Siwa Oasis",
+          "latlng": [
+            29.2032,
+            25.51965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3243,
+      "name": "Minya",
+      "code": "MN",
+      "shortName": "MN",
+      "cities": [
+        {
+          "id": 31757,
+          "name": "Abū Qurqāş",
+          "latlng": [
+            27.9312,
+            30.83841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31778,
+          "name": "Al Minyā",
+          "latlng": [
+            28.10988,
+            30.7503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31797,
+          "name": "Banī Mazār",
+          "latlng": [
+            28.5036,
+            30.8004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31806,
+          "name": "Dayr Mawās",
+          "latlng": [
+            27.64176,
+            30.84662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31835,
+          "name": "Mallawī",
+          "latlng": [
+            27.7314,
+            30.84165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31842,
+          "name": "Maţāy",
+          "latlng": [
+            28.41899,
+            30.77924
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31861,
+          "name": "Samālūţ",
+          "latlng": [
+            28.31214,
+            30.71007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3228,
+      "name": "Monufia",
+      "code": "MNF",
+      "shortName": "MNF",
+      "cities": [
+        {
+          "id": 31767,
+          "name": "Al Bājūr",
+          "latlng": [
+            30.43046,
+            31.03679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31789,
+          "name": "Ash Shuhadā’",
+          "latlng": [
+            30.59683,
+            30.89931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31790,
+          "name": "Ashmūn",
+          "latlng": [
+            30.29735,
+            30.97641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31846,
+          "name": "Munūf",
+          "latlng": [
+            30.46597,
+            30.93199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31854,
+          "name": "Quwaysinā",
+          "latlng": [
+            30.56482,
+            31.15777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31863,
+          "name": "Shibīn al Kawm",
+          "latlng": [
+            30.55258,
+            31.00904
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31871,
+          "name": "Talā",
+          "latlng": [
+            30.6798,
+            30.94364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3246,
+      "name": "New Valley",
+      "code": "WAD",
+      "shortName": "WAD",
+      "cities": [
+        {
+          "id": 31772,
+          "name": "Al Khārijah",
+          "latlng": [
+            25.45141,
+            30.54635
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31852,
+          "name": "Qaşr al Farāfirah",
+          "latlng": [
+            27.0568,
+            27.96979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3227,
+      "name": "North Sinai",
+      "code": "SIN",
+      "shortName": "SIN",
+      "cities": [
+        {
+          "id": 31788,
+          "name": "Arish",
+          "latlng": [
+            31.13159,
+            33.79844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3229,
+      "name": "Port Said",
+      "code": "PTS",
+      "shortName": "PTS",
+      "cities": [
+        {
+          "id": 31850,
+          "name": "Port Said",
+          "latlng": [
+            31.25654,
+            32.28411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3232,
+      "name": "Qalyubia",
+      "code": "KB",
+      "shortName": "KB",
+      "cities": [
+        {
+          "id": 31771,
+          "name": "Al Khānkah",
+          "latlng": [
+            30.21035,
+            31.36812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31779,
+          "name": "Al Qanāţir al Khayrīyah",
+          "latlng": [
+            30.19327,
+            31.13703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31796,
+          "name": "Banhā",
+          "latlng": [
+            30.45977,
+            31.1842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31851,
+          "name": "Qalyūb",
+          "latlng": [
+            30.17922,
+            31.2056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31864,
+          "name": "Shibīn al Qanāṭir",
+          "latlng": [
+            30.31269,
+            31.32018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31873,
+          "name": "Toukh",
+          "latlng": [
+            30.35487,
+            31.20105
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3247,
+      "name": "Qena",
+      "code": "KN",
+      "shortName": "KN",
+      "cities": [
+        {
+          "id": 31809,
+          "name": "Dishnā",
+          "latlng": [
+            26.12467,
+            32.47598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31813,
+          "name": "Farshūţ",
+          "latlng": [
+            26.05494,
+            32.16329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31822,
+          "name": "Isnā",
+          "latlng": [
+            25.29336,
+            32.55402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31831,
+          "name": "Kousa",
+          "latlng": [
+            25.91407,
+            32.76362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31847,
+          "name": "Naja' Ḥammādī",
+          "latlng": [
+            26.04949,
+            32.24142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31853,
+          "name": "Qinā",
+          "latlng": [
+            26.16418,
+            32.72671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3240,
+      "name": "Red Sea",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 31780,
+          "name": "Al Quşayr",
+          "latlng": [
+            26.10426,
+            34.27793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31811,
+          "name": "El Gouna",
+          "latlng": [
+            27.39417,
+            33.67825
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31817,
+          "name": "Hurghada",
+          "latlng": [
+            27.25738,
+            33.81291
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31834,
+          "name": "Makadi Bay",
+          "latlng": [
+            26.99123,
+            33.89952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31841,
+          "name": "Marsa Alam",
+          "latlng": [
+            25.06305,
+            34.89005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31856,
+          "name": "Ras Gharib",
+          "latlng": [
+            28.35831,
+            33.07829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31858,
+          "name": "Safaga",
+          "latlng": [
+            26.74906,
+            33.93891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5067,
+      "name": "Sharqia",
+      "code": "SHR",
+      "shortName": "SHR",
+      "cities": [
+        {
+          "id": 149220,
+          "name": "10th of Ramadan",
+          "latlng": [
+            30.2993939,
+            31.6141789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149228,
+          "name": "Al Qurein",
+          "latlng": [
+            26.2930066,
+            31.8495035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149223,
+          "name": "Awlad Saqr",
+          "latlng": [
+            30.9309623,
+            31.6913238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149224,
+          "name": "Bilbeis",
+          "latlng": [
+            30.4167692,
+            31.5543048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149225,
+          "name": "Diyarb Negm",
+          "latlng": [
+            30.7480082,
+            31.3889308
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149226,
+          "name": "El Husseiniya",
+          "latlng": [
+            31.1393396,
+            32.1494967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149229,
+          "name": "Faqous",
+          "latlng": [
+            30.7229174,
+            31.7613658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149230,
+          "name": "Hihya",
+          "latlng": [
+            30.6551621,
+            31.5067157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149231,
+          "name": "Kafr Saqr",
+          "latlng": [
+            30.7795514,
+            31.6177412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149221,
+          "name": "Markaz Abū Ḩammād",
+          "latlng": [
+            30.5360443,
+            31.6597023
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149232,
+          "name": "Mashtoul El Souk",
+          "latlng": [
+            30.3557011,
+            31.3627853
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149233,
+          "name": "Minya El Qamh",
+          "latlng": [
+            30.5003745,
+            31.2376685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149234,
+          "name": "New Salhia",
+          "latlng": [
+            30.6286879,
+            31.9209906
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 149235,
+          "name": "Zagazig",
+          "latlng": [
+            30.5845623,
+            31.3474779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3226,
+      "name": "Sohag",
+      "code": "SHG",
+      "shortName": "SHG",
+      "cities": [
+        {
+          "id": 31763,
+          "name": "Akhmīm",
+          "latlng": [
+            26.56217,
+            31.74503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31765,
+          "name": "Al Balyanā",
+          "latlng": [
+            26.23568,
+            32.00347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31773,
+          "name": "Al Manshāh",
+          "latlng": [
+            26.47686,
+            31.8035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31824,
+          "name": "Jirjā",
+          "latlng": [
+            26.33826,
+            31.89161
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31825,
+          "name": "Juhaynah",
+          "latlng": [
+            26.67319,
+            31.4976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31838,
+          "name": "Markaz Jirjā",
+          "latlng": [
+            26.30683,
+            31.84574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31839,
+          "name": "Markaz Sūhāj",
+          "latlng": [
+            26.53948,
+            31.67524
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31867,
+          "name": "Sohag",
+          "latlng": [
+            26.55695,
+            31.69478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31875,
+          "name": "Ţahţā",
+          "latlng": [
+            26.7693,
+            31.50214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3237,
+      "name": "South Sinai",
+      "code": "JS",
+      "shortName": "JS",
+      "cities": [
+        {
+          "id": 31803,
+          "name": "Dahab",
+          "latlng": [
+            28.48208,
+            34.49505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31812,
+          "name": "El-Tor",
+          "latlng": [
+            28.24168,
+            33.6222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31849,
+          "name": "Nuwaybi‘a",
+          "latlng": [
+            29.04681,
+            34.6634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31859,
+          "name": "Saint Catherine",
+          "latlng": [
+            28.56191,
+            33.94934
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31862,
+          "name": "Sharm el-Sheikh",
+          "latlng": [
+            27.91582,
+            34.32995
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3233,
+      "name": "Suez",
+      "code": "SUZ",
+      "shortName": "SUZ",
+      "cities": [
+        {
+          "id": 31761,
+          "name": "Ain Sukhna",
+          "latlng": [
+            29.60018,
+            32.31671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31868,
+          "name": "Suez",
+          "latlng": [
+            29.97371,
+            32.52627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

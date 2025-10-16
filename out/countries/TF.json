@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "French Southern Territories",
+    "official": "French Southern Territories"
+  },
+  "iso2": "TF",
+  "iso3": "ATF",
+  "numericCode": "260",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "tld": ".tf",
+  "phoneCode": "262",
+  "capital": "Port-aux-Francais",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Indian/Kerguelen",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TFT",
+      "tzName": "French Southern and Antarctic Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tf.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tf.svg",
+  "states": []
+}

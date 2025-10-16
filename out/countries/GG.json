@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Guernsey",
+    "official": "Guernsey"
+  },
+  "iso2": "GG",
+  "iso3": "GGY",
+  "numericCode": "831",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".gg",
+  "phoneCode": "44",
+  "capital": "St Peter Port",
+  "currencies": {
+    "GBP": "British pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Guernsey",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/gg.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/gg.svg",
+  "states": []
+}

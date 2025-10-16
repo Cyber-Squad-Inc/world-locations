@@ -1,0 +1,5129 @@
+{
+  "name": {
+    "common": "Slovenia",
+    "official": "Slovenia"
+  },
+  "iso2": "SI",
+  "iso3": "SVN",
+  "numericCode": "705",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".si",
+  "phoneCode": "386",
+  "capital": "Ljubljana",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Ljubljana",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/si.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/si.svg",
+  "states": [
+    {
+      "id": 4183,
+      "name": "Ajdovščina",
+      "code": "001",
+      "shortName": "001",
+      "cities": [
+        {
+          "id": 104059,
+          "name": "Ajdovščina",
+          "latlng": [
+            45.88601,
+            13.90946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104084,
+          "name": "Cirkulane",
+          "latlng": [
+            46.34408,
+            15.99472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104174,
+          "name": "Lokavec",
+          "latlng": [
+            45.90167,
+            13.87972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4326,
+      "name": "Ankaran",
+      "code": "213",
+      "shortName": "213",
+      "cities": [
+        {
+          "id": 104060,
+          "name": "Ankaran",
+          "latlng": [
+            45.57861,
+            13.73611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4318,
+      "name": "Apače",
+      "code": "195",
+      "shortName": "195",
+      "cities": [
+        {
+          "id": 104061,
+          "name": "Apače",
+          "latlng": [
+            46.69722,
+            15.91056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4301,
+      "name": "Beltinci",
+      "code": "002",
+      "shortName": "002",
+      "cities": [
+        {
+          "id": 104063,
+          "name": "Beltinci",
+          "latlng": [
+            46.60528,
+            16.24056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104104,
+          "name": "Gančani",
+          "latlng": [
+            46.6325,
+            16.25111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104166,
+          "name": "Lipovci",
+          "latlng": [
+            46.62833,
+            16.22806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104331,
+          "name": "Zgornje Gorje",
+          "latlng": [
+            46.37962,
+            14.06937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4166,
+      "name": "Benedikt",
+      "code": "148",
+      "shortName": "148",
+      "cities": [
+        {
+          "id": 104064,
+          "name": "Benedikt",
+          "latlng": [
+            46.60861,
+            15.88833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4179,
+      "name": "Bistrica ob Sotli",
+      "code": "149",
+      "shortName": "149",
+      "cities": [
+        {
+          "id": 104067,
+          "name": "Bistrica ob Sotli",
+          "latlng": [
+            46.05889,
+            15.66417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4202,
+      "name": "Bled",
+      "code": "003",
+      "shortName": "003",
+      "cities": [
+        {
+          "id": 104069,
+          "name": "Bled",
+          "latlng": [
+            46.36917,
+            14.11361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104144,
+          "name": "Kostanjevica na Krki",
+          "latlng": [
+            45.84611,
+            15.42222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104326,
+          "name": "Zasip",
+          "latlng": [
+            46.39284,
+            14.10869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4278,
+      "name": "Bloke",
+      "code": "150",
+      "shortName": "150",
+      "cities": [
+        {
+          "id": 104207,
+          "name": "Nova Vas",
+          "latlng": [
+            45.77167,
+            14.50583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4282,
+      "name": "Bohinj",
+      "code": "004",
+      "shortName": "004",
+      "cities": [
+        {
+          "id": 104070,
+          "name": "Bohinjska Bistrica",
+          "latlng": [
+            46.27216,
+            13.9535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104100,
+          "name": "Dragomer",
+          "latlng": [
+            46.01667,
+            14.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104172,
+          "name": "Log pri Brezovici",
+          "latlng": [
+            46.01667,
+            14.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4200,
+      "name": "Borovnica",
+      "code": "005",
+      "shortName": "005",
+      "cities": [
+        {
+          "id": 104071,
+          "name": "Borovnica",
+          "latlng": [
+            45.91583,
+            14.36306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104180,
+          "name": "Makole",
+          "latlng": [
+            46.31722,
+            15.66722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4181,
+      "name": "Bovec",
+      "code": "006",
+      "shortName": "006",
+      "cities": [
+        {
+          "id": 104072,
+          "name": "Bovec",
+          "latlng": [
+            46.33808,
+            13.55245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104190,
+          "name": "Mirna",
+          "latlng": [
+            45.95528,
+            15.06194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4141,
+      "name": "Braslovče",
+      "code": "151",
+      "shortName": "151",
+      "cities": [
+        {
+          "id": 104073,
+          "name": "Braslovče",
+          "latlng": [
+            46.28972,
+            15.03889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4240,
+      "name": "Brda",
+      "code": "007",
+      "shortName": "007",
+      "cities": [
+        {
+          "id": 104094,
+          "name": "Dobrovo",
+          "latlng": [
+            45.99639,
+            13.52639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104195,
+          "name": "Mokronog",
+          "latlng": [
+            45.93417,
+            15.14083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4215,
+      "name": "Brežice",
+      "code": "009",
+      "shortName": "009",
+      "cities": [
+        {
+          "id": 104076,
+          "name": "Brežice",
+          "latlng": [
+            45.90333,
+            15.59111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104227,
+          "name": "Poljčane",
+          "latlng": [
+            46.31194,
+            15.57917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4165,
+      "name": "Brezovica",
+      "code": "008",
+      "shortName": "008",
+      "cities": [
+        {
+          "id": 104075,
+          "name": "Brezovica pri Ljubljani",
+          "latlng": [
+            46.03333,
+            14.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104205,
+          "name": "Notranje Gorice",
+          "latlng": [
+            45.9875,
+            14.39889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104214,
+          "name": "Opština Ljubljana-Vič-Rudnik",
+          "latlng": [
+            46.03333,
+            14.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104254,
+          "name": "Rečica ob Savinji",
+          "latlng": [
+            46.31667,
+            14.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104316,
+          "name": "Vnanje Gorice",
+          "latlng": [
+            46.00722,
+            14.42194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4147,
+      "name": "Cankova",
+      "code": "152",
+      "shortName": "152",
+      "cities": [
+        {
+          "id": 104078,
+          "name": "Cankova",
+          "latlng": [
+            46.72083,
+            16.0225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4191,
+      "name": "Celje",
+      "code": "011",
+      "shortName": "011",
+      "cities": [
+        {
+          "id": 104079,
+          "name": "Celje",
+          "latlng": [
+            46.23092,
+            15.26044
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104168,
+          "name": "Ljubečna",
+          "latlng": [
+            46.25567,
+            15.3243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104299,
+          "name": "Trnovlje pri Celju",
+          "latlng": [
+            46.25667,
+            15.29528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4310,
+      "name": "Cerklje na Gorenjskem",
+      "code": "012",
+      "shortName": "012",
+      "cities": [
+        {
+          "id": 104080,
+          "name": "Cerklje na Gorenjskem",
+          "latlng": [
+            46.25417,
+            14.48861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4162,
+      "name": "Cerknica",
+      "code": "013",
+      "shortName": "013",
+      "cities": [
+        {
+          "id": 104081,
+          "name": "Cerknica",
+          "latlng": [
+            45.79306,
+            14.3625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104246,
+          "name": "Rakek",
+          "latlng": [
+            45.81333,
+            14.31111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4178,
+      "name": "Cerkno",
+      "code": "014",
+      "shortName": "014",
+      "cities": [
+        {
+          "id": 104082,
+          "name": "Cerkno",
+          "latlng": [
+            46.12556,
+            13.98167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4176,
+      "name": "Cerkvenjak",
+      "code": "153",
+      "shortName": "153",
+      "cities": [
+        {
+          "id": 104083,
+          "name": "Cerkvenjak",
+          "latlng": [
+            46.57056,
+            15.94361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4309,
+      "name": "Cirkulane",
+      "code": "196",
+      "shortName": "196",
+      "cities": []
+    },
+    {
+      "id": 4151,
+      "name": "Črenšovci",
+      "code": "015",
+      "shortName": "015",
+      "cities": [
+        {
+          "id": 104337,
+          "name": "Črenšovci",
+          "latlng": [
+            46.55794,
+            16.3041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4232,
+      "name": "Črna na Koroškem",
+      "code": "016",
+      "shortName": "016",
+      "cities": [
+        {
+          "id": 104338,
+          "name": "Črna na Koroškem",
+          "latlng": [
+            46.47045,
+            14.85009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4291,
+      "name": "Črnomelj",
+      "code": "017",
+      "shortName": "017",
+      "cities": [
+        {
+          "id": 104339,
+          "name": "Črnomelj",
+          "latlng": [
+            45.57111,
+            15.18889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4304,
+      "name": "Destrnik",
+      "code": "018",
+      "shortName": "018",
+      "cities": [
+        {
+          "id": 104087,
+          "name": "Destrnik",
+          "latlng": [
+            46.49254,
+            15.87893
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4167,
+      "name": "Divača",
+      "code": "019",
+      "shortName": "019",
+      "cities": [
+        {
+          "id": 104088,
+          "name": "Divača",
+          "latlng": [
+            45.68472,
+            13.97028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4295,
+      "name": "Dobje",
+      "code": "154",
+      "shortName": "154",
+      "cities": [
+        {
+          "id": 104090,
+          "name": "Dobje pri Planini",
+          "latlng": [
+            46.13747,
+            15.39412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4216,
+      "name": "Dobrepolje",
+      "code": "020",
+      "shortName": "020",
+      "cities": [
+        {
+          "id": 104309,
+          "name": "Videm",
+          "latlng": [
+            45.85,
+            14.69417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4252,
+      "name": "Dobrna",
+      "code": "155",
+      "shortName": "155",
+      "cities": [
+        {
+          "id": 104091,
+          "name": "Dobrna",
+          "latlng": [
+            46.3375,
+            15.22639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4308,
+      "name": "Dobrova–Polhov Gradec",
+      "code": "021",
+      "shortName": "021",
+      "cities": [
+        {
+          "id": 104092,
+          "name": "Dobrova",
+          "latlng": [
+            46.0458,
+            14.39186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4189,
+      "name": "Dobrovnik",
+      "code": "156",
+      "shortName": "156",
+      "cities": [
+        {
+          "id": 104093,
+          "name": "Dobrovnik",
+          "latlng": [
+            46.65139,
+            16.3525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4173,
+      "name": "Dol pri Ljubljani",
+      "code": "022",
+      "shortName": "022",
+      "cities": [
+        {
+          "id": 104096,
+          "name": "Dol pri Ljubljani",
+          "latlng": [
+            46.08861,
+            14.60083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4281,
+      "name": "Dolenjske Toplice",
+      "code": "157",
+      "shortName": "157",
+      "cities": [
+        {
+          "id": 104097,
+          "name": "Dolenjske Toplice",
+          "latlng": [
+            45.75657,
+            15.05917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4159,
+      "name": "Domžale",
+      "code": "023",
+      "shortName": "023",
+      "cities": [
+        {
+          "id": 104089,
+          "name": "Dob",
+          "latlng": [
+            46.15194,
+            14.62861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104098,
+          "name": "Domžale",
+          "latlng": [
+            46.13774,
+            14.59371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104244,
+          "name": "Radomlje",
+          "latlng": [
+            46.17361,
+            14.61222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104312,
+          "name": "Vir",
+          "latlng": [
+            46.15325,
+            14.60741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4290,
+      "name": "Dornava",
+      "code": "024",
+      "shortName": "024",
+      "cities": [
+        {
+          "id": 104099,
+          "name": "Dornava",
+          "latlng": [
+            46.43667,
+            15.95361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4345,
+      "name": "Dravograd",
+      "code": "025",
+      "shortName": "025",
+      "cities": [
+        {
+          "id": 104102,
+          "name": "Dravograd",
+          "latlng": [
+            46.58806,
+            15.01917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4213,
+      "name": "Duplek",
+      "code": "026",
+      "shortName": "026",
+      "cities": [
+        {
+          "id": 104283,
+          "name": "Spodnji Duplek",
+          "latlng": [
+            46.50306,
+            15.74528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104334,
+          "name": "Zgornji Duplek",
+          "latlng": [
+            46.51361,
+            15.72083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4293,
+      "name": "Gorenja Vas–Poljane",
+      "code": "027",
+      "shortName": "027",
+      "cities": [
+        {
+          "id": 104106,
+          "name": "Gorenja Vas",
+          "latlng": [
+            46.10722,
+            14.14806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4210,
+      "name": "Gorišnica",
+      "code": "028",
+      "shortName": "028",
+      "cities": [
+        {
+          "id": 104107,
+          "name": "Gorišnica",
+          "latlng": [
+            46.41472,
+            16.01389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4284,
+      "name": "Gorje",
+      "code": "207",
+      "shortName": "207",
+      "cities": []
+    },
+    {
+      "id": 4343,
+      "name": "Gornja Radgona",
+      "code": "029",
+      "shortName": "029",
+      "cities": [
+        {
+          "id": 104108,
+          "name": "Gornja Radgona",
+          "latlng": [
+            46.67333,
+            15.99222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4339,
+      "name": "Gornji Grad",
+      "code": "030",
+      "shortName": "030",
+      "cities": [
+        {
+          "id": 104109,
+          "name": "Gornji Grad",
+          "latlng": [
+            46.29528,
+            14.80833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4271,
+      "name": "Gornji Petrovci",
+      "code": "031",
+      "shortName": "031",
+      "cities": [
+        {
+          "id": 104110,
+          "name": "Gornji Petrovci",
+          "latlng": [
+            46.80528,
+            16.2225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4217,
+      "name": "Grad",
+      "code": "158",
+      "shortName": "158",
+      "cities": [
+        {
+          "id": 104112,
+          "name": "Grad",
+          "latlng": [
+            46.8,
+            16.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4336,
+      "name": "Grosuplje",
+      "code": "032",
+      "shortName": "032",
+      "cities": [
+        {
+          "id": 104113,
+          "name": "Grosuplje",
+          "latlng": [
+            45.95556,
+            14.65889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104357,
+          "name": "Šmarje-Sap",
+          "latlng": [
+            45.97618,
+            14.61177
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4145,
+      "name": "Hajdina",
+      "code": "159",
+      "shortName": "159",
+      "cities": [
+        {
+          "id": 104279,
+          "name": "Spodnja Hajdina",
+          "latlng": [
+            46.40889,
+            15.84694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4175,
+      "name": "Hoče–Slivnica",
+      "code": "160",
+      "shortName": "160",
+      "cities": [
+        {
+          "id": 104116,
+          "name": "Hotinja Vas",
+          "latlng": [
+            46.46667,
+            15.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104242,
+          "name": "Radizel",
+          "latlng": [
+            46.47444,
+            15.65583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104260,
+          "name": "Rogoza",
+          "latlng": [
+            46.5,
+            15.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104281,
+          "name": "Spodnje Hoče",
+          "latlng": [
+            46.5,
+            15.65
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4327,
+      "name": "Hodoš",
+      "code": "161",
+      "shortName": "161",
+      "cities": [
+        {
+          "id": 104114,
+          "name": "Hodoš",
+          "latlng": [
+            46.82333,
+            16.33417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4193,
+      "name": "Horjul",
+      "code": "162",
+      "shortName": "162",
+      "cities": [
+        {
+          "id": 104115,
+          "name": "Horjul",
+          "latlng": [
+            46.02361,
+            14.29917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4341,
+      "name": "Hrastnik",
+      "code": "034",
+      "shortName": "034",
+      "cities": [
+        {
+          "id": 104095,
+          "name": "Dol pri Hrastniku",
+          "latlng": [
+            46.14194,
+            15.11278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104118,
+          "name": "Hrastnik",
+          "latlng": [
+            46.14611,
+            15.08139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4321,
+      "name": "Hrpelje–Kozina",
+      "code": "035",
+      "shortName": "035",
+      "cities": [
+        {
+          "id": 104147,
+          "name": "Kozina",
+          "latlng": [
+            45.61,
+            13.93556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4152,
+      "name": "Idrija",
+      "code": "036",
+      "shortName": "036",
+      "cities": [
+        {
+          "id": 104122,
+          "name": "Idrija",
+          "latlng": [
+            46.00278,
+            14.03056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104280,
+          "name": "Spodnja Idrija",
+          "latlng": [
+            46.03194,
+            14.02722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4286,
+      "name": "Ig",
+      "code": "037",
+      "shortName": "037",
+      "cities": [
+        {
+          "id": 104123,
+          "name": "Ig",
+          "latlng": [
+            45.96028,
+            14.52889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4344,
+      "name": "Ilirska Bistrica",
+      "code": "038",
+      "shortName": "038",
+      "cities": [
+        {
+          "id": 104124,
+          "name": "Ilirska Bistrica",
+          "latlng": [
+            45.56757,
+            14.24571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4305,
+      "name": "Ivančna Gorica",
+      "code": "039",
+      "shortName": "039",
+      "cities": [
+        {
+          "id": 104125,
+          "name": "Ivančna Gorica",
+          "latlng": [
+            45.93833,
+            14.80444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104350,
+          "name": "Šentvid pri Stični",
+          "latlng": [
+            45.95004,
+            14.84344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4322,
+      "name": "Izola",
+      "code": "040",
+      "shortName": "040",
+      "cities": [
+        {
+          "id": 104127,
+          "name": "Izola",
+          "latlng": [
+            45.53694,
+            13.66194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104128,
+          "name": "Jagodje",
+          "latlng": [
+            45.52845,
+            13.64721
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4337,
+      "name": "Jesenice",
+      "code": "041",
+      "shortName": "041",
+      "cities": [
+        {
+          "id": 104120,
+          "name": "Hrušica",
+          "latlng": [
+            46.445,
+            14.01778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104130,
+          "name": "Jesenice",
+          "latlng": [
+            46.43056,
+            14.06694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104143,
+          "name": "Koroška Bela",
+          "latlng": [
+            46.44913,
+            14.11135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104274,
+          "name": "Slovenski Javornik",
+          "latlng": [
+            46.42611,
+            14.08722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4203,
+      "name": "Jezersko",
+      "code": "163",
+      "shortName": "163",
+      "cities": [
+        {
+          "id": 104332,
+          "name": "Zgornje Jezersko",
+          "latlng": [
+            46.3941,
+            14.50659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4266,
+      "name": "Juršinci",
+      "code": "042",
+      "shortName": "042",
+      "cities": [
+        {
+          "id": 104131,
+          "name": "Juršinci",
+          "latlng": [
+            46.48472,
+            15.97139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4180,
+      "name": "Kamnik",
+      "code": "043",
+      "shortName": "043",
+      "cities": [
+        {
+          "id": 104133,
+          "name": "Kamnik",
+          "latlng": [
+            46.22587,
+            14.61207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104184,
+          "name": "Mekinje",
+          "latlng": [
+            46.23333,
+            14.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104355,
+          "name": "Šmarca",
+          "latlng": [
+            46.19333,
+            14.59667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4227,
+      "name": "Kanal ob Soči",
+      "code": "044",
+      "shortName": "044",
+      "cities": [
+        {
+          "id": 104086,
+          "name": "Deskle",
+          "latlng": [
+            46.05307,
+            13.61382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104134,
+          "name": "Kanal",
+          "latlng": [
+            46.08861,
+            13.63972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4150,
+      "name": "Kidričevo",
+      "code": "045",
+      "shortName": "045",
+      "cities": [
+        {
+          "id": 104135,
+          "name": "Kidričevo",
+          "latlng": [
+            46.40361,
+            15.79111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4243,
+      "name": "Kobarid",
+      "code": "046",
+      "shortName": "046",
+      "cities": [
+        {
+          "id": 104137,
+          "name": "Kobarid",
+          "latlng": [
+            46.24761,
+            13.57907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4325,
+      "name": "Kobilje",
+      "code": "047",
+      "shortName": "047",
+      "cities": [
+        {
+          "id": 104138,
+          "name": "Kobilje",
+          "latlng": [
+            46.68472,
+            16.39778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4335,
+      "name": "Kočevje",
+      "code": "048",
+      "shortName": "048",
+      "cities": [
+        {
+          "id": 104149,
+          "name": "Kočevje",
+          "latlng": [
+            45.64333,
+            14.86333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4315,
+      "name": "Komen",
+      "code": "049",
+      "shortName": "049",
+      "cities": [
+        {
+          "id": 104140,
+          "name": "Komen",
+          "latlng": [
+            45.81528,
+            13.74833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4283,
+      "name": "Komenda",
+      "code": "164",
+      "shortName": "164",
+      "cities": [
+        {
+          "id": 104141,
+          "name": "Komenda",
+          "latlng": [
+            46.20484,
+            14.53839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104199,
+          "name": "Moste",
+          "latlng": [
+            46.195,
+            14.55139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4319,
+      "name": "Koper",
+      "code": "050",
+      "shortName": "050",
+      "cities": [
+        {
+          "id": 104085,
+          "name": "Dekani",
+          "latlng": [
+            45.54972,
+            13.81361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104121,
+          "name": "Hrvatini",
+          "latlng": [
+            45.58278,
+            13.75667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104142,
+          "name": "Koper",
+          "latlng": [
+            45.54694,
+            13.72944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104223,
+          "name": "Pobegi",
+          "latlng": [
+            45.53944,
+            13.79611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104231,
+          "name": "Prade",
+          "latlng": [
+            45.54003,
+            13.77607
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104282,
+          "name": "Spodnje Škofije",
+          "latlng": [
+            45.57167,
+            13.7925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104288,
+          "name": "Sv. Anton",
+          "latlng": [
+            45.52583,
+            13.83194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4254,
+      "name": "Kostanjevica na Krki",
+      "code": "197",
+      "shortName": "197",
+      "cities": []
+    },
+    {
+      "id": 4331,
+      "name": "Kostel",
+      "code": "165",
+      "shortName": "165",
+      "cities": [
+        {
+          "id": 104145,
+          "name": "Kostel",
+          "latlng": [
+            45.50842,
+            14.91005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4186,
+      "name": "Kozje",
+      "code": "051",
+      "shortName": "051",
+      "cities": [
+        {
+          "id": 104148,
+          "name": "Kozje",
+          "latlng": [
+            46.075,
+            15.56028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4287,
+      "name": "Kranj",
+      "code": "052",
+      "shortName": "052",
+      "cities": [
+        {
+          "id": 104077,
+          "name": "Britof",
+          "latlng": [
+            46.26024,
+            14.39037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104105,
+          "name": "Golnik",
+          "latlng": [
+            46.33333,
+            14.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104139,
+          "name": "Kokrica",
+          "latlng": [
+            46.27028,
+            14.36111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104150,
+          "name": "Kranj",
+          "latlng": [
+            46.23887,
+            14.35561
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104193,
+          "name": "Mlaka pri Kranju",
+          "latlng": [
+            46.28333,
+            14.35
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104330,
+          "name": "Zgornje Bitnje",
+          "latlng": [
+            46.22,
+            14.33667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4340,
+      "name": "Kranjska Gora",
+      "code": "053",
+      "shortName": "053",
+      "cities": [
+        {
+          "id": 104151,
+          "name": "Kranjska Gora",
+          "latlng": [
+            46.45689,
+            13.77824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104194,
+          "name": "Mojstrana",
+          "latlng": [
+            46.42383,
+            13.8752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4238,
+      "name": "Križevci",
+      "code": "166",
+      "shortName": "166",
+      "cities": [
+        {
+          "id": 104152,
+          "name": "Križevci pri Ljutomeru",
+          "latlng": [
+            46.56833,
+            16.13861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4314,
+      "name": "Krško",
+      "code": "054",
+      "shortName": "054",
+      "cities": [
+        {
+          "id": 104155,
+          "name": "Krško",
+          "latlng": [
+            45.95915,
+            15.49167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104164,
+          "name": "Leskovec pri Krškem",
+          "latlng": [
+            45.93566,
+            15.47184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104267,
+          "name": "Senovo",
+          "latlng": [
+            46.02361,
+            15.47694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4197,
+      "name": "Kungota",
+      "code": "055",
+      "shortName": "055",
+      "cities": [
+        {
+          "id": 104328,
+          "name": "Zgornja Kungota",
+          "latlng": [
+            46.63917,
+            15.61556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4211,
+      "name": "Kuzma",
+      "code": "056",
+      "shortName": "056",
+      "cities": [
+        {
+          "id": 104156,
+          "name": "Kuzma",
+          "latlng": [
+            46.83694,
+            16.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4338,
+      "name": "Laško",
+      "code": "057",
+      "shortName": "057",
+      "cities": [
+        {
+          "id": 104158,
+          "name": "Laško",
+          "latlng": [
+            46.15463,
+            15.23555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4142,
+      "name": "Lenart",
+      "code": "058",
+      "shortName": "058",
+      "cities": [
+        {
+          "id": 104160,
+          "name": "Lenart v Slov. Goricah",
+          "latlng": [
+            46.57611,
+            15.83139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4225,
+      "name": "Lendava",
+      "code": "059",
+      "shortName": "059",
+      "cities": [
+        {
+          "id": 104161,
+          "name": "Lendava",
+          "latlng": [
+            46.56494,
+            16.45091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4347,
+      "name": "Litija",
+      "code": "060",
+      "shortName": "060",
+      "cities": [
+        {
+          "id": 104167,
+          "name": "Litija",
+          "latlng": [
+            46.05861,
+            14.8225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4270,
+      "name": "Ljubljana",
+      "code": "061",
+      "shortName": "061",
+      "cities": [
+        {
+          "id": 104101,
+          "name": "Dravlje District",
+          "latlng": [
+            46.0729,
+            14.44741
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104129,
+          "name": "Jarše District",
+          "latlng": [
+            46.07345,
+            14.55431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104169,
+          "name": "Ljubljana",
+          "latlng": [
+            46.05108,
+            14.50513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104211,
+          "name": "Opčina Ljubljana-Bežigrad",
+          "latlng": [
+            46.08333,
+            14.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104212,
+          "name": "Opština Ljubljana-Center",
+          "latlng": [
+            46.05,
+            14.53333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104213,
+          "name": "Opština Ljubljana-Moste-Polje",
+          "latlng": [
+            46.06667,
+            14.61667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104262,
+          "name": "Rožnik District",
+          "latlng": [
+            46.05999,
+            14.46779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104349,
+          "name": "Šentvid District",
+          "latlng": [
+            46.10559,
+            14.43329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104278,
+          "name": "Sostro District",
+          "latlng": [
+            46.04341,
+            14.67293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104300,
+          "name": "Trnovo District",
+          "latlng": [
+            46.02412,
+            14.48891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104315,
+          "name": "Vič District",
+          "latlng": [
+            46.00779,
+            14.46968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4294,
+      "name": "Ljubno",
+      "code": "062",
+      "shortName": "062",
+      "cities": [
+        {
+          "id": 104170,
+          "name": "Ljubno ob Savinji",
+          "latlng": [
+            46.34358,
+            14.83377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4351,
+      "name": "Ljutomer",
+      "code": "063",
+      "shortName": "063",
+      "cities": [
+        {
+          "id": 104171,
+          "name": "Ljutomer",
+          "latlng": [
+            46.52083,
+            16.1975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4306,
+      "name": "Log–Dragomer",
+      "code": "208",
+      "shortName": "208",
+      "cities": []
+    },
+    {
+      "id": 4350,
+      "name": "Logatec",
+      "code": "064",
+      "shortName": "064",
+      "cities": [
+        {
+          "id": 104173,
+          "name": "Logatec",
+          "latlng": [
+            45.91444,
+            14.22583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4174,
+      "name": "Loška Dolina",
+      "code": "065",
+      "shortName": "065",
+      "cities": [
+        {
+          "id": 104163,
+          "name": "Leskova Dolina",
+          "latlng": [
+            45.62139,
+            14.46056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4158,
+      "name": "Loški Potok",
+      "code": "066",
+      "shortName": "066",
+      "cities": [
+        {
+          "id": 104119,
+          "name": "Hrib-Loški Potok",
+          "latlng": [
+            45.70688,
+            14.61674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4156,
+      "name": "Lovrenc na Pohorju",
+      "code": "167",
+      "shortName": "167",
+      "cities": [
+        {
+          "id": 104175,
+          "name": "Lovrenc na Pohorju",
+          "latlng": [
+            46.54056,
+            15.39306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4219,
+      "name": "Luče",
+      "code": "067",
+      "shortName": "067",
+      "cities": [
+        {
+          "id": 104178,
+          "name": "Luče",
+          "latlng": [
+            46.35611,
+            14.74667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4302,
+      "name": "Lukovica",
+      "code": "068",
+      "shortName": "068",
+      "cities": [
+        {
+          "id": 104177,
+          "name": "Lukovica pri Domžalah",
+          "latlng": [
+            46.16988,
+            14.69179
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4157,
+      "name": "Majšperk",
+      "code": "069",
+      "shortName": "069",
+      "cities": [
+        {
+          "id": 104179,
+          "name": "Majšperk",
+          "latlng": [
+            46.35167,
+            15.73361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4224,
+      "name": "Makole",
+      "code": "198",
+      "shortName": "198",
+      "cities": []
+    },
+    {
+      "id": 4242,
+      "name": "Maribor",
+      "code": "070",
+      "shortName": "070",
+      "cities": [
+        {
+          "id": 104074,
+          "name": "Bresternica",
+          "latlng": [
+            46.56972,
+            15.575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104132,
+          "name": "Kamnica",
+          "latlng": [
+            46.57444,
+            15.61417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104165,
+          "name": "Limbuš",
+          "latlng": [
+            46.55361,
+            15.58361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104181,
+          "name": "Maribor",
+          "latlng": [
+            46.55472,
+            15.64667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104219,
+          "name": "Pekre",
+          "latlng": [
+            46.54722,
+            15.59556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104251,
+          "name": "Razvanje",
+          "latlng": [
+            46.51444,
+            15.63611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4244,
+      "name": "Markovci",
+      "code": "168",
+      "shortName": "168",
+      "cities": [
+        {
+          "id": 104182,
+          "name": "Markovci",
+          "latlng": [
+            46.39557,
+            15.92831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4349,
+      "name": "Medvode",
+      "code": "071",
+      "shortName": "071",
+      "cities": [
+        {
+          "id": 104183,
+          "name": "Medvode",
+          "latlng": [
+            46.1422,
+            14.41114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104215,
+          "name": "Opština [historical] Ljubljana-Šiška",
+          "latlng": [
+            46.16667,
+            14.43333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104333,
+          "name": "Zgornje Pirniče",
+          "latlng": [
+            46.14251,
+            14.43158
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4348,
+      "name": "Mengeš",
+      "code": "072",
+      "shortName": "072",
+      "cities": [
+        {
+          "id": 104185,
+          "name": "Mengeš",
+          "latlng": [
+            46.16694,
+            14.575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104235,
+          "name": "Preserje pri Radomljah",
+          "latlng": [
+            46.16911,
+            14.59698
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4323,
+      "name": "Metlika",
+      "code": "073",
+      "shortName": "073",
+      "cities": [
+        {
+          "id": 104186,
+          "name": "Metlika",
+          "latlng": [
+            45.64722,
+            15.31417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4265,
+      "name": "Mežica",
+      "code": "074",
+      "shortName": "074",
+      "cities": [
+        {
+          "id": 104187,
+          "name": "Mežica",
+          "latlng": [
+            46.52139,
+            14.85444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4223,
+      "name": "Miklavž na Dravskem Polju",
+      "code": "169",
+      "shortName": "169",
+      "cities": [
+        {
+          "id": 104188,
+          "name": "Miklavž na Dravskem Polju",
+          "latlng": [
+            46.50583,
+            15.69722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4220,
+      "name": "Miren–Kostanjevica",
+      "code": "075",
+      "shortName": "075",
+      "cities": [
+        {
+          "id": 104065,
+          "name": "Bilje",
+          "latlng": [
+            45.89444,
+            13.63222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104189,
+          "name": "Miren",
+          "latlng": [
+            45.89556,
+            13.6075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4298,
+      "name": "Mirna",
+      "code": "212",
+      "shortName": "212",
+      "cities": []
+    },
+    {
+      "id": 4237,
+      "name": "Mirna Peč",
+      "code": "170",
+      "shortName": "170",
+      "cities": [
+        {
+          "id": 104191,
+          "name": "Mirna Peč",
+          "latlng": [
+            45.86028,
+            15.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4212,
+      "name": "Mislinja",
+      "code": "076",
+      "shortName": "076",
+      "cities": [
+        {
+          "id": 104192,
+          "name": "Mislinja",
+          "latlng": [
+            46.44141,
+            15.20027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4297,
+      "name": "Mokronog–Trebelno",
+      "code": "199",
+      "shortName": "199",
+      "cities": []
+    },
+    {
+      "id": 4168,
+      "name": "Moravče",
+      "code": "077",
+      "shortName": "077",
+      "cities": [
+        {
+          "id": 104197,
+          "name": "Moravče",
+          "latlng": [
+            46.13694,
+            14.745
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4218,
+      "name": "Moravske Toplice",
+      "code": "078",
+      "shortName": "078",
+      "cities": [
+        {
+          "id": 104196,
+          "name": "Moravske Toplice",
+          "latlng": [
+            46.68313,
+            16.2208
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4190,
+      "name": "Mozirje",
+      "code": "079",
+      "shortName": "079",
+      "cities": [
+        {
+          "id": 104200,
+          "name": "Mozirje",
+          "latlng": [
+            46.33944,
+            14.96333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4313,
+      "name": "Murska Sobota",
+      "code": "080",
+      "shortName": "080",
+      "cities": [
+        {
+          "id": 104062,
+          "name": "Bakovci",
+          "latlng": [
+            46.61889,
+            16.15028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104336,
+          "name": "Černelavci",
+          "latlng": [
+            46.66667,
+            16.13333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104153,
+          "name": "Krog",
+          "latlng": [
+            46.63806,
+            16.14139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104201,
+          "name": "Murska Sobota",
+          "latlng": [
+            46.6625,
+            16.16639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104247,
+          "name": "Rakičan",
+          "latlng": [
+            46.65167,
+            16.20417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4208,
+      "name": "Muta",
+      "code": "081",
+      "shortName": "081",
+      "cities": [
+        {
+          "id": 104202,
+          "name": "Muta",
+          "latlng": [
+            46.61139,
+            15.16611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4177,
+      "name": "Naklo",
+      "code": "082",
+      "shortName": "082",
+      "cities": [
+        {
+          "id": 104203,
+          "name": "Naklo",
+          "latlng": [
+            46.27278,
+            14.31722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4329,
+      "name": "Nazarje",
+      "code": "083",
+      "shortName": "083",
+      "cities": [
+        {
+          "id": 104204,
+          "name": "Nazarje",
+          "latlng": [
+            46.31757,
+            14.94674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4205,
+      "name": "Nova Gorica",
+      "code": "084",
+      "shortName": "084",
+      "cities": [
+        {
+          "id": 104154,
+          "name": "Kromberk",
+          "latlng": [
+            45.96083,
+            13.66556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104206,
+          "name": "Nova Gorica",
+          "latlng": [
+            45.95604,
+            13.64837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104237,
+          "name": "Prvačina",
+          "latlng": [
+            45.89,
+            13.71806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104342,
+          "name": "Šempas",
+          "latlng": [
+            45.93028,
+            13.74361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104276,
+          "name": "Solkan",
+          "latlng": [
+            45.97139,
+            13.64944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4236,
+      "name": "Novo Mesto",
+      "code": "085",
+      "shortName": "085",
+      "cities": [
+        {
+          "id": 104208,
+          "name": "Novo Mesto",
+          "latlng": [
+            45.80397,
+            15.16886
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4320,
+      "name": "Odranci",
+      "code": "086",
+      "shortName": "086",
+      "cities": [
+        {
+          "id": 104209,
+          "name": "Odranci",
+          "latlng": [
+            46.58667,
+            16.28028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4143,
+      "name": "Oplotnica",
+      "code": "171",
+      "shortName": "171",
+      "cities": [
+        {
+          "id": 104210,
+          "name": "Oplotnica",
+          "latlng": [
+            46.38778,
+            15.44667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4221,
+      "name": "Ormož",
+      "code": "087",
+      "shortName": "087",
+      "cities": [
+        {
+          "id": 104216,
+          "name": "Ormož",
+          "latlng": [
+            46.41139,
+            16.15444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4199,
+      "name": "Osilnica",
+      "code": "088",
+      "shortName": "088",
+      "cities": [
+        {
+          "id": 104217,
+          "name": "Osilnica",
+          "latlng": [
+            45.52914,
+            14.69838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4172,
+      "name": "Pesnica",
+      "code": "089",
+      "shortName": "089",
+      "cities": [
+        {
+          "id": 104220,
+          "name": "Pesnica pri Mariboru",
+          "latlng": [
+            46.60694,
+            15.67667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4201,
+      "name": "Piran",
+      "code": "090",
+      "shortName": "090",
+      "cities": [
+        {
+          "id": 104176,
+          "name": "Lucija",
+          "latlng": [
+            45.50526,
+            13.6024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104221,
+          "name": "Piran",
+          "latlng": [
+            45.52778,
+            13.57056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104229,
+          "name": "Portorož",
+          "latlng": [
+            45.51429,
+            13.59206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104269,
+          "name": "Seča",
+          "latlng": [
+            45.49584,
+            13.61466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4184,
+      "name": "Pivka",
+      "code": "091",
+      "shortName": "091",
+      "cities": [
+        {
+          "id": 104222,
+          "name": "Pivka",
+          "latlng": [
+            45.68292,
+            14.19588
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4146,
+      "name": "Podčetrtek",
+      "code": "092",
+      "shortName": "092",
+      "cities": [
+        {
+          "id": 104226,
+          "name": "Podčetrtek",
+          "latlng": [
+            46.15694,
+            15.59861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4161,
+      "name": "Podlehnik",
+      "code": "172",
+      "shortName": "172",
+      "cities": [
+        {
+          "id": 104224,
+          "name": "Podlehnik",
+          "latlng": [
+            46.33528,
+            15.88
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4234,
+      "name": "Podvelka",
+      "code": "093",
+      "shortName": "093",
+      "cities": [
+        {
+          "id": 104225,
+          "name": "Podvelka",
+          "latlng": [
+            46.58694,
+            15.33056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4239,
+      "name": "Poljčane",
+      "code": "200",
+      "shortName": "200",
+      "cities": []
+    },
+    {
+      "id": 4272,
+      "name": "Polzela",
+      "code": "173",
+      "shortName": "173",
+      "cities": [
+        {
+          "id": 104228,
+          "name": "Polzela",
+          "latlng": [
+            46.28333,
+            15.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4330,
+      "name": "Postojna",
+      "code": "094",
+      "shortName": "094",
+      "cities": [
+        {
+          "id": 104230,
+          "name": "Postojna",
+          "latlng": [
+            45.77435,
+            14.21528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4188,
+      "name": "Prebold",
+      "code": "174",
+      "shortName": "174",
+      "cities": [
+        {
+          "id": 104233,
+          "name": "Prebold",
+          "latlng": [
+            46.23694,
+            15.0925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4303,
+      "name": "Preddvor",
+      "code": "095",
+      "shortName": "095",
+      "cities": [
+        {
+          "id": 104234,
+          "name": "Preddvor",
+          "latlng": [
+            46.3025,
+            14.42306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4274,
+      "name": "Prevalje",
+      "code": "175",
+      "shortName": "175",
+      "cities": [
+        {
+          "id": 104236,
+          "name": "Prevalje",
+          "latlng": [
+            46.54694,
+            14.92083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4228,
+      "name": "Ptuj",
+      "code": "096",
+      "shortName": "096",
+      "cities": [
+        {
+          "id": 104238,
+          "name": "Ptuj",
+          "latlng": [
+            46.42005,
+            15.87018
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4288,
+      "name": "Puconci",
+      "code": "097",
+      "shortName": "097",
+      "cities": [
+        {
+          "id": 104239,
+          "name": "Puconci",
+          "latlng": [
+            46.70667,
+            16.15639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4204,
+      "name": "Rače–Fram",
+      "code": "098",
+      "shortName": "098",
+      "cities": [
+        {
+          "id": 104103,
+          "name": "Fram",
+          "latlng": [
+            46.456,
+            15.63007
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104198,
+          "name": "Morje",
+          "latlng": [
+            46.44444,
+            15.62139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104252,
+          "name": "Rače",
+          "latlng": [
+            46.45194,
+            15.68139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4195,
+      "name": "Radeče",
+      "code": "099",
+      "shortName": "099",
+      "cities": [
+        {
+          "id": 104241,
+          "name": "Radeče",
+          "latlng": [
+            46.06806,
+            15.18389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4292,
+      "name": "Radenci",
+      "code": "100",
+      "shortName": "100",
+      "cities": [
+        {
+          "id": 104240,
+          "name": "Radenci",
+          "latlng": [
+            46.64201,
+            16.03781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4275,
+      "name": "Radlje ob Dravi",
+      "code": "101",
+      "shortName": "101",
+      "cities": [
+        {
+          "id": 104243,
+          "name": "Radlje ob Dravi",
+          "latlng": [
+            46.61417,
+            15.22639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4231,
+      "name": "Radovljica",
+      "code": "102",
+      "shortName": "102",
+      "cities": [
+        {
+          "id": 104162,
+          "name": "Lesce",
+          "latlng": [
+            46.36111,
+            14.15778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104245,
+          "name": "Radovljica",
+          "latlng": [
+            46.34444,
+            14.17444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4155,
+      "name": "Ravne na Koroškem",
+      "code": "103",
+      "shortName": "103",
+      "cities": [
+        {
+          "id": 104146,
+          "name": "Kotlje",
+          "latlng": [
+            46.52139,
+            14.98694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104249,
+          "name": "Ravne na Koroškem",
+          "latlng": [
+            46.54306,
+            14.96917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4206,
+      "name": "Razkrižje",
+      "code": "176",
+      "shortName": "176",
+      "cities": [
+        {
+          "id": 104250,
+          "name": "Razkrižje",
+          "latlng": [
+            46.52167,
+            16.28111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4160,
+      "name": "Rečica ob Savinji",
+      "code": "209",
+      "shortName": "209",
+      "cities": []
+    },
+    {
+      "id": 4253,
+      "name": "Renče–Vogrsko",
+      "code": "201",
+      "shortName": "201",
+      "cities": [
+        {
+          "id": 104253,
+          "name": "Renče",
+          "latlng": [
+            45.89,
+            13.66861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104319,
+          "name": "Volčja Draga",
+          "latlng": [
+            45.90694,
+            13.6775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4235,
+      "name": "Ribnica",
+      "code": "104",
+      "shortName": "104",
+      "cities": [
+        {
+          "id": 104255,
+          "name": "Ribnica",
+          "latlng": [
+            45.73861,
+            14.7275
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4207,
+      "name": "Ribnica na Pohorju",
+      "code": "177",
+      "shortName": "177",
+      "cities": [
+        {
+          "id": 104256,
+          "name": "Ribnica na Pohorju",
+          "latlng": [
+            46.535,
+            15.27278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4233,
+      "name": "Rogaška Slatina",
+      "code": "106",
+      "shortName": "106",
+      "cities": [
+        {
+          "id": 104258,
+          "name": "Rogaška Slatina",
+          "latlng": [
+            46.2375,
+            15.63972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4264,
+      "name": "Rogašovci",
+      "code": "105",
+      "shortName": "105",
+      "cities": [
+        {
+          "id": 104259,
+          "name": "Rogašovci",
+          "latlng": [
+            46.8,
+            16.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4209,
+      "name": "Rogatec",
+      "code": "107",
+      "shortName": "107",
+      "cities": [
+        {
+          "id": 104257,
+          "name": "Rogatec",
+          "latlng": [
+            46.22944,
+            15.70028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4280,
+      "name": "Ruše",
+      "code": "108",
+      "shortName": "108",
+      "cities": [
+        {
+          "id": 104066,
+          "name": "Bistrica ob Dravi",
+          "latlng": [
+            46.55419,
+            15.54855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104263,
+          "name": "Ruše",
+          "latlng": [
+            46.53944,
+            15.51583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4222,
+      "name": "Šalovci",
+      "code": "033",
+      "shortName": "033",
+      "cities": [
+        {
+          "id": 104341,
+          "name": "Šalovci",
+          "latlng": [
+            46.825,
+            16.29806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4230,
+      "name": "Selnica ob Dravi",
+      "code": "178",
+      "shortName": "178",
+      "cities": [
+        {
+          "id": 104264,
+          "name": "Selnica ob Dravi",
+          "latlng": [
+            46.55,
+            15.495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4346,
+      "name": "Semič",
+      "code": "109",
+      "shortName": "109",
+      "cities": [
+        {
+          "id": 104266,
+          "name": "Semič",
+          "latlng": [
+            45.64611,
+            15.18222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4317,
+      "name": "Šempeter–Vrtojba",
+      "code": "183",
+      "shortName": "183",
+      "cities": [
+        {
+          "id": 104261,
+          "name": "Rožna Dolina",
+          "latlng": [
+            45.94194,
+            13.66779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104343,
+          "name": "Šempeter pri Gorici",
+          "latlng": [
+            45.9275,
+            13.64111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104322,
+          "name": "Vrtojba",
+          "latlng": [
+            45.9125,
+            13.63417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4299,
+      "name": "Šenčur",
+      "code": "117",
+      "shortName": "117",
+      "cities": [
+        {
+          "id": 104117,
+          "name": "Hrastje",
+          "latlng": [
+            46.21667,
+            14.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104351,
+          "name": "Šenčur",
+          "latlng": [
+            46.24556,
+            14.41972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4324,
+      "name": "Šentilj",
+      "code": "118",
+      "shortName": "118",
+      "cities": [
+        {
+          "id": 104265,
+          "name": "Selnica ob Muri",
+          "latlng": [
+            46.68333,
+            15.7
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104345,
+          "name": "Šentilj v Slov. Goricah",
+          "latlng": [
+            46.68167,
+            15.64806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4241,
+      "name": "Šentjernej",
+      "code": "119",
+      "shortName": "119",
+      "cities": [
+        {
+          "id": 104346,
+          "name": "Šentjernej",
+          "latlng": [
+            45.84,
+            15.33611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4171,
+      "name": "Šentjur",
+      "code": "120",
+      "shortName": "120",
+      "cities": [
+        {
+          "id": 104347,
+          "name": "Šentjur",
+          "latlng": [
+            46.21722,
+            15.3975
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4311,
+      "name": "Šentrupert",
+      "code": "211",
+      "shortName": "211",
+      "cities": [
+        {
+          "id": 104348,
+          "name": "Šentrupert",
+          "latlng": [
+            45.97778,
+            15.09556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4268,
+      "name": "Sevnica",
+      "code": "110",
+      "shortName": "110",
+      "cities": [
+        {
+          "id": 104268,
+          "name": "Sevnica",
+          "latlng": [
+            46.00778,
+            15.31556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4149,
+      "name": "Sežana",
+      "code": "111",
+      "shortName": "111",
+      "cities": [
+        {
+          "id": 104270,
+          "name": "Sežana",
+          "latlng": [
+            45.70924,
+            13.87333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4170,
+      "name": "Škocjan",
+      "code": "121",
+      "shortName": "121",
+      "cities": [
+        {
+          "id": 104352,
+          "name": "Škocjan",
+          "latlng": [
+            45.90667,
+            15.29139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4316,
+      "name": "Škofja Loka",
+      "code": "122",
+      "shortName": "122",
+      "cities": [
+        {
+          "id": 104353,
+          "name": "Škofja Loka",
+          "latlng": [
+            46.16551,
+            14.30626
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104289,
+          "name": "Sv. Duh",
+          "latlng": [
+            46.18333,
+            14.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4187,
+      "name": "Škofljica",
+      "code": "123",
+      "shortName": "123",
+      "cities": [
+        {
+          "id": 104157,
+          "name": "Lavrica",
+          "latlng": [
+            46.00002,
+            14.5573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104354,
+          "name": "Škofljica",
+          "latlng": [
+            45.98333,
+            14.57667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4169,
+      "name": "Slovenj Gradec",
+      "code": "112",
+      "shortName": "112",
+      "cities": [
+        {
+          "id": 104159,
+          "name": "Legen",
+          "latlng": [
+            46.50651,
+            15.14424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104218,
+          "name": "Pameče",
+          "latlng": [
+            46.53417,
+            15.07917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104271,
+          "name": "Slovenj Gradec",
+          "latlng": [
+            46.51028,
+            15.08056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104361,
+          "name": "Šmartno pri Slovenj Gradcu",
+          "latlng": [
+            46.48944,
+            15.10667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4332,
+      "name": "Slovenska Bistrica",
+      "code": "113",
+      "shortName": "113",
+      "cities": [
+        {
+          "id": 104232,
+          "name": "Pragersko",
+          "latlng": [
+            46.39667,
+            15.66
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104272,
+          "name": "Slovenska Bistrica",
+          "latlng": [
+            46.39278,
+            15.57444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104329,
+          "name": "Zgornja Polskava",
+          "latlng": [
+            46.42556,
+            15.61222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4198,
+      "name": "Slovenske Konjice",
+      "code": "114",
+      "shortName": "114",
+      "cities": [
+        {
+          "id": 104273,
+          "name": "Slovenske Konjice",
+          "latlng": [
+            46.33667,
+            15.42583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4285,
+      "name": "Šmarje pri Jelšah",
+      "code": "124",
+      "shortName": "124",
+      "cities": [
+        {
+          "id": 104356,
+          "name": "Šmarje pri Jelšah",
+          "latlng": [
+            46.22722,
+            15.51917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4289,
+      "name": "Šmarješke Toplice",
+      "code": "206",
+      "shortName": "206",
+      "cities": [
+        {
+          "id": 104358,
+          "name": "Šmarjeta",
+          "latlng": [
+            45.88333,
+            15.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4296,
+      "name": "Šmartno ob Paki",
+      "code": "125",
+      "shortName": "125",
+      "cities": [
+        {
+          "id": 104359,
+          "name": "Šmartno ob Paki",
+          "latlng": [
+            46.33333,
+            15.03333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4279,
+      "name": "Šmartno pri Litiji",
+      "code": "194",
+      "shortName": "194",
+      "cities": [
+        {
+          "id": 104360,
+          "name": "Šmartno pri Litiji",
+          "latlng": [
+            46.04444,
+            14.84417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4277,
+      "name": "Sodražica",
+      "code": "179",
+      "shortName": "179",
+      "cities": [
+        {
+          "id": 104275,
+          "name": "Sodražica",
+          "latlng": [
+            45.76111,
+            14.63556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4261,
+      "name": "Solčava",
+      "code": "180",
+      "shortName": "180",
+      "cities": [
+        {
+          "id": 104277,
+          "name": "Solčava",
+          "latlng": [
+            46.41944,
+            14.69361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4248,
+      "name": "Šoštanj",
+      "code": "126",
+      "shortName": "126",
+      "cities": [
+        {
+          "id": 104248,
+          "name": "Ravne",
+          "latlng": [
+            46.41413,
+            15.06087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104362,
+          "name": "Šoštanj",
+          "latlng": [
+            46.38,
+            15.04861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104296,
+          "name": "Topolšica",
+          "latlng": [
+            46.40028,
+            15.02157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4263,
+      "name": "Središče ob Dravi",
+      "code": "202",
+      "shortName": "202",
+      "cities": [
+        {
+          "id": 104284,
+          "name": "Središče ob Dravi",
+          "latlng": [
+            46.39417,
+            16.26806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4259,
+      "name": "Starše",
+      "code": "115",
+      "shortName": "115",
+      "cities": [
+        {
+          "id": 104285,
+          "name": "Starše",
+          "latlng": [
+            46.46583,
+            15.76722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4185,
+      "name": "Štore",
+      "code": "127",
+      "shortName": "127",
+      "cities": [
+        {
+          "id": 104363,
+          "name": "Štore",
+          "latlng": [
+            46.22083,
+            15.31389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4333,
+      "name": "Straža",
+      "code": "203",
+      "shortName": "203",
+      "cities": [
+        {
+          "id": 104286,
+          "name": "Straža",
+          "latlng": [
+            45.78,
+            15.07278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4164,
+      "name": "Sveta Ana",
+      "code": "181",
+      "shortName": "181",
+      "cities": [
+        {
+          "id": 104287,
+          "name": "Sv. Ana v Slov. Goricah",
+          "latlng": [
+            46.64917,
+            15.84417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4260,
+      "name": "Sveta Trojica v Slovenskih Goricah",
+      "code": "204",
+      "shortName": "204",
+      "cities": [
+        {
+          "id": 104290,
+          "name": "Sv. Trojica v Slov. Goricah",
+          "latlng": [
+            46.57667,
+            15.87694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4229,
+      "name": "Sveti Andraž v Slovenskih Goricah",
+      "code": "182",
+      "shortName": "182",
+      "cities": [
+        {
+          "id": 104314,
+          "name": "Vitomarci",
+          "latlng": [
+            46.5275,
+            15.93944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4255,
+      "name": "Sveti Jurij ob Ščavnici",
+      "code": "116",
+      "shortName": "116",
+      "cities": []
+    },
+    {
+      "id": 4328,
+      "name": "Sveti Jurij v Slovenskih Goricah",
+      "code": "210",
+      "shortName": "210",
+      "cities": [
+        {
+          "id": 104291,
+          "name": "Sveti Jurij ob Ščavnici",
+          "latlng": [
+            46.5695,
+            16.02347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4273,
+      "name": "Sveti Tomaž",
+      "code": "205",
+      "shortName": "205",
+      "cities": [
+        {
+          "id": 104292,
+          "name": "Sveti Tomaž",
+          "latlng": [
+            46.48417,
+            16.08361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4194,
+      "name": "Tabor",
+      "code": "184",
+      "shortName": "184",
+      "cities": [
+        {
+          "id": 104293,
+          "name": "Tabor",
+          "latlng": [
+            46.23611,
+            15.01833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4312,
+      "name": "Tišina",
+      "code": "010",
+      "shortName": "010",
+      "cities": [
+        {
+          "id": 104294,
+          "name": "Tišina",
+          "latlng": [
+            46.65806,
+            16.09167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4247,
+      "name": "Tolmin",
+      "code": "128",
+      "shortName": "128",
+      "cities": [
+        {
+          "id": 104295,
+          "name": "Tolmin",
+          "latlng": [
+            46.18304,
+            13.73321
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4246,
+      "name": "Trbovlje",
+      "code": "129",
+      "shortName": "129",
+      "cities": [
+        {
+          "id": 104297,
+          "name": "Trbovlje",
+          "latlng": [
+            46.155,
+            15.05333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4214,
+      "name": "Trebnje",
+      "code": "130",
+      "shortName": "130",
+      "cities": [
+        {
+          "id": 104298,
+          "name": "Trebnje",
+          "latlng": [
+            45.90417,
+            15.02167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4153,
+      "name": "Trnovska Vas",
+      "code": "185",
+      "shortName": "185",
+      "cities": [
+        {
+          "id": 104301,
+          "name": "Trnovska Vas",
+          "latlng": [
+            46.52019,
+            15.88657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4250,
+      "name": "Tržič",
+      "code": "131",
+      "shortName": "131",
+      "cities": [
+        {
+          "id": 104068,
+          "name": "Bistrica pri Tržiču",
+          "latlng": [
+            46.35472,
+            14.29167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104303,
+          "name": "Tržič",
+          "latlng": [
+            46.36357,
+            14.31046
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4334,
+      "name": "Trzin",
+      "code": "186",
+      "shortName": "186",
+      "cities": [
+        {
+          "id": 104340,
+          "name": "Črnuče District",
+          "latlng": [
+            46.11506,
+            14.55371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104302,
+          "name": "Trzin",
+          "latlng": [
+            46.13333,
+            14.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4251,
+      "name": "Turnišče",
+      "code": "132",
+      "shortName": "132",
+      "cities": [
+        {
+          "id": 104304,
+          "name": "Turnišče",
+          "latlng": [
+            46.62778,
+            16.32028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4267,
+      "name": "Velika Polana",
+      "code": "187",
+      "shortName": "187",
+      "cities": [
+        {
+          "id": 104305,
+          "name": "Velika Polana",
+          "latlng": [
+            46.57194,
+            16.34694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4144,
+      "name": "Velike Lašče",
+      "code": "134",
+      "shortName": "134",
+      "cities": [
+        {
+          "id": 104306,
+          "name": "Velike Lašče",
+          "latlng": [
+            45.83222,
+            14.63639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4257,
+      "name": "Veržej",
+      "code": "188",
+      "shortName": "188",
+      "cities": [
+        {
+          "id": 104308,
+          "name": "Veržej",
+          "latlng": [
+            46.58361,
+            16.16528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4300,
+      "name": "Videm",
+      "code": "135",
+      "shortName": "135",
+      "cities": [
+        {
+          "id": 104310,
+          "name": "Videm pri Ptuju",
+          "latlng": [
+            46.36861,
+            15.90639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4196,
+      "name": "Vipava",
+      "code": "136",
+      "shortName": "136",
+      "cities": [
+        {
+          "id": 104311,
+          "name": "Vipava",
+          "latlng": [
+            45.84667,
+            13.96306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4148,
+      "name": "Vitanje",
+      "code": "137",
+      "shortName": "137",
+      "cities": [
+        {
+          "id": 104313,
+          "name": "Vitanje",
+          "latlng": [
+            46.38167,
+            15.29583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4154,
+      "name": "Vodice",
+      "code": "138",
+      "shortName": "138",
+      "cities": [
+        {
+          "id": 104317,
+          "name": "Vodice",
+          "latlng": [
+            46.18987,
+            14.49492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4245,
+      "name": "Vojnik",
+      "code": "139",
+      "shortName": "139",
+      "cities": [
+        {
+          "id": 104318,
+          "name": "Vojnik",
+          "latlng": [
+            46.29333,
+            15.30333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4163,
+      "name": "Vransko",
+      "code": "189",
+      "shortName": "189",
+      "cities": [
+        {
+          "id": 104320,
+          "name": "Vransko",
+          "latlng": [
+            46.24389,
+            14.95139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4262,
+      "name": "Vrhnika",
+      "code": "140",
+      "shortName": "140",
+      "cities": [
+        {
+          "id": 104307,
+          "name": "Verd",
+          "latlng": [
+            45.95667,
+            14.30583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104321,
+          "name": "Vrhnika",
+          "latlng": [
+            45.9635,
+            14.29484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4226,
+      "name": "Vuzenica",
+      "code": "141",
+      "shortName": "141",
+      "cities": [
+        {
+          "id": 104323,
+          "name": "Vuzenica",
+          "latlng": [
+            46.59639,
+            15.16722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4269,
+      "name": "Zagorje ob Savi",
+      "code": "142",
+      "shortName": "142",
+      "cities": [
+        {
+          "id": 104126,
+          "name": "Izlake",
+          "latlng": [
+            46.15,
+            14.95
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104136,
+          "name": "Kisovec",
+          "latlng": [
+            46.13911,
+            14.96295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104325,
+          "name": "Zagorje ob Savi",
+          "latlng": [
+            46.13179,
+            14.99694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4258,
+      "name": "Žalec",
+      "code": "190",
+      "shortName": "190",
+      "cities": [
+        {
+          "id": 104111,
+          "name": "Gotovlje",
+          "latlng": [
+            46.27418,
+            15.15186
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104344,
+          "name": "Šempeter v Savinj. Dolini",
+          "latlng": [
+            46.25639,
+            15.12194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104324,
+          "name": "Zabukovica",
+          "latlng": [
+            46.21408,
+            15.15954
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 104364,
+          "name": "Žalec",
+          "latlng": [
+            46.25151,
+            15.16482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4182,
+      "name": "Zavrč",
+      "code": "143",
+      "shortName": "143",
+      "cities": [
+        {
+          "id": 104327,
+          "name": "Zavrč",
+          "latlng": [
+            46.39167,
+            16.04972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4256,
+      "name": "Železniki",
+      "code": "146",
+      "shortName": "146",
+      "cities": [
+        {
+          "id": 104365,
+          "name": "Železniki",
+          "latlng": [
+            46.22482,
+            14.17205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4249,
+      "name": "Žetale",
+      "code": "191",
+      "shortName": "191",
+      "cities": [
+        {
+          "id": 104366,
+          "name": "Žetale",
+          "latlng": [
+            46.27356,
+            15.82658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4192,
+      "name": "Žiri",
+      "code": "147",
+      "shortName": "147",
+      "cities": [
+        {
+          "id": 104367,
+          "name": "Žiri",
+          "latlng": [
+            46.04222,
+            14.10722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4276,
+      "name": "Žirovnica",
+      "code": "192",
+      "shortName": "192",
+      "cities": [
+        {
+          "id": 104368,
+          "name": "Žirovnica",
+          "latlng": [
+            46.40472,
+            14.14
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4342,
+      "name": "Zreče",
+      "code": "144",
+      "shortName": "144",
+      "cities": [
+        {
+          "id": 104335,
+          "name": "Zreče",
+          "latlng": [
+            46.38222,
+            15.37917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4307,
+      "name": "Žužemberk",
+      "code": "193",
+      "shortName": "193",
+      "cities": [
+        {
+          "id": 104369,
+          "name": "Žužemberk",
+          "latlng": [
+            45.83389,
+            14.92917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

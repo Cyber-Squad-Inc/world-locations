@@ -1,0 +1,112 @@
+{
+  "name": {
+    "common": "South Sudan",
+    "official": "South Sudan"
+  },
+  "iso2": "SS",
+  "iso3": "SSD",
+  "numericCode": "728",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "tld": ".ss",
+  "phoneCode": "211",
+  "capital": "Juba",
+  "currencies": {
+    "SSP": "South Sudanese pound"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Juba",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ss.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ss.svg",
+  "states": [
+    {
+      "id": 2092,
+      "name": "Central Equatoria",
+      "code": "EC",
+      "shortName": "EC",
+      "cities": []
+    },
+    {
+      "id": 2093,
+      "name": "Eastern Equatoria",
+      "code": "EE",
+      "shortName": "EE",
+      "cities": []
+    },
+    {
+      "id": 2094,
+      "name": "Jonglei State",
+      "code": "JG",
+      "shortName": "JG",
+      "cities": []
+    },
+    {
+      "id": 2090,
+      "name": "Lakes",
+      "code": "LK",
+      "shortName": "LK",
+      "cities": [
+        {
+          "id": 104834,
+          "name": "Yirol",
+          "latlng": [
+            6.5525,
+            30.49806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2088,
+      "name": "Northern Bahr el Ghazal",
+      "code": "BN",
+      "shortName": "BN",
+      "cities": []
+    },
+    {
+      "id": 2085,
+      "name": "Unity",
+      "code": "UY",
+      "shortName": "UY",
+      "cities": []
+    },
+    {
+      "id": 2086,
+      "name": "Upper Nile",
+      "code": "NU",
+      "shortName": "NU",
+      "cities": []
+    },
+    {
+      "id": 2087,
+      "name": "Warrap",
+      "code": "WR",
+      "shortName": "WR",
+      "cities": []
+    },
+    {
+      "id": 2091,
+      "name": "Western Bahr el Ghazal",
+      "code": "BW",
+      "shortName": "BW",
+      "cities": []
+    },
+    {
+      "id": 2089,
+      "name": "Western Equatoria",
+      "code": "EW",
+      "shortName": "EW",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,6163 @@
+{
+  "name": {
+    "common": "Belgium",
+    "official": "Belgium"
+  },
+  "iso2": "BE",
+  "iso3": "BEL",
+  "numericCode": "056",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "tld": ".be",
+  "phoneCode": "32",
+  "capital": "Brussels",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Brussels",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/be.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/be.svg",
+  "states": [
+    {
+      "id": 1381,
+      "name": "Antwerp",
+      "code": "VAN",
+      "shortName": "VAN",
+      "cities": []
+    },
+    {
+      "id": 1376,
+      "name": "Brussels-Capital",
+      "code": "BRU",
+      "shortName": "BRU",
+      "cities": [
+        {
+          "id": 8693,
+          "name": "Brussels",
+          "latlng": [
+            50.85045,
+            4.34878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1377,
+      "name": "East Flanders",
+      "code": "VOV",
+      "shortName": "VOV",
+      "cities": []
+    },
+    {
+      "id": 1373,
+      "name": "Flanders",
+      "code": "VLG",
+      "shortName": "VLG",
+      "cities": [
+        {
+          "id": 8608,
+          "name": "Aalst",
+          "latlng": [
+            50.93604,
+            4.0355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8609,
+          "name": "Aalter",
+          "latlng": [
+            51.09017,
+            3.44693
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8610,
+          "name": "Aarschot",
+          "latlng": [
+            50.98715,
+            4.83695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8611,
+          "name": "Aartselaar",
+          "latlng": [
+            51.13412,
+            4.38678
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8613,
+          "name": "Alken",
+          "latlng": [
+            50.87553,
+            5.30558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8614,
+          "name": "Alveringem",
+          "latlng": [
+            51.01238,
+            2.71117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8623,
+          "name": "Antwerpen",
+          "latlng": [
+            51.21989,
+            4.40346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8624,
+          "name": "Anzegem",
+          "latlng": [
+            50.837,
+            3.47786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8625,
+          "name": "Ardooie",
+          "latlng": [
+            50.9757,
+            3.19736
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8626,
+          "name": "Arendonk",
+          "latlng": [
+            51.32267,
+            5.08289
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8628,
+          "name": "As",
+          "latlng": [
+            51.00755,
+            5.58453
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8629,
+          "name": "Asse",
+          "latlng": [
+            50.91011,
+            4.19836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8630,
+          "name": "Assenede",
+          "latlng": [
+            51.22598,
+            3.75085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8636,
+          "name": "Avelgem",
+          "latlng": [
+            50.77618,
+            3.44502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8639,
+          "name": "Baarle-Hertog",
+          "latlng": [
+            51.40504,
+            4.89226
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8641,
+          "name": "Balen",
+          "latlng": [
+            51.16837,
+            5.17027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8648,
+          "name": "Beernem",
+          "latlng": [
+            51.13981,
+            3.33896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8649,
+          "name": "Beerse",
+          "latlng": [
+            51.31927,
+            4.85304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8650,
+          "name": "Beersel",
+          "latlng": [
+            50.76589,
+            4.3002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8651,
+          "name": "Begijnendijk",
+          "latlng": [
+            51.01942,
+            4.78377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8652,
+          "name": "Bekkevoort",
+          "latlng": [
+            50.94074,
+            4.969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8654,
+          "name": "Beringen",
+          "latlng": [
+            51.04954,
+            5.22606
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8655,
+          "name": "Berlaar",
+          "latlng": [
+            51.1176,
+            4.65835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8656,
+          "name": "Berlare",
+          "latlng": [
+            51.03333,
+            4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8659,
+          "name": "Bertem",
+          "latlng": [
+            50.86403,
+            4.62918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8662,
+          "name": "Bever",
+          "latlng": [
+            50.91667,
+            4.31667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8663,
+          "name": "Beveren",
+          "latlng": [
+            51.21187,
+            4.25633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8665,
+          "name": "Bierbeek",
+          "latlng": [
+            50.82876,
+            4.75949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8666,
+          "name": "Bilzen",
+          "latlng": [
+            50.87325,
+            5.5184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8669,
+          "name": "Blankenberge",
+          "latlng": [
+            51.31306,
+            3.13227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8671,
+          "name": "Bocholt",
+          "latlng": [
+            51.17337,
+            5.57994
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8672,
+          "name": "Boechout",
+          "latlng": [
+            51.15959,
+            4.49195
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8673,
+          "name": "Bonheiden",
+          "latlng": [
+            51.02261,
+            4.54714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8674,
+          "name": "Boom",
+          "latlng": [
+            51.09242,
+            4.3717
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8675,
+          "name": "Boortmeerbeek",
+          "latlng": [
+            50.97929,
+            4.57443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8676,
+          "name": "Borgloon",
+          "latlng": [
+            50.80505,
+            5.34366
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8677,
+          "name": "Bornem",
+          "latlng": [
+            51.09716,
+            4.24364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8678,
+          "name": "Borsbeek",
+          "latlng": [
+            51.19661,
+            4.48543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8681,
+          "name": "Boutersem",
+          "latlng": [
+            50.83511,
+            4.8345
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8686,
+          "name": "Brasschaat",
+          "latlng": [
+            51.2912,
+            4.49182
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8687,
+          "name": "Brecht",
+          "latlng": [
+            51.35024,
+            4.63829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8688,
+          "name": "Bredene",
+          "latlng": [
+            51.23489,
+            2.97559
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8689,
+          "name": "Bree",
+          "latlng": [
+            51.14152,
+            5.5969
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8691,
+          "name": "Brugge",
+          "latlng": [
+            51.20892,
+            3.22424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8694,
+          "name": "Buggenhout",
+          "latlng": [
+            51.0159,
+            4.20173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8718,
+          "name": "Damme",
+          "latlng": [
+            51.25147,
+            3.28144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8720,
+          "name": "De Haan",
+          "latlng": [
+            51.27261,
+            3.03446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8721,
+          "name": "De Panne",
+          "latlng": [
+            51.09793,
+            2.59368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8722,
+          "name": "De Pinte",
+          "latlng": [
+            50.99339,
+            3.64747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8723,
+          "name": "Deerlijk",
+          "latlng": [
+            50.85337,
+            3.35416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8724,
+          "name": "Deinze",
+          "latlng": [
+            50.98175,
+            3.53096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8725,
+          "name": "Denderleeuw",
+          "latlng": [
+            50.88506,
+            4.07601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8726,
+          "name": "Dendermonde",
+          "latlng": [
+            51.02869,
+            4.10106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8727,
+          "name": "Dentergem",
+          "latlng": [
+            50.96429,
+            3.41617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8728,
+          "name": "Dessel",
+          "latlng": [
+            51.23855,
+            5.11448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8729,
+          "name": "Destelbergen",
+          "latlng": [
+            51.05952,
+            3.79899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8730,
+          "name": "Deurne",
+          "latlng": [
+            51.22134,
+            4.46595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8731,
+          "name": "Diegem",
+          "latlng": [
+            50.89727,
+            4.43354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8732,
+          "name": "Diepenbeek",
+          "latlng": [
+            50.90769,
+            5.41875
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8733,
+          "name": "Diest",
+          "latlng": [
+            50.98923,
+            5.05062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8734,
+          "name": "Diksmuide",
+          "latlng": [
+            51.03248,
+            2.86384
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8735,
+          "name": "Dilbeek",
+          "latlng": [
+            50.84799,
+            4.25972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8741,
+          "name": "Drogenbos",
+          "latlng": [
+            50.78733,
+            4.31471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8742,
+          "name": "Duffel",
+          "latlng": [
+            51.09554,
+            4.50903
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8744,
+          "name": "Edegem",
+          "latlng": [
+            51.15662,
+            4.44504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8745,
+          "name": "Eeklo",
+          "latlng": [
+            51.18703,
+            3.55654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8751,
+          "name": "Essen",
+          "latlng": [
+            51.46791,
+            4.46901
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8755,
+          "name": "Evergem",
+          "latlng": [
+            51.11306,
+            3.70976
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8773,
+          "name": "Galmaarden",
+          "latlng": [
+            50.75389,
+            3.97121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8774,
+          "name": "Gavere",
+          "latlng": [
+            50.92917,
+            3.66184
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8776,
+          "name": "Geel",
+          "latlng": [
+            51.16557,
+            4.98917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8778,
+          "name": "Geetbets",
+          "latlng": [
+            50.89431,
+            5.11199
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8781,
+          "name": "Genk",
+          "latlng": [
+            50.965,
+            5.50082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8782,
+          "name": "Gent",
+          "latlng": [
+            51.05,
+            3.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8783,
+          "name": "Geraardsbergen",
+          "latlng": [
+            50.77343,
+            3.88223
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8786,
+          "name": "Gingelom",
+          "latlng": [
+            50.74792,
+            5.13422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8787,
+          "name": "Gistel",
+          "latlng": [
+            51.15612,
+            2.96387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8788,
+          "name": "Glabbeek",
+          "latlng": [
+            50.87267,
+            4.95615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8789,
+          "name": "Gooik",
+          "latlng": [
+            50.79443,
+            4.11378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8792,
+          "name": "Grimbergen",
+          "latlng": [
+            50.93409,
+            4.37213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8793,
+          "name": "Grobbendonk",
+          "latlng": [
+            51.19043,
+            4.73562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8794,
+          "name": "Haacht",
+          "latlng": [
+            50.97737,
+            4.63777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8795,
+          "name": "Haaltert",
+          "latlng": [
+            50.90634,
+            4.00093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8797,
+          "name": "Halen",
+          "latlng": [
+            50.94837,
+            5.11096
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8798,
+          "name": "Halle",
+          "latlng": [
+            50.73385,
+            4.23454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8799,
+          "name": "Hamme",
+          "latlng": [
+            51.09822,
+            4.13705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8803,
+          "name": "Harelbeke",
+          "latlng": [
+            50.85343,
+            3.30935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8804,
+          "name": "Hasselt",
+          "latlng": [
+            50.93106,
+            5.33781
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8807,
+          "name": "Heers",
+          "latlng": [
+            50.75383,
+            5.3021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8808,
+          "name": "Heist-op-den-Berg",
+          "latlng": [
+            51.07537,
+            4.72827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8809,
+          "name": "Helchteren",
+          "latlng": [
+            51.05591,
+            5.38244
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8810,
+          "name": "Hemiksem",
+          "latlng": [
+            51.14484,
+            4.33874
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8813,
+          "name": "Herent",
+          "latlng": [
+            50.90861,
+            4.67056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8814,
+          "name": "Herentals",
+          "latlng": [
+            51.17655,
+            4.83248
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8815,
+          "name": "Herenthout",
+          "latlng": [
+            51.1401,
+            4.75572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8816,
+          "name": "Herk-de-Stad",
+          "latlng": [
+            50.94013,
+            5.16636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8817,
+          "name": "Herne",
+          "latlng": [
+            50.72423,
+            4.03481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8818,
+          "name": "Herselt",
+          "latlng": [
+            51.05159,
+            4.88231
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8821,
+          "name": "Herzele",
+          "latlng": [
+            50.88681,
+            3.89014
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8822,
+          "name": "Heusden",
+          "latlng": [
+            51.03664,
+            5.28013
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8823,
+          "name": "Hoboken",
+          "latlng": [
+            51.17611,
+            4.34844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8824,
+          "name": "Hoegaarden",
+          "latlng": [
+            50.7756,
+            4.88952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8825,
+          "name": "Hoeilaart",
+          "latlng": [
+            50.7673,
+            4.46835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8826,
+          "name": "Hoeselt",
+          "latlng": [
+            50.84714,
+            5.48767
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8827,
+          "name": "Holsbeek",
+          "latlng": [
+            50.92097,
+            4.75747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8828,
+          "name": "Hooglede",
+          "latlng": [
+            50.98333,
+            3.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8829,
+          "name": "Hoogstraten",
+          "latlng": [
+            51.40029,
+            4.76034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8832,
+          "name": "Houthalen",
+          "latlng": [
+            51.03427,
+            5.37429
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8833,
+          "name": "Houthulst",
+          "latlng": [
+            50.97824,
+            2.9505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8835,
+          "name": "Hove",
+          "latlng": [
+            51.15446,
+            4.4707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8836,
+          "name": "Huldenberg",
+          "latlng": [
+            50.78939,
+            4.5831
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8837,
+          "name": "Hulshout",
+          "latlng": [
+            51.07451,
+            4.79081
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8840,
+          "name": "Ichtegem",
+          "latlng": [
+            51.09572,
+            3.01549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8841,
+          "name": "Ieper",
+          "latlng": [
+            50.85114,
+            2.88569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8843,
+          "name": "Ingelmunster",
+          "latlng": [
+            50.92081,
+            3.25571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8845,
+          "name": "Izegem",
+          "latlng": [
+            50.91396,
+            3.21378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8846,
+          "name": "Jabbeke",
+          "latlng": [
+            51.18185,
+            3.08935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8851,
+          "name": "Kalmthout",
+          "latlng": [
+            51.38442,
+            4.47556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8852,
+          "name": "Kampenhout",
+          "latlng": [
+            50.9421,
+            4.55103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8853,
+          "name": "Kapelle-op-den-Bos",
+          "latlng": [
+            51.0097,
+            4.36303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8854,
+          "name": "Kapellen",
+          "latlng": [
+            51.31377,
+            4.43539
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8855,
+          "name": "Kaprijke",
+          "latlng": [
+            51.2172,
+            3.61519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8856,
+          "name": "Kasterlee",
+          "latlng": [
+            51.24118,
+            4.96651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8857,
+          "name": "Keerbergen",
+          "latlng": [
+            51.00295,
+            4.63434
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8858,
+          "name": "Kinrooi",
+          "latlng": [
+            51.14543,
+            5.74207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8859,
+          "name": "Knesselare",
+          "latlng": [
+            51.13932,
+            3.41282
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8860,
+          "name": "Knokke-Heist",
+          "latlng": [
+            51.35,
+            3.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8861,
+          "name": "Koekelare",
+          "latlng": [
+            51.09047,
+            2.9783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8862,
+          "name": "Koksijde",
+          "latlng": [
+            51.11642,
+            2.63772
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8863,
+          "name": "Kontich",
+          "latlng": [
+            51.13213,
+            4.44706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8864,
+          "name": "Kortemark",
+          "latlng": [
+            51.02951,
+            3.04112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8865,
+          "name": "Kortenaken",
+          "latlng": [
+            50.90862,
+            5.05968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8866,
+          "name": "Kortenberg",
+          "latlng": [
+            50.88982,
+            4.54353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8867,
+          "name": "Kortessem",
+          "latlng": [
+            50.8589,
+            5.38974
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8868,
+          "name": "Kortrijk",
+          "latlng": [
+            50.82803,
+            3.26487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8869,
+          "name": "Kraainem",
+          "latlng": [
+            50.86155,
+            4.46946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8870,
+          "name": "Kruibeke",
+          "latlng": [
+            51.17048,
+            4.31444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8871,
+          "name": "Kruishoutem",
+          "latlng": [
+            50.90168,
+            3.52588
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8872,
+          "name": "Kuurne",
+          "latlng": [
+            50.85143,
+            3.2824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8878,
+          "name": "Laarne",
+          "latlng": [
+            51.03078,
+            3.85077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8879,
+          "name": "Lanaken",
+          "latlng": [
+            50.89318,
+            5.6468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8880,
+          "name": "Landen",
+          "latlng": [
+            50.75267,
+            5.082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8881,
+          "name": "Lebbeke",
+          "latlng": [
+            51.00464,
+            4.13457
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8882,
+          "name": "Lede",
+          "latlng": [
+            50.96626,
+            3.98594
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8883,
+          "name": "Ledeberg",
+          "latlng": [
+            51.03859,
+            3.74458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8884,
+          "name": "Ledegem",
+          "latlng": [
+            50.85785,
+            3.12409
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8885,
+          "name": "Lendelede",
+          "latlng": [
+            50.88626,
+            3.23747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8887,
+          "name": "Leopoldsburg",
+          "latlng": [
+            51.11667,
+            5.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8889,
+          "name": "Leuven",
+          "latlng": [
+            50.87959,
+            4.70093
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8891,
+          "name": "Lichtervelde",
+          "latlng": [
+            51.03333,
+            3.15
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8892,
+          "name": "Liedekerke",
+          "latlng": [
+            50.86892,
+            4.08743
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8893,
+          "name": "Lier",
+          "latlng": [
+            51.13128,
+            4.57041
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8895,
+          "name": "Lille",
+          "latlng": [
+            51.24197,
+            4.82313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8898,
+          "name": "Linkebeek",
+          "latlng": [
+            50.76781,
+            4.33688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8899,
+          "name": "Lint",
+          "latlng": [
+            51.12707,
+            4.49669
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8902,
+          "name": "Lochristi",
+          "latlng": [
+            51.09644,
+            3.83194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8903,
+          "name": "Lokeren",
+          "latlng": [
+            51.10364,
+            3.99339
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8904,
+          "name": "Lommel",
+          "latlng": [
+            51.23074,
+            5.31349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8905,
+          "name": "Londerzeel",
+          "latlng": [
+            51.00468,
+            4.30304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8908,
+          "name": "Lovendegem",
+          "latlng": [
+            51.10168,
+            3.61298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8909,
+          "name": "Lubbeek",
+          "latlng": [
+            50.88278,
+            4.83896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8910,
+          "name": "Lummen",
+          "latlng": [
+            50.98772,
+            5.19121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8912,
+          "name": "Maaseik",
+          "latlng": [
+            51.09802,
+            5.78379
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8913,
+          "name": "Maasmechelen",
+          "latlng": [
+            50.96545,
+            5.69452
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8914,
+          "name": "Machelen",
+          "latlng": [
+            50.91061,
+            4.44174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8915,
+          "name": "Maldegem",
+          "latlng": [
+            51.20737,
+            3.44511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8922,
+          "name": "Mechelen",
+          "latlng": [
+            51.02574,
+            4.47762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8923,
+          "name": "Meerhout",
+          "latlng": [
+            51.1321,
+            5.07842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8924,
+          "name": "Meise",
+          "latlng": [
+            50.93934,
+            4.32655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8926,
+          "name": "Melle",
+          "latlng": [
+            51.00232,
+            3.80526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8927,
+          "name": "Menen",
+          "latlng": [
+            50.79722,
+            3.12245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8929,
+          "name": "Merchtem",
+          "latlng": [
+            50.95129,
+            4.23197
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8930,
+          "name": "Merelbeke",
+          "latlng": [
+            50.99447,
+            3.74621
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8931,
+          "name": "Merksplas",
+          "latlng": [
+            51.35851,
+            4.86513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8934,
+          "name": "Meulebeke",
+          "latlng": [
+            50.95136,
+            3.28804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8935,
+          "name": "Middelkerke",
+          "latlng": [
+            51.18532,
+            2.82077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8937,
+          "name": "Moerbeke",
+          "latlng": [
+            51.17409,
+            3.93001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8938,
+          "name": "Mol",
+          "latlng": [
+            51.19188,
+            5.11662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8943,
+          "name": "Moorslede",
+          "latlng": [
+            50.8919,
+            3.06117
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8945,
+          "name": "Mortsel",
+          "latlng": [
+            51.16697,
+            4.45127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8951,
+          "name": "Nazareth",
+          "latlng": [
+            50.95686,
+            3.59425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8952,
+          "name": "Neerpelt",
+          "latlng": [
+            51.22807,
+            5.4427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8954,
+          "name": "Nevele",
+          "latlng": [
+            51.03531,
+            3.54574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8955,
+          "name": "Niel",
+          "latlng": [
+            51.11096,
+            4.33428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8956,
+          "name": "Nieuwerkerken",
+          "latlng": [
+            50.8638,
+            5.19467
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8957,
+          "name": "Nieuwpoort",
+          "latlng": [
+            51.13008,
+            2.75135
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8958,
+          "name": "Nijlen",
+          "latlng": [
+            51.16096,
+            4.67008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8959,
+          "name": "Ninove",
+          "latlng": [
+            50.82776,
+            4.02657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8963,
+          "name": "Olen",
+          "latlng": [
+            51.14391,
+            4.8598
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8966,
+          "name": "Oostduinkerke",
+          "latlng": [
+            51.11565,
+            2.68217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8967,
+          "name": "Oosterzele",
+          "latlng": [
+            50.95261,
+            3.79826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8968,
+          "name": "Oostkamp",
+          "latlng": [
+            51.15432,
+            3.23128
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8969,
+          "name": "Oostmalle",
+          "latlng": [
+            51.3,
+            4.73333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8970,
+          "name": "Oostrozebeke",
+          "latlng": [
+            50.92093,
+            3.33799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8971,
+          "name": "Opglabbeek",
+          "latlng": [
+            51.04258,
+            5.58346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8972,
+          "name": "Opwijk",
+          "latlng": [
+            50.96724,
+            4.18442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8974,
+          "name": "Ostend",
+          "latlng": [
+            51.21551,
+            2.927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8976,
+          "name": "Oud-Heverlee",
+          "latlng": [
+            50.83522,
+            4.66421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8977,
+          "name": "Oud-Turnhout",
+          "latlng": [
+            51.31978,
+            4.9841
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8978,
+          "name": "Oudenaarde",
+          "latlng": [
+            50.85168,
+            3.60891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8979,
+          "name": "Oudenburg",
+          "latlng": [
+            51.18489,
+            3.00035
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8982,
+          "name": "Overijse",
+          "latlng": [
+            50.77436,
+            4.53461
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8983,
+          "name": "Overpelt",
+          "latlng": [
+            51.21038,
+            5.41557
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8986,
+          "name": "Peer",
+          "latlng": [
+            51.1303,
+            5.45952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8987,
+          "name": "Pepingen",
+          "latlng": [
+            50.75922,
+            4.15983
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8989,
+          "name": "Perre",
+          "latlng": [
+            50.88914,
+            3.86098
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8992,
+          "name": "Pittem",
+          "latlng": [
+            50.99279,
+            3.26317
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8995,
+          "name": "Poperinge",
+          "latlng": [
+            50.85386,
+            2.72659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9002,
+          "name": "Provincie Antwerpen",
+          "latlng": [
+            51.16558,
+            4.83402
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9003,
+          "name": "Provincie Limburg",
+          "latlng": [
+            51,
+            5.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9004,
+          "name": "Provincie Oost-Vlaanderen",
+          "latlng": [
+            51,
+            3.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9005,
+          "name": "Provincie Vlaams-Brabant",
+          "latlng": [
+            50.91667,
+            4.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9006,
+          "name": "Provincie West-Vlaanderen",
+          "latlng": [
+            51,
+            3
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9007,
+          "name": "Putte",
+          "latlng": [
+            51.05337,
+            4.63263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9008,
+          "name": "Puurs",
+          "latlng": [
+            51.07409,
+            4.28844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9015,
+          "name": "Ranst",
+          "latlng": [
+            51.18983,
+            4.56533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9016,
+          "name": "Ravels",
+          "latlng": [
+            51.37274,
+            4.9921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9020,
+          "name": "Retie",
+          "latlng": [
+            51.26652,
+            5.08242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9021,
+          "name": "Riemst",
+          "latlng": [
+            50.80995,
+            5.60131
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9022,
+          "name": "Rijkevorsel",
+          "latlng": [
+            51.34795,
+            4.76053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9025,
+          "name": "Roeselare",
+          "latlng": [
+            50.94653,
+            3.12269
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9027,
+          "name": "Ronse",
+          "latlng": [
+            50.74574,
+            3.6005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9028,
+          "name": "Rotselaar",
+          "latlng": [
+            50.95302,
+            4.71665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9030,
+          "name": "Ruiselede",
+          "latlng": [
+            51.04039,
+            3.39416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9032,
+          "name": "Rumst",
+          "latlng": [
+            51.08153,
+            4.42217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9039,
+          "name": "Schelle",
+          "latlng": [
+            51.12615,
+            4.34114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9040,
+          "name": "Schilde",
+          "latlng": [
+            51.24107,
+            4.58336
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9041,
+          "name": "Schoten",
+          "latlng": [
+            51.25251,
+            4.50268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9045,
+          "name": "Sint-Amands",
+          "latlng": [
+            51.05645,
+            4.20957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9046,
+          "name": "Sint-Genesius-Rode",
+          "latlng": [
+            50.74645,
+            4.35754
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9047,
+          "name": "Sint-Gillis-Waas",
+          "latlng": [
+            51.21914,
+            4.12374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9048,
+          "name": "Sint-Joris",
+          "latlng": [
+            50.87117,
+            5.272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9049,
+          "name": "Sint-Katelijne-Waver",
+          "latlng": [
+            51.06691,
+            4.53469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9050,
+          "name": "Sint-Kruis",
+          "latlng": [
+            51.21399,
+            3.24949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9051,
+          "name": "Sint-Laureins",
+          "latlng": [
+            51.24202,
+            3.52441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9052,
+          "name": "Sint-Lievens-Houtem",
+          "latlng": [
+            50.9197,
+            3.86225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9053,
+          "name": "Sint-Maria-Lierde",
+          "latlng": [
+            50.81867,
+            3.84436
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9054,
+          "name": "Sint-Martens-Latem",
+          "latlng": [
+            51.01459,
+            3.63779
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9055,
+          "name": "Sint-Martens-Lennik",
+          "latlng": [
+            50.81158,
+            4.16965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9056,
+          "name": "Sint-Niklaas",
+          "latlng": [
+            51.16509,
+            4.1437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9057,
+          "name": "Sint-Pieters-Leeuw",
+          "latlng": [
+            50.77926,
+            4.24355
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9058,
+          "name": "Sint-Pieters-Voeren",
+          "latlng": [
+            50.73863,
+            5.82224
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9059,
+          "name": "Sint-Truiden",
+          "latlng": [
+            50.81679,
+            5.18647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9066,
+          "name": "Stabroek",
+          "latlng": [
+            51.33189,
+            4.37127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9067,
+          "name": "Staden",
+          "latlng": [
+            50.97456,
+            3.01469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9069,
+          "name": "Steenokkerzeel",
+          "latlng": [
+            50.91851,
+            4.50989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9070,
+          "name": "Stekene",
+          "latlng": [
+            51.2099,
+            4.03651
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9073,
+          "name": "Temse",
+          "latlng": [
+            51.12794,
+            4.21372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9075,
+          "name": "Terkoest",
+          "latlng": [
+            50.89832,
+            5.27623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9076,
+          "name": "Ternat",
+          "latlng": [
+            50.86654,
+            4.16682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9077,
+          "name": "Tervuren",
+          "latlng": [
+            50.82372,
+            4.51418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9078,
+          "name": "Tessenderlo",
+          "latlng": [
+            51.06513,
+            5.08856
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9081,
+          "name": "Tielt",
+          "latlng": [
+            50.99931,
+            3.32707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9082,
+          "name": "Tienen",
+          "latlng": [
+            50.80745,
+            4.9378
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9085,
+          "name": "Tongeren",
+          "latlng": [
+            50.78054,
+            5.46484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9086,
+          "name": "Torhout",
+          "latlng": [
+            51.0656,
+            3.10085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9088,
+          "name": "Tremelo",
+          "latlng": [
+            50.99231,
+            4.70807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9092,
+          "name": "Turnhout",
+          "latlng": [
+            51.32254,
+            4.94471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9096,
+          "name": "Veurne",
+          "latlng": [
+            51.07316,
+            2.66803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9100,
+          "name": "Vilvoorde",
+          "latlng": [
+            50.92814,
+            4.42938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9103,
+          "name": "Vorselaar",
+          "latlng": [
+            51.20243,
+            4.77259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9104,
+          "name": "Vosselaar",
+          "latlng": [
+            51.30856,
+            4.8896
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9105,
+          "name": "Waarschoot",
+          "latlng": [
+            51.1525,
+            3.605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9106,
+          "name": "Waasmunster",
+          "latlng": [
+            51.10572,
+            4.08573
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9107,
+          "name": "Wachtebeke",
+          "latlng": [
+            51.16852,
+            3.87183
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9112,
+          "name": "Waregem",
+          "latlng": [
+            50.88898,
+            3.42756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9118,
+          "name": "Wellen",
+          "latlng": [
+            50.84096,
+            5.33867
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9120,
+          "name": "Wemmel",
+          "latlng": [
+            50.90812,
+            4.30613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9121,
+          "name": "Wenduine",
+          "latlng": [
+            51.2983,
+            3.08213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9122,
+          "name": "Wervik",
+          "latlng": [
+            50.78069,
+            3.03854
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9123,
+          "name": "Westerlo",
+          "latlng": [
+            51.09049,
+            4.91544
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9124,
+          "name": "Wetteren",
+          "latlng": [
+            51.00526,
+            3.88341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9125,
+          "name": "Wevelgem",
+          "latlng": [
+            50.8,
+            3.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9126,
+          "name": "Wezembeek-Oppem",
+          "latlng": [
+            50.8395,
+            4.49427
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9127,
+          "name": "Wichelen",
+          "latlng": [
+            51.00526,
+            3.97683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9128,
+          "name": "Wielsbeke",
+          "latlng": [
+            50.9,
+            3.36667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9129,
+          "name": "Wijnegem",
+          "latlng": [
+            51.22787,
+            4.51895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9130,
+          "name": "Willebroek",
+          "latlng": [
+            51.06041,
+            4.36019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9131,
+          "name": "Wingene",
+          "latlng": [
+            51.05782,
+            3.27359
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9132,
+          "name": "Wommelgem",
+          "latlng": [
+            51.20452,
+            4.5225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9133,
+          "name": "Wuustwezel",
+          "latlng": [
+            51.39214,
+            4.59546
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9135,
+          "name": "Zandhoven",
+          "latlng": [
+            51.21488,
+            4.66164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9136,
+          "name": "Zaventem",
+          "latlng": [
+            50.88365,
+            4.47298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9137,
+          "name": "Zedelgem",
+          "latlng": [
+            51.14236,
+            3.1368
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9138,
+          "name": "Zeebrugge",
+          "latlng": [
+            51.32901,
+            3.18188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9139,
+          "name": "Zele",
+          "latlng": [
+            51.06566,
+            4.0403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9140,
+          "name": "Zelzate",
+          "latlng": [
+            51.18963,
+            3.80777
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9141,
+          "name": "Zemst",
+          "latlng": [
+            50.98318,
+            4.46079
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9142,
+          "name": "Zingem",
+          "latlng": [
+            50.90409,
+            3.65305
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9143,
+          "name": "Zoersel",
+          "latlng": [
+            51.26825,
+            4.71296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9144,
+          "name": "Zomergem",
+          "latlng": [
+            51.11994,
+            3.56496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9145,
+          "name": "Zonhoven",
+          "latlng": [
+            50.99064,
+            5.36819
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9146,
+          "name": "Zonnebeke",
+          "latlng": [
+            50.8726,
+            2.98725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9147,
+          "name": "Zottegem",
+          "latlng": [
+            50.86955,
+            3.81052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9148,
+          "name": "Zoutleeuw",
+          "latlng": [
+            50.83316,
+            5.10376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9149,
+          "name": "Zuienkerke",
+          "latlng": [
+            51.26511,
+            3.15506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9150,
+          "name": "Zulte",
+          "latlng": [
+            50.91954,
+            3.44859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9151,
+          "name": "Zutendaal",
+          "latlng": [
+            50.93306,
+            5.5753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9152,
+          "name": "Zwevegem",
+          "latlng": [
+            50.81268,
+            3.33848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9153,
+          "name": "Zwijndrecht",
+          "latlng": [
+            51.21979,
+            4.32664
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1374,
+      "name": "Flemish Brabant",
+      "code": "VBR",
+      "shortName": "VBR",
+      "cities": []
+    },
+    {
+      "id": 1375,
+      "name": "Hainaut",
+      "code": "WHT",
+      "shortName": "WHT",
+      "cities": []
+    },
+    {
+      "id": 1384,
+      "name": "Liège",
+      "code": "WLG",
+      "shortName": "WLG",
+      "cities": []
+    },
+    {
+      "id": 1372,
+      "name": "Limburg",
+      "code": "VLI",
+      "shortName": "VLI",
+      "cities": []
+    },
+    {
+      "id": 1379,
+      "name": "Luxembourg",
+      "code": "WLX",
+      "shortName": "WLX",
+      "cities": []
+    },
+    {
+      "id": 1378,
+      "name": "Namur",
+      "code": "WNA",
+      "shortName": "WNA",
+      "cities": []
+    },
+    {
+      "id": 1380,
+      "name": "Wallonia",
+      "code": "WAL",
+      "shortName": "WAL",
+      "cities": [
+        {
+          "id": 8612,
+          "name": "Aiseau",
+          "latlng": [
+            50.41158,
+            4.58671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8615,
+          "name": "Amay",
+          "latlng": [
+            50.54829,
+            5.30974
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8616,
+          "name": "Amblève",
+          "latlng": [
+            50.35357,
+            6.17002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8617,
+          "name": "Andenne",
+          "latlng": [
+            50.48941,
+            5.09513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8618,
+          "name": "Anderlues",
+          "latlng": [
+            50.40704,
+            4.27136
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8619,
+          "name": "Anhée",
+          "latlng": [
+            50.31039,
+            4.87827
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8620,
+          "name": "Ans",
+          "latlng": [
+            50.6623,
+            5.52029
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8621,
+          "name": "Anthisnes",
+          "latlng": [
+            50.48323,
+            5.519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8622,
+          "name": "Antoing",
+          "latlng": [
+            50.56765,
+            3.4492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8627,
+          "name": "Arlon",
+          "latlng": [
+            49.68333,
+            5.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8631,
+          "name": "Assesse",
+          "latlng": [
+            50.36934,
+            5.02204
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8632,
+          "name": "Ath",
+          "latlng": [
+            50.62937,
+            3.77801
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8633,
+          "name": "Attert",
+          "latlng": [
+            49.75035,
+            5.78634
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8634,
+          "name": "Aubange",
+          "latlng": [
+            49.56652,
+            5.80492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8635,
+          "name": "Aubel",
+          "latlng": [
+            50.70189,
+            5.85812
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8637,
+          "name": "Awans",
+          "latlng": [
+            50.66774,
+            5.46329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8638,
+          "name": "Aywaille",
+          "latlng": [
+            50.47411,
+            5.67684
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8640,
+          "name": "Baelen",
+          "latlng": [
+            50.63131,
+            5.97433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8642,
+          "name": "Basse Lasne",
+          "latlng": [
+            50.69503,
+            4.49218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8643,
+          "name": "Bassenge",
+          "latlng": [
+            50.75883,
+            5.60989
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8644,
+          "name": "Bastogne",
+          "latlng": [
+            50.00347,
+            5.71844
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8645,
+          "name": "Beaumont",
+          "latlng": [
+            50.23699,
+            4.23926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8646,
+          "name": "Beauraing",
+          "latlng": [
+            50.11042,
+            4.95554
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8647,
+          "name": "Beauvechain",
+          "latlng": [
+            50.78195,
+            4.7718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8653,
+          "name": "Beloeil",
+          "latlng": [
+            50.55047,
+            3.73484
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8657,
+          "name": "Berloz",
+          "latlng": [
+            50.69829,
+            5.21236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8658,
+          "name": "Bernissart",
+          "latlng": [
+            50.4746,
+            3.64961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8660,
+          "name": "Bertogne",
+          "latlng": [
+            50.08364,
+            5.66689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8661,
+          "name": "Bertrix",
+          "latlng": [
+            49.85596,
+            5.25539
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8664,
+          "name": "Beyne-Heusay",
+          "latlng": [
+            50.62251,
+            5.66508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8668,
+          "name": "Bièvre",
+          "latlng": [
+            49.94085,
+            5.01591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8667,
+          "name": "Binche",
+          "latlng": [
+            50.41155,
+            4.16469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8670,
+          "name": "Blégny",
+          "latlng": [
+            50.67255,
+            5.72508
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8679,
+          "name": "Bouillon",
+          "latlng": [
+            49.79324,
+            5.06703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8680,
+          "name": "Boussu",
+          "latlng": [
+            50.43417,
+            3.7944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8682,
+          "name": "Braine-l'Alleud",
+          "latlng": [
+            50.68363,
+            4.36784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8683,
+          "name": "Braine-le-Château",
+          "latlng": [
+            50.6799,
+            4.27385
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8684,
+          "name": "Braine-le-Comte",
+          "latlng": [
+            50.60979,
+            4.14658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8685,
+          "name": "Braives",
+          "latlng": [
+            50.61745,
+            5.13302
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8690,
+          "name": "Brugelette",
+          "latlng": [
+            50.59577,
+            3.85363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8692,
+          "name": "Brunehault",
+          "latlng": [
+            50.50524,
+            4.43209
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8695,
+          "name": "Bullange",
+          "latlng": [
+            50.40731,
+            6.25749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8696,
+          "name": "Burdinne",
+          "latlng": [
+            50.58454,
+            5.07663
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8697,
+          "name": "Butgenbach",
+          "latlng": [
+            50.42689,
+            6.20504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8698,
+          "name": "Celles",
+          "latlng": [
+            50.71229,
+            3.45733
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8699,
+          "name": "Cerfontaine",
+          "latlng": [
+            50.17047,
+            4.41028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8700,
+          "name": "Chapelle-lez-Herlaimont",
+          "latlng": [
+            50.4713,
+            4.28227
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8701,
+          "name": "Charleroi",
+          "latlng": [
+            50.41136,
+            4.44448
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8702,
+          "name": "Chastre-Villeroux-Blanmont",
+          "latlng": [
+            50.60857,
+            4.64198
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8708,
+          "name": "Châtelet",
+          "latlng": [
+            50.40338,
+            4.52826
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8703,
+          "name": "Chaudfontaine",
+          "latlng": [
+            50.5828,
+            5.6341
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8704,
+          "name": "Chaumont-Gistoux",
+          "latlng": [
+            50.67753,
+            4.7212
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8707,
+          "name": "Chièvres",
+          "latlng": [
+            50.58787,
+            3.80711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8705,
+          "name": "Chimay",
+          "latlng": [
+            50.04856,
+            4.31712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8706,
+          "name": "Chiny",
+          "latlng": [
+            49.73833,
+            5.34104
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8709,
+          "name": "Ciney",
+          "latlng": [
+            50.29449,
+            5.10015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8710,
+          "name": "Clavier",
+          "latlng": [
+            50.40069,
+            5.35154
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8711,
+          "name": "Colfontaine",
+          "latlng": [
+            50.4141,
+            3.85569
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8712,
+          "name": "Comblain-au-Pont",
+          "latlng": [
+            50.47488,
+            5.57711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8713,
+          "name": "Courcelles",
+          "latlng": [
+            50.46379,
+            4.3747
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8714,
+          "name": "Court-Saint-Étienne",
+          "latlng": [
+            50.63378,
+            4.56851
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8715,
+          "name": "Couvin",
+          "latlng": [
+            50.05284,
+            4.49495
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8716,
+          "name": "Crisnée",
+          "latlng": [
+            50.71703,
+            5.39802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8717,
+          "name": "Dalhem",
+          "latlng": [
+            50.71315,
+            5.72774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8719,
+          "name": "Daverdisse",
+          "latlng": [
+            50.02161,
+            5.11811
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8736,
+          "name": "Dinant",
+          "latlng": [
+            50.25807,
+            4.91166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8737,
+          "name": "Dison",
+          "latlng": [
+            50.61004,
+            5.8534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8738,
+          "name": "Doische",
+          "latlng": [
+            50.13356,
+            4.73545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8739,
+          "name": "Donceel",
+          "latlng": [
+            50.64827,
+            5.32
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8740,
+          "name": "Dour",
+          "latlng": [
+            50.39583,
+            3.77792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8743,
+          "name": "Durbuy",
+          "latlng": [
+            50.35291,
+            5.45631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9154,
+          "name": "Écaussinnes-d’Enghien",
+          "latlng": [
+            50.56822,
+            4.1658
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9155,
+          "name": "Éghezée",
+          "latlng": [
+            50.59076,
+            4.91175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8746,
+          "name": "Ellezelles",
+          "latlng": [
+            50.73512,
+            3.67985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8747,
+          "name": "Enghien",
+          "latlng": [
+            50.68373,
+            4.03284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8748,
+          "name": "Engis",
+          "latlng": [
+            50.58156,
+            5.39916
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9156,
+          "name": "Érezée",
+          "latlng": [
+            50.29292,
+            5.55815
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8749,
+          "name": "Erquelinnes",
+          "latlng": [
+            50.30688,
+            4.11129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8750,
+          "name": "Esneux",
+          "latlng": [
+            50.53596,
+            5.56775
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8752,
+          "name": "Estaimpuis",
+          "latlng": [
+            50.70485,
+            3.26785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8753,
+          "name": "Estinnes-au-Val",
+          "latlng": [
+            50.41016,
+            4.10477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9157,
+          "name": "Étalle",
+          "latlng": [
+            49.67385,
+            5.60019
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8754,
+          "name": "Eupen",
+          "latlng": [
+            50.6279,
+            6.03647
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8756,
+          "name": "Faimes",
+          "latlng": [
+            50.66252,
+            5.26005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8757,
+          "name": "Farciennes",
+          "latlng": [
+            50.43006,
+            4.54152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8758,
+          "name": "Fauvillers",
+          "latlng": [
+            49.85116,
+            5.66405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8759,
+          "name": "Ferrières",
+          "latlng": [
+            50.40157,
+            5.61092
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8760,
+          "name": "Fexhe-le-Haut-Clocher",
+          "latlng": [
+            50.6654,
+            5.39978
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8766,
+          "name": "Flémalle-Haute",
+          "latlng": [
+            50.59994,
+            5.44471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8767,
+          "name": "Fléron",
+          "latlng": [
+            50.61516,
+            5.68062
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8761,
+          "name": "Fleurus",
+          "latlng": [
+            50.48351,
+            4.55006
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8762,
+          "name": "Flobecq",
+          "latlng": [
+            50.73733,
+            3.73876
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8763,
+          "name": "Floreffe",
+          "latlng": [
+            50.43452,
+            4.7596
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8764,
+          "name": "Florennes",
+          "latlng": [
+            50.25127,
+            4.60636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8765,
+          "name": "Florenville",
+          "latlng": [
+            49.69983,
+            5.3074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8768,
+          "name": "Forville",
+          "latlng": [
+            50.57424,
+            4.99861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8769,
+          "name": "Fosses-la-Ville",
+          "latlng": [
+            50.39517,
+            4.69623
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8770,
+          "name": "Frameries",
+          "latlng": [
+            50.40578,
+            3.89603
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8771,
+          "name": "Frasnes-lez-Buissenal",
+          "latlng": [
+            50.66783,
+            3.62047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8772,
+          "name": "Froidchapelle",
+          "latlng": [
+            50.15106,
+            4.32742
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8775,
+          "name": "Gedinne",
+          "latlng": [
+            49.98037,
+            4.93674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8777,
+          "name": "Geer",
+          "latlng": [
+            50.6699,
+            5.17364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8779,
+          "name": "Gembloux",
+          "latlng": [
+            50.56149,
+            4.69889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8780,
+          "name": "Genappe",
+          "latlng": [
+            50.61173,
+            4.45152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8784,
+          "name": "Gerpinnes",
+          "latlng": [
+            50.33789,
+            4.52731
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8785,
+          "name": "Gesves",
+          "latlng": [
+            50.40146,
+            5.07457
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8790,
+          "name": "Gouvy",
+          "latlng": [
+            50.186,
+            5.93917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8791,
+          "name": "Grez-Doiceau",
+          "latlng": [
+            50.73901,
+            4.69829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8796,
+          "name": "Habay-la-Vieille",
+          "latlng": [
+            49.72329,
+            5.61999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8800,
+          "name": "Hamoir",
+          "latlng": [
+            50.42675,
+            5.53304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8801,
+          "name": "Hamois",
+          "latlng": [
+            50.3402,
+            5.15619
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8802,
+          "name": "Hannut",
+          "latlng": [
+            50.67142,
+            5.07898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8805,
+          "name": "Hastière-Lavaux",
+          "latlng": [
+            50.21849,
+            4.82446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8806,
+          "name": "Havelange",
+          "latlng": [
+            50.38931,
+            5.23816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8811,
+          "name": "Hensies",
+          "latlng": [
+            50.43263,
+            3.68411
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8812,
+          "name": "Herbeumont",
+          "latlng": [
+            49.78086,
+            5.2358
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8839,
+          "name": "Héron",
+          "latlng": [
+            50.54731,
+            5.09774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8819,
+          "name": "Herstal",
+          "latlng": [
+            50.66415,
+            5.62346
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8820,
+          "name": "Herve",
+          "latlng": [
+            50.64083,
+            5.79353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8830,
+          "name": "Hotton",
+          "latlng": [
+            50.26742,
+            5.44609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8831,
+          "name": "Houffalize",
+          "latlng": [
+            50.13235,
+            5.78962
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8834,
+          "name": "Houyet",
+          "latlng": [
+            50.18619,
+            5.00762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8838,
+          "name": "Huy",
+          "latlng": [
+            50.51894,
+            5.23284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8842,
+          "name": "Incourt",
+          "latlng": [
+            50.69151,
+            4.79816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8844,
+          "name": "Ittre",
+          "latlng": [
+            50.64396,
+            4.26476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8847,
+          "name": "Jalhay",
+          "latlng": [
+            50.55876,
+            5.96764
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8848,
+          "name": "Jodoigne",
+          "latlng": [
+            50.72357,
+            4.86914
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8849,
+          "name": "Juprelle",
+          "latlng": [
+            50.7076,
+            5.53127
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8850,
+          "name": "Jurbise",
+          "latlng": [
+            50.531,
+            3.90942
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8873,
+          "name": "La Bruyère",
+          "latlng": [
+            50.39478,
+            4.61444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8874,
+          "name": "La Calamine",
+          "latlng": [
+            50.71809,
+            6.01107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8875,
+          "name": "La Hulpe",
+          "latlng": [
+            50.73091,
+            4.48577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8876,
+          "name": "La Louvière",
+          "latlng": [
+            50.48657,
+            4.18785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8877,
+          "name": "La Roche-en-Ardenne",
+          "latlng": [
+            50.18361,
+            5.57547
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8911,
+          "name": "Léglise",
+          "latlng": [
+            49.79985,
+            5.53652
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8886,
+          "name": "Lens",
+          "latlng": [
+            50.55696,
+            3.89946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8888,
+          "name": "Lessines",
+          "latlng": [
+            50.71104,
+            3.83579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8890,
+          "name": "Libin",
+          "latlng": [
+            49.98107,
+            5.25612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8900,
+          "name": "Liège",
+          "latlng": [
+            50.63373,
+            5.56749
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8894,
+          "name": "Lierneux",
+          "latlng": [
+            50.28477,
+            5.79236
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8896,
+          "name": "Limbourg",
+          "latlng": [
+            50.61222,
+            5.9412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8897,
+          "name": "Lincent",
+          "latlng": [
+            50.71222,
+            5.03654
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8901,
+          "name": "Lobbes",
+          "latlng": [
+            50.35258,
+            4.26716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8906,
+          "name": "Lontzen",
+          "latlng": [
+            50.68126,
+            6.00712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8907,
+          "name": "Louvain-la-Neuve",
+          "latlng": [
+            50.66829,
+            4.61443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8916,
+          "name": "Malmédy",
+          "latlng": [
+            50.42686,
+            6.02794
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8917,
+          "name": "Manage",
+          "latlng": [
+            50.50312,
+            4.23589
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8918,
+          "name": "Manhay",
+          "latlng": [
+            50.29219,
+            5.67562
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8919,
+          "name": "Marche-en-Famenne",
+          "latlng": [
+            50.22678,
+            5.34416
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8920,
+          "name": "Marchin",
+          "latlng": [
+            50.46707,
+            5.2428
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8921,
+          "name": "Martelange",
+          "latlng": [
+            49.83195,
+            5.73655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8925,
+          "name": "Meix-devant-Virton",
+          "latlng": [
+            49.60581,
+            5.48045
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8928,
+          "name": "Merbes-le-Château",
+          "latlng": [
+            50.32449,
+            4.16489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8932,
+          "name": "Messancy",
+          "latlng": [
+            49.59201,
+            5.81879
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8933,
+          "name": "Mettet",
+          "latlng": [
+            50.32119,
+            4.66232
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8936,
+          "name": "Modave",
+          "latlng": [
+            50.44614,
+            5.29532
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8939,
+          "name": "Momignies",
+          "latlng": [
+            50.0271,
+            4.16519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8940,
+          "name": "Mons",
+          "latlng": [
+            50.45413,
+            3.95229
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8941,
+          "name": "Mons-lez-Liège",
+          "latlng": [
+            50.61667,
+            5.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8942,
+          "name": "Mont-Saint-Guibert",
+          "latlng": [
+            50.63427,
+            4.61061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8944,
+          "name": "Morlanwelz-Mariemont",
+          "latlng": [
+            50.45502,
+            4.24519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8946,
+          "name": "Mouscron",
+          "latlng": [
+            50.74497,
+            3.20639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8947,
+          "name": "Musson",
+          "latlng": [
+            49.55835,
+            5.70525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8948,
+          "name": "Namur",
+          "latlng": [
+            50.4669,
+            4.86746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8949,
+          "name": "Nandrin",
+          "latlng": [
+            50.50675,
+            5.41905
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8950,
+          "name": "Nassogne",
+          "latlng": [
+            50.12849,
+            5.34274
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8953,
+          "name": "Neufchâteau",
+          "latlng": [
+            49.84074,
+            5.43535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8960,
+          "name": "Nivelles",
+          "latlng": [
+            50.59833,
+            4.32848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8961,
+          "name": "Noville-les-Bois",
+          "latlng": [
+            50.55702,
+            4.98466
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8962,
+          "name": "Ohey",
+          "latlng": [
+            50.4357,
+            5.12375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8964,
+          "name": "Olne",
+          "latlng": [
+            50.58994,
+            5.74662
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8965,
+          "name": "Onhaye",
+          "latlng": [
+            50.24148,
+            4.84069
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8973,
+          "name": "Oreye",
+          "latlng": [
+            50.71749,
+            5.3488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8975,
+          "name": "Ottignies",
+          "latlng": [
+            50.66535,
+            4.56679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8980,
+          "name": "Ouffet",
+          "latlng": [
+            50.4387,
+            5.4657
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8981,
+          "name": "Oupeye",
+          "latlng": [
+            50.71184,
+            5.6468
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8984,
+          "name": "Paliseul",
+          "latlng": [
+            49.90395,
+            5.13537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8985,
+          "name": "Pecq",
+          "latlng": [
+            50.68619,
+            3.33789
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8988,
+          "name": "Pepinster",
+          "latlng": [
+            50.57375,
+            5.8049
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9009,
+          "name": "Péruwelz",
+          "latlng": [
+            50.50819,
+            3.59373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8990,
+          "name": "Perwez",
+          "latlng": [
+            50.62426,
+            4.81354
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8991,
+          "name": "Philippeville",
+          "latlng": [
+            50.19612,
+            4.54374
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8993,
+          "name": "Plombières",
+          "latlng": [
+            50.73656,
+            5.95922
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8994,
+          "name": "Pont-à-Celles",
+          "latlng": [
+            50.50518,
+            4.36887
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8996,
+          "name": "Profondeville",
+          "latlng": [
+            50.37581,
+            4.86506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8997,
+          "name": "Province de Liège",
+          "latlng": [
+            50.63427,
+            5.56543
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8998,
+          "name": "Province de Namur",
+          "latlng": [
+            50.33333,
+            4.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 8999,
+          "name": "Province du Brabant Wallon",
+          "latlng": [
+            50.75,
+            4.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9000,
+          "name": "Province du Hainaut",
+          "latlng": [
+            50.5,
+            3.83333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9010,
+          "name": "Quaregnon",
+          "latlng": [
+            50.44067,
+            3.8653
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9012,
+          "name": "Quévy-le-Petit",
+          "latlng": [
+            50.36879,
+            3.93602
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9011,
+          "name": "Quiévrain",
+          "latlng": [
+            50.40737,
+            3.68351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9013,
+          "name": "Raeren",
+          "latlng": [
+            50.6672,
+            6.11535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9014,
+          "name": "Ramillies",
+          "latlng": [
+            50.63395,
+            4.90119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9017,
+          "name": "Rebecq-Rognon",
+          "latlng": [
+            50.65147,
+            4.10683
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9018,
+          "name": "Remicourt",
+          "latlng": [
+            50.68069,
+            5.32785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9019,
+          "name": "Rendeux",
+          "latlng": [
+            50.23423,
+            5.50414
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9023,
+          "name": "Rixensart",
+          "latlng": [
+            50.71229,
+            4.52529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9024,
+          "name": "Rochefort",
+          "latlng": [
+            50.1631,
+            5.2216
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9026,
+          "name": "Roeulx",
+          "latlng": [
+            50.50365,
+            4.11163
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9029,
+          "name": "Rouvroy",
+          "latlng": [
+            49.53771,
+            5.49031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9031,
+          "name": "Rumes",
+          "latlng": [
+            50.5545,
+            3.30535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9033,
+          "name": "Saint-Ghislain",
+          "latlng": [
+            50.44816,
+            3.81886
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9034,
+          "name": "Saint-Hubert",
+          "latlng": [
+            50.02668,
+            5.37401
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9035,
+          "name": "Saint-Léger",
+          "latlng": [
+            49.61196,
+            5.65688
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9036,
+          "name": "Saint-Nicolas",
+          "latlng": [
+            50.62837,
+            5.53243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9037,
+          "name": "Saint-Vith",
+          "latlng": [
+            50.28146,
+            6.12724
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9038,
+          "name": "Sainte-Ode",
+          "latlng": [
+            50.01723,
+            5.51926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9042,
+          "name": "Seneffe",
+          "latlng": [
+            50.53135,
+            4.26301
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9043,
+          "name": "Seraing",
+          "latlng": [
+            50.58362,
+            5.50115
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9044,
+          "name": "Silly",
+          "latlng": [
+            50.64877,
+            3.92363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9060,
+          "name": "Soignies",
+          "latlng": [
+            50.57904,
+            4.07129
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9061,
+          "name": "Sombreffe",
+          "latlng": [
+            50.52865,
+            4.60087
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9062,
+          "name": "Somme-Leuze",
+          "latlng": [
+            50.33699,
+            5.36705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9063,
+          "name": "Soumagne",
+          "latlng": [
+            50.61385,
+            5.74679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9064,
+          "name": "Spa",
+          "latlng": [
+            50.48375,
+            5.86674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9065,
+          "name": "Sprimont",
+          "latlng": [
+            50.50922,
+            5.6595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9068,
+          "name": "Stavelot",
+          "latlng": [
+            50.395,
+            5.93124
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9071,
+          "name": "Stoumont",
+          "latlng": [
+            50.40667,
+            5.80838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9072,
+          "name": "Tellin",
+          "latlng": [
+            50.08038,
+            5.21638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9074,
+          "name": "Tenneville",
+          "latlng": [
+            50.09501,
+            5.52895
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9079,
+          "name": "Theux",
+          "latlng": [
+            50.53323,
+            5.81245
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9080,
+          "name": "Thuin",
+          "latlng": [
+            50.33933,
+            4.28604
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9083,
+          "name": "Tinlot",
+          "latlng": [
+            50.47493,
+            5.37755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9084,
+          "name": "Tintigny",
+          "latlng": [
+            49.68326,
+            5.51349
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9087,
+          "name": "Tournai",
+          "latlng": [
+            50.60715,
+            3.38932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9089,
+          "name": "Trois-Ponts",
+          "latlng": [
+            50.37128,
+            5.87146
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9090,
+          "name": "Trooz",
+          "latlng": [
+            50.57026,
+            5.69521
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9091,
+          "name": "Tubize",
+          "latlng": [
+            50.69059,
+            4.2009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9093,
+          "name": "Vaux-sur-Sûre",
+          "latlng": [
+            49.911,
+            5.57848
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9094,
+          "name": "Verlaine",
+          "latlng": [
+            50.60743,
+            5.3174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9095,
+          "name": "Verviers",
+          "latlng": [
+            50.58907,
+            5.86241
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9097,
+          "name": "Vielsalm",
+          "latlng": [
+            50.28407,
+            5.91502
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9098,
+          "name": "Villers-la-Ville",
+          "latlng": [
+            50.56667,
+            4.51667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9099,
+          "name": "Villers-le-Bouillet",
+          "latlng": [
+            50.57708,
+            5.25945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9101,
+          "name": "Virton",
+          "latlng": [
+            49.56824,
+            5.53259
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9102,
+          "name": "Visé",
+          "latlng": [
+            50.7376,
+            5.69907
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9108,
+          "name": "Waimes",
+          "latlng": [
+            50.41488,
+            6.11207
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9109,
+          "name": "Walcourt",
+          "latlng": [
+            50.25401,
+            4.43796
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9110,
+          "name": "Walhain-Saint-Paul",
+          "latlng": [
+            50.62627,
+            4.69837
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9111,
+          "name": "Wanze",
+          "latlng": [
+            50.53907,
+            5.20846
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9113,
+          "name": "Waremme",
+          "latlng": [
+            50.6976,
+            5.25524
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9114,
+          "name": "Wasseiges",
+          "latlng": [
+            50.62186,
+            5.00528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9115,
+          "name": "Waterloo",
+          "latlng": [
+            50.71469,
+            4.3991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9116,
+          "name": "Wavre",
+          "latlng": [
+            50.71717,
+            4.60138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9117,
+          "name": "Welkenraedt",
+          "latlng": [
+            50.6605,
+            5.97034
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9119,
+          "name": "Wellin",
+          "latlng": [
+            50.08133,
+            5.11413
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 9134,
+          "name": "Yvoir",
+          "latlng": [
+            50.3279,
+            4.88059
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 1382,
+      "name": "Walloon Brabant",
+      "code": "WBR",
+      "shortName": "WBR",
+      "cities": []
+    },
+    {
+      "id": 1383,
+      "name": "West Flanders",
+      "code": "VWV",
+      "shortName": "VWV",
+      "cities": []
+    }
+  ]
+}

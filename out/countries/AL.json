@@ -1,0 +1,1800 @@
+{
+  "name": {
+    "common": "Albania",
+    "official": "Albania"
+  },
+  "iso2": "AL",
+  "iso3": "ALB",
+  "numericCode": "008",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "tld": ".al",
+  "phoneCode": "355",
+  "capital": "Tirana",
+  "currencies": {
+    "ALL": "Albanian lek"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Tirane",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/al.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/al.svg",
+  "states": [
+    {
+      "id": 629,
+      "name": "Berat",
+      "code": "BR",
+      "shortName": "BR",
+      "cities": [
+        {
+          "id": 153,
+          "name": "Banaj",
+          "latlng": [
+            40.82492,
+            19.84074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 154,
+          "name": "Bashkia Berat",
+          "latlng": [
+            40.69997,
+            19.94983
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 170,
+          "name": "Bashkia Kuçovë",
+          "latlng": [
+            40.82489,
+            19.9535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 180,
+          "name": "Bashkia Poliçan",
+          "latlng": [
+            40.58608,
+            20.04535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 186,
+          "name": "Bashkia Skrapar",
+          "latlng": [
+            40.56036,
+            20.25477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 191,
+          "name": "Berat",
+          "latlng": [
+            40.70583,
+            19.95222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 280,
+          "name": "Çorovodë",
+          "latlng": [
+            40.50417,
+            20.22722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 219,
+          "name": "Kuçovë",
+          "latlng": [
+            40.80028,
+            19.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 238,
+          "name": "Poliçan",
+          "latlng": [
+            40.61222,
+            20.09806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 242,
+          "name": "Rrethi i Beratit",
+          "latlng": [
+            40.66667,
+            20
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 253,
+          "name": "Rrethi i Kuçovës",
+          "latlng": [
+            40.83333,
+            19.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 258,
+          "name": "Rrethi i Skraparit",
+          "latlng": [
+            40.55,
+            20.26667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 273,
+          "name": "Ura Vajgurore",
+          "latlng": [
+            40.76889,
+            19.87778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Berat",
+      "code": "01",
+      "shortName": "01",
+      "cities": []
+    },
+    {
+      "id": 607,
+      "name": "Bulqizë",
+      "code": "BU",
+      "shortName": "BU",
+      "cities": []
+    },
+    {
+      "id": 618,
+      "name": "Delvinë",
+      "code": "DL",
+      "shortName": "DL",
+      "cities": []
+    },
+    {
+      "id": 608,
+      "name": "Devoll",
+      "code": "DV",
+      "shortName": "DV",
+      "cities": []
+    },
+    {
+      "id": 610,
+      "name": "Dibër",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 155,
+          "name": "Bashkia Bulqizë",
+          "latlng": [
+            41.47152,
+            20.33192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 165,
+          "name": "Bashkia Klos",
+          "latlng": [
+            41.50826,
+            20.07107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 176,
+          "name": "Bashkia Mat",
+          "latlng": [
+            41.63317,
+            20.01228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 193,
+          "name": "Bulqizë",
+          "latlng": [
+            41.49167,
+            20.22194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 194,
+          "name": "Burrel",
+          "latlng": [
+            41.61028,
+            20.00889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 209,
+          "name": "Klos",
+          "latlng": [
+            41.50694,
+            20.08667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 236,
+          "name": "Peshkopi",
+          "latlng": [
+            41.685,
+            20.42889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 243,
+          "name": "Rrethi i Bulqizës",
+          "latlng": [
+            41.5,
+            20.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 246,
+          "name": "Rrethi i Dibrës",
+          "latlng": [
+            41.75,
+            20.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 256,
+          "name": "Rrethi i Matit",
+          "latlng": [
+            41.58333,
+            20.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 272,
+          "name": "Ulëz",
+          "latlng": [
+            41.68278,
+            19.89333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "name": "Dibër",
+      "code": "DI",
+      "shortName": "DI",
+      "cities": []
+    },
+    {
+      "id": 639,
+      "name": "Durrës",
+      "code": "DR",
+      "shortName": "DR",
+      "cities": [
+        {
+          "id": 159,
+          "name": "Bashkia Durrës",
+          "latlng": [
+            41.42743,
+            19.4869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 168,
+          "name": "Bashkia Krujë",
+          "latlng": [
+            41.50091,
+            19.72571
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 185,
+          "name": "Bashkia Shijak",
+          "latlng": [
+            41.33558,
+            19.58977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 197,
+          "name": "Durrës",
+          "latlng": [
+            41.32355,
+            19.45469
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 198,
+          "name": "Durrës District",
+          "latlng": [
+            41.3166,
+            19.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 203,
+          "name": "Fushë-Krujë",
+          "latlng": [
+            41.47833,
+            19.71778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 214,
+          "name": "Krujë",
+          "latlng": [
+            41.50917,
+            19.79278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 250,
+          "name": "Rrethi i Krujës",
+          "latlng": [
+            41.55,
+            19.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 265,
+          "name": "Shijak",
+          "latlng": [
+            41.34556,
+            19.56722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 269,
+          "name": "Sukth",
+          "latlng": [
+            41.38056,
+            19.53778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 632,
+      "name": "Durrës",
+      "code": "02",
+      "shortName": "02",
+      "cities": []
+    },
+    {
+      "id": 598,
+      "name": "Elbasan",
+      "code": "03",
+      "shortName": "03",
+      "cities": []
+    },
+    {
+      "id": 627,
+      "name": "Fier",
+      "code": "FR",
+      "shortName": "FR",
+      "cities": []
+    },
+    {
+      "id": 631,
+      "name": "Fier",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 152,
+          "name": "Ballsh",
+          "latlng": [
+            40.59889,
+            19.73472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 157,
+          "name": "Bashkia Divjakë",
+          "latlng": [
+            40.95716,
+            19.52364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 160,
+          "name": "Bashkia Fier",
+          "latlng": [
+            40.72937,
+            19.4869
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 174,
+          "name": "Bashkia Mallakastër",
+          "latlng": [
+            40.55669,
+            19.77347
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 179,
+          "name": "Bashkia Patos",
+          "latlng": [
+            40.67793,
+            19.65591
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 196,
+          "name": "Divjakë",
+          "latlng": [
+            40.99667,
+            19.52944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 200,
+          "name": "Fier",
+          "latlng": [
+            40.72389,
+            19.55611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 201,
+          "name": "Fier-Çifçi",
+          "latlng": [
+            40.71667,
+            19.56667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 227,
+          "name": "Lushnjë",
+          "latlng": [
+            40.94194,
+            19.705
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 234,
+          "name": "Patos",
+          "latlng": [
+            40.68333,
+            19.61944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 235,
+          "name": "Patos Fshat",
+          "latlng": [
+            40.64278,
+            19.65083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 241,
+          "name": "Roskovec",
+          "latlng": [
+            40.7375,
+            19.70222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 254,
+          "name": "Rrethi i Mallakastrës",
+          "latlng": [
+            40.55,
+            19.78333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Gjirokastër",
+      "code": "GJ",
+      "shortName": "GJ",
+      "cities": [
+        {
+          "id": 158,
+          "name": "Bashkia Dropull",
+          "latlng": [
+            39.98584,
+            20.30529
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 164,
+          "name": "Bashkia Kelcyrë",
+          "latlng": [
+            40.36196,
+            20.16476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 172,
+          "name": "Bashkia Libohovë",
+          "latlng": [
+            40.10754,
+            20.25753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 177,
+          "name": "Bashkia Memaliaj",
+          "latlng": [
+            40.41524,
+            19.96911
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 183,
+          "name": "Bashkia Përmet",
+          "latlng": [
+            40.23246,
+            20.41091
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 187,
+          "name": "Bashkia Tepelenë",
+          "latlng": [
+            40.26736,
+            19.97003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 204,
+          "name": "Gjinkar",
+          "latlng": [
+            40.19944,
+            20.40611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 205,
+          "name": "Gjirokastër",
+          "latlng": [
+            40.07583,
+            20.13889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 220,
+          "name": "Këlcyrë",
+          "latlng": [
+            40.31306,
+            20.18944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 221,
+          "name": "Lazarat",
+          "latlng": [
+            40.04667,
+            20.1475
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 225,
+          "name": "Libohovë",
+          "latlng": [
+            40.03111,
+            20.26306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 231,
+          "name": "Memaliaj",
+          "latlng": [
+            40.35167,
+            19.98028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 240,
+          "name": "Përmet",
+          "latlng": [
+            40.23361,
+            20.35167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 270,
+          "name": "Tepelenë",
+          "latlng": [
+            40.29583,
+            20.01917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "name": "Gjirokastër",
+      "code": "05",
+      "shortName": "05",
+      "cities": []
+    },
+    {
+      "id": 617,
+      "name": "Gramsh",
+      "code": "GR",
+      "shortName": "GR",
+      "cities": []
+    },
+    {
+      "id": 600,
+      "name": "Has",
+      "code": "HA",
+      "shortName": "HA",
+      "cities": []
+    },
+    {
+      "id": 594,
+      "name": "Kavajë",
+      "code": "KA",
+      "shortName": "KA",
+      "cities": []
+    },
+    {
+      "id": 628,
+      "name": "Kolonjë",
+      "code": "ER",
+      "shortName": "ER",
+      "cities": []
+    },
+    {
+      "id": 630,
+      "name": "Korçë",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 156,
+          "name": "Bashkia Devoll",
+          "latlng": [
+            40.60078,
+            20.93814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 166,
+          "name": "Bashkia Kolonjë",
+          "latlng": [
+            40.3142,
+            20.61482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 173,
+          "name": "Bashkia Maliq",
+          "latlng": [
+            40.75508,
+            20.60748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 182,
+          "name": "Bashkia Pustec",
+          "latlng": [
+            40.83591,
+            20.89405
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 192,
+          "name": "Bilisht",
+          "latlng": [
+            40.6275,
+            20.99
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 199,
+          "name": "Ersekë",
+          "latlng": [
+            40.33778,
+            20.67889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 212,
+          "name": "Korçë",
+          "latlng": [
+            40.61861,
+            20.78083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 223,
+          "name": "Leskovik",
+          "latlng": [
+            40.15139,
+            20.59722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 226,
+          "name": "Libonik",
+          "latlng": [
+            40.70444,
+            20.70861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 228,
+          "name": "Maliq",
+          "latlng": [
+            40.70583,
+            20.69972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 230,
+          "name": "Mborje",
+          "latlng": [
+            40.60333,
+            20.80306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 237,
+          "name": "Pogradec",
+          "latlng": [
+            40.9025,
+            20.6525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 245,
+          "name": "Rrethi i Devollit",
+          "latlng": [
+            40.58333,
+            20.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 249,
+          "name": "Rrethi i Kolonjës",
+          "latlng": [
+            40.25,
+            20.66667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 275,
+          "name": "Velçan",
+          "latlng": [
+            40.95472,
+            20.46222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 278,
+          "name": "Voskopojë",
+          "latlng": [
+            40.63306,
+            20.58889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "name": "Korçë",
+      "code": "KO",
+      "shortName": "KO",
+      "cities": []
+    },
+    {
+      "id": 614,
+      "name": "Krujë",
+      "code": "KR",
+      "shortName": "KR",
+      "cities": []
+    },
+    {
+      "id": 612,
+      "name": "Kuçovë",
+      "code": "KC",
+      "shortName": "KC",
+      "cities": []
+    },
+    {
+      "id": 623,
+      "name": "Kukës",
+      "code": "KU",
+      "shortName": "KU",
+      "cities": [
+        {
+          "id": 151,
+          "name": "Bajram Curri",
+          "latlng": [
+            42.35734,
+            20.07679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 215,
+          "name": "Krumë",
+          "latlng": [
+            42.19694,
+            20.41333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 217,
+          "name": "Kukës",
+          "latlng": [
+            42.07694,
+            20.42194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 247,
+          "name": "Rrethi i Hasit",
+          "latlng": [
+            42.16667,
+            20.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 251,
+          "name": "Rrethi i Kukësit",
+          "latlng": [
+            42,
+            20.33333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "name": "Kukës",
+      "code": "07",
+      "shortName": "07",
+      "cities": []
+    },
+    {
+      "id": 622,
+      "name": "Kurbin",
+      "code": "KB",
+      "shortName": "KB",
+      "cities": []
+    },
+    {
+      "id": 609,
+      "name": "Lezhë",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 169,
+          "name": "Bashkia Kurbin",
+          "latlng": [
+            41.62215,
+            19.70734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 171,
+          "name": "Bashkia Lezhë",
+          "latlng": [
+            41.8132,
+            19.64121
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 178,
+          "name": "Bashkia Mirditë",
+          "latlng": [
+            41.80953,
+            19.99024
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 218,
+          "name": "Kurbnesh",
+          "latlng": [
+            41.77972,
+            20.08361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 222,
+          "name": "Laç",
+          "latlng": [
+            41.63556,
+            19.71306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 224,
+          "name": "Lezhë",
+          "latlng": [
+            41.78361,
+            19.64361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 229,
+          "name": "Mamurras",
+          "latlng": [
+            41.5775,
+            19.69222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 232,
+          "name": "Milot",
+          "latlng": [
+            41.68389,
+            19.71556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 261,
+          "name": "Rrëshen",
+          "latlng": [
+            41.7675,
+            19.87556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 252,
+          "name": "Rrethi i Kurbinit",
+          "latlng": [
+            41.63333,
+            19.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 262,
+          "name": "Rubik",
+          "latlng": [
+            41.77444,
+            19.78611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 267,
+          "name": "Shëngjin",
+          "latlng": [
+            41.81361,
+            19.59389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "name": "Lezhë",
+      "code": "LE",
+      "shortName": "LE",
+      "cities": []
+    },
+    {
+      "id": 596,
+      "name": "Librazhd",
+      "code": "LB",
+      "shortName": "LB",
+      "cities": []
+    },
+    {
+      "id": 599,
+      "name": "Lushnjë",
+      "code": "LU",
+      "shortName": "LU",
+      "cities": []
+    },
+    {
+      "id": 602,
+      "name": "Malësi e Madhe",
+      "code": "MM",
+      "shortName": "MM",
+      "cities": []
+    },
+    {
+      "id": 637,
+      "name": "Mallakastër",
+      "code": "MK",
+      "shortName": "MK",
+      "cities": []
+    },
+    {
+      "id": 635,
+      "name": "Mat",
+      "code": "MT",
+      "shortName": "MT",
+      "cities": []
+    },
+    {
+      "id": 638,
+      "name": "Mirditë",
+      "code": "MR",
+      "shortName": "MR",
+      "cities": []
+    },
+    {
+      "id": 619,
+      "name": "Peqin",
+      "code": "PQ",
+      "shortName": "PQ",
+      "cities": []
+    },
+    {
+      "id": 625,
+      "name": "Përmet",
+      "code": "PR",
+      "shortName": "PR",
+      "cities": []
+    },
+    {
+      "id": 606,
+      "name": "Pogradec",
+      "code": "PG",
+      "shortName": "PG",
+      "cities": []
+    },
+    {
+      "id": 620,
+      "name": "Pukë",
+      "code": "PU",
+      "shortName": "PU",
+      "cities": []
+    },
+    {
+      "id": 624,
+      "name": "Sarandë",
+      "code": "SR",
+      "shortName": "SR",
+      "cities": []
+    },
+    {
+      "id": 611,
+      "name": "Shkodër",
+      "code": "10",
+      "shortName": "10",
+      "cities": []
+    },
+    {
+      "id": 626,
+      "name": "Shkodër",
+      "code": "SH",
+      "shortName": "SH",
+      "cities": [
+        {
+          "id": 175,
+          "name": "Bashkia Malësi e Madhe",
+          "latlng": [
+            42.36798,
+            19.58977
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 181,
+          "name": "Bashkia Pukë",
+          "latlng": [
+            42.02997,
+            19.92778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 188,
+          "name": "Bashkia Vau i Dejës",
+          "latlng": [
+            42.04834,
+            19.69999
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 202,
+          "name": "Fushë-Arrëz",
+          "latlng": [
+            42.06222,
+            20.01667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 211,
+          "name": "Koplik",
+          "latlng": [
+            42.21361,
+            19.43639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 239,
+          "name": "Pukë",
+          "latlng": [
+            42.04444,
+            19.89972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 255,
+          "name": "Rrethi i Malësia e Madhe",
+          "latlng": [
+            42.33333,
+            19.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 257,
+          "name": "Rrethi i Shkodrës",
+          "latlng": [
+            42.06917,
+            19.53506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 266,
+          "name": "Shkodër",
+          "latlng": [
+            42.06828,
+            19.51258
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 274,
+          "name": "Vau i Dejës",
+          "latlng": [
+            42.01,
+            19.62472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 279,
+          "name": "Vukatanë",
+          "latlng": [
+            42.02806,
+            19.54778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 593,
+      "name": "Skrapar",
+      "code": "SK",
+      "shortName": "SK",
+      "cities": []
+    },
+    {
+      "id": 616,
+      "name": "Tepelenë",
+      "code": "TE",
+      "shortName": "TE",
+      "cities": []
+    },
+    {
+      "id": 633,
+      "name": "Tirana",
+      "code": "TR",
+      "shortName": "TR",
+      "cities": [
+        {
+          "id": 163,
+          "name": "Bashkia Kavajë",
+          "latlng": [
+            41.18127,
+            19.55579
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 190,
+          "name": "Bashkia Vorë",
+          "latlng": [
+            41.39804,
+            19.67703
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 207,
+          "name": "Kamëz",
+          "latlng": [
+            41.38167,
+            19.76028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 208,
+          "name": "Kavajë",
+          "latlng": [
+            41.18556,
+            19.55694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 213,
+          "name": "Krrabë",
+          "latlng": [
+            41.21556,
+            19.97139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 248,
+          "name": "Rrethi i Kavajës",
+          "latlng": [
+            41.16667,
+            19.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 259,
+          "name": "Rrethi i Tiranës",
+          "latlng": [
+            41.33333,
+            19.91667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 260,
+          "name": "Rrogozhinë",
+          "latlng": [
+            41.07639,
+            19.66528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 268,
+          "name": "Sinaballaj",
+          "latlng": [
+            41.06889,
+            19.69944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 271,
+          "name": "Tirana",
+          "latlng": [
+            41.3275,
+            19.81889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 277,
+          "name": "Vorë",
+          "latlng": [
+            41.39083,
+            19.655
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 615,
+      "name": "Tirana",
+      "code": "11",
+      "shortName": "11",
+      "cities": []
+    },
+    {
+      "id": 636,
+      "name": "Tropojë",
+      "code": "TP",
+      "shortName": "TP",
+      "cities": []
+    },
+    {
+      "id": 634,
+      "name": "Vlorë",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 161,
+          "name": "Bashkia Finiq",
+          "latlng": [
+            39.84393,
+            20.16659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 162,
+          "name": "Bashkia Himarë",
+          "latlng": [
+            40.11581,
+            19.81389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 167,
+          "name": "Bashkia Konispol",
+          "latlng": [
+            39.70064,
+            20.13353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 184,
+          "name": "Bashkia Selenicë",
+          "latlng": [
+            40.39503,
+            19.65958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 189,
+          "name": "Bashkia Vlorë",
+          "latlng": [
+            40.4134,
+            19.49792
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 195,
+          "name": "Delvinë",
+          "latlng": [
+            39.95111,
+            20.09778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 206,
+          "name": "Himarë",
+          "latlng": [
+            40.10167,
+            19.74472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 210,
+          "name": "Konispol",
+          "latlng": [
+            39.65889,
+            20.18139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 216,
+          "name": "Ksamil",
+          "latlng": [
+            39.76889,
+            19.99972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 233,
+          "name": "Orikum",
+          "latlng": [
+            40.32528,
+            19.47139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 244,
+          "name": "Rrethi i Delvinës",
+          "latlng": [
+            39.91667,
+            20.08333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 263,
+          "name": "Sarandë",
+          "latlng": [
+            39.87534,
+            20.00477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 264,
+          "name": "Selenicë",
+          "latlng": [
+            40.53056,
+            19.63583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 276,
+          "name": "Vlorë",
+          "latlng": [
+            40.4686,
+            19.48318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "name": "Vlorë",
+      "code": "VL",
+      "shortName": "VL",
+      "cities": []
+    }
+  ]
+}

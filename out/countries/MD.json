@@ -1,0 +1,1110 @@
+{
+  "name": {
+    "common": "Moldova",
+    "official": "Moldova"
+  },
+  "iso2": "MD",
+  "iso3": "MDA",
+  "numericCode": "498",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "tld": ".md",
+  "phoneCode": "373",
+  "capital": "Chisinau",
+  "currencies": {
+    "MDL": "Moldovan leu"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Chisinau",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/md.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/md.svg",
+  "states": [
+    {
+      "id": 4368,
+      "name": "Anenii Noi",
+      "code": "AN",
+      "shortName": "AN",
+      "cities": [
+        {
+          "id": 67271,
+          "name": "Anenii Noi",
+          "latlng": [
+            46.87839,
+            29.23483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67337,
+          "name": "Varniţa",
+          "latlng": [
+            46.86606,
+            29.46636
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4393,
+      "name": "Bălți",
+      "code": "BA",
+      "shortName": "BA",
+      "cities": [
+        {
+          "id": 67280,
+          "name": "Bălţi",
+          "latlng": [
+            47.76314,
+            27.92932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4379,
+      "name": "Basarabeasca",
+      "code": "BS",
+      "shortName": "BS",
+      "cities": [
+        {
+          "id": 67272,
+          "name": "Basarabeasca",
+          "latlng": [
+            46.3317,
+            28.96365
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4362,
+      "name": "Bender",
+      "code": "BD",
+      "shortName": "BD",
+      "cities": [
+        {
+          "id": 67273,
+          "name": "Bender",
+          "latlng": [
+            46.83156,
+            29.47769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4375,
+      "name": "Briceni",
+      "code": "BR",
+      "shortName": "BR",
+      "cities": [
+        {
+          "id": 67276,
+          "name": "Briceni",
+          "latlng": [
+            48.36289,
+            27.07787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4391,
+      "name": "Cahul",
+      "code": "CA",
+      "shortName": "CA",
+      "cities": [
+        {
+          "id": 67281,
+          "name": "Cahul",
+          "latlng": [
+            45.90425,
+            28.19929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67305,
+          "name": "Giurgiuleşti",
+          "latlng": [
+            45.48167,
+            28.19722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4366,
+      "name": "Călărași",
+      "code": "CL",
+      "shortName": "CL",
+      "cities": [
+        {
+          "id": 67294,
+          "name": "Călăraşi",
+          "latlng": [
+            47.2556,
+            28.30987
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4380,
+      "name": "Cantemir",
+      "code": "CT",
+      "shortName": "CT",
+      "cities": [
+        {
+          "id": 67283,
+          "name": "Cantemir",
+          "latlng": [
+            46.27743,
+            28.2027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67310,
+          "name": "Iargara",
+          "latlng": [
+            46.4252,
+            28.42676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67339,
+          "name": "Vişniovca",
+          "latlng": [
+            46.3326,
+            28.44797
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4365,
+      "name": "Căușeni",
+      "code": "CS",
+      "shortName": "CS",
+      "cities": [
+        {
+          "id": 67295,
+          "name": "Căuşeni",
+          "latlng": [
+            46.63674,
+            29.41114
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67286,
+          "name": "Chiţcani",
+          "latlng": [
+            46.78296,
+            29.61682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4373,
+      "name": "Chișinău",
+      "code": "CU",
+      "shortName": "CU",
+      "cities": [
+        {
+          "id": 67285,
+          "name": "Chisinau",
+          "latlng": [
+            47.00556,
+            28.8575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67288,
+          "name": "Ciorescu",
+          "latlng": [
+            47.13,
+            28.88937
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67292,
+          "name": "Cricova",
+          "latlng": [
+            47.13835,
+            28.86156
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67327,
+          "name": "Sîngera",
+          "latlng": [
+            46.91557,
+            28.96673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67326,
+          "name": "Stăuceni",
+          "latlng": [
+            47.09643,
+            28.86791
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67336,
+          "name": "Vadul lui Vodă",
+          "latlng": [
+            47.09009,
+            29.0757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67338,
+          "name": "Vatra",
+          "latlng": [
+            47.0746,
+            28.73685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4360,
+      "name": "Cimișlia",
+      "code": "CM",
+      "shortName": "CM",
+      "cities": [
+        {
+          "id": 67287,
+          "name": "Cimişlia",
+          "latlng": [
+            46.52685,
+            28.76441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4390,
+      "name": "Criuleni",
+      "code": "CR",
+      "shortName": "CR",
+      "cities": [
+        {
+          "id": 67293,
+          "name": "Criuleni",
+          "latlng": [
+            47.21307,
+            29.15926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4384,
+      "name": "Dondușeni",
+      "code": "DO",
+      "shortName": "DO",
+      "cities": [
+        {
+          "id": 67277,
+          "name": "Briceni",
+          "latlng": [
+            48.35628,
+            27.70293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67298,
+          "name": "Donduşeni",
+          "latlng": [
+            48.24268,
+            27.6101
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4392,
+      "name": "Drochia",
+      "code": "DR",
+      "shortName": "DR",
+      "cities": [
+        {
+          "id": 67299,
+          "name": "Drochia",
+          "latlng": [
+            48.03555,
+            27.81293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4383,
+      "name": "Dubăsari",
+      "code": "DU",
+      "shortName": "DU",
+      "cities": [
+        {
+          "id": 67289,
+          "name": "Cocieri",
+          "latlng": [
+            47.3017,
+            29.11755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67335,
+          "name": "Ustia",
+          "latlng": [
+            47.25524,
+            29.12406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4387,
+      "name": "Edineț",
+      "code": "ED",
+      "shortName": "ED",
+      "cities": [
+        {
+          "id": 67301,
+          "name": "Edineţ",
+          "latlng": [
+            48.17215,
+            27.30337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4381,
+      "name": "Fălești",
+      "code": "FA",
+      "shortName": "FA",
+      "cities": [
+        {
+          "id": 67303,
+          "name": "Fălești",
+          "latlng": [
+            47.57667,
+            27.71264
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4370,
+      "name": "Florești",
+      "code": "FL",
+      "shortName": "FL",
+      "cities": [
+        {
+          "id": 67302,
+          "name": "Floreşti",
+          "latlng": [
+            47.89137,
+            28.29312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67304,
+          "name": "Ghindești",
+          "latlng": [
+            47.85482,
+            28.37679
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67313,
+          "name": "Mărculeşti",
+          "latlng": [
+            47.86897,
+            28.24109
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4385,
+      "name": "Gagauzia",
+      "code": "GA",
+      "shortName": "GA",
+      "cities": [
+        {
+          "id": 67279,
+          "name": "Bugeac",
+          "latlng": [
+            46.36554,
+            28.6625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67284,
+          "name": "Ceadîr-Lunga",
+          "latlng": [
+            46.06169,
+            28.83078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67290,
+          "name": "Comrat",
+          "latlng": [
+            46.29456,
+            28.6565
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67340,
+          "name": "Vulcăneşti",
+          "latlng": [
+            45.68492,
+            28.40613
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4367,
+      "name": "Glodeni",
+      "code": "GL",
+      "shortName": "GL",
+      "cities": [
+        {
+          "id": 67306,
+          "name": "Glodeni",
+          "latlng": [
+            47.77513,
+            27.51891
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4382,
+      "name": "Hîncești",
+      "code": "HI",
+      "shortName": "HI",
+      "cities": [
+        {
+          "id": 67296,
+          "name": "Dancu",
+          "latlng": [
+            46.75818,
+            28.20716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67308,
+          "name": "Hînceşti",
+          "latlng": [
+            46.83047,
+            28.59064
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4369,
+      "name": "Ialoveni",
+      "code": "IA",
+      "shortName": "IA",
+      "cities": [
+        {
+          "id": 67309,
+          "name": "Ialoveni",
+          "latlng": [
+            46.94346,
+            28.78233
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4363,
+      "name": "Nisporeni",
+      "code": "NI",
+      "shortName": "NI",
+      "cities": [
+        {
+          "id": 67314,
+          "name": "Nisporeni",
+          "latlng": [
+            47.08159,
+            28.17138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4389,
+      "name": "Ocnița",
+      "code": "OC",
+      "shortName": "OC",
+      "cities": [
+        {
+          "id": 67315,
+          "name": "Ocniţa",
+          "latlng": [
+            48.38274,
+            27.43805
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67317,
+          "name": "Otaci",
+          "latlng": [
+            48.43285,
+            27.79912
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4361,
+      "name": "Orhei",
+      "code": "OR",
+      "shortName": "OR",
+      "cities": [
+        {
+          "id": 67316,
+          "name": "Orhei",
+          "latlng": [
+            47.38494,
+            28.82446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4394,
+      "name": "Rezina",
+      "code": "RE",
+      "shortName": "RE",
+      "cities": [
+        {
+          "id": 67319,
+          "name": "Rezina",
+          "latlng": [
+            47.74928,
+            28.96583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67322,
+          "name": "Saharna",
+          "latlng": [
+            47.69107,
+            28.97458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4376,
+      "name": "Rîșcani",
+      "code": "RI",
+      "shortName": "RI",
+      "cities": [
+        {
+          "id": 67321,
+          "name": "Rîşcani",
+          "latlng": [
+            47.94792,
+            27.56376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4364,
+      "name": "Sîngerei",
+      "code": "SI",
+      "shortName": "SI",
+      "cities": [
+        {
+          "id": 67274,
+          "name": "Bilicenii Vechi",
+          "latlng": [
+            47.6558,
+            28.04734
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67275,
+          "name": "Biruinţa",
+          "latlng": [
+            47.81353,
+            28.07004
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67328,
+          "name": "Sîngerei",
+          "latlng": [
+            47.63632,
+            28.14296
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4388,
+      "name": "Șoldănești",
+      "code": "SD",
+      "shortName": "SD",
+      "cities": [
+        {
+          "id": 67341,
+          "name": "Şoldăneşti",
+          "latlng": [
+            47.81608,
+            28.79718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4374,
+      "name": "Soroca",
+      "code": "SO",
+      "shortName": "SO",
+      "cities": [
+        {
+          "id": 67324,
+          "name": "Soroca",
+          "latlng": [
+            48.15659,
+            28.28489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4378,
+      "name": "Ștefan Vodă",
+      "code": "SV",
+      "shortName": "SV",
+      "cities": [
+        {
+          "id": 67342,
+          "name": "Ştefan Vodă",
+          "latlng": [
+            46.51287,
+            29.66193
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4377,
+      "name": "Strășeni",
+      "code": "ST",
+      "shortName": "ST",
+      "cities": [
+        {
+          "id": 67278,
+          "name": "Bucovăţ",
+          "latlng": [
+            47.19064,
+            28.45802
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67325,
+          "name": "Strășeni",
+          "latlng": [
+            47.14216,
+            28.60774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4372,
+      "name": "Taraclia",
+      "code": "TA",
+      "shortName": "TA",
+      "cities": [
+        {
+          "id": 67329,
+          "name": "Taraclia",
+          "latlng": [
+            45.90273,
+            28.66816
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67333,
+          "name": "Tvardița",
+          "latlng": [
+            46.14826,
+            28.96491
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4371,
+      "name": "Telenești",
+      "code": "TE",
+      "shortName": "TE",
+      "cities": [
+        {
+          "id": 67312,
+          "name": "Mîndreşti",
+          "latlng": [
+            47.50525,
+            28.27687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67330,
+          "name": "Teleneşti",
+          "latlng": [
+            47.5011,
+            28.36536
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4395,
+      "name": "Transnistria",
+      "code": "SN",
+      "shortName": "SN",
+      "cities": [
+        {
+          "id": 67282,
+          "name": "Camenca",
+          "latlng": [
+            48.03233,
+            28.69899
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67291,
+          "name": "Crasnoe",
+          "latlng": [
+            46.64844,
+            29.80403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67297,
+          "name": "Dnestrovsc",
+          "latlng": [
+            46.6164,
+            29.91926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67300,
+          "name": "Dubăsari",
+          "latlng": [
+            47.26562,
+            29.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67307,
+          "name": "Hryhoriopol",
+          "latlng": [
+            47.15413,
+            29.30008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67311,
+          "name": "Maiac",
+          "latlng": [
+            47.23727,
+            29.38498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67318,
+          "name": "Pervomaisc",
+          "latlng": [
+            46.73253,
+            29.9617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67320,
+          "name": "Rîbniţa",
+          "latlng": [
+            47.76817,
+            29.01
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67323,
+          "name": "Slobozia",
+          "latlng": [
+            46.72927,
+            29.70446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67331,
+          "name": "Tiraspol",
+          "latlng": [
+            46.84274,
+            29.62909
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67332,
+          "name": "Tiraspolul Nou",
+          "latlng": [
+            46.82874,
+            29.52174
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4386,
+      "name": "Ungheni",
+      "code": "UN",
+      "shortName": "UN",
+      "cities": [
+        {
+          "id": 67334,
+          "name": "Ungheni",
+          "latlng": [
+            47.21079,
+            27.80047
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

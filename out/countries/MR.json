@@ -1,0 +1,612 @@
+{
+  "name": {
+    "common": "Mauritania",
+    "official": "Mauritania"
+  },
+  "iso2": "MR",
+  "iso3": "MRT",
+  "numericCode": "478",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".mr",
+  "phoneCode": "222",
+  "capital": "Nouakchott",
+  "currencies": {
+    "MRU": "Mauritanian ouguiya"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Nouakchott",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/mr.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/mr.svg",
+  "states": [
+    {
+      "id": 3344,
+      "name": "Adrar",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 67746,
+          "name": "Atar",
+          "latlng": [
+            20.5177,
+            -13.04857
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150074,
+          "name": "Azougui",
+          "latlng": [
+            20.56764,
+            -13.11191
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67748,
+          "name": "Chingueṭṭi",
+          "latlng": [
+            20.463,
+            -12.362
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150075,
+          "name": "Ksar el Khali",
+          "latlng": [
+            20.93333333,
+            -11.61666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3349,
+      "name": "Assaba",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 67747,
+          "name": "Barkéwol",
+          "latlng": [
+            16.64039,
+            -12.49849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67750,
+          "name": "Kiffa",
+          "latlng": [
+            16.62073,
+            -11.40208
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3339,
+      "name": "Brakna",
+      "code": "05",
+      "shortName": "05",
+      "cities": [
+        {
+          "id": 67757,
+          "name": "’Elb el Jmel",
+          "latlng": [
+            17.0105,
+            -13.97102
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67745,
+          "name": "Aleg",
+          "latlng": [
+            17.05314,
+            -13.91312
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150071,
+          "name": "Bofal",
+          "latlng": [
+            16.41666667,
+            -13.8
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150072,
+          "name": "Sori Malé",
+          "latlng": [
+            16.95416667,
+            -13.37916667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3346,
+      "name": "Dakhlet Nouadhibou",
+      "code": "08",
+      "shortName": "08",
+      "cities": [
+        {
+          "id": 150076,
+          "name": "Cansado",
+          "latlng": [
+            20.85333333,
+            -17.0325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150077,
+          "name": "Iouik",
+          "latlng": [
+            19.84944444,
+            -16.33083333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67751,
+          "name": "Nouadhibou",
+          "latlng": [
+            20.94188,
+            -17.03842
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3341,
+      "name": "Gorgol",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 67749,
+          "name": "Kaédi",
+          "latlng": [
+            16.15027,
+            -13.5037
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3350,
+      "name": "Guidimaka",
+      "code": "10",
+      "shortName": "10",
+      "cities": [
+        {
+          "id": 67754,
+          "name": "Sélibaby",
+          "latlng": [
+            15.15846,
+            -12.1843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3338,
+      "name": "Hodh Ech Chargui",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 150066,
+          "name": "Diade",
+          "latlng": [
+            16.23333333,
+            -7.41666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150067,
+          "name": "Kataouane",
+          "latlng": [
+            16.06888889,
+            -6.49888889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67752,
+          "name": "Néma",
+          "latlng": [
+            16.61702,
+            -7.25649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150068,
+          "name": "Timbedra",
+          "latlng": [
+            16.24472222,
+            -8.1675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3351,
+      "name": "Hodh El Gharbi",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 67743,
+          "name": "Aioun",
+          "latlng": [
+            16.6614,
+            -9.6149
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150069,
+          "name": "Ayoun el Atrous",
+          "latlng": [
+            16.66666667,
+            -9.61666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150070,
+          "name": "Togba",
+          "latlng": [
+            17.4,
+            -10.36666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3342,
+      "name": "Inchiri",
+      "code": "12",
+      "shortName": "12",
+      "cities": [
+        {
+          "id": 67744,
+          "name": "Akjoujt",
+          "latlng": [
+            19.74657,
+            -14.38531
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3343,
+      "name": "Nouakchott-Nord",
+      "code": "14",
+      "shortName": "14",
+      "cities": [
+        {
+          "id": 150085,
+          "name": "Dar-Naim",
+          "latlng": [
+            18.03333333,
+            -15.96666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150086,
+          "name": "Teyarett",
+          "latlng": [
+            18.1289572,
+            -15.9377834
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150087,
+          "name": "Toujouonine",
+          "latlng": [
+            18.07169,
+            -15.90311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3352,
+      "name": "Nouakchott-Ouest",
+      "code": "13",
+      "shortName": "13",
+      "cities": [
+        {
+          "id": 150082,
+          "name": "Ksar",
+          "latlng": [
+            18.10222222,
+            -15.955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150083,
+          "name": "Sebkha",
+          "latlng": [
+            18.07555556,
+            -16.00194444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150084,
+          "name": "Tevragh-Zeina",
+          "latlng": [
+            18.11011,
+            -15.99931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3347,
+      "name": "Nouakchott-Sud",
+      "code": "15",
+      "shortName": "15",
+      "cities": [
+        {
+          "id": 150088,
+          "name": "Arafat",
+          "latlng": [
+            18.04639,
+            -15.97194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150089,
+          "name": "Riyad",
+          "latlng": [
+            18.10222222,
+            -15.955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3345,
+      "name": "Tagant",
+      "code": "09",
+      "shortName": "09",
+      "cities": [
+        {
+          "id": 153945,
+          "name": "Moudjeria",
+          "latlng": [
+            17.9795514,
+            -13.3979534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153946,
+          "name": "Tichit",
+          "latlng": [
+            18.4968626,
+            -12.1219935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153947,
+          "name": "Tijigja",
+          "latlng": [
+            18.5164787,
+            -12.9826476
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3340,
+      "name": "Tiris Zemmour",
+      "code": "11",
+      "shortName": "11",
+      "cities": [
+        {
+          "id": 150078,
+          "name": "Ain Ben Tili",
+          "latlng": [
+            25.99444444,
+            -9.55333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150079,
+          "name": "Chegga",
+          "latlng": [
+            25.37194444,
+            -5.78666667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150080,
+          "name": "Fderîck",
+          "latlng": [
+            22.67777778,
+            -12.7075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 150081,
+          "name": "Zouérat",
+          "latlng": [
+            22.73444444,
+            -12.4725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67756,
+          "name": "Zouerate",
+          "latlng": [
+            22.73542,
+            -12.47134
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3348,
+      "name": "Trarza",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 150073,
+          "name": "Legat",
+          "latlng": [
+            16.75,
+            -14.83333333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67753,
+          "name": "Rosso",
+          "latlng": [
+            16.51378,
+            -15.80503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 67755,
+          "name": "Tékane",
+          "latlng": [
+            16.60175,
+            -15.34866
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

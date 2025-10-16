@@ -1,0 +1,644 @@
+{
+  "name": {
+    "common": "Taiwan",
+    "official": "Taiwan"
+  },
+  "iso2": "TW",
+  "iso3": "TWN",
+  "numericCode": "158",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "tld": ".tw",
+  "phoneCode": "886",
+  "capital": "Taipei",
+  "currencies": {
+    "TWD": "New Taiwan dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "Asia/Taipei",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "CST",
+      "tzName": "China Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tw.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tw.svg",
+  "states": [
+    {
+      "id": 3404,
+      "name": "Changhua",
+      "code": "CHA",
+      "shortName": "CHA",
+      "cities": [
+        {
+          "id": 109003,
+          "name": "Changhua",
+          "latlng": [
+            23.95361,
+            120.49083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109038,
+          "name": "Yuanlin",
+          "latlng": [
+            23.95671,
+            120.57608
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3408,
+      "name": "Chiayi",
+      "code": "CYI",
+      "shortName": "CYI",
+      "cities": [
+        {
+          "id": 109004,
+          "name": "Chiayi",
+          "latlng": [
+            23.47722,
+            120.44527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109026,
+          "name": "Pizitou",
+          "latlng": [
+            23.48556,
+            120.44472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3418,
+      "name": "Chiayi",
+      "code": "CYQ",
+      "shortName": "CYQ",
+      "cities": [
+        {
+          "id": 109005,
+          "name": "Chiayi County",
+          "latlng": [
+            23.46333,
+            120.58166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3423,
+      "name": "Hsinchu",
+      "code": "HSQ",
+      "shortName": "HSQ",
+      "cities": [
+        {
+          "id": 109010,
+          "name": "Hsinchu",
+          "latlng": [
+            24.80361,
+            120.96861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3417,
+      "name": "Hsinchu",
+      "code": "HSZ",
+      "shortName": "HSZ",
+      "cities": [
+        {
+          "id": 109011,
+          "name": "Hsinchu County",
+          "latlng": [
+            24.67416,
+            121.16111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3411,
+      "name": "Hualien",
+      "code": "HUA",
+      "shortName": "HUA",
+      "cities": [
+        {
+          "id": 109012,
+          "name": "Hualien",
+          "latlng": [
+            23.78166,
+            121.39333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109013,
+          "name": "Hualien City",
+          "latlng": [
+            23.97694,
+            121.60444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3412,
+      "name": "Kaohsiung",
+      "code": "KHH",
+      "shortName": "KHH",
+      "cities": [
+        {
+          "id": 109016,
+          "name": "Kaohsiung",
+          "latlng": [
+            22.61626,
+            120.31333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4965,
+      "name": "Keelung",
+      "code": "KEE",
+      "shortName": "KEE",
+      "cities": []
+    },
+    {
+      "id": 3415,
+      "name": "Kinmen",
+      "code": "KIN",
+      "shortName": "KIN",
+      "cities": [
+        {
+          "id": 109014,
+          "name": "Jincheng",
+          "latlng": [
+            24.43415,
+            118.31712
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109017,
+          "name": "Kinmen County",
+          "latlng": [
+            24.45333,
+            118.38861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3420,
+      "name": "Lienchiang",
+      "code": "LIE",
+      "shortName": "LIE",
+      "cities": [
+        {
+          "id": 109018,
+          "name": "Lienchiang",
+          "latlng": [
+            26.37004,
+            120.49545
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109022,
+          "name": "Nangan",
+          "latlng": [
+            26.15039,
+            119.93284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3413,
+      "name": "Miaoli",
+      "code": "MIA",
+      "shortName": "MIA",
+      "cities": [
+        {
+          "id": 109021,
+          "name": "Miaoli",
+          "latlng": [
+            24.48972,
+            120.90638
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3407,
+      "name": "Nantou",
+      "code": "NAN",
+      "shortName": "NAN",
+      "cities": [
+        {
+          "id": 109019,
+          "name": "Lugu",
+          "latlng": [
+            23.74639,
+            120.7525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109023,
+          "name": "Nantou",
+          "latlng": [
+            23.83419,
+            120.92704
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109027,
+          "name": "Puli",
+          "latlng": [
+            23.96639,
+            120.96952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109041,
+          "name": "Zhongxing New Village",
+          "latlng": [
+            23.95908,
+            120.68516
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 4966,
+      "name": "New Taipei",
+      "code": "NWT",
+      "shortName": "NWT",
+      "cities": []
+    },
+    {
+      "id": 3403,
+      "name": "Penghu",
+      "code": "PEN",
+      "shortName": "PEN",
+      "cities": [
+        {
+          "id": 109020,
+          "name": "Magong",
+          "latlng": [
+            23.5654,
+            119.58627
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109024,
+          "name": "Penghu County",
+          "latlng": [
+            23.57111,
+            119.61138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3405,
+      "name": "Pingtung",
+      "code": "PIF",
+      "shortName": "PIF",
+      "cities": [
+        {
+          "id": 109007,
+          "name": "Donggang",
+          "latlng": [
+            22.46515,
+            120.44927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109009,
+          "name": "Hengchun",
+          "latlng": [
+            22.00417,
+            120.74389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109025,
+          "name": "Pingtung",
+          "latlng": [
+            22.49555,
+            120.61444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3406,
+      "name": "Taichung",
+      "code": "TXG",
+      "shortName": "TXG",
+      "cities": [
+        {
+          "id": 109028,
+          "name": "Taichung",
+          "latlng": [
+            24.1469,
+            120.6839
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109029,
+          "name": "Taichung City",
+          "latlng": [
+            24.15472,
+            120.67297
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3421,
+      "name": "Tainan",
+      "code": "TNN",
+      "shortName": "TNN",
+      "cities": [
+        {
+          "id": 109030,
+          "name": "Tainan",
+          "latlng": [
+            22.99083,
+            120.21333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109039,
+          "name": "Yujing",
+          "latlng": [
+            23.12493,
+            120.46138
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3422,
+      "name": "Taipei",
+      "code": "TPE",
+      "shortName": "TPE",
+      "cities": [
+        {
+          "id": 109002,
+          "name": "Banqiao",
+          "latlng": [
+            25.01427,
+            121.46719
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109015,
+          "name": "Jiufen",
+          "latlng": [
+            25.10957,
+            121.84424
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109031,
+          "name": "Taipei",
+          "latlng": [
+            25.04776,
+            121.53185
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109032,
+          "name": "Taipei City",
+          "latlng": [
+            25.083,
+            121.55331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3410,
+      "name": "Taitung",
+      "code": "TTT",
+      "shortName": "TTT",
+      "cities": [
+        {
+          "id": 109033,
+          "name": "Taitung",
+          "latlng": [
+            22.88361,
+            121.04833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109034,
+          "name": "Taitung City",
+          "latlng": [
+            22.7583,
+            121.1444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3419,
+      "name": "Taoyuan",
+      "code": "TAO",
+      "shortName": "TAO",
+      "cities": [
+        {
+          "id": 109006,
+          "name": "Daxi",
+          "latlng": [
+            24.88373,
+            121.29043
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109035,
+          "name": "Taoyuan",
+          "latlng": [
+            24.895,
+            121.24611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109036,
+          "name": "Taoyuan City",
+          "latlng": [
+            24.99368,
+            121.29696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3402,
+      "name": "Yilan",
+      "code": "ILA",
+      "shortName": "ILA",
+      "cities": [
+        {
+          "id": 109037,
+          "name": "Yilan",
+          "latlng": [
+            24.5425,
+            121.63361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3416,
+      "name": "Yunlin",
+      "code": "YUN",
+      "shortName": "YUN",
+      "cities": [
+        {
+          "id": 109008,
+          "name": "Douliu",
+          "latlng": [
+            23.70944,
+            120.54333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 109040,
+          "name": "Yunlin",
+          "latlng": [
+            23.70701,
+            120.38481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "name": {
+    "common": "Ivory Coast",
+    "official": "Ivory Coast"
+  },
+  "iso2": "CI",
+  "iso3": "CIV",
+  "numericCode": "384",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "tld": ".ci",
+  "phoneCode": "225",
+  "capital": "Yamoussoukro",
+  "currencies": {
+    "XOF": "West African CFA franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Abidjan",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ci.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ci.svg",
+  "states": [
+    {
+      "id": 2634,
+      "name": "Abidjan",
+      "code": "AB",
+      "shortName": "AB",
+      "cities": [
+        {
+          "id": 18860,
+          "name": "Abidjan",
+          "latlng": [
+            5.30966,
+            -4.01266
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18861,
+          "name": "Abobo",
+          "latlng": [
+            5.41613,
+            -4.0159
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18870,
+          "name": "Anyama",
+          "latlng": [
+            5.49462,
+            -4.05183
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18876,
+          "name": "Bingerville",
+          "latlng": [
+            5.35581,
+            -3.88537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2626,
+      "name": "Agnéby",
+      "code": "16",
+      "shortName": "16",
+      "cities": []
+    },
+    {
+      "id": 2636,
+      "name": "Bafing",
+      "code": "17",
+      "shortName": "17",
+      "cities": []
+    },
+    {
+      "id": 2643,
+      "name": "Bas-Sassandra",
+      "code": "BS",
+      "shortName": "BS",
+      "cities": [
+        {
+          "id": 18901,
+          "name": "Gbôklé",
+          "latlng": [
+            4.95712,
+            -6.09372
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18924,
+          "name": "Nawa",
+          "latlng": [
+            5.80112,
+            -6.60313
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18928,
+          "name": "San-Pédro",
+          "latlng": [
+            4.76768,
+            -6.65033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18929,
+          "name": "Sassandra",
+          "latlng": [
+            4.95384,
+            -6.08531
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18933,
+          "name": "Tabou",
+          "latlng": [
+            4.42295,
+            -7.3528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2635,
+      "name": "Bas-Sassandra",
+      "code": "09",
+      "shortName": "09",
+      "cities": []
+    },
+    {
+      "id": 2654,
+      "name": "Comoé",
+      "code": "CM",
+      "shortName": "CM",
+      "cities": [
+        {
+          "id": 18859,
+          "name": "Abengourou",
+          "latlng": [
+            6.72972,
+            -3.49639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18862,
+          "name": "Aboisso",
+          "latlng": [
+            5.46779,
+            -3.20711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18863,
+          "name": "Adiaké",
+          "latlng": [
+            5.28634,
+            -3.30403
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18867,
+          "name": "Agnibilékrou",
+          "latlng": [
+            7.13113,
+            -3.20415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18872,
+          "name": "Ayamé",
+          "latlng": [
+            5.6052,
+            -3.15709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18880,
+          "name": "Bonoua",
+          "latlng": [
+            5.27247,
+            -3.59625
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18903,
+          "name": "Grand-Bassam",
+          "latlng": [
+            5.2118,
+            -3.73884
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18913,
+          "name": "Indénié-Djuablin",
+          "latlng": [
+            6.74434,
+            -3.494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18931,
+          "name": "Sud-Comoé",
+          "latlng": [
+            5.49961,
+            -3.2408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2644,
+      "name": "Denguélé",
+      "code": "DN",
+      "shortName": "DN",
+      "cities": [
+        {
+          "id": 18898,
+          "name": "Folon",
+          "latlng": [
+            9.81241,
+            -7.51894
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18915,
+          "name": "Kabadougou",
+          "latlng": [
+            9.60571,
+            -7.43774
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18925,
+          "name": "Odienné",
+          "latlng": [
+            9.50511,
+            -7.56433
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2642,
+      "name": "Denguélé",
+      "code": "10",
+      "shortName": "10",
+      "cities": []
+    },
+    {
+      "id": 2645,
+      "name": "Dix-Huit Montagnes",
+      "code": "06",
+      "shortName": "06",
+      "cities": [
+        {
+          "id": 18874,
+          "name": "Bangolo",
+          "latlng": [
+            7.01232,
+            -7.48639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18875,
+          "name": "Biankouma",
+          "latlng": [
+            7.73909,
+            -7.61377
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18889,
+          "name": "Cavally",
+          "latlng": [
+            6.56343,
+            -7.92526
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18893,
+          "name": "Danané",
+          "latlng": [
+            7.25957,
+            -8.15498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18897,
+          "name": "Duekoué",
+          "latlng": [
+            6.74202,
+            -7.34918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18908,
+          "name": "Guémon",
+          "latlng": [
+            7.093,
+            -7.17785
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18907,
+          "name": "Guiglo",
+          "latlng": [
+            6.54368,
+            -7.4935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18919,
+          "name": "Man",
+          "latlng": [
+            7.41251,
+            -7.55383
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18936,
+          "name": "Tonkpi",
+          "latlng": [
+            7.56785,
+            -7.60941
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18938,
+          "name": "Toulépleu Gueré",
+          "latlng": [
+            6.57395,
+            -8.42592
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2633,
+      "name": "Fromager",
+      "code": "18",
+      "shortName": "18",
+      "cities": []
+    },
+    {
+      "id": 2651,
+      "name": "Gôh-Djiboua",
+      "code": "GD",
+      "shortName": "GD",
+      "cities": [
+        {
+          "id": 18896,
+          "name": "Divo",
+          "latlng": [
+            5.83739,
+            -5.35723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18899,
+          "name": "Gagnoa",
+          "latlng": [
+            6.13193,
+            -5.9506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18909,
+          "name": "Gôh",
+          "latlng": [
+            6.14459,
+            -5.92644
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18906,
+          "name": "Guibéroua",
+          "latlng": [
+            6.23869,
+            -6.17147
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18917,
+          "name": "Lakota",
+          "latlng": [
+            5.84752,
+            -5.682
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18918,
+          "name": "Lôh-Djiboua",
+          "latlng": [
+            5.82483,
+            -5.47668
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18926,
+          "name": "Oumé",
+          "latlng": [
+            6.38309,
+            -5.41759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2638,
+      "name": "Haut-Sassandra",
+      "code": "02",
+      "shortName": "02",
+      "cities": []
+    },
+    {
+      "id": 2640,
+      "name": "Lacs",
+      "code": "07",
+      "shortName": "07",
+      "cities": [
+        {
+          "id": 18871,
+          "name": "Arrah",
+          "latlng": [
+            6.67342,
+            -3.96938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18886,
+          "name": "Bélier",
+          "latlng": [
+            7.02582,
+            -5.06744
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18877,
+          "name": "Bocanda",
+          "latlng": [
+            7.06264,
+            -4.49948
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18879,
+          "name": "Bongouanou",
+          "latlng": [
+            6.65175,
+            -4.20406
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18894,
+          "name": "Daoukro",
+          "latlng": [
+            7.0591,
+            -3.9631
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18895,
+          "name": "Dimbokro",
+          "latlng": [
+            6.64678,
+            -4.70519
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18912,
+          "name": "Iffou",
+          "latlng": [
+            7.11509,
+            -3.95027
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18922,
+          "name": "Moronou",
+          "latlng": [
+            6.6683,
+            -4.13155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18923,
+          "name": "N'Zi",
+          "latlng": [
+            6.82803,
+            -4.5813
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18939,
+          "name": "Toumodi",
+          "latlng": [
+            6.55799,
+            -5.01769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18942,
+          "name": "Yamoussoukro",
+          "latlng": [
+            6.82055,
+            -5.27674
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2632,
+      "name": "Lacs",
+      "code": "LC",
+      "shortName": "LC",
+      "cities": []
+    },
+    {
+      "id": 2639,
+      "name": "Lagunes",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 18864,
+          "name": "Adzopé",
+          "latlng": [
+            6.10694,
+            -3.86194
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18865,
+          "name": "Affery",
+          "latlng": [
+            6.32035,
+            -3.95235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18866,
+          "name": "Agboville",
+          "latlng": [
+            5.92801,
+            -4.21319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18868,
+          "name": "Agnéby-Tiassa",
+          "latlng": [
+            5.79488,
+            -4.37187
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18869,
+          "name": "Akoupé",
+          "latlng": [
+            6.38423,
+            -3.88759
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18891,
+          "name": "Dabou",
+          "latlng": [
+            5.32556,
+            -4.37685
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18904,
+          "name": "Grand-Lahou",
+          "latlng": [
+            5.25068,
+            -5.00333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18905,
+          "name": "Grands-Ponts",
+          "latlng": [
+            5.30487,
+            -4.39247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18935,
+          "name": "Tiassalé",
+          "latlng": [
+            5.89839,
+            -4.82293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2627,
+      "name": "Lagunes",
+      "code": "LG",
+      "shortName": "LG",
+      "cities": []
+    },
+    {
+      "id": 2631,
+      "name": "Marahoué",
+      "code": "12",
+      "shortName": "12",
+      "cities": []
+    },
+    {
+      "id": 2629,
+      "name": "Montagnes",
+      "code": "MG",
+      "shortName": "MG",
+      "cities": []
+    },
+    {
+      "id": 2646,
+      "name": "Moyen-Cavally",
+      "code": "19",
+      "shortName": "19",
+      "cities": []
+    },
+    {
+      "id": 2630,
+      "name": "Moyen-Comoé",
+      "code": "05",
+      "shortName": "05",
+      "cities": []
+    },
+    {
+      "id": 2655,
+      "name": "N'zi-Comoé",
+      "code": "11",
+      "shortName": "11",
+      "cities": []
+    },
+    {
+      "id": 2648,
+      "name": "Sassandra-Marahoué",
+      "code": "SM",
+      "shortName": "SM",
+      "cities": [
+        {
+          "id": 18882,
+          "name": "Bouaflé",
+          "latlng": [
+            6.99041,
+            -5.7442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18892,
+          "name": "Daloa",
+          "latlng": [
+            6.87735,
+            -6.45022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18911,
+          "name": "Haut-Sassandra",
+          "latlng": [
+            6.66961,
+            -6.50116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18914,
+          "name": "Issia",
+          "latlng": [
+            6.49224,
+            -6.58558
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18921,
+          "name": "Marahoué",
+          "latlng": [
+            7.03252,
+            -5.80215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18940,
+          "name": "Vavoua",
+          "latlng": [
+            7.38194,
+            -6.47778
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18943,
+          "name": "Zuénoula",
+          "latlng": [
+            7.43027,
+            -6.05054
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2625,
+      "name": "Savanes",
+      "code": "03",
+      "shortName": "03",
+      "cities": []
+    },
+    {
+      "id": 2628,
+      "name": "Sud-Bandama",
+      "code": "15",
+      "shortName": "15",
+      "cities": []
+    },
+    {
+      "id": 2652,
+      "name": "Sud-Comoé",
+      "code": "13",
+      "shortName": "13",
+      "cities": []
+    },
+    {
+      "id": 2647,
+      "name": "Vallée du Bandama",
+      "code": "04",
+      "shortName": "04",
+      "cities": [
+        {
+          "id": 18887,
+          "name": "Béoumi",
+          "latlng": [
+            7.67395,
+            -5.58085
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18881,
+          "name": "Botro",
+          "latlng": [
+            7.85249,
+            -5.31063
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18883,
+          "name": "Bouaké",
+          "latlng": [
+            7.69385,
+            -5.03031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18890,
+          "name": "Dabakala",
+          "latlng": [
+            8.36321,
+            -4.42863
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18900,
+          "name": "Gbêkê",
+          "latlng": [
+            7.70271,
+            -5.28511
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18910,
+          "name": "Hambol",
+          "latlng": [
+            8.30368,
+            -5.15396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18916,
+          "name": "Katiola",
+          "latlng": [
+            8.13728,
+            -5.10095
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18927,
+          "name": "Sakassou",
+          "latlng": [
+            7.45462,
+            -5.29263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2637,
+      "name": "Vallée du Bandama",
+      "code": "VB",
+      "shortName": "VB",
+      "cities": []
+    },
+    {
+      "id": 2650,
+      "name": "Woroba",
+      "code": "WR",
+      "shortName": "WR",
+      "cities": [
+        {
+          "id": 18873,
+          "name": "Bafing",
+          "latlng": [
+            8.40611,
+            -7.58048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18888,
+          "name": "Béré",
+          "latlng": [
+            8.18952,
+            -6.17157
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18920,
+          "name": "Mankono",
+          "latlng": [
+            8.05861,
+            -6.18972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18932,
+          "name": "Séguéla",
+          "latlng": [
+            7.96111,
+            -6.67306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18937,
+          "name": "Touba",
+          "latlng": [
+            8.28333,
+            -7.68333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18941,
+          "name": "Worodougou",
+          "latlng": [
+            8.16482,
+            -6.66595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 2649,
+      "name": "Worodougou",
+      "code": "14",
+      "shortName": "14",
+      "cities": []
+    },
+    {
+      "id": 2653,
+      "name": "Yamoussoukro",
+      "code": "YM",
+      "shortName": "YM",
+      "cities": []
+    },
+    {
+      "id": 2641,
+      "name": "Zanzan",
+      "code": "ZZ",
+      "shortName": "ZZ",
+      "cities": [
+        {
+          "id": 18878,
+          "name": "Bondoukou",
+          "latlng": [
+            8.0402,
+            -2.80003
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18884,
+          "name": "Bouna",
+          "latlng": [
+            9.26927,
+            -2.9951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18885,
+          "name": "Bounkani",
+          "latlng": [
+            9.47841,
+            -3.31238
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18902,
+          "name": "Gontougo",
+          "latlng": [
+            7.87132,
+            -3.07068
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18930,
+          "name": "Sinfra",
+          "latlng": [
+            6.62103,
+            -5.91144
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 18934,
+          "name": "Tanda",
+          "latlng": [
+            7.80335,
+            -3.16832
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

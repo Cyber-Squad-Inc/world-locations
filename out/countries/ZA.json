@@ -1,0 +1,3556 @@
+{
+  "name": {
+    "common": "South Africa",
+    "official": "South Africa"
+  },
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "numericCode": "710",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "tld": ".za",
+  "phoneCode": "27",
+  "capital": "Pretoria",
+  "currencies": {
+    "ZAR": "South African rand"
+  },
+  "timezones": [
+    {
+      "zoneName": "Africa/Johannesburg",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "SAST",
+      "tzName": "South African Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/za.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/za.svg",
+  "states": [
+    {
+      "id": 938,
+      "name": "Eastern Cape",
+      "code": "EC",
+      "shortName": "EC",
+      "cities": [
+        {
+          "id": 131015,
+          "name": "Adelaide",
+          "latlng": [
+            -32.70747,
+            26.29564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131018,
+          "name": "Alfred Nzo District Municipality",
+          "latlng": [
+            -30.66803,
+            29.1549
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131019,
+          "name": "Alice",
+          "latlng": [
+            -32.78749,
+            26.8344
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131020,
+          "name": "Aliwal North",
+          "latlng": [
+            -30.69366,
+            26.71141
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131023,
+          "name": "Amathole District Municipality",
+          "latlng": [
+            -32.55895,
+            27.45919
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131037,
+          "name": "Bhisho",
+          "latlng": [
+            -32.84721,
+            27.44218
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131052,
+          "name": "Buffalo City Metropolitan Municipality",
+          "latlng": [
+            -32.95141,
+            27.61164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131053,
+          "name": "Burgersdorp",
+          "latlng": [
+            -30.99766,
+            26.32862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131054,
+          "name": "Butterworth",
+          "latlng": [
+            -32.33083,
+            28.14981
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131055,
+          "name": "Cacadu District Municipality",
+          "latlng": [
+            -33.06583,
+            24.77583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131068,
+          "name": "Chris Hani District Municipality",
+          "latlng": [
+            -31.79033,
+            26.43965
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131078,
+          "name": "Cradock",
+          "latlng": [
+            -32.16422,
+            25.61918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131086,
+          "name": "Dordrecht",
+          "latlng": [
+            -31.372,
+            27.04878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131093,
+          "name": "East London",
+          "latlng": [
+            -33.01529,
+            27.91162
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131103,
+          "name": "Elliot",
+          "latlng": [
+            -31.33333,
+            27.85
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131109,
+          "name": "Fort Beaufort",
+          "latlng": [
+            -32.77477,
+            26.63376
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131119,
+          "name": "Graaff-Reinet",
+          "latlng": [
+            -32.25215,
+            24.53075
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131121,
+          "name": "Grahamstown",
+          "latlng": [
+            -33.30422,
+            26.53276
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131133,
+          "name": "Ilinge",
+          "latlng": [
+            -31.97676,
+            27.04267
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131135,
+          "name": "Joe Gqabi District Municipality",
+          "latlng": [
+            -30.94178,
+            27.06053
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131141,
+          "name": "Kirkwood",
+          "latlng": [
+            -33.39829,
+            25.44279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131152,
+          "name": "Kruisfontein",
+          "latlng": [
+            -34.00333,
+            24.73142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131157,
+          "name": "Lady Frere",
+          "latlng": [
+            -31.70312,
+            27.2329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131174,
+          "name": "Middelburg",
+          "latlng": [
+            -31.49285,
+            25.00633
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131182,
+          "name": "Molteno",
+          "latlng": [
+            -31.39675,
+            26.36246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131191,
+          "name": "Mthatha",
+          "latlng": [
+            -31.58893,
+            28.78443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131197,
+          "name": "Nelson Mandela Bay Metropolitan Municipality",
+          "latlng": [
+            -33.80399,
+            25.49213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131206,
+          "name": "OR Tambo District Municipality",
+          "latlng": [
+            -31.4674,
+            29.05247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131224,
+          "name": "Port Alfred",
+          "latlng": [
+            -33.58601,
+            26.88329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131225,
+          "name": "Port Elizabeth",
+          "latlng": [
+            -33.96109,
+            25.61494
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131226,
+          "name": "Port Saint John’s",
+          "latlng": [
+            -31.62291,
+            29.54477
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131233,
+          "name": "Queensdale",
+          "latlng": [
+            -31.87101,
+            26.97862
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131234,
+          "name": "Queenstown",
+          "latlng": [
+            -31.89756,
+            26.87533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131259,
+          "name": "Somerset East",
+          "latlng": [
+            -32.72173,
+            25.58804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131266,
+          "name": "Stutterheim",
+          "latlng": [
+            -32.57076,
+            27.42396
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131279,
+          "name": "Uitenhage",
+          "latlng": [
+            -33.75757,
+            25.3971
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131308,
+          "name": "Whittlesea",
+          "latlng": [
+            -32.17588,
+            26.82437
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131309,
+          "name": "Willowmore",
+          "latlng": [
+            -33.29265,
+            23.48954
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 932,
+      "name": "Free State",
+      "code": "FS",
+      "shortName": "FS",
+      "cities": [
+        {
+          "id": 131021,
+          "name": "Allanridge",
+          "latlng": [
+            -27.75431,
+            26.64382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131036,
+          "name": "Bethlehem",
+          "latlng": [
+            -28.23078,
+            28.30707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131038,
+          "name": "Bloemfontein",
+          "latlng": [
+            -29.12107,
+            26.214
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131043,
+          "name": "Bothaville",
+          "latlng": [
+            -27.3887,
+            26.61701
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131044,
+          "name": "Botshabelo",
+          "latlng": [
+            -29.26737,
+            26.72595
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131046,
+          "name": "Brandfort",
+          "latlng": [
+            -28.70008,
+            26.45968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131075,
+          "name": "Clocolan",
+          "latlng": [
+            -28.91367,
+            27.56555
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131084,
+          "name": "Deneysville",
+          "latlng": [
+            -26.8908,
+            28.09707
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131107,
+          "name": "Fezile Dabi District Municipality",
+          "latlng": [
+            -27.33918,
+            27.71927
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131111,
+          "name": "Frankfort",
+          "latlng": [
+            -27.27888,
+            28.49696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131124,
+          "name": "Harrismith",
+          "latlng": [
+            -28.27276,
+            29.12946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131126,
+          "name": "Heilbron",
+          "latlng": [
+            -27.28115,
+            27.9709
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131128,
+          "name": "Hennenman",
+          "latlng": [
+            -27.97654,
+            27.02423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131131,
+          "name": "Hoopstad",
+          "latlng": [
+            -27.83273,
+            25.90833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131146,
+          "name": "Koppies",
+          "latlng": [
+            -27.24179,
+            27.57422
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131150,
+          "name": "Kroonstad",
+          "latlng": [
+            -27.65036,
+            27.23488
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131154,
+          "name": "Kutloanong",
+          "latlng": [
+            -27.83333,
+            26.75
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131158,
+          "name": "Ladybrand",
+          "latlng": [
+            -29.19448,
+            27.45739
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131161,
+          "name": "Lejweleputswa District Municipality",
+          "latlng": [
+            -28.23982,
+            26.12649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131163,
+          "name": "Lindley",
+          "latlng": [
+            -27.8791,
+            27.91348
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131170,
+          "name": "Mangaung Metropolitan Municipality",
+          "latlng": [
+            -29.15627,
+            26.35116
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131173,
+          "name": "Marquard",
+          "latlng": [
+            -28.66449,
+            27.43048
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131214,
+          "name": "Parys",
+          "latlng": [
+            -26.9033,
+            27.45727
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131216,
+          "name": "Phuthaditjhaba",
+          "latlng": [
+            -28.52423,
+            28.81582
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131237,
+          "name": "Reitz",
+          "latlng": [
+            -27.80138,
+            28.42726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131249,
+          "name": "Sasolburg",
+          "latlng": [
+            -26.81358,
+            27.81695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131255,
+          "name": "Senekal",
+          "latlng": [
+            -28.31971,
+            27.62082
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131271,
+          "name": "Thaba Nchu",
+          "latlng": [
+            -29.20932,
+            26.83898
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131273,
+          "name": "Thabo Mofutsanyana District Municipality",
+          "latlng": [
+            -28.24378,
+            28.34077
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131274,
+          "name": "Theunissen",
+          "latlng": [
+            -28.41098,
+            26.70107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131285,
+          "name": "Ventersburg",
+          "latlng": [
+            -28.08561,
+            27.13814
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131288,
+          "name": "Viljoenskroon",
+          "latlng": [
+            -27.20841,
+            26.94855
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131289,
+          "name": "Villiers",
+          "latlng": [
+            -27.03026,
+            28.60061
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131290,
+          "name": "Virginia",
+          "latlng": [
+            -28.10391,
+            26.86593
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131292,
+          "name": "Vrede",
+          "latlng": [
+            -27.42573,
+            29.16585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131293,
+          "name": "Vredefort",
+          "latlng": [
+            -27.00805,
+            27.3646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131301,
+          "name": "Welkom",
+          "latlng": [
+            -27.97742,
+            26.73506
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131303,
+          "name": "Wesselsbron",
+          "latlng": [
+            -27.8549,
+            26.36583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131310,
+          "name": "Winburg",
+          "latlng": [
+            -28.51805,
+            27.00933
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131314,
+          "name": "Xhariep District Municipality",
+          "latlng": [
+            -29.84311,
+            25.83286
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131315,
+          "name": "Zastron",
+          "latlng": [
+            -30.30225,
+            27.08395
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 936,
+      "name": "Gauteng",
+      "code": "GP",
+      "shortName": "GP",
+      "cities": [
+        {
+          "id": 131017,
+          "name": "Alberton",
+          "latlng": [
+            -26.26786,
+            28.12225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131032,
+          "name": "Benoni",
+          "latlng": [
+            -26.18848,
+            28.32078
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131042,
+          "name": "Boksburg",
+          "latlng": [
+            -26.21197,
+            28.25958
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131045,
+          "name": "Brakpan",
+          "latlng": [
+            -26.23656,
+            28.36938
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131051,
+          "name": "Bronkhorstspruit",
+          "latlng": [
+            -25.81015,
+            28.74248
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131062,
+          "name": "Carletonville",
+          "latlng": [
+            -26.36094,
+            27.39767
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131066,
+          "name": "Centurion",
+          "latlng": [
+            -25.85891,
+            28.18577
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131071,
+          "name": "City of Johannesburg Metropolitan Municipality",
+          "latlng": [
+            -26.17673,
+            27.96353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131072,
+          "name": "City of Tshwane Metropolitan Municipality",
+          "latlng": [
+            -25.65985,
+            28.44343
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131079,
+          "name": "Cullinan",
+          "latlng": [
+            -25.67088,
+            28.52364
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131085,
+          "name": "Diepsloot",
+          "latlng": [
+            -25.93312,
+            28.01213
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131094,
+          "name": "Eastleigh",
+          "latlng": [
+            -26.12965,
+            28.15541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131096,
+          "name": "Eden Glen",
+          "latlng": [
+            -26.1323,
+            28.16859
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131097,
+          "name": "Eden Glen Ext 60",
+          "latlng": [
+            -26.12593,
+            28.165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131098,
+          "name": "Edenvale",
+          "latlng": [
+            -26.14095,
+            28.15247
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131100,
+          "name": "Ekangala",
+          "latlng": [
+            -25.69619,
+            28.74918
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131101,
+          "name": "Ekurhuleni Metropolitan Municipality",
+          "latlng": [
+            -26.1989,
+            28.31262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131125,
+          "name": "Heidelberg",
+          "latlng": [
+            -26.50476,
+            28.35921
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131136,
+          "name": "Johannesburg",
+          "latlng": [
+            -26.20227,
+            28.04363
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131151,
+          "name": "Krugersdorp",
+          "latlng": [
+            -26.08577,
+            27.77515
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131166,
+          "name": "Mabopane",
+          "latlng": [
+            -25.49768,
+            28.10065
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131176,
+          "name": "Midrand",
+          "latlng": [
+            -25.98953,
+            28.12843
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131177,
+          "name": "Midstream",
+          "latlng": [
+            -25.91849,
+            28.19881
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131179,
+          "name": "Modderfontein",
+          "latlng": [
+            -26.08909,
+            28.16534
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131193,
+          "name": "Muldersdriseloop",
+          "latlng": [
+            -26.03673,
+            27.83798
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131202,
+          "name": "Nigel",
+          "latlng": [
+            -26.43138,
+            28.47713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131207,
+          "name": "Orange Farm",
+          "latlng": [
+            -26.48333,
+            27.86667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131230,
+          "name": "Pretoria",
+          "latlng": [
+            -25.74486,
+            28.18783
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131235,
+          "name": "Randburg",
+          "latlng": [
+            -26.0941,
+            28.00123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131236,
+          "name": "Randfontein",
+          "latlng": [
+            -26.1844,
+            27.70203
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131245,
+          "name": "Roodepoort",
+          "latlng": [
+            -26.1625,
+            27.8725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131253,
+          "name": "Sedibeng District Municipality",
+          "latlng": [
+            -26.56686,
+            28.18277
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131260,
+          "name": "Soweto",
+          "latlng": [
+            -26.26781,
+            27.85849
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131262,
+          "name": "Springs",
+          "latlng": [
+            -26.25,
+            28.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131270,
+          "name": "Tembisa",
+          "latlng": [
+            -25.99636,
+            28.2268
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131284,
+          "name": "Vanderbijlpark",
+          "latlng": [
+            -26.71171,
+            27.83795
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131286,
+          "name": "Vereeniging",
+          "latlng": [
+            -26.67313,
+            27.92615
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131305,
+          "name": "West Rand District Municipality",
+          "latlng": [
+            -26.24565,
+            27.55538
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131306,
+          "name": "Westonaria",
+          "latlng": [
+            -26.31905,
+            27.6486
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 935,
+      "name": "KwaZulu-Natal",
+      "code": "KZN",
+      "shortName": "KZN",
+      "cities": [
+        {
+          "id": 131022,
+          "name": "Amajuba District Municipality",
+          "latlng": [
+            -27.73558,
+            30.13537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131027,
+          "name": "Ballito",
+          "latlng": [
+            -29.53897,
+            31.21439
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131033,
+          "name": "Berea",
+          "latlng": [
+            -29.85185,
+            30.99337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131091,
+          "name": "Dundee",
+          "latlng": [
+            -28.16678,
+            30.23371
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131092,
+          "name": "Durban",
+          "latlng": [
+            -29.8579,
+            31.0292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131102,
+          "name": "Ekuvukeni",
+          "latlng": [
+            -28.46752,
+            30.15513
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131320,
+          "name": "eMkhomazi",
+          "latlng": [
+            -30.20674,
+            30.79776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131104,
+          "name": "Empangeni",
+          "latlng": [
+            -28.76197,
+            31.89329
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131106,
+          "name": "Eshowe",
+          "latlng": [
+            -28.88649,
+            31.4699
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131321,
+          "name": "eSikhaleni",
+          "latlng": [
+            -28.87097,
+            31.89961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131322,
+          "name": "eThekwini Metropolitan Municipality",
+          "latlng": [
+            -29.8667,
+            31.0167
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131118,
+          "name": "Glencoe",
+          "latlng": [
+            -28.17827,
+            30.14702
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131122,
+          "name": "Greytown",
+          "latlng": [
+            -29.06415,
+            30.59279
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131130,
+          "name": "Hluhluwe",
+          "latlng": [
+            -28.01895,
+            32.26762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131132,
+          "name": "Howick",
+          "latlng": [
+            -29.47795,
+            30.23057
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131323,
+          "name": "iLembe District Municipality",
+          "latlng": [
+            -29.27326,
+            31.14253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131144,
+          "name": "Kokstad",
+          "latlng": [
+            -30.54723,
+            29.42412
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131155,
+          "name": "KwaDukuza",
+          "latlng": [
+            -29.32816,
+            31.28954
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131172,
+          "name": "Margate",
+          "latlng": [
+            -30.8636,
+            30.37052
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131183,
+          "name": "Mondlo",
+          "latlng": [
+            -27.98299,
+            30.71769
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131185,
+          "name": "Mooirivier",
+          "latlng": [
+            -29.20824,
+            29.9946
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131189,
+          "name": "Mpophomeni",
+          "latlng": [
+            -29.56822,
+            30.18618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131190,
+          "name": "Mpumalanga",
+          "latlng": [
+            -29.81292,
+            30.63646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131192,
+          "name": "Mtubatuba",
+          "latlng": [
+            -28.41789,
+            32.18483
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131196,
+          "name": "Ndwedwe",
+          "latlng": [
+            -29.51686,
+            30.92687
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131199,
+          "name": "Newcastle",
+          "latlng": [
+            -27.75796,
+            29.9318
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131218,
+          "name": "Pietermaritzburg",
+          "latlng": [
+            -29.61679,
+            30.39278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131227,
+          "name": "Port Shepstone",
+          "latlng": [
+            -30.74137,
+            30.45499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131239,
+          "name": "Richards Bay",
+          "latlng": [
+            -28.78301,
+            32.03768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131240,
+          "name": "Richmond",
+          "latlng": [
+            -29.87196,
+            30.27235
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131251,
+          "name": "Scottburgh",
+          "latlng": [
+            -30.28666,
+            30.75316
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131256,
+          "name": "Sisonke District Municipality",
+          "latlng": [
+            -30.11082,
+            29.66009
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131267,
+          "name": "Sundumbili",
+          "latlng": [
+            -29.13371,
+            31.39752
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131278,
+          "name": "Ugu District Municipality",
+          "latlng": [
+            -30.54365,
+            30.2748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131280,
+          "name": "Ulundi",
+          "latlng": [
+            -28.33523,
+            31.41617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131324,
+          "name": "uMgungundlovu",
+          "latlng": [
+            -29.50927,
+            30.19838
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131325,
+          "name": "uMkhanyakude District Municipality",
+          "latlng": [
+            -27.62236,
+            32.32945
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131326,
+          "name": "uMzinyathi District Municipality",
+          "latlng": [
+            -28.5857,
+            30.55883
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131327,
+          "name": "uThukela District Municipality",
+          "latlng": [
+            -28.7192,
+            29.65799
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131328,
+          "name": "uThungulu District Municipality",
+          "latlng": [
+            -28.70046,
+            31.51527
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131282,
+          "name": "Utrecht",
+          "latlng": [
+            -27.65862,
+            30.32166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131297,
+          "name": "Vryheid",
+          "latlng": [
+            -27.76952,
+            30.79165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131318,
+          "name": "Zululand District Municipality",
+          "latlng": [
+            -27.81139,
+            31.29426
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 933,
+      "name": "Limpopo",
+      "code": "LP",
+      "shortName": "LP",
+      "cities": [
+        {
+          "id": 131040,
+          "name": "Bochum",
+          "latlng": [
+            -23.28609,
+            29.13964
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131061,
+          "name": "Capricorn District Municipality",
+          "latlng": [
+            -23.48163,
+            29.1835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131090,
+          "name": "Duiwelskloof",
+          "latlng": [
+            -23.69339,
+            30.14002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131113,
+          "name": "Ga-Kgapane",
+          "latlng": [
+            -23.64378,
+            30.22324
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131117,
+          "name": "Giyani",
+          "latlng": [
+            -23.30246,
+            30.71868
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131160,
+          "name": "Lebowakgomo",
+          "latlng": [
+            -24.2,
+            29.5
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131164,
+          "name": "Louis Trichardt",
+          "latlng": [
+            -23.04385,
+            29.90319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131171,
+          "name": "Mankoeng",
+          "latlng": [
+            -23.9,
+            29.81667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131180,
+          "name": "Modimolle",
+          "latlng": [
+            -24.7,
+            28.4
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131181,
+          "name": "Mokopane",
+          "latlng": [
+            -24.19436,
+            29.00974
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131187,
+          "name": "Mopani District Municipality",
+          "latlng": [
+            -23.76661,
+            30.836
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131194,
+          "name": "Musina",
+          "latlng": [
+            -22.34881,
+            30.04074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131204,
+          "name": "Nkowakowa",
+          "latlng": [
+            -23.88782,
+            30.28708
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131215,
+          "name": "Phalaborwa",
+          "latlng": [
+            -23.94299,
+            31.14107
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131223,
+          "name": "Polokwane",
+          "latlng": [
+            -23.90449,
+            29.46885
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131254,
+          "name": "Sekhukhune District Municipality",
+          "latlng": [
+            -24.82806,
+            29.83803
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131272,
+          "name": "Thabazimbi",
+          "latlng": [
+            -24.59165,
+            27.41155
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131275,
+          "name": "Thohoyandou",
+          "latlng": [
+            -22.94564,
+            30.48497
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131276,
+          "name": "Thulamahashi",
+          "latlng": [
+            -24.72459,
+            31.19939
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131277,
+          "name": "Tzaneen",
+          "latlng": [
+            -23.83322,
+            30.16351
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131287,
+          "name": "Vhembe District Municipality",
+          "latlng": [
+            -22.75467,
+            30.1936
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131298,
+          "name": "Warmbaths",
+          "latlng": [
+            -24.88333,
+            28.28333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131300,
+          "name": "Waterberg District Municipality",
+          "latlng": [
+            -24.20514,
+            27.9787
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 937,
+      "name": "Mpumalanga",
+      "code": "MP",
+      "shortName": "MP",
+      "cities": [
+        {
+          "id": 131026,
+          "name": "Balfour",
+          "latlng": [
+            -26.66331,
+            28.59016
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131028,
+          "name": "Barberton",
+          "latlng": [
+            -25.78842,
+            31.05319
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131031,
+          "name": "Belfast",
+          "latlng": [
+            -25.68991,
+            30.03504
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131035,
+          "name": "Bethal",
+          "latlng": [
+            -26.45794,
+            29.46553
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131049,
+          "name": "Breyten",
+          "latlng": [
+            -26.30176,
+            29.98696
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131064,
+          "name": "Carolina",
+          "latlng": [
+            -26.06927,
+            30.11489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131083,
+          "name": "Delmas",
+          "latlng": [
+            -26.1466,
+            28.68322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131089,
+          "name": "Driefontein",
+          "latlng": [
+            -27.0177,
+            30.44979
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131099,
+          "name": "Ehlanzeni District",
+          "latlng": [
+            -25.351,
+            31.361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131319,
+          "name": "eMbalenhle",
+          "latlng": [
+            -26.53333,
+            29.06667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131105,
+          "name": "Ermelo",
+          "latlng": [
+            -26.53333,
+            29.98333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131116,
+          "name": "Gert Sibande District Municipality",
+          "latlng": [
+            -26.671,
+            29.92953
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131127,
+          "name": "Hendrina",
+          "latlng": [
+            -26.15881,
+            29.71528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131145,
+          "name": "Komatipoort",
+          "latlng": [
+            -25.43321,
+            31.95478
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131149,
+          "name": "Kriel",
+          "latlng": [
+            -26.27391,
+            29.2253
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131165,
+          "name": "Lydenburg",
+          "latlng": [
+            -25.09598,
+            30.44393
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131175,
+          "name": "Middelburg",
+          "latlng": [
+            -25.77507,
+            29.46482
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131198,
+          "name": "Nelspruit",
+          "latlng": [
+            -25.47448,
+            30.97033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131203,
+          "name": "Nkangala District Municipality",
+          "latlng": [
+            -25.71222,
+            29.42431
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131217,
+          "name": "Piet Retief",
+          "latlng": [
+            -27.00706,
+            30.81323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131252,
+          "name": "Secunda",
+          "latlng": [
+            -26.55,
+            29.16667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131257,
+          "name": "Siyabuswa",
+          "latlng": [
+            -25.11319,
+            29.04454
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131263,
+          "name": "Standerton",
+          "latlng": [
+            -26.93366,
+            29.24152
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131291,
+          "name": "Volksrust",
+          "latlng": [
+            -27.36541,
+            29.88175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131307,
+          "name": "White River",
+          "latlng": [
+            -25.33177,
+            31.01166
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131311,
+          "name": "Witbank",
+          "latlng": [
+            -25.87133,
+            29.23323
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 934,
+      "name": "North West",
+      "code": "NW",
+      "shortName": "NW",
+      "cities": [
+        {
+          "id": 131039,
+          "name": "Bloemhof",
+          "latlng": [
+            -27.64685,
+            25.60697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131041,
+          "name": "Bojanala Platinum District Municipality",
+          "latlng": [
+            -25.42612,
+            27.2243
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131050,
+          "name": "Brits",
+          "latlng": [
+            -25.63473,
+            27.78022
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131069,
+          "name": "Christiana",
+          "latlng": [
+            -27.91402,
+            25.16111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131087,
+          "name": "Dr Kenneth Kaunda District Municipality",
+          "latlng": [
+            -26.80678,
+            26.56926
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131088,
+          "name": "Dr Ruth Segomotsi Mompati District Municipality",
+          "latlng": [
+            -26.63765,
+            24.27462
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131108,
+          "name": "Fochville",
+          "latlng": [
+            -26.48862,
+            27.49387
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131114,
+          "name": "Ga-Rankuwa",
+          "latlng": [
+            -25.61692,
+            27.99471
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131134,
+          "name": "Jan Kempdorp",
+          "latlng": [
+            -27.92246,
+            24.83051
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131142,
+          "name": "Klerksdorp",
+          "latlng": [
+            -26.85213,
+            26.66672
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131147,
+          "name": "Koster",
+          "latlng": [
+            -25.86301,
+            26.89756
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131162,
+          "name": "Lichtenburg",
+          "latlng": [
+            -26.152,
+            26.15968
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131167,
+          "name": "Mahikeng",
+          "latlng": [
+            -25.86522,
+            25.64421
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131168,
+          "name": "Maile",
+          "latlng": [
+            -25.44152,
+            27.28165
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131178,
+          "name": "Mmabatho",
+          "latlng": [
+            -25.85,
+            25.63333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131201,
+          "name": "Ngaka Modiri Molema District Municipality",
+          "latlng": [
+            -25.95559,
+            25.80782
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131209,
+          "name": "Orkney",
+          "latlng": [
+            -26.98023,
+            26.67272
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131229,
+          "name": "Potchefstroom",
+          "latlng": [
+            -26.71667,
+            27.1
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131247,
+          "name": "Rustenburg",
+          "latlng": [
+            -25.66756,
+            27.24208
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131250,
+          "name": "Schweizer-Reneke",
+          "latlng": [
+            -27.18871,
+            25.32931
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131265,
+          "name": "Stilfontein",
+          "latlng": [
+            -26.84493,
+            26.76829
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131296,
+          "name": "Vryburg",
+          "latlng": [
+            -26.95659,
+            24.7284
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131312,
+          "name": "Wolmaransstad",
+          "latlng": [
+            -27.1974,
+            25.98311
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131316,
+          "name": "Zeerust",
+          "latlng": [
+            -25.53695,
+            26.07512
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 931,
+      "name": "Northern Cape",
+      "code": "NC",
+      "shortName": "NC",
+      "cities": [
+        {
+          "id": 131029,
+          "name": "Barkly West",
+          "latlng": [
+            -28.53537,
+            24.52151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131047,
+          "name": "Brandvlei",
+          "latlng": [
+            -30.46532,
+            20.48659
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131058,
+          "name": "Calvinia",
+          "latlng": [
+            -31.47069,
+            19.77601
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131063,
+          "name": "Carnarvon",
+          "latlng": [
+            -30.96827,
+            22.13303
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131076,
+          "name": "Colesberg",
+          "latlng": [
+            -30.71999,
+            25.09718
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131080,
+          "name": "Daniëlskuil",
+          "latlng": [
+            -28.18873,
+            23.53951
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131081,
+          "name": "De Aar",
+          "latlng": [
+            -30.64966,
+            24.0123
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131110,
+          "name": "Frances Baard District Municipality",
+          "latlng": [
+            -28.30003,
+            24.38188
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131112,
+          "name": "Fraserburg",
+          "latlng": [
+            -31.91566,
+            21.51335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131137,
+          "name": "John Taolo Gaetsewe District Municipality",
+          "latlng": [
+            -27.04549,
+            23.04706
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131138,
+          "name": "Kathu",
+          "latlng": [
+            -27.69569,
+            23.04929
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131139,
+          "name": "Kenhardt",
+          "latlng": [
+            -29.34574,
+            21.15786
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131140,
+          "name": "Kimberley",
+          "latlng": [
+            -28.73226,
+            24.76232
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131153,
+          "name": "Kuruman",
+          "latlng": [
+            -27.4524,
+            23.43246
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131195,
+          "name": "Namakwa District Municipality",
+          "latlng": [
+            -30.53561,
+            19.42892
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131205,
+          "name": "Noupoort",
+          "latlng": [
+            -31.18736,
+            24.94991
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131208,
+          "name": "Orania",
+          "latlng": [
+            -29.81381,
+            24.41205
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131213,
+          "name": "Pampierstad",
+          "latlng": [
+            -27.78324,
+            24.68768
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131220,
+          "name": "Pixley ka Seme District Municipality",
+          "latlng": [
+            -30.2892,
+            23.25818
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131222,
+          "name": "Pofadder",
+          "latlng": [
+            -29.1283,
+            19.39492
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131228,
+          "name": "Postmasburg",
+          "latlng": [
+            -28.33392,
+            23.06541
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131231,
+          "name": "Prieska",
+          "latlng": [
+            -29.66803,
+            22.74251
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131241,
+          "name": "Ritchie",
+          "latlng": [
+            -29.03801,
+            24.60278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131258,
+          "name": "Siyanda District Municipality",
+          "latlng": [
+            -28.00013,
+            21.18459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131261,
+          "name": "Springbok",
+          "latlng": [
+            -29.66434,
+            17.8865
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131281,
+          "name": "Upington",
+          "latlng": [
+            -28.44776,
+            21.25612
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131283,
+          "name": "Van Wyksvlei",
+          "latlng": [
+            -30.35101,
+            21.82498
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131299,
+          "name": "Warrenton",
+          "latlng": [
+            -28.11396,
+            24.84753
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 939,
+      "name": "Western Cape",
+      "code": "WC",
+      "shortName": "WC",
+      "cities": [
+        {
+          "id": 131016,
+          "name": "Albertina",
+          "latlng": [
+            -34.20544,
+            21.58001
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131024,
+          "name": "Arniston",
+          "latlng": [
+            -34.66739,
+            20.23086
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131025,
+          "name": "Atlantis",
+          "latlng": [
+            -33.56668,
+            18.48335
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131030,
+          "name": "Beaufort West",
+          "latlng": [
+            -32.35671,
+            22.58295
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131034,
+          "name": "Bergvliet",
+          "latlng": [
+            -34.04746,
+            18.4525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131048,
+          "name": "Bredasdorp",
+          "latlng": [
+            -34.53215,
+            20.04031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131056,
+          "name": "Caledon",
+          "latlng": [
+            -34.22997,
+            19.4265
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131057,
+          "name": "Calitzdorp",
+          "latlng": [
+            -33.52755,
+            21.6762
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131059,
+          "name": "Cape Town",
+          "latlng": [
+            -33.92584,
+            18.42322
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131060,
+          "name": "Cape Winelands District Municipality",
+          "latlng": [
+            -33.32249,
+            19.68998
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131065,
+          "name": "Central Karoo District Municipality",
+          "latlng": [
+            -32.62812,
+            22.21192
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131067,
+          "name": "Ceres",
+          "latlng": [
+            -33.36889,
+            19.31095
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131070,
+          "name": "City of Cape Town",
+          "latlng": [
+            -33.91667,
+            18.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131073,
+          "name": "Clanwilliam",
+          "latlng": [
+            -32.18173,
+            18.89217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131074,
+          "name": "Claremont",
+          "latlng": [
+            -33.98056,
+            18.46528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131077,
+          "name": "Constantia",
+          "latlng": [
+            -34.03139,
+            18.41833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131082,
+          "name": "De Rust",
+          "latlng": [
+            -33.49035,
+            22.53523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131095,
+          "name": "Eden District Municipality",
+          "latlng": [
+            -33.82139,
+            22.01263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131115,
+          "name": "George",
+          "latlng": [
+            -33.963,
+            22.46173
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131120,
+          "name": "Grabouw",
+          "latlng": [
+            -34.15152,
+            19.01509
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131123,
+          "name": "Hardys Memories of Africa",
+          "latlng": [
+            -33.90539,
+            20.7169
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131129,
+          "name": "Hermanus",
+          "latlng": [
+            -34.4187,
+            19.23446
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131143,
+          "name": "Knysna",
+          "latlng": [
+            -34.03627,
+            23.04713
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131148,
+          "name": "Kraaifontein",
+          "latlng": [
+            -33.84808,
+            18.71723
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131156,
+          "name": "Ladismith",
+          "latlng": [
+            -33.49331,
+            21.26755
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131159,
+          "name": "Lansdowne",
+          "latlng": [
+            -33.98735,
+            18.49746
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131169,
+          "name": "Malmesbury",
+          "latlng": [
+            -33.4608,
+            18.72714
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131184,
+          "name": "Montagu",
+          "latlng": [
+            -33.78664,
+            20.12106
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131186,
+          "name": "Moorreesburg",
+          "latlng": [
+            -33.15388,
+            18.66031
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131188,
+          "name": "Mossel Bay",
+          "latlng": [
+            -34.18307,
+            22.14605
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131200,
+          "name": "Newlands",
+          "latlng": [
+            -33.97846,
+            18.4481
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131210,
+          "name": "Oudtshoorn",
+          "latlng": [
+            -33.60047,
+            22.19955
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131211,
+          "name": "Overberg District Municipality",
+          "latlng": [
+            -34.26131,
+            19.93985
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131212,
+          "name": "Paarl",
+          "latlng": [
+            -33.73378,
+            18.97523
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131219,
+          "name": "Piketberg",
+          "latlng": [
+            -32.90323,
+            18.75704
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131221,
+          "name": "Plettenberg Bay",
+          "latlng": [
+            -34.05274,
+            23.3716
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131232,
+          "name": "Prince Albert",
+          "latlng": [
+            -33.22476,
+            22.02673
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131238,
+          "name": "Retreat",
+          "latlng": [
+            -34.05515,
+            18.47617
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131242,
+          "name": "Riversdale",
+          "latlng": [
+            -34.09345,
+            21.25725
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131243,
+          "name": "Robertson",
+          "latlng": [
+            -33.80342,
+            19.88537
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131244,
+          "name": "Rondebosch",
+          "latlng": [
+            -33.96333,
+            18.47639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131246,
+          "name": "Rosebank",
+          "latlng": [
+            -33.95556,
+            18.47417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131248,
+          "name": "Saldanha",
+          "latlng": [
+            -33.01167,
+            17.9442
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131264,
+          "name": "Stellenbosch",
+          "latlng": [
+            -33.93462,
+            18.86676
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131268,
+          "name": "Sunset Beach",
+          "latlng": [
+            -33.85395,
+            18.49231
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131269,
+          "name": "Swellendam",
+          "latlng": [
+            -34.02262,
+            20.44171
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131294,
+          "name": "Vredenburg",
+          "latlng": [
+            -32.90719,
+            17.98997
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131295,
+          "name": "Vredendal",
+          "latlng": [
+            -31.66833,
+            18.50119
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131302,
+          "name": "Wellington",
+          "latlng": [
+            -33.63981,
+            19.0112
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131304,
+          "name": "West Coast District Municipality",
+          "latlng": [
+            -32.09506,
+            18.62695
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131313,
+          "name": "Worcester",
+          "latlng": [
+            -33.64651,
+            19.44852
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 131317,
+          "name": "Zoar",
+          "latlng": [
+            -33.4956,
+            21.44373
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

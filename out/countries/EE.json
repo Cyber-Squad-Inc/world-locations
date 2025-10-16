@@ -1,0 +1,1932 @@
+{
+  "name": {
+    "common": "Estonia",
+    "official": "Estonia"
+  },
+  "iso2": "EE",
+  "iso3": "EST",
+  "numericCode": "233",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "tld": ".ee",
+  "phoneCode": "372",
+  "capital": "Tallinn",
+  "currencies": {
+    "EUR": "Euro"
+  },
+  "timezones": [
+    {
+      "zoneName": "Europe/Tallinn",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/ee.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/ee.svg",
+  "states": [
+    {
+      "id": 3567,
+      "name": "Harju",
+      "code": "37",
+      "shortName": "37",
+      "cities": [
+        {
+          "id": 31595,
+          "name": "Anija vald",
+          "latlng": [
+            59.27644,
+            25.48168
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31598,
+          "name": "Aruküla",
+          "latlng": [
+            59.36686,
+            25.07618
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31602,
+          "name": "Haabneeme",
+          "latlng": [
+            59.51358,
+            24.82225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31607,
+          "name": "Harku",
+          "latlng": [
+            59.38641,
+            24.57176
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31608,
+          "name": "Harku vald",
+          "latlng": [
+            59.39157,
+            24.46206
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31613,
+          "name": "Jõelähtme vald",
+          "latlng": [
+            59.43996,
+            25.13535
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31618,
+          "name": "Jüri",
+          "latlng": [
+            59.35417,
+            24.89417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31626,
+          "name": "Kehra",
+          "latlng": [
+            59.33611,
+            25.32111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31629,
+          "name": "Keila",
+          "latlng": [
+            59.30361,
+            24.41306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31631,
+          "name": "Kiili",
+          "latlng": [
+            59.30775,
+            24.83776
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31632,
+          "name": "Kiili vald",
+          "latlng": [
+            59.29672,
+            24.85292
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31640,
+          "name": "Kose",
+          "latlng": [
+            59.46001,
+            24.87824
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31644,
+          "name": "Kuusalu",
+          "latlng": [
+            59.44389,
+            25.44139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31647,
+          "name": "Laagri",
+          "latlng": [
+            59.35083,
+            24.61418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31651,
+          "name": "Loksa",
+          "latlng": [
+            59.57639,
+            25.72139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31652,
+          "name": "Loksa linn",
+          "latlng": [
+            59.57844,
+            25.71667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31653,
+          "name": "Loo",
+          "latlng": [
+            59.43123,
+            24.94949
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31658,
+          "name": "Maardu",
+          "latlng": [
+            59.46529,
+            24.98215
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31659,
+          "name": "Maardu linn",
+          "latlng": [
+            59.46385,
+            24.9735
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31676,
+          "name": "Paldiski",
+          "latlng": [
+            59.35667,
+            24.05306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31678,
+          "name": "Pringi",
+          "latlng": [
+            59.53459,
+            24.79726
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31688,
+          "name": "Raasiku",
+          "latlng": [
+            59.36639,
+            25.18306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31689,
+          "name": "Rae vald",
+          "latlng": [
+            59.33202,
+            24.93932
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31695,
+          "name": "Riisipere",
+          "latlng": [
+            59.11417,
+            24.31056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31698,
+          "name": "Rummu",
+          "latlng": [
+            59.53528,
+            24.79972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31704,
+          "name": "Saku",
+          "latlng": [
+            59.30354,
+            24.66382
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31705,
+          "name": "Saku vald",
+          "latlng": [
+            59.28069,
+            24.71649
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31706,
+          "name": "Saue",
+          "latlng": [
+            59.32258,
+            24.54967
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31707,
+          "name": "Saue vald",
+          "latlng": [
+            59.29255,
+            24.52503
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31714,
+          "name": "Tabasalu",
+          "latlng": [
+            59.42607,
+            24.5533
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31716,
+          "name": "Tallinn",
+          "latlng": [
+            59.43696,
+            24.75353
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31727,
+          "name": "Turba",
+          "latlng": [
+            59.08306,
+            24.225
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31734,
+          "name": "Vaida",
+          "latlng": [
+            59.28546,
+            24.97897
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31737,
+          "name": "Viimsi",
+          "latlng": [
+            59.50502,
+            24.84807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31738,
+          "name": "Viimsi vald",
+          "latlng": [
+            59.50204,
+            24.84833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3555,
+      "name": "Hiiu",
+      "code": "39",
+      "shortName": "39",
+      "cities": [
+        {
+          "id": 31645,
+          "name": "Kärdla",
+          "latlng": [
+            58.99778,
+            22.74917
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3569,
+      "name": "Ida-Viru",
+      "code": "44",
+      "shortName": "44",
+      "cities": [
+        {
+          "id": 31610,
+          "name": "Iisaku",
+          "latlng": [
+            59.10139,
+            27.30806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31616,
+          "name": "Jõhvi",
+          "latlng": [
+            59.35917,
+            27.42111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31617,
+          "name": "Jõhvi vald",
+          "latlng": [
+            59.35653,
+            27.39304
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31634,
+          "name": "Kiviõli",
+          "latlng": [
+            59.35306,
+            26.97111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31638,
+          "name": "Kohtla-Järve",
+          "latlng": [
+            59.39861,
+            27.27306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31639,
+          "name": "Kohtla-Nõmme",
+          "latlng": [
+            59.35167,
+            27.175
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31657,
+          "name": "Lüganuse vald",
+          "latlng": [
+            59.39262,
+            27.07641
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31665,
+          "name": "Narva",
+          "latlng": [
+            59.37722,
+            28.19028
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31666,
+          "name": "Narva-Jõesuu",
+          "latlng": [
+            59.45889,
+            28.04083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31667,
+          "name": "Narva-Jõesuu linn",
+          "latlng": [
+            59.44127,
+            28.02142
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31687,
+          "name": "Püssi",
+          "latlng": [
+            59.36,
+            27.04972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31709,
+          "name": "Sillamäe",
+          "latlng": [
+            59.39697,
+            27.76331
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31724,
+          "name": "Toila",
+          "latlng": [
+            59.42127,
+            27.50807
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31745,
+          "name": "Voka",
+          "latlng": [
+            59.40776,
+            27.58263
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3566,
+      "name": "Järva",
+      "code": "51",
+      "shortName": "51",
+      "cities": [
+        {
+          "id": 31611,
+          "name": "Järva-Jaani",
+          "latlng": [
+            59.03861,
+            25.88639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31635,
+          "name": "Koeru",
+          "latlng": [
+            58.96306,
+            26.03083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31672,
+          "name": "Paide",
+          "latlng": [
+            58.88556,
+            25.55722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31673,
+          "name": "Paide linn",
+          "latlng": [
+            58.88504,
+            25.56021
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31712,
+          "name": "Särevere",
+          "latlng": [
+            58.79,
+            25.42806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31729,
+          "name": "Türi",
+          "latlng": [
+            58.80861,
+            25.4325
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31730,
+          "name": "Türi vald",
+          "latlng": [
+            58.74143,
+            25.46443
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3565,
+      "name": "Jõgeva",
+      "code": "49",
+      "shortName": "49",
+      "cities": [
+        {
+          "id": 31614,
+          "name": "Jõgeva",
+          "latlng": [
+            58.74667,
+            26.39389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31615,
+          "name": "Jõgeva vald",
+          "latlng": [
+            58.78732,
+            26.38122
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31661,
+          "name": "Mustvee",
+          "latlng": [
+            58.84861,
+            26.93972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31683,
+          "name": "Põltsamaa",
+          "latlng": [
+            58.6525,
+            25.97056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31684,
+          "name": "Põltsamaa vald",
+          "latlng": [
+            58.64067,
+            26.00957
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3568,
+      "name": "Lääne",
+      "code": "57",
+      "shortName": "57",
+      "cities": [
+        {
+          "id": 31603,
+          "name": "Haapsalu",
+          "latlng": [
+            58.94306,
+            23.54139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31604,
+          "name": "Haapsalu linn",
+          "latlng": [
+            58.9358,
+            23.53005
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31609,
+          "name": "Hullo",
+          "latlng": [
+            58.99004,
+            23.24441
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31656,
+          "name": "Lääne-Nigula vald",
+          "latlng": [
+            58.96045,
+            23.74489
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31715,
+          "name": "Taebla",
+          "latlng": [
+            58.95389,
+            23.75222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31731,
+          "name": "Uuemõisa",
+          "latlng": [
+            58.93944,
+            23.58944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31746,
+          "name": "Vormsi vald",
+          "latlng": [
+            58.99986,
+            23.23408
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3564,
+      "name": "Lääne-Viru",
+      "code": "59",
+      "shortName": "59",
+      "cities": [
+        {
+          "id": 31599,
+          "name": "Aseri",
+          "latlng": [
+            59.45056,
+            26.8675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31605,
+          "name": "Haljala",
+          "latlng": [
+            59.43361,
+            26.26139
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31606,
+          "name": "Haljala vald",
+          "latlng": [
+            59.45427,
+            26.22015
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31619,
+          "name": "Kadrina",
+          "latlng": [
+            59.33472,
+            26.145
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31620,
+          "name": "Kadrina vald",
+          "latlng": [
+            59.37463,
+            26.0415
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31641,
+          "name": "Kunda",
+          "latlng": [
+            59.49861,
+            26.52611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31675,
+          "name": "Pajusti",
+          "latlng": [
+            59.27444,
+            26.42333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31690,
+          "name": "Rakke",
+          "latlng": [
+            58.98167,
+            26.25444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31691,
+          "name": "Rakvere",
+          "latlng": [
+            59.34639,
+            26.35583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31692,
+          "name": "Rakvere vald",
+          "latlng": [
+            59.32457,
+            26.29757
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31713,
+          "name": "Sõmeru",
+          "latlng": [
+            59.36111,
+            26.4375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31717,
+          "name": "Tamsalu",
+          "latlng": [
+            59.15861,
+            26.11528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31718,
+          "name": "Tapa",
+          "latlng": [
+            59.26056,
+            25.95861
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31719,
+          "name": "Tapa vald",
+          "latlng": [
+            59.23821,
+            25.84572
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31733,
+          "name": "Vaiatu",
+          "latlng": [
+            59.35556,
+            25.99528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31747,
+          "name": "Väike-Maarja",
+          "latlng": [
+            59.12639,
+            26.25
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31748,
+          "name": "Väike-Maarja vald",
+          "latlng": [
+            59.06556,
+            26.31417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31742,
+          "name": "Vinni",
+          "latlng": [
+            59.29583,
+            26.43222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31743,
+          "name": "Vinni vald",
+          "latlng": [
+            59.23744,
+            26.62261
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31744,
+          "name": "Viru-Nigula vald",
+          "latlng": [
+            59.46387,
+            26.58585
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3562,
+      "name": "Pärnu",
+      "code": "67",
+      "shortName": "67",
+      "cities": [
+        {
+          "id": 31600,
+          "name": "Audru",
+          "latlng": [
+            58.40861,
+            24.37389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31630,
+          "name": "Kihnu vald",
+          "latlng": [
+            58.13,
+            23.99002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31633,
+          "name": "Kilingi-Nõmme",
+          "latlng": [
+            58.15028,
+            24.96417
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31648,
+          "name": "Lihula",
+          "latlng": [
+            58.68139,
+            23.84528
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31650,
+          "name": "Linaküla",
+          "latlng": [
+            58.13722,
+            23.97444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31674,
+          "name": "Paikuse",
+          "latlng": [
+            58.37917,
+            24.63444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31680,
+          "name": "Pärnu",
+          "latlng": [
+            58.38588,
+            24.49711
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31681,
+          "name": "Pärnu linn",
+          "latlng": [
+            58.37901,
+            24.52784
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31682,
+          "name": "Pärnu-Jaagupi",
+          "latlng": [
+            58.61052,
+            24.50689
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31703,
+          "name": "Saarde vald",
+          "latlng": [
+            58.13802,
+            24.95564
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31708,
+          "name": "Sauga",
+          "latlng": [
+            58.4272,
+            24.49496
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31710,
+          "name": "Sindi",
+          "latlng": [
+            58.40056,
+            24.6675
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31725,
+          "name": "Tootsi",
+          "latlng": [
+            58.57806,
+            24.7925
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31726,
+          "name": "Tori vald",
+          "latlng": [
+            58.48663,
+            24.88961
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31732,
+          "name": "Uulu",
+          "latlng": [
+            58.28361,
+            24.58722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31749,
+          "name": "Vändra",
+          "latlng": [
+            58.64806,
+            25.03611
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3563,
+      "name": "Põlva",
+      "code": "65",
+      "shortName": "65",
+      "cities": [
+        {
+          "id": 31623,
+          "name": "Kanepi",
+          "latlng": [
+            57.98306,
+            26.75639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31624,
+          "name": "Kanepi vald",
+          "latlng": [
+            57.98058,
+            26.76151
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31685,
+          "name": "Põlva",
+          "latlng": [
+            58.06028,
+            27.06944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31686,
+          "name": "Põlva vald",
+          "latlng": [
+            58.08368,
+            26.98242
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31699,
+          "name": "Räpina",
+          "latlng": [
+            58.09806,
+            27.46361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31700,
+          "name": "Räpina vald",
+          "latlng": [
+            58.10777,
+            27.3858
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3559,
+      "name": "Rapla",
+      "code": "70",
+      "shortName": "70",
+      "cities": [
+        {
+          "id": 31612,
+          "name": "Järvakandi",
+          "latlng": [
+            58.77889,
+            24.82583
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31627,
+          "name": "Kehtna",
+          "latlng": [
+            58.93028,
+            24.87806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31628,
+          "name": "Kehtna vald",
+          "latlng": [
+            58.84274,
+            24.89002
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31636,
+          "name": "Kohila",
+          "latlng": [
+            59.16806,
+            24.7575
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31637,
+          "name": "Kohila vald",
+          "latlng": [
+            59.15283,
+            24.73337
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31662,
+          "name": "Märjamaa",
+          "latlng": [
+            58.90389,
+            24.43056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31663,
+          "name": "Märjamaa vald",
+          "latlng": [
+            58.90262,
+            24.39423
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31693,
+          "name": "Rapla",
+          "latlng": [
+            59.00722,
+            24.79278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31694,
+          "name": "Rapla vald",
+          "latlng": [
+            59.03309,
+            24.71793
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3561,
+      "name": "Saare",
+      "code": "74",
+      "shortName": "74",
+      "cities": [
+        {
+          "id": 31643,
+          "name": "Kuressaare",
+          "latlng": [
+            58.24806,
+            22.50389
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31649,
+          "name": "Liiva",
+          "latlng": [
+            58.60194,
+            23.24694
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31660,
+          "name": "Muhu vald",
+          "latlng": [
+            58.58486,
+            23.25609
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31670,
+          "name": "Orissaare",
+          "latlng": [
+            58.55917,
+            23.08262
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31696,
+          "name": "Ruhnu",
+          "latlng": [
+            57.80028,
+            23.24833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31697,
+          "name": "Ruhnu vald",
+          "latlng": [
+            57.80309,
+            23.2425
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31723,
+          "name": "Tehumardi",
+          "latlng": [
+            58.18027,
+            22.24646
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3557,
+      "name": "Tartu",
+      "code": "78",
+      "shortName": "78",
+      "cities": [
+        {
+          "id": 31594,
+          "name": "Alatskivi",
+          "latlng": [
+            58.59806,
+            27.13361
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31601,
+          "name": "Elva",
+          "latlng": [
+            58.2225,
+            26.42111
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31621,
+          "name": "Kallaste",
+          "latlng": [
+            58.66312,
+            27.16164
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31622,
+          "name": "Kambja vald",
+          "latlng": [
+            58.20255,
+            26.68996
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31646,
+          "name": "Kõrveküla",
+          "latlng": [
+            58.42417,
+            26.78222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31642,
+          "name": "Kurepalu",
+          "latlng": [
+            58.31861,
+            26.84083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31654,
+          "name": "Luunja",
+          "latlng": [
+            58.35583,
+            26.88083
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31655,
+          "name": "Luunja vald",
+          "latlng": [
+            58.39178,
+            26.95574
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31668,
+          "name": "Nõo",
+          "latlng": [
+            58.27556,
+            26.5375
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31669,
+          "name": "Nõo vald",
+          "latlng": [
+            58.24199,
+            26.52499
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31677,
+          "name": "Peipsiääre vald",
+          "latlng": [
+            58.51559,
+            27.18444
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31679,
+          "name": "Puhja",
+          "latlng": [
+            58.34194,
+            26.31472
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31720,
+          "name": "Tartu",
+          "latlng": [
+            58.38062,
+            26.72509
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31721,
+          "name": "Tartu linn",
+          "latlng": [
+            58.37498,
+            26.73256
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31722,
+          "name": "Tartu vald",
+          "latlng": [
+            58.478,
+            26.74956
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31754,
+          "name": "Ülenurme",
+          "latlng": [
+            58.3162,
+            26.72517
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3558,
+      "name": "Valga",
+      "code": "82",
+      "shortName": "82",
+      "cities": [
+        {
+          "id": 31671,
+          "name": "Otepää vald",
+          "latlng": [
+            58.02177,
+            26.45306
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31728,
+          "name": "Tõrva",
+          "latlng": [
+            58.00278,
+            25.935
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31735,
+          "name": "Valga",
+          "latlng": [
+            57.77781,
+            26.0473
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3556,
+      "name": "Viljandi",
+      "code": "84",
+      "shortName": "84",
+      "cities": [
+        {
+          "id": 31593,
+          "name": "Abja-Paluoja",
+          "latlng": [
+            58.12528,
+            25.34972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31625,
+          "name": "Karksi-Nuia",
+          "latlng": [
+            58.10333,
+            25.56278
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31664,
+          "name": "Mõisaküla",
+          "latlng": [
+            58.09222,
+            25.18639
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31711,
+          "name": "Suure-Jaani",
+          "latlng": [
+            58.53611,
+            25.47056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31739,
+          "name": "Viiratsi",
+          "latlng": [
+            58.36,
+            25.63722
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31740,
+          "name": "Viljandi",
+          "latlng": [
+            58.36389,
+            25.59
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31741,
+          "name": "Viljandi vald",
+          "latlng": [
+            58.36392,
+            25.49103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31751,
+          "name": "Võhma",
+          "latlng": [
+            58.62833,
+            25.54833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3560,
+      "name": "Võru",
+      "code": "86",
+      "shortName": "86",
+      "cities": [
+        {
+          "id": 31596,
+          "name": "Antsla",
+          "latlng": [
+            57.82556,
+            26.54056
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31597,
+          "name": "Antsla vald",
+          "latlng": [
+            57.77738,
+            26.5952
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31701,
+          "name": "Rõuge",
+          "latlng": [
+            57.72778,
+            26.90972
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31702,
+          "name": "Rõuge vald",
+          "latlng": [
+            57.7278,
+            26.88033
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31736,
+          "name": "Vana-Antsla",
+          "latlng": [
+            57.86611,
+            26.53222
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31750,
+          "name": "Värska",
+          "latlng": [
+            57.95806,
+            27.63806
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31752,
+          "name": "Võru",
+          "latlng": [
+            57.83389,
+            27.01944
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 31753,
+          "name": "Võru vald",
+          "latlng": [
+            57.86618,
+            26.97418
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

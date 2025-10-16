@@ -1,0 +1,164 @@
+{
+  "name": {
+    "common": "New Caledonia",
+    "official": "New Caledonia"
+  },
+  "iso2": "NC",
+  "iso3": "NCL",
+  "numericCode": "540",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "tld": ".nc",
+  "phoneCode": "687",
+  "capital": "Noumea",
+  "currencies": {
+    "XPF": "CFP franc"
+  },
+  "timezones": [
+    {
+      "zoneName": "Pacific/Noumea",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "NCT",
+      "tzName": "New Caledonia Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/nc.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/nc.svg",
+  "states": [
+    {
+      "id": 5227,
+      "name": "Loyalty Islands Province",
+      "code": "03",
+      "shortName": "03",
+      "cities": [
+        {
+          "id": 153638,
+          "name": "Lifou",
+          "latlng": [
+            -20.9667,
+            167.2333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153639,
+          "name": "Maré",
+          "latlng": [
+            -21.5167,
+            167.9833
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5226,
+      "name": "North Province",
+      "code": "02",
+      "shortName": "02",
+      "cities": [
+        {
+          "id": 153637,
+          "name": "Houaïlou",
+          "latlng": [
+            -21.2909,
+            165.6217
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153635,
+          "name": "Koné",
+          "latlng": [
+            -21.059,
+            164.8518
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153636,
+          "name": "Poindimié",
+          "latlng": [
+            -20.9496,
+            165.3293
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 5225,
+      "name": "South Province",
+      "code": "01",
+      "shortName": "01",
+      "cities": [
+        {
+          "id": 153634,
+          "name": "Bourail",
+          "latlng": [
+            -21.5701,
+            165.4804
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153632,
+          "name": "Dumbéa",
+          "latlng": [
+            -22.15,
+            166.45
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153631,
+          "name": "Le Mont-Dore",
+          "latlng": [
+            -22.2157,
+            166.4665
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153630,
+          "name": "Nouméa",
+          "latlng": [
+            -22.2758,
+            166.458
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 153633,
+          "name": "Païta",
+          "latlng": [
+            -22.1337,
+            166.3505
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}

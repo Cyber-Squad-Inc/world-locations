@@ -1,0 +1,432 @@
+{
+  "name": {
+    "common": "Trinidad and Tobago",
+    "official": "Trinidad and Tobago"
+  },
+  "iso2": "TT",
+  "iso3": "TTO",
+  "numericCode": "780",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "tld": ".tt",
+  "phoneCode": "1",
+  "capital": "Port of Spain",
+  "currencies": {
+    "TTD": "Trinidad and Tobago dollar"
+  },
+  "timezones": [
+    {
+      "zoneName": "America/Port_of_Spain",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "flagRect": "https://flagcdn.com/w320/tt.png",
+  "flagRound": "https://hatscripts.github.io/circle-flags/flags/tt.svg",
+  "states": [
+    {
+      "id": 3362,
+      "name": "Arima",
+      "code": "ARI",
+      "shortName": "ARI",
+      "cities": [
+        {
+          "id": 108968,
+          "name": "Arima",
+          "latlng": [
+            10.63737,
+            -61.28228
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3366,
+      "name": "Chaguanas",
+      "code": "CHA",
+      "shortName": "CHA",
+      "cities": [
+        {
+          "id": 108970,
+          "name": "Chaguanas",
+          "latlng": [
+            10.51667,
+            -61.41667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108990,
+          "name": "Ward of Chaguanas",
+          "latlng": [
+            10.5,
+            -61.38333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3354,
+      "name": "Couva-Tabaquite-Talparo",
+      "code": "CTT",
+      "shortName": "CTT",
+      "cities": [
+        {
+          "id": 108971,
+          "name": "Couva",
+          "latlng": [
+            10.42248,
+            -61.46748
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108988,
+          "name": "Tabaquite",
+          "latlng": [
+            10.38824,
+            -61.29704
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3367,
+      "name": "Diego Martin",
+      "code": "DMN",
+      "shortName": "DMN",
+      "cities": [
+        {
+          "id": 108978,
+          "name": "Petit Valley",
+          "latlng": [
+            10.69974,
+            -61.54717
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108991,
+          "name": "Ward of Diego Martin",
+          "latlng": [
+            10.7,
+            -61.58333
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3355,
+      "name": "Eastern Tobago",
+      "code": "ETO",
+      "shortName": "ETO",
+      "cities": [
+        {
+          "id": 108986,
+          "name": "Scarborough",
+          "latlng": [
+            11.18229,
+            -60.73525
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3365,
+      "name": "Penal-Debe",
+      "code": "PED",
+      "shortName": "PED",
+      "cities": [
+        {
+          "id": 108972,
+          "name": "Debe",
+          "latlng": [
+            10.20846,
+            -61.45273
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108979,
+          "name": "Peñal",
+          "latlng": [
+            10.16667,
+            -61.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3360,
+      "name": "Point Fortin",
+      "code": "PTF",
+      "shortName": "PTF",
+      "cities": [
+        {
+          "id": 108980,
+          "name": "Point Fortin",
+          "latlng": [
+            10.17411,
+            -61.68407
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3363,
+      "name": "Port of Spain",
+      "code": "POS",
+      "shortName": "POS",
+      "cities": [
+        {
+          "id": 108976,
+          "name": "Mucurapo",
+          "latlng": [
+            10.66253,
+            -61.53697
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108981,
+          "name": "Port of Spain",
+          "latlng": [
+            10.66668,
+            -61.51889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3368,
+      "name": "Princes Town",
+      "code": "PRT",
+      "shortName": "PRT",
+      "cities": [
+        {
+          "id": 108982,
+          "name": "Princes Town",
+          "latlng": [
+            10.27184,
+            -61.37103
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3356,
+      "name": "Rio Claro-Mayaro",
+      "code": "MRC",
+      "shortName": "MRC",
+      "cities": []
+    },
+    {
+      "id": 3359,
+      "name": "San Fernando",
+      "code": "SFO",
+      "shortName": "SFO",
+      "cities": [
+        {
+          "id": 108974,
+          "name": "Marabella",
+          "latlng": [
+            10.30618,
+            -61.44671
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108975,
+          "name": "Mon Repos",
+          "latlng": [
+            10.27979,
+            -61.4459
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108984,
+          "name": "San Fernando",
+          "latlng": [
+            10.27969,
+            -61.46835
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3357,
+      "name": "San Juan-Laventille",
+      "code": "SJL",
+      "shortName": "SJL",
+      "cities": [
+        {
+          "id": 108973,
+          "name": "Laventille",
+          "latlng": [
+            10.64917,
+            -61.49889
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3361,
+      "name": "Sangre Grande",
+      "code": "SGE",
+      "shortName": "SGE",
+      "cities": [
+        {
+          "id": 108985,
+          "name": "Sangre Grande",
+          "latlng": [
+            10.58705,
+            -61.13008
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3364,
+      "name": "Siparia",
+      "code": "SIP",
+      "shortName": "SIP",
+      "cities": [
+        {
+          "id": 108987,
+          "name": "Siparia",
+          "latlng": [
+            10.14525,
+            -61.5074
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108992,
+          "name": "Ward of Siparia",
+          "latlng": [
+            10.15,
+            -61.46667
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3358,
+      "name": "Tunapuna-Piarco",
+      "code": "TUP",
+      "shortName": "TUP",
+      "cities": [
+        {
+          "id": 108969,
+          "name": "Arouca",
+          "latlng": [
+            10.62877,
+            -61.33487
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108977,
+          "name": "Paradise",
+          "latlng": [
+            10.65298,
+            -61.36298
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        },
+        {
+          "id": 108989,
+          "name": "Tunapuna",
+          "latlng": [
+            10.65245,
+            -61.38878
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    },
+    {
+      "id": 3353,
+      "name": "Western Tobago",
+      "code": "WTO",
+      "shortName": "WTO",
+      "cities": [
+        {
+          "id": 108983,
+          "name": "Rio Claro",
+          "latlng": [
+            10.30594,
+            -61.17556
+          ],
+          "population": null,
+          "districts": [],
+          "suburbs": []
+        }
+      ]
+    }
+  ]
+}
