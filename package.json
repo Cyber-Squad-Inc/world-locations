@@ -1,6 +1,6 @@
 {
   "name": "@cyber_squad_inc/world-locations",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Offline world dataset (countries, states, cities) with flags, phone codes, and ISO codes — maintained by Cyber Squad Inc.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
