@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
+  "sideEffects": false,
   "exports": {
     ".": {
       "import": "./dist/index.js",
@@ -13,7 +14,8 @@
   },
   "files": [
     "dist/",
-    "out/world-locations.full.json.gz"
+    "LICENSE",
+    "README.md"
   ],
   "keywords": [
     "world",
@@ -37,26 +39,30 @@
   },
   "homepage": "https://github.com/Cyber-Squad-Inc/world-locations#readme",
   "scripts": {
-    "build": "tsc",
+    "clean": "rm -rf dist out src/*.json.gz",
+    "embed": "node scripts/embed-data.js",
+    "build": "tsup",
     "build:full": "node src/build-world-locations.js",
     "merge": "node src/merge.js",
     "validate": "node --loader ts-node/esm src/validate.ts",
-    "build:data": "npm run build:full && npm run merge",
-    "prepublishOnly": "npm run build:data && npm run build && rm -rf out/countries"
+    "build:data": "npm run clean && npm run build:full && npm run merge && npm run embed",
+    "prepublishOnly": "npm run build:data && npm run build"
   },
   "dependencies": {
-    "axios": "^1.7.4",
-    "cli-progress": "^3.12.0",
-    "dotenv": "^16.4.5",
-    "p-queue": "^7.4.1",
-    "zod": "^3.23.8"
+    "fflate": "^0.8.2"
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.7",
     "@types/node": "^24.8.0",
+    "axios": "^1.7.4",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.5",
     "gzipper": "^8.2.1",
+    "p-queue": "^7.4.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3",
+    "zod": "^3.23.8"
   },
   "publishConfig": {
     "access": "public"

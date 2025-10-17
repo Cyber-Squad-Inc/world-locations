@@ -1,95 +1,38 @@
-import * as fs from "fs";
-import * as path from "path";
-import * as zlib from "zlib";
-import { fileURLToPath } from "url";
+import { embeddedDataBase64 } from "./embedded-data.js";
+import { gunzipSync } from "fflate";
+import type { Country, State, City, CountrySummary, Timezone, WorldData } from "./types.js";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataPath = path.resolve(__dirname, "../out/world-locations.full.json.gz");
+let cache: { dataVersion: string; countries: Country[] } | null = null;
 
-export interface City {
-    id?: number;
-    name: string;
-    latlng?: [number, number];
-    population?: number | null;
-    districts?: string[];
-    suburbs?: string[];
-}
-
-export interface State {
-    id?: number;
-    name: string;
-    code?: string | null;
-    shortName?: string | null;
-    cities: City[];
-}
-
-export interface Timezone {
-    zoneName: string;
-    gmtOffset: number;
-    gmtOffsetName: string;
-    abbreviation: string;
-    tzName: string;
-}
-
-export interface Country {
-    name: {
-        common: string;
-        official?: string;
-    };
-    iso2: string;
-    iso3?: string;
-    numericCode?: string;
-    region?: string;
-    subregion?: string;
-    tld?: string;
-    phoneCode?: string;
-    capital?: string;
-    currencies?: Record<string, string>;
-    timezones?: Timezone[];
-    flagRect?: string;
-    flagRound?: string;
-    states: State[];
-}
-
-export interface CountrySummary {
-    name: string;
-    officialName?: string;
-    iso2: string;
-    iso3?: string;
-    numericCode?: string;
-    phoneCode?: string;
-    flag?: string;
-    flagRound?: string;
-    capital?: string;
-    region?: string;
-    subregion?: string;
-    tld?: string;
-    currencies?: Record<string, string>;
-    timezones?: Timezone[];
-}
-
-export interface WorldData {
-    dataVersion: string;
-    countries: Country[];
-}
-
-let cache: WorldData | null = null;
-
-function readData(): WorldData {
-    if (!cache) {
-        const buffer = fs.readFileSync(dataPath);
-        const json = zlib.gunzipSync(buffer).toString("utf-8");
-        cache = JSON.parse(json) as WorldData;
+function toUint8FromBase64(b64: string): Uint8Array {
+    // Node.js
+    if (typeof Buffer !== "undefined") {
+        return new Uint8Array(Buffer.from(b64, "base64"));
     }
-    return cache;
+    // Browser
+    const binary = atob(b64);
+    const arr = new Uint8Array(binary.length);
+    for (let i = 0; i < binary.length; i++) arr[i] = binary.charCodeAt(i);
+    return arr;
 }
+
+function loadEmbeddedData(): { dataVersion: string; countries: Country[] } {
+    if (!cache) {
+        const binary = toUint8FromBase64(embeddedDataBase64);
+        const json = new TextDecoder("utf-8").decode(gunzipSync(binary));
+        cache = JSON.parse(json);
+    }
+    return cache!;
+}
+
+// --- Public API ---
 
 /**
  * Get the data version of the world locations dataset
  * @returns ISO date string of when the data was generated
  */
 export function getDataVersion(): string {
-    return readData().dataVersion;
+    return loadEmbeddedData().dataVersion;
 }
 
 /**
@@ -97,22 +40,22 @@ export function getDataVersion(): string {
  * @returns Array of country objects with basic info
  */
 export function getCountries(): CountrySummary[] {
-    const world = readData();
-    return world.countries.map(data => ({
-        name: data.name.common,
-        officialName: data.name.official,
-        iso2: data.iso2,
-        iso3: data.iso3,
-        numericCode: data.numericCode,
-        phoneCode: data.phoneCode,
-        flag: data.flagRect,
-        flagRound: data.flagRound,
-        capital: data.capital,
-        region: data.region,
-        subregion: data.subregion,
-        tld: data.tld,
-        currencies: data.currencies,
-        timezones: data.timezones
+    const data = loadEmbeddedData();
+    return data.countries.map(c => ({
+        name: c.name.common,
+        officialName: c.name.official,
+        iso2: c.iso2,
+        iso3: c.iso3,
+        numericCode: c.numericCode,
+        phoneCode: c.phoneCode,
+        flag: c.flagRect,
+        flagRound: c.flagRound,
+        capital: c.capital,
+        region: c.region,
+        subregion: c.subregion,
+        tld: c.tld,
+        currencies: c.currencies,
+        timezones: c.timezones
     }));
 }
 
@@ -121,17 +64,9 @@ export function getCountries(): CountrySummary[] {
  * @param iso2 - Two-letter country code (e.g., 'US', 'BD')
  * @returns Complete country object with states and cities
  */
-export function getCountry(iso2: string): Country {
-    const world = readData();
-    const country = world.countries.find(
-        c => c.iso2.toUpperCase() === iso2.toUpperCase()
-    );
-    
-    if (!country) {
-        throw new Error(`Country ${iso2} not found`);
-    }
-    
-    return country;
+export function getCountry(iso2: string): Country | undefined {
+    const data = loadEmbeddedData();
+    return data.countries.find(c => c.iso2.toUpperCase() === iso2.toUpperCase());
 }
 
 /**
@@ -141,7 +76,7 @@ export function getCountry(iso2: string): Country {
  */
 export function getStates(iso2: string): State[] {
     const country = getCountry(iso2);
-    return country.states || [];
+    return country?.states || [];
 }
 
 /**
@@ -152,10 +87,10 @@ export function getStates(iso2: string): State[] {
  */
 export function getCities(iso2: string, stateName: string): City[] {
     const country = getCountry(iso2);
-    const state = country.states?.find(
+    const state = country?.states?.find(
         s => s.name.trim().toLowerCase() === stateName.trim().toLowerCase()
     );
-    return state ? state.cities : [];
+    return state?.cities || [];
 }
 
 /**
@@ -197,6 +132,9 @@ export function getCountriesBySubregion(subregion: string): CountrySummary[] {
         country.subregion && country.subregion.toLowerCase() === subregion.toLowerCase()
     );
 }
+
+// Re-export types for convenience
+export type { Country, State, City, CountrySummary, Timezone, WorldData } from "./types.js";
 
 // Default export with all functions
 export default {
