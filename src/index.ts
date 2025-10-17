@@ -37,7 +37,7 @@ export function getDataVersion(): string {
 
 /**
  * Get a lightweight list of all countries
- * @returns Array of country objects with basic info
+ * @returns Array of country objects with basic info, sorted alphabetically by name
  */
 export function getCountries(): CountrySummary[] {
     const data = loadEmbeddedData();
@@ -56,7 +56,7 @@ export function getCountries(): CountrySummary[] {
         tld: c.tld,
         currencies: c.currencies,
         timezones: c.timezones
-    }));
+    })).sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 }
 
 /**
@@ -82,14 +82,40 @@ export function getStates(iso2: string): State[] {
 /**
  * Get cities for a specific state in a country
  * @param iso2 - Two-letter country code
- * @param stateName - Name of the state/province
+ * @param stateName - Name, code, or short name of the state/province (supports partial matches)
  * @returns Array of city objects
  */
 export function getCities(iso2: string, stateName: string): City[] {
     const country = getCountry(iso2);
-    const state = country?.states?.find(
-        s => s.name.trim().toLowerCase() === stateName.trim().toLowerCase()
-    );
+    if (!country?.states) return [];
+
+    // Normalize the input by trimming and converting to lowercase
+    const normalizedInput = stateName.trim().toLowerCase();
+
+    // Find state by matching name, code, or shortName with partial support
+    // Priority: exact matches first, then partial matches
+    const state = country.states.find(s => {
+        const normalizedName = s.name?.trim().toLowerCase() || "";
+        const normalizedCode = s.code?.trim().toLowerCase() || "";
+        const normalizedShortName = s.shortName?.trim().toLowerCase() || "";
+
+        // Exact matches (highest priority)
+        if (normalizedName === normalizedInput ||
+            normalizedCode === normalizedInput ||
+            normalizedShortName === normalizedInput) {
+            return true;
+        }
+
+        // Partial matches (lower priority) - only for longer inputs to avoid false positives
+        if (normalizedInput.length >= 3) {
+            return normalizedName.includes(normalizedInput) ||
+                normalizedCode.includes(normalizedInput) ||
+                normalizedShortName.includes(normalizedInput);
+        }
+
+        return false;
+    });
+
     return state?.cities || [];
 }
 
