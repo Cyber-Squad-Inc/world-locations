@@ -2,17 +2,16 @@
   "name": "@cyber_squad_inc/world-locations",
   "version": "1.1.0",
   "description": "Offline world dataset (countries, states, cities) with flags, phone codes, and ISO codes — maintained by Cyber Squad Inc.",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
   "exports": {
     ".": {
-      "import": "./src/index.ts",
+      "import": "./dist/index.js",
       "types": "./dist/index.d.ts"
     }
   },
   "files": [
-    "src/",
     "dist/",
     "out/world-locations.full.json.gz"
   ],
@@ -38,12 +37,12 @@
   },
   "homepage": "https://github.com/Cyber-Squad-Inc/world-locations#readme",
   "scripts": {
+    "build": "tsc",
     "build:full": "node src/build-world-locations.js",
     "merge": "node src/merge.js",
     "validate": "node --loader ts-node/esm src/validate.ts",
-    "start": "npm run build:full && npm run merge",
-    "build:types": "tsc",
-    "prepublishOnly": "npm run start && npm run build:types && rm -rf out/countries"
+    "build:data": "npm run build:full && npm run merge",
+    "prepublishOnly": "npm run build:data && npm run build && rm -rf out/countries"
   },
   "dependencies": {
     "axios": "^1.7.4",
