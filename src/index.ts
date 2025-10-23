@@ -42,7 +42,7 @@ export function getDataVersion(): string {
 export function getCountries(): CountrySummary[] {
     const data = loadEmbeddedData();
     return data.countries.map(c => ({
-        name: c.name.common,
+        name: c.name.official || c.name.common,
         officialName: c.name.official,
         iso2: c.iso2,
         iso3: c.iso3,
@@ -70,23 +70,63 @@ export function getCountry(iso2: string): Country | undefined {
 }
 
 /**
+ * Find country by multiple identifiers (name, ISO2, ISO3)
+ * @param identifier - Country name (common/official), ISO2, or ISO3 code
+ * @returns Complete country object with states and cities
+ */
+export function findCountry(identifier: string): Country | undefined {
+    const data = loadEmbeddedData();
+    const normalizedInput = identifier.trim().toLowerCase();
+
+    // First pass: exact matches only
+    let exactMatch = data.countries.find(c => {
+        const commonName = c.name.common?.toLowerCase() || "";
+        const officialName = c.name.official?.toLowerCase() || "";
+        const iso2 = c.iso2?.toLowerCase() || "";
+        const iso3 = c.iso3?.toLowerCase() || "";
+
+        return commonName === normalizedInput ||
+            officialName === normalizedInput ||
+            iso2 === normalizedInput ||
+            iso3 === normalizedInput;
+    });
+
+    if (exactMatch) {
+        return exactMatch;
+    }
+
+    // Second pass: partial matches for names only (if input is long enough)
+    if (normalizedInput.length >= 3) {
+        return data.countries.find(c => {
+            const commonName = c.name.common?.toLowerCase() || "";
+            const officialName = c.name.official?.toLowerCase() || "";
+
+            return commonName.includes(normalizedInput) ||
+                officialName.includes(normalizedInput);
+        });
+    }
+
+    return undefined;
+}
+
+/**
  * Get states/provinces for a specific country
- * @param iso2 - Two-letter country code
+ * @param countryIdentifier - Country name (common/official), ISO2, or ISO3 code
  * @returns Array of state objects
  */
-export function getStates(iso2: string): State[] {
-    const country = getCountry(iso2);
+export function getStates(countryIdentifier: string): State[] {
+    const country = findCountry(countryIdentifier);
     return country?.states || [];
 }
 
 /**
  * Get cities for a specific state in a country
- * @param iso2 - Two-letter country code
+ * @param countryIdentifier - Country name (common/official), ISO2, or ISO3 code
  * @param stateName - Name, code, or short name of the state/province (supports partial matches)
  * @returns Array of city objects
  */
-export function getCities(iso2: string, stateName: string): City[] {
-    const country = getCountry(iso2);
+export function getCities(countryIdentifier: string, stateName: string): City[] {
+    const country = findCountry(countryIdentifier);
     if (!country?.states) return [];
 
     // Normalize the input by trimming and converting to lowercase
@@ -167,6 +207,7 @@ export default {
     getDataVersion,
     getCountries,
     getCountry,
+    findCountry,
     getStates,
     getCities,
     searchCountries,
